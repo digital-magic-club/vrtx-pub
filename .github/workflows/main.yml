@@ -1,0 +1,77 @@
+name: PR Validation
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+    branches: [ master ]
+
+jobs:
+  run-verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Backend repository
+        uses: actions/checkout@v3
+        with:
+          repository: digital-magic-club/vrtx-backend
+          token: ${{ secrets.VRTX_CI_TOKEN }}
+          ref: master
+          path: backend
+
+      - name: Checkout master branch
+        uses: actions/checkout@v3
+        with:
+          ref: master
+          path: master
+
+      - name: Checkout PR branch
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: pr_repo
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r "$GITHUB_WORKSPACE/backend/functions/dictionaries/requirements.txt"
+
+      - name: Run validation script on Master branch
+        run: |
+          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/verify.py" "$GITHUB_WORKSPACE/master/dictionaries" > master_output.txt
+          grep "Final total sum of incomplete positions" master_output.txt | awk '{print $NF}' > master_count.txt
+          echo "MASTER_COUNT=$(cat master_count.txt)" >> $GITHUB_ENV
+
+      - name: Run validation script on PR branch
+        run: |
+          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/verify.py" "$GITHUB_WORKSPACE/pr_repo/dictionaries" > pr_output.txt
+          grep "Final total sum of incomplete positions" pr_output.txt | awk '{print $NF}' > pr_count.txt
+          echo "PR_COUNT=$(cat pr_count.txt)" >> $GITHUB_ENV
+
+      - name: Compare Incomplete Positions
+        run: |
+          MASTER_COUNT=${MASTER_COUNT:-0}
+          PR_COUNT=${PR_COUNT:-0}
+
+          echo "Master branch incomplete positions: $MASTER_COUNT"
+          echo "PR branch incomplete positions: $PR_COUNT"
+
+          if [[ "$PR_COUNT" -gt "$MASTER_COUNT" ]]; then
+            INCREASED_BY=$((PR_COUNT - MASTER_COUNT))
+            echo "❌ ERROR: The number of incomplete positions has increased by +$INCREASED_BY!"
+            echo "  - Master: $MASTER_COUNT"
+            echo "  - PR: $PR_COUNT"
+            echo "This pull request is supposed to **reduce** incomplete positions, but it has increased them instead."
+            exit 1
+          else
+            echo "✅ Check passed! The number of incomplete positions has not increased."
+          fi
+
+      - name: Fail PR if script fails
+        if: failure()
+        run: exit 1
