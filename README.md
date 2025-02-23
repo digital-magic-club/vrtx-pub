@@ -18,9 +18,12 @@ You can:
 
 ## 📖 Contributing to Open-Source Dictionaries  
 
-You can also contribute to improving [VRTX’s dictionaries](https://github.com/digital-magic-club/vrtx-pub/tree/master/dictionaries)! Simply follow the steps below to propose changes.  
+You can also contribute to improving [VRTX’s dictionaries](https://github.com/digital-magic-club/vrtx-pub/tree/master/dictionaries)! Simply follow the steps below to propose changes.
 
-All contributions will be **reviewed by our team** before being integrated into the VRTX app.  
+All contributions will be **reviewed by our team** before being integrated into the VRTX app.
+
+You can find all our dictionaries current status [here](https://github.com/digital-magic-club/vrtx-pub/blob/master/dictionaries/Dictionaries.md).
+At the moment, we are showing a ⚠️ warning for each position's letter not providing a **minimum of 3 words**.
 
 ### How to Edit a Dictionary  
 
