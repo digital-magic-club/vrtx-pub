@@ -1,6 +1,15 @@
 aardvark!
 aardwolf!
+abalone!
 addax!
+adder!
+addra gazelle!
+affenpinscher!
+afghan hound!
+african elephant!
+agouti!
+ajaja!
+ajolote!
 ajonc!
 akita!
 albatross
@@ -13,13 +22,20 @@ anglerfish!
 anteater!
 antelope
 aphid!
+aphis!
 armadillo!
+ascaris!
+avocet!
+axolotl
+azawakh!
 azurin!
 babirusa!
 baboon
 badger
 baiji!
 bandicoot!
+bandog!
+banjo catfish!
 banteng!
 barnacle!
 barracuda
@@ -31,10 +47,12 @@ binturong!
 bison
 blackbird
 blowfish
+bluejay!
 bobcat
 bongo!
 bonito!
 booby!
+box crab!
 budgie!
 buffalo
 bulldog
@@ -66,12 +84,15 @@ chipmunk
 chough!
 civet!
 coati!
+coatimundi!
 cobra
 cockatiel!
 cockatoo!
 collie!
 colobus!
 condor
+coquette!
+coquí!
 coquina!
 coral!
 corgi!
@@ -89,8 +110,10 @@ darter!
 dassie!
 dhole!
 dibbler!
+dikdik!
 dingo!
 dinosaur
+djungarian hamster!
 dogfish
 dolphin
 donkey
@@ -105,17 +128,24 @@ eagle
 earthworm
 echidna!
 effraie!
+egg-eating snake!
 egret!
 elephant
+ephemera!
 ermine!
+exocoetidae!
 falcon
+fanjingshania!
 fennec
 ferret!
 finch!
 firefly
+fjord horse!
 flamingo
 fossa!
+fox
 galago!
+gallimimus!
 gannet!
 gazelle
 gecko!
@@ -154,6 +184,8 @@ ibis!
 iguana
 impala
 indri!
+island fox!
+ivory gull!
 jacana!
 jackal!
 jackdaw!
@@ -162,6 +194,7 @@ jaguar
 javelin!
 jellyfish
 jerboa!
+kajika frog!
 kakapo!
 kangaroo
 kasarka!
@@ -208,6 +241,7 @@ mastodon!
 meerkat!
 minnow!
 mockingbird
+mojarra!
 molly!
 mongoose!
 mongoz!
@@ -216,9 +250,11 @@ monkfish!
 moorhen!
 moose!
 mosquito
+mosquitofish!
 mouflon!
 mouse
 muntjac!
+muntjak!
 murrelet!
 muscovy!
 muskox!
@@ -232,6 +268,7 @@ ocelot!
 octopus
 okapi!
 olingo!
+onyx!
 opossum
 orangutan
 oriole!
@@ -240,11 +277,17 @@ osprey!
 ostrich
 otter
 ovenbird!
+ovibos!
+owl
 ox!
+oxpecker!
 oyster
+ozark cavefish!
+ozelot!
 pacat!
 paddybird!
 pademelon!
+pajama cardinalfish!
 pajero!
 panda
 pangolin
@@ -264,9 +307,12 @@ phalarope!
 pheasant!
 phoebe!
 pigeon
+pikachu!
+pike!
 pintail!
 pipit!
 piranha
+pizzly bear!
 platypus!
 polecat!
 porcupine!
@@ -286,9 +332,11 @@ raccoon
 ragfish!
 ratel!
 raven!
+rebuck!
 redpoll!
 redstart!
 reindeer
+rhebok!
 rhino
 ringtail!
 roadrunner!
@@ -325,6 +373,9 @@ solenodon!
 sparrow!
 spider
 spoonbill!
+springbok!
+springer!
+squab!
 squid
 squirrel
 starfish
@@ -348,6 +399,7 @@ termite
 thrasher!
 thrush!
 tiger
+torquigener!
 tortoise!
 toucan
 treeshrew!
@@ -367,6 +419,7 @@ vinegaroon!
 viper
 vireo!
 viscacha!
+vixen!
 vulture!
 wagtail!
 wallaby
@@ -390,9 +443,13 @@ woodcock!
 woodpecker
 wrasse!
 wryneck!
+x-ray tetra!
 xenops!
 xerus!
 yabby!
+yak!
 yapok!
 yellowhammer!
 zebra
+zebu
+zorilla!
