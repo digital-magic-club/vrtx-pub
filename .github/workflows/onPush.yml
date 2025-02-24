@@ -1,4 +1,4 @@
-name: Upload dictionaries
+name: Push fast-follow
 
 on:
   push:
@@ -6,8 +6,8 @@ on:
       - master
 
 jobs:
-  update-dictionaries:
-    name: Run latotale.py & Commit Changes
+  upload-dictionaries:
+    name:
     runs-on: ubuntu-latest
 
     steps:
@@ -35,11 +35,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r "$GITHUB_WORKSPACE/backend/functions/dictionaries/requirements.txt"
 
-      - name: Run latotale.py on merged dictionaries
+      - name: Run upload dictionaries script
         run: |
           python "$GITHUB_WORKSPACE/backend/functions/dictionaries/latotale.py" "$GITHUB_WORKSPACE/master/dictionaries" "$GITHUB_WORKSPACE/master/dictionaries/Dictionaries.md"
 
-      - name: Check for Changes
+      - name: Check for changes
         run: |
           cd "$GITHUB_WORKSPACE/master"
           git status
@@ -49,7 +49,7 @@ jobs:
             echo "CHANGES_DETECTED=false" >> $GITHUB_ENV
           fi
 
-      - name: Commit and Push Changes
+      - name: Commit and push Changes
         if: env.CHANGES_DETECTED == 'true'
         run: |
           cd "$GITHUB_WORKSPACE/master"
@@ -59,6 +59,6 @@ jobs:
           git commit -m "Upload dictionaries"
           git push origin master
 
-      - name: No Changes to Commit
+      - name: No changes to commit
         if: env.CHANGES_DETECTED == 'false'
         run: echo "No updates were made to dictionaries."
