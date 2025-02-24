@@ -1,9 +1,13 @@
 abacus!
 accordion!
+adaptor
+afghan!
 aftershave
 ajax!
+ajuga!
 alarm
 album
+amberjack!
 anchor!
 antiquark!
 anvil!
@@ -34,6 +38,7 @@ blazer!
 block!
 board!
 boat
+bohrium!
 book
 bootjack!
 bottle
@@ -83,12 +88,14 @@ cup!
 cupcake
 curtain
 cushion!
+cutoffs!
 deck
 desk
 diamond
 diary
 dictionary
 dishes
+disjecta!
 door
 drain!
 drawer!
@@ -97,8 +104,11 @@ drill
 drum
 dryer!
 dummy!
+earmuff!
 easel!
+ebike!
 edifice!
+eggnog!
 eggplant!
 engine!
 envelope
@@ -144,6 +154,7 @@ horn!
 hose!
 houseboat!
 igloo!
+inkwell!
 iron
 jar!
 jeans
@@ -167,6 +178,7 @@ machine!
 magnet
 magnifier!
 mailbox
+majolica!
 makeup
 map
 marquee!
@@ -178,6 +190,7 @@ meter
 minibus!
 mirror
 mixer
+mohair!
 monitor
 mop!
 motor!
@@ -189,6 +202,8 @@ necklace
 needle
 net!
 notebook!
+oddity!
+office!
 onyx!
 organ!
 ornament
@@ -224,6 +239,7 @@ printer
 projector!
 pulley!
 pump
+pumpjack!
 purse
 puzzle
 quill
@@ -247,10 +263,13 @@ safe
 sail!
 scale
 scanner
+scarab!
+scarf
 screen
 screw
 scroll!
 seat
+shelf
 shield
 ship
 shirt
@@ -300,6 +319,7 @@ tile!
 timer!
 tin!
 tire
+toffee!
 token!
 tongs!
 tool!
