@@ -37,7 +37,7 @@ jobs:
 
       - name: Run latotale.py on merged dictionaries
         run: |
-          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/latotale.py" "$GITHUB_WORKSPACE/master/dictionaries/Dictionaries.md"
+          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/latotale.py" "$GITHUB_WORKSPACE/master/dictionaries" "$GITHUB_WORKSPACE/master/dictionaries/Dictionaries.md"
 
       - name: Check for Changes
         run: |
