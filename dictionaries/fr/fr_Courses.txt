@@ -94,6 +94,7 @@ cirage!
 cisaille!
 ciseaux
 citrons
+clou de girofle!
 clous
 cognac!
 colle
@@ -169,7 +170,6 @@ gelee!
 genoise
 gewurztraminer!
 gingembre!
-clou de girofle!
 glace
 glucose!
 gnocchis

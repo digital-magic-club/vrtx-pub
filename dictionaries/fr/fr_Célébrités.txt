@@ -67,6 +67,8 @@ Cyprien
 Cyril Gane
 Cyril Hanouna!
 Cyril Lignac
+DJ Khaled
+DJ Snake
 Dalaï Lama
 Dalida
 Damso!
@@ -84,8 +86,6 @@ De Tonquedec Guillaume!
 Denzel Washington
 Diams
 Diana Ross
-DJ Khaled
-DJ Snake
 Doc Gynéco
 Dorothée!
 Dr Dre
@@ -167,6 +167,7 @@ Isabelle Adjani
 Isabelle Huppert
 Issa Doumbia
 Izia Higelin!
+JJ Abrahms!
 Jack Black
 Jack Lang
 Jacques Brel
@@ -186,7 +187,6 @@ Jeff Bezos
 Jenifer!
 Jet Li
 Jim Carey
-JJ Abrahms!
 Joan Baez!
 Joe Biden!
 Joe Dassin
@@ -285,7 +285,7 @@ Megan Fox
 Mel Gibson
 Messmer
 Michael Jordan
-MIKA
+Mika
 Mike Horn
 Mike Myers
 Mike Tyson
@@ -359,10 +359,10 @@ Ruquier Laurent!
 Russel Crowe
 Ryan Gosling
 Ryan Reynolds
+SCH!
 Sam Mendes!
 Sam Smith
 Sarkozy Nicolas!
-SCH!
 Sean Astin!
 Sean Penn
 Serge Lama
@@ -448,7 +448,6 @@ Woody Allen
 Xavier Bertrand
 Xavier Dolan!
 Xi Jinping!
-XXXTentacion!
 Xzibit
 Yann Barthès
 Yann Moix
