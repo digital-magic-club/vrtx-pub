@@ -105,6 +105,8 @@ Clint Eastwood!
 Colin Firth!
 Condoleezza Rice!
 Confucius
+DJ Khaled
+DJ Snake!
 Daisy Ridley!
 Dan Aykroyd!
 Daniel Craig
@@ -115,8 +117,6 @@ Dave Grohl
 David Bowie
 Diego Rivera
 Diego Velázquez!
-DJ Khaled
-DJ Snake!
 Django Reinhardt!
 Dmitri Shostakovich!
 Dolly Parton!
@@ -170,7 +170,7 @@ Frank Sinatra!
 Franklin D. Roosevelt!
 Franz Schubert!
 Freddie Mercury!
-Frédéric Chopin!
+Frederic Chopin!
 Frida Kahlo
 Friedrich Nietzsche!
 Fyodor Dostoevsky!
@@ -304,7 +304,7 @@ Lena Headey!
 Lennox Annie!
 Leo Tolstoy!
 Leonardo Bernstein!
-Leonardo da Vinci!
+Leonardo Da Vinci!
 Leonardo DiCaprio
 Letitia Wright!
 Lewis Hamilton!
@@ -313,8 +313,8 @@ Liv Tyler
 Louisa May Alcott!
 Luciano Pavarotti!
 Ludwig van Beethoven!
-Lupita Nyong'o!
 Luis Suarez!
+Lupita Nyong'o!
 Madonna
 Mahatma Gandhi!
 Mahershala Ali!
@@ -499,7 +499,6 @@ Wolfgang Amadeus Mozart!
 Wolfgang Puck!
 Wright Brothers!
 Xi Jinping!
-XXXTentacion!
 Xzibit!
 Yuri Gagarin!
 Zac Efron!

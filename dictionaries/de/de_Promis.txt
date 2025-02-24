@@ -106,6 +106,8 @@ Clint Eastwood
 Colin Firth
 Condoleezza Rice
 Confucius
+DJ Khaled
+DJ Snake
 Daisy Ridley
 Dan Aykroyd
 Daniel Craig
@@ -116,8 +118,6 @@ Dave Grohl
 David Bowie
 Diego Rivera
 Diego Velázquez
-DJ Khaled
-DJ Snake
 Django Reinhardt
 Dmitri Shostakovich
 Dolly Parton
@@ -306,7 +306,7 @@ Lena Headey
 Lennox Annie
 Leo Tolstoy
 Leonardo Bernstein
-Leonardo da Vinci
+Leonardo Da Vinci
 Leonardo DiCaprio
 Letitia Wright
 Lewis Hamilton
@@ -504,7 +504,6 @@ Wolfgang Amadeus Mozart
 Wolfgang Puck
 Wright Brothers
 Xi Jinping
-XXXTentacion
 Xzibit
 Yuri Gagarin
 Zac Efron
