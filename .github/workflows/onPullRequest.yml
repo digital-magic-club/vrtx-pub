@@ -1,4 +1,4 @@
-name: PR Validation
+name: Pull request validations
 
 on:
   pull_request_target:
