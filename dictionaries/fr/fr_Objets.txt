@@ -1,4 +1,5 @@
 abattant!
+abri
 accordeon!
 accoudoir!
 additif
@@ -6,6 +7,7 @@ adhesif
 aerateur
 aerosol
 affiche
+affûteur!
 agenda
 agrafeuse
 aiguille
@@ -121,6 +123,7 @@ carabine!
 carafe
 caramel
 carnet
+cartable
 carte
 carton
 casier!
@@ -130,6 +133,7 @@ casserolle
 ceinture
 cendrier
 cerceau
+certificat!
 chaine!
 chaise
 chalumeau!
@@ -212,6 +216,7 @@ echelle
 ecran
 ecrou!
 ecusson!
+effaceur
 elastique
 embout!
 entonnoir
@@ -240,6 +245,7 @@ filet!
 film!
 filtre
 fixation!
+fjord!
 flacon!
 flèche!
 flexible!
@@ -277,6 +283,8 @@ harpe!
 helice!
 horloge
 housse
+igloo
+imprimante
 index!
 infuseur!
 jarre!
@@ -284,6 +292,7 @@ jeton!
 journal
 jumelles
 jupe
+justificatif!
 kakis
 kayak!
 kiwi
@@ -325,6 +334,7 @@ medaille!
 metre
 meuble
 micro!
+minijack
 minijupe
 miroir
 montre
@@ -345,6 +355,7 @@ niveau!
 notebook!
 notice!
 objectif!
+odometre!
 oeillet!
 ordinateur
 oreiller
@@ -398,6 +409,7 @@ poker!
 pommeau!
 pompe!
 ponceuse
+portable
 porte!
 portiere!
 poster!
@@ -467,6 +479,7 @@ ski!
 slip
 snowboard!
 socle!
+soja!
 sommier!
 sonde!
 sonnette
