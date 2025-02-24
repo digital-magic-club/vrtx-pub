@@ -9,8 +9,6 @@ Agatha Christie
 Akira Kurosawa
 Akon
 Akshay Kumar
-Al Gore
-Al Pacino
 Alan Turing
 Albert Einstein
 Alessandro Volta
@@ -19,6 +17,8 @@ Alexander Hamilton
 Alexander the Great
 Alfred Hitchcock
 Alfred Nobel
+Al Gore
+Al Pacino
 Amerigo Vespucci
 Amy Adams
 Amy Poehler
@@ -45,15 +45,15 @@ Attila the Hun
 Audrey Hepburn
 Barack Obama
 Ben Affleck
-Ben Stiller
 Benedict Cumberbatch
 Benjamin Franklin
+Ben Stiller
 Bette Davis
 Beyoncé
 Bill Clinton
 Bill Gates
-Bill Murray
 Billie Eilish
+Bill Murray
 Billy Boyd
 Billy Dee Williams
 Billy Joel
@@ -61,8 +61,8 @@ Blake Lively
 Blake Shelton
 Bob Dylan
 Botticelli
-Brad Pitt
 Bradley Cooper
+Brad Pitt
 Brigitte Bardot
 Bruce Springsteen
 Bruno Mars

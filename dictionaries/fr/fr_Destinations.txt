@@ -88,8 +88,8 @@ Grenade
 Grigny!
 Guatemala
 Guinee
-Guinee Equatoriale!
 Guinee-Bissau!
+Guinee Equatoriale!
 Guyana
 Haïti
 Honduras
@@ -182,10 +182,10 @@ Roumanie
 Royaume-Uni
 Russie
 Rwanda
+Sainte-Lucie!
 Saint-Kitts-Et-Nevis!
 Saint-Marin!
 Saint-Vincent-Et-Les-Grenadines!
-Sainte-Lucie!
 Salvador
 Samoa!
 São
