@@ -6,7 +6,7 @@ on:
     branches: [ master ]
 
 jobs:
-  run-verify:
+  check-incomplete-positions:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Backend repository
@@ -43,13 +43,13 @@ jobs:
 
       - name: Run validation script on Master branch
         run: |
-          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/verify.py" "$GITHUB_WORKSPACE/master/dictionaries" > master_output.txt
+          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/check_incomplete_positions.py" "$GITHUB_WORKSPACE/master/dictionaries" > master_output.txt
           grep "Final total sum of incomplete positions" master_output.txt | awk '{print $NF}' > master_count.txt
           echo "MASTER_COUNT=$(cat master_count.txt)" >> $GITHUB_ENV
 
       - name: Run validation script on PR branch
         run: |
-          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/verify.py" "$GITHUB_WORKSPACE/pr_repo/dictionaries" > pr_output.txt
+          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/check_incomplete_positions.py" "$GITHUB_WORKSPACE/pr_repo/dictionaries" > pr_output.txt
           grep "Final total sum of incomplete positions" pr_output.txt | awk '{print $NF}' > pr_count.txt
           echo "PR_COUNT=$(cat pr_count.txt)" >> $GITHUB_ENV
 
@@ -71,6 +71,49 @@ jobs:
           else
             echo "✅ Check passed! The number of incomplete positions has not increased."
           fi
+
+      - name: Fail PR if script fails
+        if: failure()
+        run: exit 1
+
+  check-alphabetic-sorting:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Backend repository
+        uses: actions/checkout@v3
+        with:
+          repository: digital-magic-club/vrtx-backend
+          token: ${{ secrets.VRTX_CI_TOKEN }}
+          ref: master
+          path: backend
+
+      - name: Checkout PR branch
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: pr_repo
+
+      - name: Set up locales
+        run: |
+          sudo locale-gen fr_FR.UTF-8
+          sudo locale-gen de_DE.UTF-8
+          sudo dpkg-reconfigure locales
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r "$GITHUB_WORKSPACE/backend/functions/dictionaries/requirements.txt"
+
+      - name: Run validation script
+        run: |
+          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/check_alphabetic_sorting.py" "$GITHUB_WORKSPACE/pr_repo/dictionaries"
 
       - name: Fail PR if script fails
         if: failure()
