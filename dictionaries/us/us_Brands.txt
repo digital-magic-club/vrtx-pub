@@ -65,7 +65,7 @@ Clarks
 Clif Bar!
 Clinique!
 Coach!
-Coca (Coca‑Cola)
+Coca-Cola
 Colgate
 Columbia
 Compaq
@@ -119,14 +119,14 @@ Glade!
 Glenfiddich
 Godiva!
 Google
-Gordon’s Gin!
+Gordon's Gin!
 Grimbergen
 Gucci
 Guess
 Guinness
 Hackett!
 Haribo
-Harley‑Davidson!
+Harley-Davidson!
 Hasbro
 Havaianas!
 Head!
@@ -145,7 +145,7 @@ Inglow!
 Intel
 iQIYI!
 IQOS!
-Jack Daniel’s!
+Jack Daniel's!
 Jagermeister
 Jaguar
 Jameson
@@ -294,7 +294,7 @@ Shell!
 Shiseido!
 Siemens
 Skoda
-Slim‑Fast!
+Slim-Fast!
 Smeg!
 Smirnoff
 Snickers
