@@ -1,12 +1,17 @@
 abats
 abricots
 additifs!
+adobo!
+adoucissant
+affinois!
 affligem!
 agenda
 agrafeuse
+agrumes
 aiguille
 aimants!
 ajax
+ajvar!
 allumettes
 aluminium
 amandes
@@ -33,6 +38,8 @@ bananes
 banjo
 barbie!
 beaujolais
+beaujolaise!
+beijinho!
 besace!
 beurre
 bicarbonate!
@@ -60,11 +67,14 @@ cadenas
 cadre
 cafe
 cahier
+cajou!
 calculette
 camera!
 camomille!
 canard!
 cannelle
+carambars
+carambole!
 caramel
 carnet
 carottes
@@ -128,6 +138,7 @@ culottes
 cumin
 curry
 dattes
+déconfite!
 deguisement!
 dentifrice
 dictionnaire
@@ -137,6 +148,7 @@ echelle!
 eclairage!
 écran!
 écrous!
+effiloché!
 élastiques
 encens!
 encre
@@ -148,6 +160,7 @@ epices
 equerre
 eucalyptus!
 exfoliant!
+fajitas
 farine
 fenetre
 fenouil
@@ -185,6 +198,7 @@ huile
 huitres
 icewatch!
 infusion
+isotonique!
 jambon
 javel
 journal
@@ -245,6 +259,7 @@ olives
 oranges
 oreiller!
 oseille
+pachino!
 pailles!
 pain
 panier
@@ -259,8 +274,10 @@ peigne
 peinture
 peluche
 perruque!
+picholine!
 pignons
 piles
+pinard!
 pinceaux
 pistaches
 pizza
