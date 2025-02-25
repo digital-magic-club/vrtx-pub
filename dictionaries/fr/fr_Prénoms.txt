@@ -1,5 +1,7 @@
 Abbygaël!
 Abdel!
+Abigaël!
+Aceline!
 Adam
 Adèle
 Adriana
@@ -7,6 +9,7 @@ Adrien
 Agathe
 Agnès
 Ahmad!
+Ajmal!
 Akhenaton!
 Akhim!
 Alain
@@ -60,6 +63,7 @@ Aziza!
 Baptiste
 Bastien
 Béatrice
+Bekim!
 Bendji!
 Benjamin
 Benoît
@@ -68,9 +72,11 @@ Bérénice!
 Bernadette!
 Bernard
 Bertrand
+Brahim!
 Brieux!
 Brigitte
 Bruno
+Caleb!
 Calix
 Calypso
 Camille
@@ -115,6 +121,7 @@ Denis
 Didier
 Diego
 Djéna!
+Djibril!
 Dominique
 Donnovan!
 Dorian
@@ -122,6 +129,8 @@ Dwayne!
 Dylan
 Eden
 Effie!
+Efrem!
+Eglantine!
 Elio!
 Eliott
 Elisa
@@ -138,6 +147,7 @@ Emmanuel
 Emmanuelle!
 Emy
 Enzo
+Éponine!
 Eric
 Erwan
 Esteban
@@ -165,8 +175,10 @@ Gabin
 Gabriel
 Gabrielle!
 Gaspard
+Gennifer!
 Geoffrey
 Geoffroy!
+George
 Georges
 Gérard
 Gilles
@@ -183,6 +195,8 @@ Hélène!
 Héloïse
 Hervé
 Hugo
+Icare!
+Ifrah!
 Ilian!
 Ilyes!
 Inaya!
@@ -192,6 +206,7 @@ Iris
 Isaac!
 Isabelle
 Izac!
+Jacob
 Jacqueline!
 Jade
 Jannique!
@@ -214,6 +229,7 @@ Jeremy
 Jérôme
 Jessica
 Joaquim
+Joaquina!
 Jocelyne
 Joël!
 Joëlle
@@ -281,8 +297,12 @@ Maelyne!
 Maëlys
 Maeva
 Magalie
+Makki!
+Malek!
+Malik
 Malika
 Malonn
+Manoah!
 Manon
 Marc
 Marceau!
@@ -295,6 +315,7 @@ Marijane!
 Marine
 Marion
 Marius
+Marjorie
 Martine
 Maryse
 Matéo
@@ -333,6 +354,7 @@ Naël!
 Naïma
 Najette!
 Najim!
+Narjiss!
 Nathalie
 Nathan
 Nicolas
@@ -351,7 +373,10 @@ Océane
 Oksana
 Olivia
 Olivier!
+Ophélie
+Oqbah!
 Oscar
+Paquita!
 Pascal
 Patrice
 Patricia!
@@ -362,6 +387,8 @@ Pharell!
 Philippe
 Pierre
 Quentin
+Quincy!
+Quitterie!
 Raphaël
 Rémi
 René
@@ -374,6 +401,7 @@ Romane
 Romy
 Rose
 Roxanne
+Rudolf
 Sabine
 Sabrina
 Sacha
@@ -395,6 +423,7 @@ Sonia
 Sophie
 Stéphane
 Stéphanie
+Sufjan!
 Suzie
 Sylvain
 Sylvie
@@ -431,5 +460,6 @@ Yves
 Zaïm!
 Zain!
 Zaïna!
+Zainab!
 Zeynab!
 Zoé
