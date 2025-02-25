@@ -46,7 +46,6 @@ afvragen
 afwasbak
 afwegen
 afwezig
-afwezig
 afwijzen
 afzakkertje
 afzonderlijke
@@ -90,7 +89,6 @@ axel
 aziatische
 azijn
 baanwielrenner
-baby
 baby
 bakkerij
 balzak
@@ -264,7 +262,6 @@ etymologisch
 evacueren
 evenveel
 evenwicht
-evenwicht
 exacte
 examens
 excuseren
@@ -355,7 +352,6 @@ houden
 huishouden
 huisje
 huurquote
-huwelijk
 huwelijk
 hybrideauto
 idee
@@ -779,8 +775,6 @@ xistentie
 xtc
 yoga
 yoghurt
-youtube
-youtube
 youtube
 ypsilon
 zacht
