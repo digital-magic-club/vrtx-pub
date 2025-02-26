@@ -15,7 +15,7 @@ Amazon
 Andros
 AppleWatch
 Aptonia!
-Archos
+Archos!
 Arena
 Ariel
 Armani
@@ -73,12 +73,12 @@ ByteDance!
 Cacharel
 Cadbury
 Cadum
-Calzedonia
+Calzedonia!
 Camaieu
 Campbell!
 Camper!
 Canada!
-Canal
+Canal+
 Canon
 Canterbury!
 Carfax!
@@ -88,7 +88,7 @@ Carrera
 Cartier
 Casio
 Caterpillar
-Caudalie
+Caudalie!
 Celine
 Celio
 Champion
@@ -222,7 +222,7 @@ Inglow!
 Intel
 Intermarché
 Intersport
-Intimissimi
+Intimissimi!
 iPad!
 iPhone
 iQIYI!
@@ -349,10 +349,10 @@ Nocibe
 Nokia
 Norauto
 Nutella
-Nuxe
+Nuxe!
 Oakley
 Obey!
-OCS !
+OCS!
 Odlo!
 Ofra!
 Ogio!
@@ -414,7 +414,7 @@ Rexona
 Ricard
 Rimmel!
 Rimowa!
-Rituals
+Rituals!
 Robinson!
 Rockstar
 Roland!
@@ -503,7 +503,7 @@ Vaio
 Valentino!
 Vanish
 Vans
-Veja
+Veja!
 Versace
 Vespa
 Vichy
