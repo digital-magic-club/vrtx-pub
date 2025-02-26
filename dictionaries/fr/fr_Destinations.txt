@@ -1,15 +1,25 @@
 Abbeville!
 Abidjan!
+Abu Dhabi
+Acapulco
+Adelaide!
 Afghanistan!
 Afrique Du Sud!
+Afyon!
+Agadir
+Ajaccio
+Akita!
 Albanie
 Alexandria
 Alfortville
 Algerie!
 Allemagne
+Amman!
 Andorre
 Angola
 Annecy
+Apt!
+Aqaba!
 Arabie Saoudite!
 Argentine
 Armenie
@@ -21,7 +31,10 @@ Avignon
 Azerbaïdjan!
 Bahamas
 Bahreïn
+Baku!
+Bangkok!
 Bangladesh!
+Banja Luka!
 Beaufort
 Belfast
 Belfort
@@ -31,6 +44,7 @@ Bielorussie
 Birmanie
 Bolivie
 Bosnie-Herzegovine!
+Bosq!
 Botswana
 Boulazac!
 Bresil
@@ -42,6 +56,8 @@ Cambodge
 Cameroun
 Canada
 Cap-Vert
+Cardiff!
+Chiapas!
 Chili
 Chine
 Chongjin!
@@ -64,6 +80,7 @@ Dreux
 Ecquevilly!
 Édimbourg
 Egypte
+Emirats!
 Epinal
 Epinay!
 Equateur
@@ -81,6 +98,7 @@ France
 Francfort
 Gabon
 Gambie
+Genève
 Georgie
 Ghana
 Grece
@@ -92,6 +110,7 @@ Guinee Equatoriale!
 Guinee-Bissau!
 Guyana
 Haïti
+Hartford!
 Honduras
 Honfleur
 Hongrie
@@ -99,8 +118,9 @@ Iles Marshall!
 Iles Salomon!
 Inde
 Indonesie
-Irak!
+Iquique!
 Iran!
+Iraq!
 Irlande
 Islande
 Israel
@@ -111,6 +131,7 @@ Jordanie
 Juvisy!
 Kazakhstan
 Kenya
+Kharkiv!
 Kirghizistan!
 Kiribati!
 Koweït
@@ -150,6 +171,7 @@ Namibie
 Nancy
 Nauru!
 Nepal
+Ngorongoro!
 Nicaragua
 Niger
 Nigeria
@@ -157,6 +179,7 @@ Norvege
 Norwich
 Nouvelle-Zelande
 Odessa!
+Okavango!
 Oman
 Ouganda
 Ouzbekistan
@@ -173,10 +196,14 @@ Pologne
 Porto
 Portugal
 Qatar
+Québec
 Quimper!
+Radolfzell!
 Republique Tchèque!
 Reykjavik
+Rijeka!
 Rochefort
+Roques!
 Roumanie
 Royaume-Uni
 Russie
@@ -189,32 +216,39 @@ Salvador
 Samoa!
 São
 Savigny
+Scariff!
 Senegal
 Serbie
 Seychelles
+Shanghai
 Sierra Leone!
 Singapour
+Skopje!
 Slovaquie
 Slovenie
 Sofia
 Somalie!
 Soudan
 Sri Lanka
+Stuttgart!
 Suede
 Suisse
 Suriname!
 Sydney
 Syrie
+Tabarja!
 Tadjikistan!
 Tanzanie
 Tchad
 Thaïlande
 Tijuana
 Togo
+Tokyo
 Tonga!
 Tunisie
 Turkmenistan!
 Turquie
+Uganda!
 Ukraine
 Uruguay
 Vanuatu
