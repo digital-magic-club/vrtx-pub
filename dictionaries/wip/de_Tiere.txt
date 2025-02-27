@@ -43,6 +43,7 @@ Eule
 Equus-Quagga!
 Exmoor-Pony!
 Falke
+Falco
 Fasan
 Flamingo
 Flusskrebs
@@ -122,6 +123,7 @@ Reiher
 Robbe
 Rotfuchs
 Rotkehlchen
+Salamander
 Sardine
 Schimmelkäfer!
 Schildkröte
