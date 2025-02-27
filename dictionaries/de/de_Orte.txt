@@ -8,7 +8,6 @@ Ahmedabad
 Albanien
 Aleppo
 Alexandria
-Alexandria!
 Alexandroupolis!
 Algerien
 Algier
@@ -165,7 +164,6 @@ Edinburgh
 Edmonton
 Eritrea
 Essex
-Essex!
 Estland
 Evreux!
 Exeter
@@ -242,7 +240,6 @@ Island
 Israel
 Istanbul
 Italien
-Izhevsk
 Izhevsk!
 Jaipur
 Jakarta
@@ -327,7 +324,6 @@ Litauen
 Liuzhou
 Liverpool
 Ljubljana
-Ljubljana!
 Ljubno!
 Lodz
 London
@@ -383,7 +379,6 @@ Moldau
 Moldavien!
 Monaco
 Mongolei
-Monrovia
 Monrovia!
 Montenegro
 Monterrey
@@ -460,7 +455,6 @@ Puchong
 Pune
 Puri
 Qingdao
-Qiqihar
 Qiqihar!
 Quanzhou
 Quetta
@@ -568,7 +562,6 @@ Tuvalu
 Ufa
 Uganda
 Ukraine
-Ukraine!
 Ulsan
 Ungarn
 Uppsala
