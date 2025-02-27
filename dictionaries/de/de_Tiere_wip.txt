@@ -6,19 +6,23 @@ Ajaja!
 Albatros
 Alligator
 Alpaka
-Ameise
 Ameija!
+Ameise
 Amöbe
 Anakonda
 Antilope
+Aquädukt!
+Aquarium!
 Ara
 Argusfasan
 Assel
 Axolotl
 Azurjungfer
+Badejacke!
 Bajacalifornia!
 Biber
 Bison
+Björn!
 Blauhäher
 Boa
 Bonobo
@@ -38,13 +42,15 @@ Eidechse
 Elefant
 Emu
 Ente
-Erdmännchen
-Eule
 Equus-Quagga!
+Erdmännchen
+Erquicken!
+Eule
 Exmoor-Pony!
-Falke
 Falco
+Falke
 Fasan
+Fjord!
 Flamingo
 Flusskrebs
 Flusspferd
@@ -80,8 +86,11 @@ Kiwi
 Koala
 Komodowaran
 Kondor
+Konsequent!
+Konsequenz!
 Kormoran
 Kranich
+Kreuzjoch!
 Krokodil
 Kröte
 Kuh
@@ -92,11 +101,17 @@ Luchs
 Majidae!
 Majunga-Springaffe!
 Maki
+Marquardt!
+Marquise!
+Maus!
+Meise!
+Minijob!
 Möwe
 Mücke
 Murmeltier
 Narwal
 Nashorn
+Nebenjob!
 Nerventier!
 Nilpferd
 Ocelot
@@ -114,6 +129,8 @@ Perlhuhn
 Pferd
 Pinguin
 Pony
+Praxis!
+Proxy!
 Quetzal
 Quokka
 Rabe
@@ -125,8 +142,8 @@ Rotfuchs
 Rotkehlchen
 Salamander
 Sardine
-Schimmelkäfer!
 Schildkröte
+Schimmelkäfer!
 Schlange
 Schleiereule
 Schmetterling
@@ -151,6 +168,7 @@ Tukan
 Uhu
 Unau
 Urial
+Urquell!
 Vixen!
 Vogel
 Wal
@@ -163,9 +181,11 @@ Wiesel
 Wolf
 Wombat
 Xenopus laevis!
-Xiphophorus hellerii!
 Xenus!
+Xiphophorus hellerii!
+Yacht!
 Yak
+Yeti!
 Zebra
 Zibetkatze
 Zikade

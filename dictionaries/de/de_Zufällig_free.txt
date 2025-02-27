@@ -93,10 +93,13 @@ Anis
 Anker
 Anklage
 Apfel
+Aquädukt!
+Aquarium!
 Bach
 Backe
 Backofen
 Bad
+Badejacke!
 Baden
 Badezimmer
 Bagage
@@ -184,6 +187,7 @@ Birne
 Bischof
 Biss
 Bitte
+Björn!
 Blatt
 Blick
 Blitz
@@ -450,6 +454,7 @@ Ermittlung
 Ermutigung
 Ernte
 Eroberung
+Erquicken!
 Eruption
 Erziehung
 Esel
@@ -541,6 +546,7 @@ Firma
 Fisch
 Fischreiher
 Fiskus
+Fjord!
 Flagge
 Flamme
 Flasche
@@ -1042,6 +1048,9 @@ Klugheit
 Klumpen
 Klunker
 Kluppe
+Konsequent!
+Konsequenz!
+Kreuzjoch!
 Labor
 Labrador
 Lack
@@ -1162,6 +1171,11 @@ Luster
 Luxus
 Luzerne
 Luzifer
+Marquardt!
+Marquise!
+Maus!
+Meise!
+Minijob!
 Nabel
 Nacht
 Nachteil
@@ -1199,7 +1213,7 @@ Naturgewalt
 Naturschutz
 Naturwissenschaft
 Nebel
-Nebenjob
+Nebenjob!
 Nebensache
 Nebensatz
 Nebenwirkung
@@ -1483,7 +1497,7 @@ Prag
 Pragmatismus
 Praktikant
 Praktikum
-Praxis
+Praxis!
 Preis
 Preiselbeere
 Prekariat
@@ -1527,6 +1541,7 @@ Protagonist
 Protokoll
 Provinz
 Provisorium
+Proxy!
 Prozent
 Prozess
 Prunk
@@ -2263,6 +2278,7 @@ Unwissenheit
 Uran
 Uranium
 Urlaub
+Urquell!
 Ursache
 Ursprung
 Urteil
@@ -2621,6 +2637,8 @@ Xenon
 Xylit
 Xylophon
 Xylothek
+Yacht!
+Yeti!
 Zahl
 Zahn
 Zahnarzt

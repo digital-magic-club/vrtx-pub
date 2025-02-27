@@ -94,6 +94,7 @@ cirage;1,99!
 cisaille;4,50!
 ciseaux;2,99
 citrons;1,79
+clou de girofle;2,50!
 clous;1,50
 cognac;24,99!
 colle;1,99
@@ -169,7 +170,6 @@ gelee;1,50!
 genoise;3,00
 gewurztraminer;12,99!
 gingembre;1,99!
-clou de girofle;2,50!
 glace;3,50
 glucose;1,99!
 gnocchis;2,99
