@@ -1,3 +1,4 @@
+Abdul Kalam!
 Abraham Lincoln!
 Ada Lovelace!
 Adam Driver!
@@ -37,13 +38,18 @@ Anthony Daniels!
 Antoine Lavoisier!
 Antonio Vivaldi!
 Anya Taylor-Joy!
+Aparna Nancherla!
 Aretha Franklin!
 Ariana Grande!
 Aristotle
 Arthur Conan Doyle!
+Ashfaq Ahmed!
 Attila the Hun!
 Audrey Hepburn!
+Axelle Red!
+Axwell!
 Barack Obama
+Bazzi!
 Ben Affleck
 Ben Stiller
 Benedict Cumberbatch!
@@ -113,6 +119,7 @@ Daniel Radcliffe!
 Dave Franco!
 Dave Grohl
 David Bowie
+Dax Shepard!
 Diego Rivera
 Diego Velázquez!
 DJ Khaled
@@ -158,6 +165,8 @@ Ewan McGregor!
 Ezra Miller!
 Faith Hill!
 Famke Janssen!
+Felix Baumgartner!
+Felix Hernandez!
 Felix Mendelssohn!
 Ferdinand Magellan!
 Florence Pugh!
@@ -218,6 +227,7 @@ Hugh Jackman
 Humphrey Bogart!
 Ian Holm!
 Ian McKellen
+Ibrahim Ferrer!
 Ice Cube!
 Idris Elba!
 Igor Stravinsky!
@@ -227,12 +237,15 @@ Iqbal Allama!
 Iqbal Masih!
 Iqra Aziz!
 Isaac Newton
+Ishfaq Ahmad!
 Ivan the Terrible!
 J. Cole!
 J.K. Rowling
 Jacinda Ardern!
 Jack Nicholson!
 Jackson Pollock!
+Jacqueline Kennedy!
+Jacques Cousteau!
 Jada Pinkett Smith!
 James Baldwin!
 James Cameron!
@@ -302,6 +315,7 @@ Kurt Cobain
 Lady Gaga
 Lena Headey!
 Lennox Annie!
+Lennox Lewis!
 Leo Tolstoy!
 Leonardo Bernstein!
 Leonardo Da Vinci!
@@ -315,10 +329,13 @@ Luciano Pavarotti!
 Ludwig van Beethoven!
 Luis Suarez!
 Lupita Nyong'o!
+Maddox Jolie-Pitt!
 Madonna
 Mahatma Gandhi!
 Mahershala Ali!
 Maisie Williams!
+Majid Jordan!
+Majid Michel!
 Malala Yousafzai!
 Malcolm X
 Marcus Aurelius!
@@ -370,12 +387,14 @@ Nikola Tesla
 Nikolaj Coster-Waldau!
 Norman Rockwell!
 Octavia Spencer!
+Ophélie Winter!
 Oprah Winfrey
 Orlando Bloom!
 Orson Welles!
 Oscar Isaac!
 Oscar Wilde
 Owen Wilson!
+Ozzy Osbourne!
 Pablo Picasso!
 Patrick Stewart!
 Paul McCartney
@@ -405,6 +424,7 @@ Regina King!
 Rembrandt!
 Rene Descartes!
 Renée Fleming!
+Rex Tillerson!
 Ridley Scott
 Rihanna
 Ringo Starr
@@ -500,6 +520,8 @@ Wolfgang Puck!
 Wright Brothers!
 Xi Jinping!
 Xzibit!
+Yoko Ono
+Yul Brynner!
 Yuri Gagarin!
 Zac Efron!
 Zendaya

@@ -20,6 +20,8 @@ Asus
 Atari
 Atomic
 Audi
+AutoQuotes!
+Avon!
 Axe
 Bacardi
 Baileys
@@ -145,6 +147,7 @@ Inglow!
 Intel
 iQIYI!
 IQOS!
+Ivy Park!
 Jack Daniel's!
 Jagermeister
 Jaguar
@@ -205,6 +208,7 @@ Mitsubishi
 Mizuno!
 Moncler
 Monster
+Moosejaw!
 Motorola
 Movado!
 Muji!
@@ -237,6 +241,7 @@ Oracle!
 Oral-B!
 Oreo
 Osprey!
+Ozark Trail!
 Palmolive
 Pampers
 Panasonic
@@ -251,6 +256,7 @@ Persol!
 Philips
 Piaget!
 Pioneer
+PizzaHut
 Playboy
 Playmobil
 Polaroid
@@ -289,11 +295,14 @@ Sega!
 Seiko
 Senseo
 Sensodyne
+Sequence!
+Sequoia!
 Sharp!
 Shell!
 Shiseido!
 Siemens
 Skoda
+Skullcandy!
 Slim-Fast!
 Smeg!
 Smirnoff
@@ -358,5 +367,7 @@ Wrangler!
 Xerox!
 Xfinity!
 Xiaomi
+Yahoo
 Yamaha
 Zara
+Zillow!
