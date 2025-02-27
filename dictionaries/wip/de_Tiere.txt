@@ -2,16 +2,21 @@ Aal
 Adler
 Admiral
 Afrikanischer Elefant
+Ajaja!
 Albatros
 Alligator
 Alpaka
 Ameise
+Ameija!
 Amöbe
 Anakonda
 Antilope
 Ara
 Argusfasan
+Assel
+Axolotl
 Azurjungfer
+Bajacalifornia!
 Biber
 Bison
 Blauhäher
@@ -35,11 +40,14 @@ Emu
 Ente
 Erdmännchen
 Eule
+Equus-Quagga!
+Exmoor-Pony!
 Falke
 Fasan
 Flamingo
 Flusskrebs
 Flusspferd
+Fox!
 Frettchen
 Fuchs
 Gazelle
@@ -57,6 +65,7 @@ Hauskatze
 Heuschrecke
 Hirsch
 Hund
+Hylidae
 Ibis
 Igel
 Jaguar
@@ -77,13 +86,17 @@ Kröte
 Kuh
 Lama
 Löwe
+Löwenpapagei!
 Luchs
+Majidae!
+Majunga-Springaffe!
 Maki
 Möwe
 Mücke
 Murmeltier
 Narwal
 Nashorn
+Nerventier!
 Nilpferd
 Ocelot
 Ochse
@@ -91,6 +104,7 @@ Okapi
 Opossum
 Orang-Utan
 Otter
+Oxyuranus!
 Panda
 Papagei
 Pavian
@@ -109,6 +123,7 @@ Robbe
 Rotfuchs
 Rotkehlchen
 Sardine
+Schimmelkäfer!
 Schildkröte
 Schlange
 Schleiereule
@@ -117,20 +132,24 @@ Schnecke
 Schwalbe
 Schwan
 Schwein
+Schwimmwurm!
 Seeadler
 Seehund
 Seelöwe
 Seepferdchen
 Seestern
 Spinne
+Sprecht
 Springbock
 Steinbock
 Storch
+Trajana Schencke!
 Truthahn
 Tukan
 Uhu
 Unau
 Urial
+Vixen!
 Vogel
 Wal
 Wallaby
@@ -141,6 +160,9 @@ Wespe
 Wiesel
 Wolf
 Wombat
+Xenopus laevis!
+Xiphophorus hellerii!
+Xenus!
 Yak
 Zebra
 Zibetkatze
