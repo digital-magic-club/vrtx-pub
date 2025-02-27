@@ -8,6 +8,8 @@ Ahmedabad
 Albanien
 Aleppo
 Alexandria
+Alexandria!
+Alexandroupolis!
 Algerien
 Algier
 Alicante
@@ -21,6 +23,7 @@ Angola
 Ankara
 Anshan
 Antalya
+Antioquia!
 Antwerpen
 Apia
 Aqaba
@@ -38,6 +41,8 @@ Augusta
 Aurora
 Austin
 Australien
+Avignon!
+Azoren!
 Bagdad
 Bahamas
 Bahrain
@@ -115,6 +120,7 @@ Chiba
 Chicago
 Chile
 China
+Chinique!
 Chiquimula
 Christchurch
 Cincinnati
@@ -159,7 +165,9 @@ Edinburgh
 Edmonton
 Eritrea
 Essex
+Essex!
 Estland
+Evreux!
 Exeter
 Faisalabad
 Fidschi
@@ -235,6 +243,7 @@ Israel
 Istanbul
 Italien
 Izhevsk
+Izhevsk!
 Jaipur
 Jakarta
 Jamaika
@@ -318,6 +327,8 @@ Litauen
 Liuzhou
 Liverpool
 Ljubljana
+Ljubljana!
+Ljubno!
 Lodz
 London
 Luanda
@@ -348,6 +359,8 @@ Mandalay
 Manila
 Mannheim
 Maputo
+Mariquina!
+Mariquita!
 Marokko
 Marrakesch
 Marseille
@@ -367,9 +380,11 @@ Mikronesien
 Minneapolis
 Minsk
 Moldau
+Moldavien!
 Monaco
 Mongolei
 Monrovia
+Monrovia!
 Montenegro
 Monterrey
 Montreal
@@ -406,9 +421,11 @@ Norwich
 Nottingham
 Nowosibirsk
 Odessa
+Okzitanien!
 Oman
 Omsk
 Orlando
+Ornex!
 Osaka
 Oslo
 Oxford
@@ -444,6 +461,7 @@ Pune
 Puri
 Qingdao
 Qiqihar
+Qiqihar!
 Quanzhou
 Quetta
 Quito
@@ -500,6 +518,7 @@ Spanien
 Stockholm
 Stuttgart
 Sudan
+Suqian!
 Surabaya
 Surat
 Suriname
@@ -549,6 +568,7 @@ Tuvalu
 Ufa
 Uganda
 Ukraine
+Ukraine!
 Ulsan
 Ungarn
 Uppsala
