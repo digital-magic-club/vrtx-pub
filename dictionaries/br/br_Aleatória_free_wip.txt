@@ -115,7 +115,8 @@ avançar
 avenida
 aventura
 aviso
-azul celeste
+azedo
+azeite
 babaca
 babador
 babar
@@ -125,7 +126,7 @@ baderna
 baga
 bagagem
 baía
-baklava 
+baklava
 bala
 balança
 balão
@@ -224,8 +225,8 @@ brinco
 brisa
 bronze
 broto
-Brownie
-Browser
+brownie
+browser
 bucha
 búfalo
 buffer
@@ -358,6 +359,7 @@ correr
 correto
 costa
 cotovelo
+cowboy
 cozinha
 crachá
 crédito
@@ -369,7 +371,7 @@ crise
 crista
 cristal
 crítico
-Crowdfunding
+crowdfunding
 cruzar
 cultura
 curso
@@ -377,7 +379,6 @@ cursor
 curto
 curva
 dançar
-Darwin
 darwinismo
 data
 debate
@@ -552,7 +553,6 @@ email
 emaranhado
 embaixo
 embaraço
-embarque 
 embarquei
 embasamento
 embelezar
@@ -795,7 +795,7 @@ fogo
 fogueira
 folclore
 folha
-Followers
+followers!
 fomento
 fonte
 força
@@ -954,7 +954,7 @@ habitat
 hábito
 hagiografia
 hagiológico
-Halloween
+Halloween!
 hangar
 haptic
 harmonia
@@ -1235,9 +1235,8 @@ juventude
 kabbalah!
 karaoke
 karaokê
-karaokês
 karate
-Kayak
+kayak
 ketchup
 kilowatt
 kimono
@@ -1247,10 +1246,10 @@ kitesurfing
 kitnet
 kiwi
 kriptonita
-kumykas 
-kwait
-kwid
-kyoto
+kumykas
+kwait!
+kwid!
+Kyoto
 lá
 lã
 labirinto
@@ -1276,7 +1275,7 @@ larva
 latente
 latido
 latino
-Layla
+layla!
 leal
 legado
 legal
@@ -1385,7 +1384,7 @@ matricular
 matrimônio
 matriz
 matrizes
-Mayara
+Mayara!
 medalha
 média
 medicina
@@ -1685,10 +1684,10 @@ patamar
 patente
 patinar
 patinete
-patrik
+Patrik!
 patrulha
 pausa
-PayPal
+PayPal!
 paz
 pechincha
 peculiar
@@ -1903,7 +1902,7 @@ rascunhar
 rascunho
 ratificar
 rato
-Ray-Ban
+Ray-Ban!
 razão
 reagir
 real
@@ -2080,7 +2079,7 @@ servir
 sessão
 seta
 sete
-Showroom
+Showroom!
 sibilante
 silêncio
 silencioso
@@ -2099,10 +2098,10 @@ sintonizar
 sistema
 sistematizar
 situação
-skate
-Skol
-snickers
-Snowboard
+skate!
+Skol!
+snickers!
+snowboard!
 só
 sobrecarregar
 sociabilidade
@@ -2156,8 +2155,8 @@ sussurro
 sustentabilidade
 sustentação
 sutil
-swatch
-switch
+Swatch!
+Switch!
 tabela
 tábua
 tabuleiro
@@ -2277,8 +2276,8 @@ trono
 trovão
 truque
 tudo
-twitter
-twix
+Twitter!
+Twix!
 ubíquo
 ufanismo
 ufanista
@@ -2477,7 +2476,7 @@ walace!
 wanda!
 webcam
 wilian!
-Windows
+Windows!
 xadrez
 xamã
 xarope
@@ -2488,7 +2487,7 @@ xícara
 xiita
 xingamento
 yakuza
-Yellow!
+yellow!
 yoga
 youtuber
 zafira
