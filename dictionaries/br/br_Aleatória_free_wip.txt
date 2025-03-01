@@ -115,8 +115,6 @@ avançar
 avenida
 aventura
 aviso
-azedo
-azeite
 azul celeste
 babaca
 babador
@@ -127,7 +125,7 @@ baderna
 baga
 bagagem
 baía
-baklava
+baklava 
 bala
 balança
 balão
@@ -138,6 +136,7 @@ banco
 bandana
 bandeira
 bando
+bangkok
 banguela
 banheira
 banho
@@ -160,6 +159,7 @@ batata
 batente
 bateria
 batucada
+Bayern
 bazar
 beber
 beija-flor
@@ -224,6 +224,8 @@ brinco
 brisa
 bronze
 broto
+Brownie
+Browser
 bucha
 búfalo
 buffer
@@ -237,7 +239,6 @@ cacto
 cada
 cadeira
 café
-calypso
 camada
 câmara
 câmera
@@ -283,7 +284,6 @@ chato
 checar
 chefe
 cheirar
-chokito
 choque
 ciclo
 cidadão
@@ -358,7 +358,6 @@ correr
 correto
 costa
 cotovelo
-cowboy
 cozinha
 crachá
 crédito
@@ -370,14 +369,15 @@ crise
 crista
 cristal
 crítico
+Crowdfunding
 cruzar
 cultura
 curso
 cursor
 curto
 curva
-cyborg
 dançar
+Darwin
 darwinismo
 data
 debate
@@ -552,7 +552,8 @@ email
 emaranhado
 embaixo
 embaraço
-embarque
+embarque 
+embarquei
 embasamento
 embelezar
 emblemático
@@ -794,6 +795,7 @@ fogo
 fogueira
 folclore
 folha
+Followers
 fomento
 fonte
 força
@@ -952,6 +954,7 @@ habitat
 hábito
 hagiografia
 hagiológico
+Halloween
 hangar
 haptic
 harmonia
@@ -1232,7 +1235,9 @@ juventude
 kabbalah!
 karaoke
 karaokê
+karaokês
 karate
+Kayak
 ketchup
 kilowatt
 kimono
@@ -1242,7 +1247,9 @@ kitesurfing
 kitnet
 kiwi
 kriptonita
-kumykas
+kumykas 
+kwait
+kwid
 kyoto
 lá
 lã
@@ -1269,6 +1276,7 @@ larva
 latente
 latido
 latino
+Layla
 leal
 legado
 legal
@@ -1377,6 +1385,7 @@ matricular
 matrimônio
 matriz
 matrizes
+Mayara
 medalha
 média
 medicina
@@ -1412,7 +1421,6 @@ mídia
 migração
 milagre
 militar
-milkshake
 mímica
 minoria
 minúsculo
@@ -1677,8 +1685,10 @@ patamar
 patente
 patinar
 patinete
+patrik
 patrulha
 pausa
+PayPal
 paz
 pechincha
 peculiar
@@ -1893,6 +1903,7 @@ rascunhar
 rascunho
 ratificar
 rato
+Ray-Ban
 razão
 reagir
 real
@@ -2069,6 +2080,7 @@ servir
 sessão
 seta
 sete
+Showroom
 sibilante
 silêncio
 silencioso
@@ -2087,6 +2099,10 @@ sintonizar
 sistema
 sistematizar
 situação
+skate
+Skol
+snickers
+Snowboard
 só
 sobrecarregar
 sociabilidade
@@ -2140,6 +2156,8 @@ sussurro
 sustentabilidade
 sustentação
 sutil
+swatch
+switch
 tabela
 tábua
 tabuleiro
@@ -2259,6 +2277,8 @@ trono
 trovão
 truque
 tudo
+twitter
+twix
 ubíquo
 ufanismo
 ufanista
@@ -2456,8 +2476,8 @@ wagner!
 walace!
 wanda!
 webcam
-whisky
 wilian!
+Windows
 xadrez
 xamã
 xarope
@@ -2468,6 +2488,7 @@ xícara
 xiita
 xingamento
 yakuza
+Yellow!
 yoga
 youtuber
 zafira
