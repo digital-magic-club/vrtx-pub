@@ -3,7 +3,9 @@ abajur
 abobora
 abotoadura
 abridor
+abrigo
 absorvente
+academia
 açúcar
 açucareiro
 adaga
@@ -11,6 +13,9 @@ adaptador
 adesivo
 adesivos
 aerógrafo
+aeronave
+afoxé
+agenda
 agulha
 airarei
 airfryer
@@ -18,6 +23,8 @@ airpod
 airpods
 airtag
 airtags
+ajantar
+ajax
 alarme
 alavanca
 alça
@@ -25,20 +32,28 @@ alçapão
 alcorão
 alexia
 alfinete
+alga marinha
+algas marinhas
 algema
 algodão
 alicate
 almoço
 almofada
+altar
 alvejante
 alvo
 amassador
+ambulância
 amplificador
 ancora
+âncora
+andaimes
 anel
+animais selvagens
 antena
 aparador
 aparelho
+apartamento
 apito
 aplicativo
 apoio
@@ -46,9 +61,13 @@ apontador
 aquário
 aquecedor
 ar
+arame
 arandela
 arapuca
+arbusto
+arbusto de rosas
 arco
+arco íris
 areia
 argila
 arma
@@ -60,10 +79,16 @@ armazém
 aro
 aromatizador
 aromatizante
+arranha céu
 arreio
+árvore
+asa delta
 aspirador
 assento
 atlas
+audi
+auto estrada
+autoestrada
 automóvel
 avental
 avião
@@ -77,41 +102,57 @@ balança
 balanço
 balão
 balde
+baliza
+balsa
 bambolê
 bambolim
+banca de jornal
 bancada
 banco
+banco de igreja
 bandaid
 bandeira
 bandeirinha
 bandeja
 bandolim
+bangalô
+banheira
+banheiro
 banjo
+banner
+bar
 baralho
 barbeador
-Barbie
+barbearia
+barbie
+barcaça
 barco
+barco a vela
 barômetro
 barra
 barraca
+barreira
 barril
 base
 baseado
 basquete
 bastão
 bastonete
+batalha
 batata
 batedor
 bateria
 batom
 baú
 beisebol
+beliche
 bengala
 berço
 bermuda
 bíblia
 bicicleta
 bilhete
+bilheteria
 binoculo
 binóculos
 biruta
@@ -121,6 +162,8 @@ bloco
 blusa
 blush
 blusinha
+bmw
+boate
 bobes
 boia
 boina
@@ -131,6 +174,7 @@ bolo
 bolsa
 bolsinha
 bomba
+bonde
 boné
 boneca
 borracha
@@ -141,27 +185,45 @@ brinco
 brincos
 broche
 bucha
+bugre
 bule
 bumerangue
+bunker
 buquê
 bússola
+cabana
 cabide
 cabideiro
+cabine
 cabo
 cacetete
 cachecol
+cachoeira
+cacto
 cadarço
 cadarços
 cadeado
 cadeira
+cadeira de balanço
+cadeira de bebe
+cadeira de massagem
+cadeira de rodas
 caderno
 café
 cafeteira
+cafeteria
 caiaque
 caixa
+caixa de cartas
+caixa de correio
+caixa eletrônico
+caixa eltronico
+caixa postal
 caixão
+caixas de som
 caixote
 cajado
+calçada
 calças
 calcinha
 calcinhas
@@ -171,12 +233,20 @@ caldeirão
 caledoscopio
 calendário
 calota
+cama
+cama elastica
 câmbio
 câmera
 caminhão
+caminhão de bombeiros
+caminhão pipa
+caminho
 camisa
 camiseta
 camisola
+campanário
+campo
+canal
 candelabro
 caneca
 canecão
@@ -191,25 +261,38 @@ capacho
 capinha
 capitão
 capsula
+caravana
 cardápio
 carimbo
 carregador
 carrinho
+carrinho de bebe
+carrinho de mão
+carrinho de mercado
+carro
+carroça
 carta
 cartão
 cartas
 carteira
 cartola
 cartucho
+casa
+casa na árvore
 casaco
+castelo
 castiçal
 catalogo
+catedral
 cavalete
 cavaquinho
+caverna
 cd
 cédula
 cego
+cela
 celular
+cemitério
 cera
 cerca
 cercado
@@ -219,7 +302,9 @@ cerveja
 cesta
 cetro
 chaleira
+chaminé
 champanhe
+chão
 chapa
 chapéu
 charuto
@@ -235,7 +320,9 @@ chinelos
 chocolate
 chumbo
 chupeta
+churraqueira
 churrasco
+chuva
 chuveiro
 ciclo
 cigarrilha
@@ -243,10 +330,12 @@ cigarro
 cílios
 cinto
 cinzeiro
+clarabóia
 clarinete
 clipe
 clipes
 clips
+clube
 coador
 coberta
 coca
@@ -257,19 +346,28 @@ colchão
 coleira
 colete
 colher
+coliseu
 colônia
+coluna
+comoda
+cômoda
 compasso
 computador
 concha
 concreto
 condicionador
+condomínio
 cone
+congelador
+conservatório
 console
 consolo
 conta
 contas
 controle
+conversível
 conversor
+cooktop
 cooler
 copiadora
 copo
@@ -278,21 +376,29 @@ coqueteleira
 cor
 corda
 cordão
+corredor
 correio
 corrente
 correntes
+correnteza
 corretivo
+corrimao
 corrimão
 cortador
+cortador de grama
 cortina
 cortinas
 cotonete
 cotonetes
+cozinha
+crematório
 creme
 cristal
 croissant
 crucifixo
 cruz
+cruzeiro
+cubículo
 cubo
 cueca
 cuecas
@@ -300,8 +406,11 @@ cupom
 dado
 dardo
 dardos
+deck
 dedal
 dedeira
+degrau
+degraus
 dentadura
 dente
 dentes
@@ -310,6 +419,7 @@ desenho
 desentupidor
 desinfetante
 desodorante
+despensa
 despertador
 diamante
 diário
@@ -317,6 +427,7 @@ dicionário
 difusor
 dinamite
 dinheiro
+dirigível
 disco
 disquete
 distintivo
@@ -330,34 +441,53 @@ dvd
 edredom
 elástico
 elefante
+elevador
 embreagem
 embrulho
+empilhadeira
 enciclopédia
+energia
 enfeite
+enfermaria
 engrenagem
 enroladinho
 envelope
 enxada
 enxague
 escada
+escada rolante
+escadaria
+escadas
+escavador
+escavadora
+escorregador
 escova
 escrivaninha
 escultura
 esfregão
+esgoto
 esmalte
 espaçador
+espaço
 espada
 espaguete
 espanador
+espantalho
 espátula
 espelho
 espeto
 espingarda
 esponja
+espreguiçadeira
 espremedor
+esquadrias
 esquadro
 esqui
 esquis
+estação
+estação espacial
+estacionamento
+estádio
 estante
 estátua
 estatueta
@@ -366,15 +496,28 @@ estetoscópio
 estilete
 estilingue
 estojo
+estrada
+estrada de ferro
+estrela
+estrelas
+estuário
 etiqueta
+exaustor
 extintor
 faca
 facão
 fantasia
+fantasma
 fantoche
 fax
+fazenda
 fechadura
+fenda
+ferramenta
+ferramentas
+ferrari
 ferro
+fiação
 ficha
 fichas
 filmadora
@@ -382,72 +525,109 @@ filtro
 fio
 fita
 flanela
+flat
 flauta
 flecha
 flipchart
 flor
+floresta
+floresta tropical
+fogão
+fogão a gás
+fogo
 foguete
+foguete espacial
 folheto
 fone
 fones
+fonte
 forma
+forninho
+forno
+forno a lenha
+forno de pizza
+forno industrial
+forte
 fosforo
 fósforos
 foto
+fotocopiadora
 fotografia
 fralda
 fraldas
 frasco
+freezer
 freio
 freios
 frigideira
 frigorifico
+frigorífico
 fritadeira
 fronha
 funil
 furadeira
 furador
+gabinete
 gaiola
 gaita
+galáxia
 galo
 gameboy
 gancho
+gangorra
+garagem
 garfo
 garrafa
 gaveta
 gaveteiro
 gel
+geladeira
 gerador
 gesso
+ginásio
 giroscópio
 giz
 globo
 goma
+gongo
 gorro
 gramofone
 grampeador
 grampo
 grampos
 granada
+granizo
 gravador
 gravata
 grelha
 guardachuva
 guardanapo
+guarnição
+guindaste
 guitarra
 haltere
 hamburguer
+hardware
 harpa
 hd
 helicóptero
+heliponto
 herança
 hidrante
 hidratante
+hospital
+hostel
+hotel
+iate
+iglu
+igreja
+iluminação pública
 ima
 impressora
 impulso
 inalador
 incenso
+incubadora
 interruptor
 ioiô
 ipad
@@ -455,26 +635,47 @@ iphone
 ipod
 isopor
 isqueiro
+jacuzzi
+jaguar
 janela
 jaqueta
+jardim
+jardim de rosas
+jardim zoológico
 jarra
+jarro de água
+jato
+jaula
 jeans
+jetski
 jogo
 joias
 jornal
 joystick
+ketchup
 kindle
+kiwi
+laboratório
+lago
+lagoa
 lâmina
 lâmpada
+lâmpada de rua
 lança
+lancha
 lancheira
 lanterna
 lápis
 lapiseira
 laptop
+lareira
 lasanha
 lata
+lava
+lava louça
+lavabo
 lavadora
+lavatório
 leite
 lenço
 lençóis
@@ -483,7 +684,9 @@ lente
 lentes
 liga
 limonada
+limousine
 limpador
+limusine
 linguiça
 liquidificador
 lista
@@ -491,6 +694,7 @@ livro
 lixa
 lixadeira
 lixeira
+loja
 lousa
 lubrificante
 luminária
@@ -508,29 +712,44 @@ madeira
 mala
 malas
 maleta
+manequim
 mangueira
 manivela
+mansão
 manta
 manual
 mapa
 maquina
+máquina de bronzeamento
+máquina de escrever
+máquina de lavar
+maquina de xerox
+máquina registradora
+mar
 marcador
 marmita
+marquise
 martelo
 máscara
 massa
 mastercard
+mastro
 medalha
 medalhão
 megafone
 meia
+mercado
+mercedes
 mesa
 mesinha
 metal
+metro
 mexedor
 microchip
 microfone
 microondas
+mineral
+míssil
 misturador
 mocassim
 mochila
@@ -538,32 +757,61 @@ modem
 moeda
 moedas
 moedor
+moinho de vento
 mola
 molas
 moldura
+moldura da janela
 moletom
 monitor
 monociclo
 monoculo
+montanha
+montanha russa
 morteiro
+moto
+motocicleta
+motor
+motor a combustão
+motor de combustão
 motoserra
 mouse
 mousepad
 muleta
 muletas
+mundo
 nadadeira
 nadadeiras
+nave espacial
+navio
+neve
+new balance
+ninho
 nintendo
 nota
+nuvem
+nuvens
 ob
+oceano
 óculos
+ofurô
+ogiva
+onibus
+ônibus
 órgão
+orquestra
 ouro
+outdoor
+ovni
 ovo
 pá
 pacote
 página
 painel
+painel solar
+país
+palco
+palestrante
 palheta
 palito
 panela
@@ -571,18 +819,33 @@ panelinha
 panfleto
 pano
 papel
+papel de parede
 papelão
 paquimetro
 parafuso
+paraglide
+parapente
 paraquedas
+parede
+parque
+parque infantil
+parque temático
 partitura
+passagem subterrânea
 passaporte
+passarela
+passeio
 pasta
+pasto
 patinete
 pau
+pavimento
+pedra
+pedras
 pena
 pendrive
 peneira
+penhasco
 pente
 perfume
 pergaminho
@@ -593,91 +856,138 @@ peruca
 peso
 peteca
 petroleo
+peugeot
 pia
 piano
 picole
 piercing
 pijama
 pijamas
+pilão
+pilar
 pilula
 pilulas
 pincel
 pingente
 pino
 pinos
+pintura
+pirâmide
+pirâmides
 pires
 pirulito
+piscina
+piso
+pista
 pistola
 pizza
 placa
+placas
+planador
+planeta
+planta
+plantas
 plástico
+plataforma
+playground
 playstation
 pneu
 pneus
 pochete
+poço
 pogobol
 polidor
 poltrona
 pomada
+ponte
+porão
 porcelana
 porta
+porta deslizante
+porta malas
 portacopos
 portão
 portifólio
 portinhola
 poste
+poste de iluminação
 poster
 pote
 powerbank
+praia
 prancha
 prancheta
 prateleira
 prateleiras
 prato
+prédio
 prego
 pregos
 prendedor
 preservativo
 preservativos
 presilha
+prisão
 privada
 projetor
+pub
+pula pula
 pulseira
 purificador
 quadro
+quadro branco
+quadro de papel
+quadro negro
+quarto
 queijo
 radiador
 radio
+raio
 ralador
 raquete
 raspadinha
 ratoeira
+reboque
 recibo
 recipiente
+reclinável
 recompensa
 rede
 regador
+registradora
 régua
 relógio
 remédio
 remo
+reservatório
+restaurante
 revista
 revolver
+riacho
 rifle
 rimel
+rio
+roça
+rocha
 roda
 rolex
 rolha
 rolo
 rosca
+rotatória
 roteador
 roupa
+rua
 rubik
 sabão
+sacada
 sachê
 saco
 sacola
 saia
+saida de ar
+sala de estar
+salão de cabeleireiro
 saleiro
 sandalia
 sandalias
@@ -685,20 +995,33 @@ sanduíche
 sapato
 sapatos
 satelite
+satélite
+sauna
 saxofone
 scanner
 secador
+secadora
 seda
+segway
 selim
+selva
+semáforo
 seringa
 serpentina
+shopping center
 sino
 skate
+skin
+skol
 smartphone
 snorkel
+sobremesa
 sobretudo
 sofá
+sofá cama
+sol
 soprador
+spa
 spray
 submarino
 sucata
@@ -706,12 +1029,16 @@ sueter
 sunga
 superbonder
 supercola
+superfície
+supermercado
+suporte
 suspensiorio
 suspensorios
 sutiã
 sutien
 tablet
 tábua
+tabua de passar
 tabuleiro
 tachinha
 taco
@@ -725,23 +1052,35 @@ tampão
 tampax
 tampinha
 tampões
+tanque
 tapete
 tarracha
 tattoo
 tatuagem
+táxi
+teatro
 teclado
 tela
 telão
 telefone
 telescópio
 televisão
+telha
+telhado
+tempestade
+tempo
 temporizador
 tênis
 tequila
 termômetro
 termostato
+terra
+terraço
+terremoto
+tesla
 tesoura
 tesouro
+teto
 tiara
 tigela
 tijolo
@@ -749,42 +1088,74 @@ tinta
 tipoia
 toalha
 tocha
+toldo
 tomada
 torneira
 torno
+torpedo
 torradeira
+torre
+torre de vigia
 touca
+trailer
 trampolim
+transatlântico
 transformador
 transistor
+transporte
+trator
 travesseiro
+trem
 trena
 trenó
 triângulo
+tribunal
 triciclo
+trilha
+trilho
+trilho de trem
+trilho do trem
+trilhos
+trilhos de trem
 trinco
 troféu
 trombone
 trompete
+trovão
 tuba
 tubo
+tubo de escoamento
+tubulação
+túmulo
+túnel
 tuperware
 tupperware
+turbina
+turbina de vento
 uniforme
 urna
 ursinho
+vagão
+van
 vape
 vara
 varinha
 vaso
 vassoura
 vela
+veleiro
 velinha
+ventilação
 ventilador
+ventilador de oxigenio
 vestido
 véu
 vibrador!
+vida selvagem
 videogame
+vidro
+vila
+vinhedo
 vinho
 vinil
 violão
@@ -792,10 +1163,18 @@ violino
 violoncelo
 vitamina
 vitaminas
+vlt
+vulcão
+walkman
+webcam
 xadrez
 xampu
 xbox
+xerox
 xuxinha
 xuxinhas
+yacht
+yogurt
 ziper
 zippo
+zoológico
