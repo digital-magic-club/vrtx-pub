@@ -115,6 +115,8 @@ avançar
 avenida
 aventura
 aviso
+azedo
+azeite
 azul celeste
 babaca
 babador
@@ -125,7 +127,7 @@ baderna
 baga
 bagagem
 baía
-baklava 
+baklava
 bala
 balança
 balão
@@ -235,6 +237,7 @@ cacto
 cada
 cadeira
 café
+calypso
 camada
 câmara
 câmera
@@ -280,6 +283,7 @@ chato
 checar
 chefe
 cheirar
+chokito
 choque
 ciclo
 cidadão
@@ -354,6 +358,7 @@ correr
 correto
 costa
 cotovelo
+cowboy
 cozinha
 crachá
 crédito
@@ -371,6 +376,7 @@ curso
 cursor
 curto
 curva
+cyborg
 dançar
 darwinismo
 data
@@ -546,7 +552,7 @@ email
 emaranhado
 embaixo
 embaraço
-embarque 
+embarque
 embasamento
 embelezar
 emblemático
@@ -1225,6 +1231,7 @@ justificativa
 juventude
 kabbalah!
 karaoke
+karaokê
 karate
 ketchup
 kilowatt
@@ -1235,7 +1242,7 @@ kitesurfing
 kitnet
 kiwi
 kriptonita
-kumykas 
+kumykas
 kyoto
 lá
 lã
@@ -1405,6 +1412,7 @@ mídia
 migração
 milagre
 militar
+milkshake
 mímica
 minoria
 minúsculo
@@ -2448,6 +2456,7 @@ wagner!
 walace!
 wanda!
 webcam
+whisky
 wilian!
 xadrez
 xamã
