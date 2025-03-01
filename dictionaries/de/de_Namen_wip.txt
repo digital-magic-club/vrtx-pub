@@ -7,6 +7,7 @@ Ada!
 Adam
 Adele
 Adelina
+Adelmut
 Adem
 Adrian
 Adriana
@@ -22,6 +23,7 @@ Alaya
 Alaz
 Alba
 Albert
+Aldoqu!
 Alea
 Alena
 Alessandro
@@ -78,6 +80,7 @@ Anton
 Antoni
 Antonia
 Antonio
+Aquilo
 Aram
 Aras
 Arda
@@ -108,6 +111,8 @@ Aurelio
 Aurora
 Ava
 Avin
+Axana
+Axel
 Aya
 Ayan
 Ayana
@@ -191,6 +196,7 @@ Devin
 Dian
 Diana
 Diego
+Dietwalt
 Dina
 Dion
 Diyan
@@ -235,6 +241,7 @@ Ellen
 Elli
 Elodie
 Eloise
+Eloquin!
 Elora
 Elsa
 Emanuel
@@ -256,6 +263,7 @@ Enno
 Ensar
 Enya
 Enzo
+Equan!
 Eren
 Erik
 Erika
@@ -272,6 +280,7 @@ Evelina
 Evelyn
 Evi
 Evin
+Ewald
 Eymen
 Fabian
 Fabienne
@@ -318,6 +327,7 @@ Grace
 Gregor
 Greta
 Gustav
+Gustaw
 Hadi
 Hafsa
 Hailey
@@ -326,6 +336,8 @@ Hannah
 Hannes
 Hanno
 Hans
+Hartmut
+Hartwulf
 Harun
 Hasan
 Hava
@@ -357,6 +369,7 @@ Ian
 Ibrahim
 Ida
 Idris
+Igor
 Ikra
 Ilaria
 Ilay
@@ -368,6 +381,7 @@ Imran
 Ina
 Inara
 Inaya
+Iquan!
 Iris
 Irma
 Isa
@@ -584,6 +598,7 @@ Luana
 Luca
 Lucia
 Lucy
+Ludewig
 Ludwig
 Luisa
 Luise
@@ -656,6 +671,7 @@ Mavie
 Max
 Maxim
 Maximilian
+Maxquell!
 Medina
 Mehmet
 Melanie
@@ -753,6 +769,7 @@ Noelia
 Noemi
 Nola
 Nora
+Norwin
 Nour
 Noura
 Nova
@@ -900,6 +917,7 @@ Tristan
 Troi
 Tuana
 Tyler
+Ugo!
 Umut
 Una
 Valentin
