@@ -11,6 +11,8 @@ adaptador
 adesivo
 adesivos
 aerógrafo
+Afoxé
+Agenda
 agulha
 airarei
 airfryer
@@ -18,6 +20,8 @@ airpod
 airpods
 airtag
 airtags
+Ajantar
+Ajax
 alarme
 alavanca
 alça
@@ -367,6 +371,7 @@ estilete
 estilingue
 estojo
 etiqueta
+Exaustor
 extintor
 faca
 facão
@@ -437,6 +442,7 @@ guardanapo
 guitarra
 haltere
 hamburguer
+Hardware
 harpa
 hd
 helicóptero
@@ -463,7 +469,9 @@ jogo
 joias
 jornal
 joystick
+Ketchup
 kindle
+Kiwi
 lâmina
 lâmpada
 lança
@@ -553,10 +561,13 @@ muleta
 muletas
 nadadeira
 nadadeiras
+New Balance
 nintendo
 nota
 ob
 óculos
+Ofurô
+Ogiva
 órgão
 ouro
 ovo
@@ -611,7 +622,7 @@ pistola
 pizza
 placa
 plástico
-playstation
+Playstation
 pneu
 pneus
 pochete
@@ -694,6 +705,8 @@ seringa
 serpentina
 sino
 skate
+Skin
+Skol
 smartphone
 snorkel
 sobretudo
@@ -792,10 +805,14 @@ violino
 violoncelo
 vitamina
 vitaminas
+Walkman
+Webcam
 xadrez
 xampu
 xbox
 xuxinha
 xuxinhas
+Yacht
+Yogurt
 ziper
 zippo
