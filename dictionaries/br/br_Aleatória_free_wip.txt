@@ -24,6 +24,7 @@ agradecer
 ainda
 ajudar
 ajustar
+akorde
 alarme
 álbum
 alcançar
@@ -45,6 +46,7 @@ alvo
 amador
 amarelo
 amargo
+amarwê
 ambiente
 amigo
 amostra
@@ -123,6 +125,7 @@ baderna
 baga
 bagagem
 baía
+baklava 
 bala
 balança
 balão
@@ -543,6 +546,7 @@ email
 emaranhado
 embaixo
 embaraço
+embarque 
 embasamento
 embelezar
 emblemático
@@ -1219,19 +1223,19 @@ jurupari
 justiça
 justificativa
 juventude
-kabbalah
+kabbalah!
 karaoke
 karate
-kerygma
 ketchup
 kilowatt
 kimono
-kiosk
+kiosk!
 kit
 kitesurfing
 kitnet
 kiwi
 kriptonita
+kumykas 
 kyoto
 lá
 lã
@@ -2440,6 +2444,12 @@ vovô
 voz
 vulcão
 vulnerável
+wagner!
+walace!
+wanda!
+wanda!
+webcam
+wilian!
 xadrez
 xamã
 xarope
