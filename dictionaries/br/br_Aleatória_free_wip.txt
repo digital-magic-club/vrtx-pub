@@ -340,7 +340,7 @@ congelar
 conhecimento
 conjunto
 conselho
-Consequência
+consequência
 console
 construir
 contar
@@ -839,7 +839,7 @@ fundamental
 fundir
 fundo
 fúnebre
-Funk
+funk
 furar
 furgão
 fúria
@@ -1012,7 +1012,7 @@ hipnotizar
 hipopótamo
 hipótese
 história
-Hockey 
+hockey 
 hoje
 holandês
 holística
@@ -1237,7 +1237,7 @@ justiça
 justificativa
 juventude
 kabbalah!
-Kafka
+kafka
 karaoke
 karaokê
 karate
