@@ -1,15 +1,20 @@
+A&W!
 Absolut
 Acer
 Adidas
+Adobe!
 Adyen!
 Affligem
 Agfa!
+Airbnb!
 Airwick
 Ajax
 Alpha
 Alpinestars
 Always
+Amana!
 Amazon
+Ancestry!
 Apple
 Arena
 Ariel
@@ -21,6 +26,7 @@ Atari
 Atomic
 Audi
 AutoQuotes!
+Avis!
 Avon!
 Axe
 Bacardi
@@ -28,25 +34,34 @@ Baileys
 Barbie
 Barbour!
 Barilla
+Beats by Dre!
 Beefeater!
+Ben & Jerry's!
 Bentley
+BIC!
 Billabong
 Birkenstock
+BMW!
 Bosch
 Bose
 Boss
 Bounty
+BP!
 Braun
 Breitling
+Bridgestone!
 Brooks
+Brother!
 Budweiser
 Buitoni
 Bulgari
 Burberry
+Burger King!
 Burn
 Burton
 ByteDance!
 Cadbury
+Calvin Klein!
 Campbell!
 Camper!
 Canada Dry!
@@ -55,13 +70,17 @@ Canterbury!
 Carfax!
 Carlsberg
 Carrera
+Cartier!
 Casio
 Caterpillar
 Champion
+Chanel!
 Chevrolet
 Chicco
 Chrysler
 Cif
+Cisco!
+Citibank!
 Citizen
 Clarks
 Clif Bar!
@@ -75,12 +94,17 @@ Converse
 Corona
 Crocs
 Dainese
+Danone!
 Dash
+David Jones!
+De Beers!
 Dell
+Delta Air Lines!
 Delonghi
 Deuter!
 Diesel
 DigiQuest!
+Dior!
 Disney
 Dockers
 Dodge
@@ -91,14 +115,19 @@ Dunlop
 Durex
 Duvel
 Eastpak
+eBay!
 Ecco!
 Electrolux
 Ellesse
+Emirates!
 Esprit
 Esso
 Estée Lauder!
+Etsy!
 Eucerin!
+Expedia!
 Exxon!
+Facebook!
 Fanta
 Febreze
 Fender!
@@ -109,11 +138,18 @@ Fiat
 Fila
 Fisher-Price!
 Fjallraven!
+Ford!
+Forever 21!
+Fossil!
 Fox
+Frito-Lay!
 Fujifilm
 Furla!
 Gant
 Gateway!
+Gatorade!
+General Motors!
+Gerber!
 Geox
 Gibson!
 Gillette
@@ -122,6 +158,7 @@ Glenfiddich
 Godiva!
 Google
 Gordon's Gin!
+GoPro!
 Grimbergen
 Gucci
 Guess
@@ -135,39 +172,53 @@ Head!
 Heineken
 Heinz
 Helly Hansen!
+Hilton!
 Hitachi
+Honda!
+HP!
 Huawei
 Huggies
 Hunter!
 Hyundai
 iFly!
+IKEA!
 Illy!
 Infiniti!
 Inglow!
+Instagram!
 Intel
 iQIYI!
 IQOS!
+IWC!
 Ivy Park!
+J.Crew!
 Jack Daniel's!
 Jagermeister
 Jaguar
+Jamba Juice!
 Jameson
+JanSport!
 JBL
 Jeep
+JetBlue!
 Johnson & Johnson!
 Kappa
 Kawasaki
 Keen!
 Kelloggs
 Kenwood!
+KFC!
 Kia
 Kinder
 Kipling!
+KitchenAid!
 Kitkat
 Kleenex
 Knorr
 Kodak
 Kodiak!
+Kohl's!
+Lacoste!
 Lamborghini
 Lavazza
 Lee!
@@ -178,10 +229,13 @@ Lenovo
 Leonidas
 Levis
 Lexus
+LG!
 Lindt
+LinkedIn!
 Lipton
 Listerine!
 Longines!
+L'oreal!
 Lotus
 Lowa!
 MAC!
@@ -191,17 +245,20 @@ Mars!
 Marshall
 Martini
 Maserati
+MasterCard!
 Mattel
 Max Factor!
 Maxwell House!
 Maybelline
 Mazda
+McDonald's!
 Meindl!
 Mercedes
 Merrell!
 Mexx!
 Michael Kors!
 Miele
+Microsoft!
 Milka
 Milky Way!
 Mitsubishi
@@ -211,6 +268,7 @@ Monster
 Moosejaw!
 Motorola
 Movado!
+MTV!
 Muji!
 MZ Skin!
 Napapijri!
@@ -218,8 +276,10 @@ Nars!
 Nescafe
 Nesquik
 Nestlé
+Netflix!
 Neuhaus!
 Neutrogena
+New Balance!
 Nike
 Nikon
 Ninja!
@@ -228,12 +288,14 @@ Nintendo
 Nissan
 Nivea
 Nokia
+North Face!
 Nutella
 Oakley
 Obey!
 Odlo!
 Ofra!
 Ogio!
+Old Navy!
 Olympus!
 Omega!
 Opel
@@ -241,11 +303,13 @@ Oracle!
 Oral-B!
 Oreo
 Osprey!
+OxyClean!
 Ozark Trail!
 Palmolive
 Pampers
 Panasonic
 Pandora
+Papa John's!
 Parajumpers!
 Patagonia!
 Patek Philippe!
@@ -253,12 +317,16 @@ Pepe Jeans!
 Pepsi
 Persil
 Persol!
+Pfizer!
 Philips
 Piaget!
+Pinnacle!
+Pinterest!
 Pioneer
 PizzaHut
 Playboy
 Playmobil
+PlayStation!
 Polaroid
 Pontiac!
 Porsche
@@ -269,9 +337,13 @@ Prince!
 Puma
 PXG!
 Quaker!
+Qatar Airways!
 Quiksilver
+QVC!
 Ralph Lauren!
 RayBan
+Red Hat!
+Red Lobster!
 Redbull
 Reebok
 Replay!
@@ -312,7 +384,9 @@ Sorel!
 Special K!
 Speedo!
 Spotify
+Sprint!
 Sprite
+Square!
 Starbucks
 Stella Artois!
 Subaru
@@ -325,49 +399,67 @@ Swatch
 TAG Heuer!
 Tampax
 Tanqueray!
+Target!
 Tassimo
 Tena!
 Tesla
 Tetley
 Teva!
 Texaco!
+TGI Fridays!
 Thor!
 Tiffany!
 Timberland
 Timex!
+Tinder!
 Tissot
 Toblerone
 Tommy Hilfiger!
 Toshiba
+Toyota!
 Triumph
 Tumi!
 Twinings
 Twix
+Uber!
 Ugg
 Umbro
 Uncle Ben's!
 Under!
 Unilever
+United Airlines!
 Uniqlo
+UPS!
 Vacheron!
 Vaio
 Valentino!
 Vanish
 Vans
+Verizon!
 Versace
 Vespa
+Victoria's Secret!
+Visa!
 Volkswagen
 Volvo
+Walmart!
 Weight Watchers!
+Wendy's!
+WhatsApp!
 Whirlpool
 Wilkinson
 Wilson
 Woolrich!
 Wrangler!
+XBox!
 Xerox!
 Xfinity!
 Xiaomi
 Yahoo
 Yamaha
+Yelp!
+YouTube!
 Zara
 Zillow!
+Zoom!
+Zumba!
