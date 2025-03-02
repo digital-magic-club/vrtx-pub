@@ -295,6 +295,7 @@ cinquenta
 circuito
 círculo
 citação
+city
 cívico
 civil
 claro
@@ -339,6 +340,7 @@ congelar
 conhecimento
 conjunto
 conselho
+consequência
 console
 construir
 contar
@@ -553,7 +555,7 @@ email
 emaranhado
 embaixo
 embaraço
-embarquei
+embarque
 embasamento
 embelezar
 emblemático
@@ -837,6 +839,7 @@ fundamental
 fundir
 fundo
 fúnebre
+funk
 furar
 furgão
 fúria
@@ -1009,6 +1012,7 @@ hipnotizar
 hipopótamo
 hipótese
 história
+hockey 
 hoje
 holandês
 holística
@@ -1233,6 +1237,7 @@ justiça
 justificativa
 juventude
 kabbalah!
+kafka
 karaoke
 karaokê
 karate
@@ -1342,6 +1347,7 @@ luta
 lutar
 luto
 luz
+Lyra
 maçã
 machete
 mãe
@@ -1376,6 +1382,7 @@ março
 maré
 marfim
 marrom
+mary
 matar
 matéria
 matiz
