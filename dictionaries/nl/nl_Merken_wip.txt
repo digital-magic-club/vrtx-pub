@@ -560,16 +560,10 @@ Swagtron
 Syntus
 T-Mobile
 T-Mobile Nederland
-Table Tennis!
-Table Tennis Racket
 TCL
 TCL Audio
 Tefal
 Telfort
-Tennis
-Tennis Ball
-Tennis Gear
-Tennis Racket
 Texas Instruments
 The Sims!
 The Witcher!
@@ -638,8 +632,8 @@ Wharfedale
 Wharfedale Speakers
 Whirlpool
 Wiko
-World of Tanks
-World of Warcraft
+World of Tanks!
+World of Warcraft!
 World Wrestling Entertainment (WWE)
 Wrangler
 Wrestling
