@@ -1,21 +1,30 @@
+Aberdeen
+Abidjan!
 Afeganistão
 África do sul
 Albânia
 Alemanha
+Alexandria
 Andorra
 Angola
 Antígua e barbuda
+Apia
 Arabia saudita
 Argélia
 Argentina
 Armênia
+Arques
+Auckland
 Austrália
 Áustria
+Avignon
 Azerbaijão
 Bahamas
 Bahrein
 Bangladesh
 Barbados
+Beijing
+Belfast
 Bélgica
 Belize
 Benim
@@ -23,19 +32,25 @@ Bielorrússia
 Bolívia
 Bósnia
 Botswana
+Bradford
+Braxton 
+Brixton  
 Brunei
 Bulgária
 Burundi
 Camarões
 Camboja
 Canadá
+Cardiff
 Catar
+Cazaquistao
 Cazaquistão
 Chile
 China
 Chipre
 Colômbia
 Côngo
+Copenhagen
 Coreia do Norte
 Coreia do Sul
 Costa do marfim
@@ -44,8 +59,19 @@ Crasil
 Croácia
 Cuba
 Curquina Fasso
+Daejeon
+Darwin
+Denver
+Detroit
 Dinamarca
+Djibouti
+Dreux
+Dubai
+Ecuador
+Edinburgh
 Egito
+Egypt
+Ekaterinburg
 Emirados árabes
 Equador
 Eritreia
@@ -53,32 +79,44 @@ Escócia
 Eslováquia
 Eslovênia
 Espanha
+Essex
 Essuatíni
 Estados unidos
 Estônia
 Etiópia
+Evreux
+Evry!
+Exeter
 Fiji
 Filipinas
 Finlândia
+Frankfurt
 Gana
 Georgia
 Granada
 Grécia
+Greenwich
+Guangxi
 Guatemala
 Guiana
 Guine
 Guine Bissau
 Guine equatorial
+Guyana
 Haiti
+Hefei
 Holanda
 Honduras
+Houston
 Hungria
+Iceland
 Iêmen
 Ilhas Maldivas
 Ilhas Marshal
 Índia
 Indonésia
 Inglaterra
+Iquitos
 Iran
 Iraque
 Irlanda
@@ -86,43 +124,78 @@ Irlanda do norte
 Islândia
 Israel
 Itália
+Italy!
+Jakarta
 Jamaica
+Jamaique
 Japão
 Jordania
+Kanpur
+Kawasaki
+Kenya
 Kosovo
+Kraków
+Kyoto
+Lanzhou
 Laus
 Letônia
 Libano
 Líbia
+Libya
 Liechtenstein
+Lithuania
 Lituânia
+Liverpool
+Ljubljana!
 Luxemburgo
+Lviv
 Macedônia do norte
 Madagascar
 Malásia
 Malaui
+Malawi
+Malaysia
 Maldivas
 Mali
 Malta
+Marrakesh
 Marrocos
 Maurícia
 Mauritânia
+Meaux
+Memphis
 México
 Mianmar
+Minsk
 Moçambique
 Mônaco
 Mongólia
 Montenegro
+Moscow
+Mozambique
+Munich
+Myanmar
+Nagoya
 Namíbia
+Nanjing
 Nepal
+Newcastle
+Newport
 Nicarágua
 Nigéria
 Noruega
+Norway!
 Nova Guine
 Nova Zelândia
+Odessa
 Omã
+Orlando
+Osaka
+Oslo
+Oxford
 Pais de Galês
 Países Baixos
+Pakistan
 Palestina
 Panamá
 Paquistão
@@ -130,48 +203,84 @@ Paraguai
 Perú
 Polônia
 Portugal
+Qiqihar
 Quênia
 Quirguistão
+Recife
 Reino unido
 República Centro Africana
 República Dominicana
 República Tcheca
 Romênia
+Roques
 Ruanda
 Rússia
+Rwanda
+Samarqand
 San Marino
 Santa Lúcia
 São Cristóvão e Neves
 São Tome e Príncipe
 São Vicente e Granadinas
+Seattle
 Seicheles
 Senegal
 Serra Leoa
 Sérvia
+Shanghai
+Sharjah
+Sheffield
+Shenzhen
 Singapura
 Síria
+Slovakia
+Slovaquie!
 Somália
+Spain!
 Sri Lanka
+Stockholm
 Sudão
 Sudão do sul
 Suécia
 Suriname
+Suzhou!
+Sweden
+Switzerland
+Sydney
 Tailândia
+Taipei
 Taiwan
+Tajikistan
 Tanzânia
+Tijuana
 Timor leste
 Togo
+Tokyo
 Trindade e Tobago
 Tunísia
+Turkey!
 Turquemenistão
 Turquia
 Ucrânia
 Uganda
+Ukraine
 Uruguai
 Uzbequistao
 Vaticano
 Venezuela
 Vietnã
 Vietnan
-ZÂmbia
+Vladivostok
+Warsaw!
+Washington
+Winchester
+Winnipeg
+Wuhan
+Xiamen
+Xian
+Yemen
+Yokohama
+York
+Zâmbia
+Zhangxian
 Zimbabue
