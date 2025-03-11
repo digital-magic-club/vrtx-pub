@@ -538,162 +538,162 @@ Total missing words: `312`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** angstvallig, achterkant, arbitrage, ademen, afwegen
-- **Letter:** `a`, **Position:** `2`, **Words:** laten, daarna, kaviaar, cayenne, vampier
-- **Letter:** `a`, **Position:** `3`, **Words:** shampoo, stamhouder, glaswand, staal, baanwielrenner
-- **Letter:** `a`, **Position:** `4`, **Words:** bewaartermijn, lokaliseren, opmaken, alfatype, aquarium
-- **Letter:** `a`, **Position:** `5`, **Words:** vervanging, sociabiliteit, uitgangspunt, betaalverzoek, musea
-- **Letter:** `a`, **Position:** `6`, **Words:** interactieve, zenuwachtig, koopwaar, glaswand, gangpad
-- **Letter:** `b`, **Position:** `1`, **Words:** bedanken, brandweer, betekenis, bouwmeester, bierglas
-- **Letter:** `b`, **Position:** `2`, **Words:** observatieteam, ebay, abrikozenjam, abonnement
-- **Letter:** `b`, **Position:** `3`, **Words:** gebruikelijkst, arbitrage, tabel, arbodienst, labyrint
-- **Letter:** `b`, **Position:** `4`, **Words:** ijsbad, uitbreiding, bosbessen, symbolen, aanbevelingsbrief
-- **Letter:** `b`, **Position:** `5`, **Words:** landbouw, voorbereiding, dierbaren, voorbeeldzin, jaarbeurs
-- **Letter:** `b`, **Position:** `6`, **Words:** afwasbak, youtube, spoedbehandeling, akkerbouwproduct, flexibel
-- **Letter:** `c`, **Position:** `1`, **Words:** cyprus, chocolaatje, commando, crowdfunding, cyste
-- **Letter:** `c`, **Position:** `2`, **Words:** acrogym, schillen, accorderen, schommelstoel, schaap
-- **Letter:** `c`, **Position:** `3`, **Words:** acceleratie, accorderen, nicotine, excuseren, rechterlijke
-- **Letter:** `c`, **Position:** `4`, **Words:** beschouwen, evacueren, onschuldig, coachen, psychiater
-- **Letter:** `c`, **Position:** `5`, **Words:** antecedent, insecten, effecten, bemachtigen, logica
-- **Letter:** `c`, **Position:** `6`, **Words:** gynaecoloog, boodschap, contactloos, gebracht, multiculturaliteit
-- **Letter:** `d`, **Position:** `1`, **Words:** dansexpressie, draait, domino, dwangarbeid, duurzaamheid
-- **Letter:** `d`, **Position:** `2`, **Words:** idee, ademen, advocaat, advertentie, adreswijziging
-- **Letter:** `d`, **Position:** `3`, **Words:** onderwijs, onderweg, medebestuurder, industrieterrein, bedanken
-- **Letter:** `d`, **Position:** `4`, **Words:** rijd, handelen, stad, liedjes, wandbord
-- **Letter:** `d`, **Position:** `5`, **Words:** brood, woordenlijst, antidateren, grondig, broodbeleg
-- **Letter:** `d`, **Position:** `6`, **Words:** afzonderlijke, zwaardvechten, subsidie, erkende, tevredenheid
-- **Letter:** `e`, **Position:** `1`, **Words:** exacte, extrapoleren, evacueren, etiquette, examens
-- **Letter:** `e`, **Position:** `2`, **Words:** zelfrealisatie, rebel, verloor, selecteren, bewerken
-- **Letter:** `e`, **Position:** `3`, **Words:** feestdag, frequentieruimte, liedjes, bierglas, opera
-- **Letter:** `e`, **Position:** `4`, **Words:** negeren, opgehangen, aubergine, beheersplan, recessie
-- **Letter:** `e`, **Position:** `5`, **Words:** beheersplan, duizenden, screenshot, hockey, buffer
-- **Letter:** `e`, **Position:** `6`, **Words:** trucjes, noordelijk, voorkeur, toevoegt, verkleden
-- **Letter:** `f`, **Position:** `1`, **Words:** filmquiz, formule, feestdag, fiscale, frequentie
-- **Letter:** `f`, **Position:** `2`, **Words:** afstandsschot, effecten, afwezig, afvaardiging, afvragen
-- **Letter:** `f`, **Position:** `3`, **Words:** reflex, lefgozer, alfatype, erfschuld, geformuleerd
-- **Letter:** `f`, **Position:** `4`, **Words:** herfst, buffer, zelfzorg, zelfrealisatie, hoofdhuurder
-- **Letter:** `f`, **Position:** `5`, **Words:** bierfles, stoofvlees, strafkamp, twijfelgeval, griffie
-- **Letter:** `f`, **Position:** `6`, **Words:** beleefd, geloofwaardig, stijlfout, uitoefenen, dezelfde
-- **Letter:** `g`, **Position:** `1`, **Words:** gynaecoloog, golven, grensgeval, gewonnen, gelijktijdig
-- **Letter:** `g`, **Position:** `2`, **Words:** agenten, egotripper, agent, ogen, egalisatie
-- **Letter:** `g`, **Position:** `3`, **Words:** negeren, hogerop, yoghurt, ingewikkeld, wagen
-- **Letter:** `g`, **Position:** `4`, **Words:** aangifte, lesgeven, uitgewerkt, uitgebreide, volgde
-- **Letter:** `g`, **Position:** `5`, **Words:** reorganisatie, energietekort, dwangarbeid, hooggeachte, vroegere
-- **Letter:** `g`, **Position:** `6`, **Words:** belegging, woningbehoefte, stevige, afslag, veilige
-- **Letter:** `h`, **Position:** `1`, **Words:** hogerop, huurquote, herdenken, huwelijk, hexagram
-- **Letter:** `h`, **Position:** `2`, **Words:** whisky, shampoo, showmodel, thuiswerken, thuispubliek
-- **Letter:** `h`, **Position:** `3`, **Words:** schoongemaakt, schaaltje, schrift, schaap, schuldenaar
-- **Letter:** `h`, **Position:** `4`, **Words:** lichaamsdeel, aanhankelijk, kachel, daghit, rechts
-- **Letter:** `h`, **Position:** `5`, **Words:** vlucht, coachen, onschuldige, psychologie, beschouwen
-- **Letter:** `h`, **Position:** `6`, **Words:** bemachtigen, erfschuld, gewichten, onderhandelingen, gedachtewisseling
-- **Letter:** `i`, **Position:** `1`, **Words:** invult, italiaanse, intellectueel, ijzermijn, ijsvogel
-- **Letter:** `i`, **Position:** `2`, **Words:** lichaamsdeel, kinderbed, uitstel, liquidatie, billy
-- **Letter:** `i`, **Position:** `3`, **Words:** glijden, slijmvlies, kwitantie, blijven, stilte
-- **Letter:** `i`, **Position:** `4`, **Words:** kruisje, gelijkwaardiger, bekijkt, domino, afwijzen
-- **Letter:** `i`, **Position:** `5`, **Words:** akelig, scheikunde, rijtijd, gothic, onduidelijk
-- **Letter:** `i`, **Position:** `6`, **Words:** degelijk, opschieten, tuinlieden, experiment, lokaliseren
-- **Letter:** `j`, **Position:** `1`, **Words:** jongeren, jarenlange, jaar, jagen, jaartal
-- **Letter:** `j`, **Position:** `2`, **Words:** ajax, ijzermijn, sjabloon, ijsbad, ijsvogel
-- **Letter:** `j`, **Position:** `3`, **Words:** pijl, wijze, rijd, tijdje, nijmegenaar
-- **Letter:** `j`, **Position:** `4`, **Words:** biljartbal, stijlfout, slijmvlies, azijn, vrijster
-- **Letter:** `j`, **Position:** `5`, **Words:** gelijkwaardiger, strijd, liedjes, trucjes, huisje
-- **Letter:** `j`, **Position:** `6`, **Words:** rijtijd, aanwijzen, bedrijfsmanagement, kruisje, schrijven
-- **Letter:** `k`, **Position:** `1`, **Words:** kijkje, kerel, kwekerij, kaviaar, kind
-- **Letter:** `k`, **Position:** `2`, **Words:** skilift, akelig, akkerbouwproduct, akte, ikzelf
-- **Letter:** `k`, **Position:** `3`, **Words:** opkijken, lokaliseren, bekerwedstrijd, zakcentje, eskimo
-- **Letter:** `k`, **Position:** `4`, **Words:** leuk, werkstijl, hockey, parket, verklaring
-- **Letter:** `k`, **Position:** `5`, **Words:** whisky, afzakkertje, nauwkeurigheid, betekenis, afbakening
-- **Letter:** `k`, **Position:** `6`, **Words:** strafkamp, opkijken, sprookjesfiguur, indrukwekkend, afzakkertje
-- **Letter:** `l`, **Position:** `1`, **Words:** liedjes, lokaliseren, liquidatie, luistert, laten
-- **Letter:** `l`, **Position:** `2`, **Words:** alcoholische, algemeen, flexibel, aluminium, klus
-- **Letter:** `l`, **Position:** `3`, **Words:** zelfrealisatie, gulzigheid, valeriaan, dolfijnen, volkswijk
-- **Letter:** `l`, **Position:** `4`, **Words:** billy, spellingregel, eerlijke, ovulatie, akelig
-- **Letter:** `l`, **Position:** `5`, **Words:** bevolking, speelden, gevolgd, acceleratie, downloaden
-- **Letter:** `l`, **Position:** `6`, **Words:** vervalsing, gruwelijk, fiscale, mythologie, opvallen
-- **Letter:** `m`, **Position:** `1`, **Words:** musea, missen, mythologie, meebrengen, middellandse
-- **Letter:** `m`, **Position:** `2`, **Words:** smaken, omslachtig, images, omloop, email
-- **Letter:** `m`, **Position:** `3`, **Words:** zomaar, kampioen, symbolen, semtex, samentrekkingen
-- **Letter:** `m`, **Position:** `4`, **Words:** commando, naamverandering, asymmetrie, filmquiz, shampoo
-- **Letter:** `m`, **Position:** `5`, **Words:** kilometerheffing, forums, vlaams, afkomen, algemeen
-- **Letter:** `m`, **Position:** `6`, **Words:** consumptie, toekomst, informeel, economen, geformuleerd
-- **Letter:** `n`, **Position:** `1`, **Words:** negeren, nachtbus, neus, nauwkeurigheid, normal
-- **Letter:** `n`, **Position:** `2`, **Words:** analytics, onduidelijk, interviewer, onveranderd, onaantastbaarheid
-- **Letter:** `n`, **Position:** `3`, **Words:** context, pannenkoek, kindervoorstelling, woningbehoefte, concert
-- **Letter:** `n`, **Position:** `4`, **Words:** ogen, kranten, beantwoorden, grondig, tuinliefhebber
-- **Letter:** `n`, **Position:** `5`, **Words:** graanproduct, afzonderlijke, daarna, abonnement, laten
-- **Letter:** `n`, **Position:** `6`, **Words:** rokkenjager, antenne, vervanging, instantie, kwitantie
-- **Letter:** `o`, **Position:** `1`, **Words:** opschieten, omloop, onmiddellijk, oostzijde, ontbreken
-- **Letter:** `o`, **Position:** `2`, **Words:** jongeren, houden, logica, volleybal, hockey
-- **Letter:** `o`, **Position:** `3`, **Words:** chocolaatje, eromheen, promotie, profiel, voorbeelden
-- **Letter:** `o`, **Position:** `4`, **Words:** stoofvlees, arbodienst, acrogym, nicotine, accorderen
-- **Letter:** `o`, **Position:** `5`, **Words:** verwondingen, sprookjesfiguur, harmonie, waarover, omhoog
-- **Letter:** `o`, **Position:** `6`, **Words:** embryo, downloadt, naamwoord, abrikozenjam, downloaden
-- **Letter:** `p`, **Position:** `1`, **Words:** profiel, plakken, pijn, petanque, procedurefout
-- **Letter:** `p`, **Position:** `2`, **Words:** opkomen, speelden, opera, speelsheid, opgehangen
-- **Letter:** `p`, **Position:** `3`, **Words:** kapot, experiment, lopers, espresso, koppelt
-- **Letter:** `p`, **Position:** `4`, **Words:** supporter, vampier, etappe, stopzetting, koopwaar
-- **Letter:** `p`, **Position:** `5`, **Words:** shampoo, zorgpas, knijpen, acceptatie, woonplaats
-- **Letter:** `p`, **Position:** `6`, **Words:** beknoptheid, tegenpartij, sportpsycholoog, autosport, omloop
-- **Letter:** `q`, **Position:** `1`, **Words:** queue, quotum, quizzen, quot
-- **Letter:** `q`, **Position:** `2`, **Words:** equivalent, aqua, aquarium, aquariumplant
-- **Letter:** `q`, **Position:** `3`, **Words:** acquisitie, liquidatie, request, requisitoir
-- **Letter:** `q`, **Position:** `4`, **Words:** etiquette, frequentie, frequentieruimte, exequatur
-- **Letter:** `q`, **Position:** `5`, **Words:** zeeaquarium, filmquiz, deliquenten, huurquote, taalquiz
+- **Letter:** `a`, **Position:** `1`, **Words:** aanslag, arena, actie, aanwaaien, afbakening
+- **Letter:** `a`, **Position:** `2`, **Words:** baanwielrenner, jarenlange, aanwaaien, aannemen, aanwijzen
+- **Letter:** `a`, **Position:** `3`, **Words:** stamhouder, waarover, ebay, shampoo, jaartal
+- **Letter:** `a`, **Position:** `4`, **Words:** gewaarschuwd, schapen, gewas, detail, invalwerk
+- **Letter:** `a`, **Position:** `5`, **Words:** omslachtig, musea, firma, biljartbal, bewaartermijn
+- **Letter:** `a`, **Position:** `6`, **Words:** handzaag, lichaamsdeel, zoutvat, equivalent, onveranderd
+- **Letter:** `b`, **Position:** `1`, **Words:** bewaartermijn, borstzakje, bestuur, boodschappen, bezetting
+- **Letter:** `b`, **Position:** `2`, **Words:** ebay, observatieteam, abrikozenjam, abonnement
+- **Letter:** `b`, **Position:** `3`, **Words:** embryo, arbitrage, afblijven, gebouwd, rabobank
+- **Letter:** `b`, **Position:** `4`, **Words:** verbaasd, symbolen, ontbreken, meubilering, boobytrap
+- **Letter:** `b`, **Position:** `5`, **Words:** tuinbouwproduct, rabobank, dierbaren, voorbereiding, gehobbel
+- **Letter:** `b`, **Position:** `6`, **Words:** afwasbak, youtube, meegebracht, nieuwbouwhuis, uitgebreide
+- **Letter:** `c`, **Position:** `1`, **Words:** cyclus, chocolaatje, concert, courtage, chocoladeletter
+- **Letter:** `c`, **Position:** `2`, **Words:** actie, accorderen, schommelstoel, achterkant, schoongemaakt
+- **Letter:** `c`, **Position:** `3`, **Words:** rechts, alcoholische, sociabiliteit, document, excuseren
+- **Letter:** `c`, **Position:** `4`, **Words:** circus, vlucht, spaceshuttle, gracht, fiscale
+- **Letter:** `c`, **Position:** `5`, **Words:** mexicaanse, gedachtewisseling, topscorer, verschijnen, erfschuld
+- **Letter:** `c`, **Position:** `6`, **Words:** gaskachel, gynaecoloog, zweefclub, multiculturaliteit, projectmanager
+- **Letter:** `d`, **Position:** `1`, **Words:** detail, downloaden, daarna, downloadt, duurzaamheid
+- **Letter:** `d`, **Position:** `2`, **Words:** advertentie, idee, ademen, advocaat, adressering
+- **Letter:** `d`, **Position:** `3`, **Words:** onderzoekscommissie, onderhandelingen, pedicure, bodyguard, onderwijs
+- **Letter:** `d`, **Position:** `4`, **Words:** landelijke, uitdrukking, goedkope, kind, geldverkeer
+- **Letter:** `d`, **Position:** `5`, **Words:** waardering, brood, tweede, noordelijk, grondig
+- **Letter:** `d`, **Position:** `6`, **Words:** accorderen, erkende, schuldenaar, strijd, procedurefout
+- **Letter:** `e`, **Position:** `1`, **Words:** erfgenaam, evenveel, externe, elektriciteit, effecten
+- **Letter:** `e`, **Position:** `2`, **Words:** meebrengen, nettoresultaat, leerkrachten, relaxed, meldde
+- **Letter:** `e`, **Position:** `3`, **Words:** diepvries, deelwoorden, frequentieruimte, nieuwbouwhuis, meegebracht
+- **Letter:** `e`, **Position:** `4`, **Words:** wagen, regel, wetenschap, beheersplan, super
+- **Letter:** `e`, **Position:** `5`, **Words:** herdenken, procedurefout, isoleucine, bosbessen, werkelijke
+- **Letter:** `e`, **Position:** `6`, **Words:** algemeen, medebestuurder, verzoeken, trucjes, naamverandering
+- **Letter:** `f`, **Position:** `1`, **Words:** faux, feestdag, fijnmaken, fiscale, films
+- **Letter:** `f`, **Position:** `2`, **Words:** afbeelding, afbakening, afblijven, afnemen, afzonderlijke
+- **Letter:** `f`, **Position:** `3`, **Words:** geformuleerd, alfatype, wafel, reflex, erfgenaam
+- **Letter:** `f`, **Position:** `4`, **Words:** griffie, zelfrealisatie, hoofdhuurder, buffer, profiel
+- **Letter:** `f`, **Position:** `5`, **Words:** telefoonaansluiting, zweefclub, stoofvlees, strafkamp, griffie
+- **Letter:** `f`, **Position:** `6`, **Words:** schriftelijke, stijlfout, skilift, dezelfde, uitoefenen
+- **Letter:** `g`, **Position:** `1`, **Words:** gangpad, geformuleerd, gezien, gebruikelijkst, gewichten
+- **Letter:** `g`, **Position:** `2`, **Words:** agenten, egotripper, egalisatie, agent, ogen
+- **Letter:** `g`, **Position:** `3`, **Words:** ingewikkeld, degelijk, yoga, zeggen, dagverblijf
+- **Letter:** `g`, **Position:** `4`, **Words:** lesgeven, uitgewerkt, jongeren, uitgebreid, meegebracht
+- **Letter:** `g`, **Position:** `5`, **Words:** hooggeachte, voorgaande, weergave, werkgroep, religieuze
+- **Letter:** `g`, **Position:** `6`, **Words:** beweegreden, stevige, belegging, omhoog, uitleg
+- **Letter:** `h`, **Position:** `1`, **Words:** huisje, heerlijkheid, huwelijk, handzaag, hersteld
+- **Letter:** `h`, **Position:** `2`, **Words:** thuispubliek, showmodel, thuiswerken, chocoladeletter, chocolaatje
+- **Letter:** `h`, **Position:** `3`, **Words:** scheikunde, achterkant, schillen, schriftelijke, schaaltje
+- **Letter:** `h`, **Position:** `4`, **Words:** zacht, enthousiast, nachtbus, zachte, gothic
+- **Letter:** `h`, **Position:** `5`, **Words:** stamhouder, vlucht, coachen, huishouden, opgehangen
+- **Letter:** `h`, **Position:** `6`, **Words:** bemachtigen, gedachtewisseling, verschijnen, erfschuld, onderhandelingen
+- **Letter:** `i`, **Position:** `1`, **Words:** individu, ijsbad, instantie, interviewer, indrukwekkend
+- **Letter:** `i`, **Position:** `2`, **Words:** uitoefenen, filosofie, uitstel, circus, uitdrukking
+- **Letter:** `i`, **Position:** `3`, **Words:** grijze, knijpen, tuinlieden, seizoenen, azijn
+- **Letter:** `i`, **Position:** `4`, **Words:** gelijkwaardiger, arbitrage, woningbehoefte, strikt, gelijktijdig
+- **Letter:** `i`, **Position:** `5`, **Words:** begripvol, vampier, schriftelijke, veilige, schrijven
+- **Letter:** `i`, **Position:** `6`, **Words:** marinier, vetvrij, islamitische, aquariumplant, energietekort
+- **Letter:** `j`, **Position:** `1`, **Words:** jaartal, jarenlange, jaarbeurs, jongeren, jaar
+- **Letter:** `j`, **Position:** `2`, **Words:** ijsvogel, ijzermijn, ajax, sjabloon, ijsbad
+- **Letter:** `j`, **Position:** `3`, **Words:** tijdje, pijn, fijnmaken, kijkje, tijdmeting
+- **Letter:** `j`, **Position:** `4`, **Words:** grijze, azijn, glijden, biljartbal, projectmanager
+- **Letter:** `j`, **Position:** `5`, **Words:** gelijktijdig, tijdje, bekijkt, bewijzen, huisje
+- **Letter:** `j`, **Position:** `6`, **Words:** eerlijke, uitwijden, dolfijnen, begrijpelijker, afblijven
+- **Letter:** `k`, **Position:** `1`, **Words:** kortingsactie, kasteel, kraken, kleuren, kijkje
+- **Letter:** `k`, **Position:** `2`, **Words:** akkerbouwproduct, akelig, ikzelf, akte, skilift
+- **Letter:** `k`, **Position:** `3`, **Words:** eskimo, afkomen, bekerwedstrijd, lokaliseren, pakket
+- **Letter:** `k`, **Position:** `4`, **Words:** elektriciteit, toekomst, parket, herkenbaar, kijkje
+- **Letter:** `k`, **Position:** `5`, **Words:** whisky, hangkompas, plakken, afzakkertje, nauwkeurigheid
+- **Letter:** `k`, **Position:** `6`, **Words:** indrukwekkend, scheikunde, bewerken, spreekkamer, balzak
+- **Letter:** `l`, **Position:** `1`, **Words:** lucht, landbouw, liquidatie, lokaliseren, leerkrachten
+- **Letter:** `l`, **Position:** `2`, **Words:** plaatselijke, slijmvlies, kleuren, flexibel, glaswand
+- **Letter:** `l`, **Position:** `3`, **Words:** relaxed, golven, religieuze, tellen, zeldzaamheid
+- **Letter:** `l`, **Position:** `4`, **Words:** eerlijke, kwaliteit, veilige, isoleucine, ovulatie
+- **Letter:** `l`, **Position:** `5`, **Words:** enkelvoud, downloadt, tuinlieden, ikzelf, overleven
+- **Letter:** `l`, **Position:** `6`, **Words:** mythologie, landelijke, symbolen, opvallen, beveiliging
+- **Letter:** `m`, **Position:** `1`, **Words:** meubilering, missen, maximalisatie, monument, mexicaanse
+- **Letter:** `m`, **Position:** `2`, **Words:** amy, embryo, omvat, omhoog, omgekeerde
+- **Letter:** `m`, **Position:** `3`, **Words:** onmiddellijk, commando, computerspel, bemachtigen, domino
+- **Letter:** `m`, **Position:** `4`, **Words:** nijmegenaar, stimulatie, filmen, formule, commando
+- **Letter:** `m`, **Position:** `5`, **Words:** asymmetrie, slijmvlies, document, droomvrouw, maximalisatie
+- **Letter:** `m`, **Position:** `6`, **Words:** consumptie, geformuleerd, boezem, economen, informeel
+- **Letter:** `n`, **Position:** `1`, **Words:** nauwkeurigheid, nettoresultaat, normal, nicotine, naamwoord
+- **Letter:** `n`, **Position:** `2`, **Words:** inzet, onmiddellijk, enkelvoud, ingevuld, enthousiast
+- **Letter:** `n`, **Position:** `3`, **Words:** aannemen, winnares, consequent, bonus, aanhangers
+- **Letter:** `n`, **Position:** `4`, **Words:** maandelijks, evenveel, grensgeval, tuinbouwproduct, tuinliefhebber
+- **Letter:** `n`, **Position:** `5`, **Words:** woningbehoefte, bedanken, cayenne, bovenzijde, marinier
+- **Letter:** `n`, **Position:** `6`, **Words:** herdenken, instantie, smaken, missen, screening
+- **Letter:** `o`, **Position:** `1`, **Words:** opmars, onderzoeken, overdenken, ontbreken, overweg
+- **Letter:** `o`, **Position:** `2`, **Words:** noodvoorraad, toenemende, toverspreuk, dolfijnen, doelstelling
+- **Letter:** `o`, **Position:** `3`, **Words:** voorgaande, abonnement, broodbeleg, chocolaatje, voorzieningen
+- **Letter:** `o`, **Position:** `4`, **Words:** informeel, kilometers, beroepspraktijk, x-coordinaten, brood
+- **Letter:** `o`, **Position:** `5`, **Words:** nettoresultaat, seizoenen, uitzoeken, chocoladeletter, omloop
+- **Letter:** `o`, **Position:** `6`, **Words:** hogerop, sjabloon, sportorganisatie, shampoo, zelfzorg
+- **Letter:** `p`, **Position:** `1`, **Words:** paddenstoel, processen, projectmanager, puzzelen, psychische
+- **Letter:** `p`, **Position:** `2`, **Words:** opvallen, spaceshuttle, opgesteld, opmars, spellingregel
+- **Letter:** `p`, **Position:** `3`, **Words:** supporter, topscorer, kapot, cyprus, koppelt
+- **Letter:** `p`, **Position:** `4`, **Words:** vampier, supporter, kompas, koppelt, koopwaar
+- **Letter:** `p`, **Position:** `5`, **Words:** schapen, knijpen, zweep, etappe, acceptatie
+- **Letter:** `p`, **Position:** `6`, **Words:** schaap, begripvol, droomprins, thuispubliek, sportpsycholoog
+- **Letter:** `q`, **Position:** `1`, **Words:** quot, quizzen, queue, quotum
+- **Letter:** `q`, **Position:** `2`, **Words:** aquariumplant, aquarium, equivalent, aqua
+- **Letter:** `q`, **Position:** `3`, **Words:** liquidatie, acquisitie, request, requisitoir
+- **Letter:** `q`, **Position:** `4`, **Words:** exequatur, frequentie, etiquette, frequentieruimte
+- **Letter:** `q`, **Position:** `5`, **Words:** huurquote, zeeaquarium, deliquenten, filmquiz, taalquiz
 - **Letter:** `q`, **Position:** `6`, **Words:** consequent, petanque, consequenties
-- **Letter:** `r`, **Position:** `1`, **Words:** request, rechterlijke, recessie, rokkenjager, requisitoir
-- **Letter:** `r`, **Position:** `2`, **Words:** graanproduct, arbodienst, griffie, grensgeval, draait
-- **Letter:** `r`, **Position:** `3`, **Words:** herkenbaar, screenshot, verkleden, firma, herdenken
-- **Letter:** `r`, **Position:** `4`, **Words:** hybrideauto, kaartspel, afvragen, woordenlijst, weergave
-- **Letter:** `r`, **Position:** `5`, **Words:** onderhandelingen, accorderen, onderzoeken, ontbreken, beweren
-- **Letter:** `r`, **Position:** `6`, **Words:** hexagram, winnares, kindervoorstelling, verzorgster, bierproducent
-- **Letter:** `s`, **Position:** `1`, **Words:** stopzetting, stuurman, sloot, streektaal, stilte
-- **Letter:** `s`, **Position:** `2`, **Words:** psychologie, espresso, asielzoekers, isoleucine, psychische
-- **Letter:** `s`, **Position:** `3`, **Words:** xistentie, omslachtig, bestuur, casanova, bestuurder
-- **Letter:** `s`, **Position:** `4`, **Words:** topscorer, hersteld, verschijnen, beest, missen
-- **Letter:** `s`, **Position:** `5`, **Words:** afwasbak, brussel, recessie, aartsrivaal, boodschap
-- **Letter:** `s`, **Position:** `6`, **Words:** toepassingen, adressering, requisitoir, gymnasium, vlaams
-- **Letter:** `t`, **Position:** `1`, **Words:** tegenpartij, toevoegt, tussenklanken, tuinlieden, tijdje
-- **Letter:** `t`, **Position:** `2`, **Words:** stuk, etiquette, studie, stopzetting, stimulatie
-- **Letter:** `t`, **Position:** `3`, **Words:** petanque, uitoefenen, gothic, interviewer, uitsluitend
-- **Letter:** `t`, **Position:** `4`, **Words:** rijtijd, distributienetwerk, afstandsschot, semtex, uittrekken
-- **Letter:** `t`, **Position:** `5`, **Words:** valuta, arbitrage, uitstel, exacte, agent
-- **Letter:** `t`, **Position:** `6`, **Words:** acceptatie, relaxt, lelystad, werkstijl, registreren
-- **Letter:** `u`, **Position:** `1`, **Words:** uitdrukking, uitbreiding, uitgebreide, uitleg, uitgewerkt
-- **Letter:** `u`, **Position:** `2`, **Words:** luchtvochtigheid, huishouden, burger, aubergine, munteenheid
-- **Letter:** `u`, **Position:** `3`, **Words:** bouwgrond, bouwmeester, equivalent, duurzaamheid, bruin
-- **Letter:** `u`, **Position:** `4`, **Words:** valuta, illusie, industrieterrein, zenuwvezel, invult
-- **Letter:** `u`, **Position:** `5`, **Words:** dispuut, quotum, gebouw, gebouwd, stimulatie
-- **Letter:** `u`, **Position:** `6`, **Words:** barhouder, pedicure, uitdrukking, enthousiast, deliquenten
-- **Letter:** `v`, **Position:** `1`, **Words:** vanuit, vertegenwoordigen, vernieling, voorzieningen, vroegere
-- **Letter:** `v`, **Position:** `2`, **Words:** evacueren, avond, overtreffen, avontuur, overzichtelijk
-- **Letter:** `v`, **Position:** `3`, **Words:** omvat, cover, advertentie, advocaat, invult
-- **Letter:** `v`, **Position:** `4`, **Words:** ijsvogel, dagverblijf, stevige, duiven, vetvrij
-- **Letter:** `v`, **Position:** `5`, **Words:** meervoudig, naamverandering, equivalent, geldverkeer, zoutvat
-- **Letter:** `v`, **Position:** `6`, **Words:** enkelvoud, begraven, aanbeveling, angstvallig, zenuwvezel
-- **Letter:** `w`, **Position:** `1`, **Words:** werkbelasting, wortel, werkgroep, wereldoorlog, wetsvoorstel
-- **Letter:** `w`, **Position:** `2`, **Words:** zwaardvechten, kwaliteit, dwangarbeid, zwitserse, kwekerij
-- **Letter:** `w`, **Position:** `3`, **Words:** inwoners, beweegreden, bewijzen, gewaarschuwd, afwezig
-- **Letter:** `w`, **Position:** `4`, **Words:** aanwezigheid, uurwerk, nauwkeurigheid, vanwege, antwoord
-- **Letter:** `w`, **Position:** `5`, **Words:** overweg, nieuwbouwhuis, vaatwastablet, zenuwachtig, flauw
-- **Letter:** `w`, **Position:** `6`, **Words:** adreswijziging, invalwerk, uitgewerkt, gebouw, onderwijs
-- **Letter:** `x`, **Position:** `1`, **Words:** xavier, xistentie, xtc, x-coordinaten
-- **Letter:** `x`, **Position:** `2`, **Words:** axel, externe, extrapoleren, examens, experiment
-- **Letter:** `x`, **Position:** `3`, **Words:** luxe, maximalisatie, fax, mixen, taxi
-- **Letter:** `x`, **Position:** `4`, **Words:** ajax, faux, flexibel, alex, claxon
-- **Letter:** `x`, **Position:** `5`, **Words:** relaxed, remix, relaxt, index, relaxen
-- **Letter:** `x`, **Position:** `6`, **Words:** eindexamen, dansexpressie, semtex, antrax, context
-- **Letter:** `y`, **Position:** `1`, **Words:** youtube, yoghurt, ypsilon, yoga
-- **Letter:** `y`, **Position:** `2`, **Words:** mythologie, cyclus, hybrideauto, dylan, symbolen
-- **Letter:** `y`, **Position:** `3`, **Words:** asymmetrie, psychische, crypto, boys, psychiater
-- **Letter:** `y`, **Position:** `4`, **Words:** baby, bodyguard, sexy, lelystad, labyrint
-- **Letter:** `y`, **Position:** `5`, **Words:** embryo, boobytrap, billy, sorry, ecosysteem
-- **Letter:** `y`, **Position:** `6`, **Words:** hockey, acrogym, zoeksysteem, alfatype, volleybal
-- **Letter:** `z`, **Position:** `1`, **Words:** zakcentje, zenuwachtig, zeldzaamheid, zelfzorg, zomaar
-- **Letter:** `z`, **Position:** `2`, **Words:** azijn, aziatische, ozon, ezel, ezelsbruggetje
-- **Letter:** `z`, **Position:** `3`, **Words:** gezien, afzonderlijke, afzakkertje, ijzermijn, gezinsauto
-- **Letter:** `z`, **Position:** `4`, **Words:** verzuim, quizzen, wijze, uitzoeken, boezem
-- **Letter:** `z`, **Position:** `5`, **Words:** grijze, voorzieningen, quizzen, stopzetting, oostzijde
-- **Letter:** `z`, **Position:** `6`, **Words:** bewijzen, asielzoekers, onderzoekscommissie, aanwezigheid, borstzakje
+- **Letter:** `r`, **Position:** `1`, **Words:** rabobank, regel, rebel, reorganisatie, requisitoir
+- **Letter:** `r`, **Position:** `2`, **Words:** vrijster, grijze, brexit, droomprins, brood
+- **Letter:** `r`, **Position:** `3`, **Words:** berichten, werkgroep, jarenlange, vurige, vernieling
+- **Letter:** `r`, **Position:** `4`, **Words:** extrapoleren, voorzieningen, overtreffen, extra, cyprus
+- **Letter:** `r`, **Position:** `5`, **Words:** aquariumplant, ontbreken, hogerop, bekerwedstrijd, ieder
+- **Letter:** `r`, **Position:** `6`, **Words:** biljartbal, arbitrage, zomaar, overtreffen, werkgroep
+- **Letter:** `s`, **Position:** `1`, **Words:** simpele, slotenmaker, screenshot, sloot, stevig
+- **Letter:** `s`, **Position:** `2`, **Words:** eskimo, islamitische, psychologie, psychische, psychiater
+- **Letter:** `s`, **Position:** `3`, **Words:** bestuur, cyste, discretie, lesgeven, ijsbad
+- **Letter:** `s`, **Position:** `4`, **Words:** dansexpressie, consequent, ecosysteem, aansluiting, brussel
+- **Letter:** `s`, **Position:** `5`, **Words:** grensgeval, duits, recessie, boodschappen, zwitserse
+- **Letter:** `s`, **Position:** `6`, **Words:** parijs, speelsheid, lopers, request, opmars
+- **Letter:** `t`, **Position:** `1`, **Words:** topscorer, tong, tuinliefhebber, tabel, trucjes
+- **Letter:** `t`, **Position:** `2`, **Words:** stoofvlees, staatsbestuur, stereotype, stimulatie, stamhouder
+- **Letter:** `t`, **Position:** `3`, **Words:** witloof, uitgebreid, antecedent, mythologie, enthousiast
+- **Letter:** `t`, **Position:** `4`, **Words:** kasteel, multiculturaliteit, cyste, contexten, vertroebeling
+- **Letter:** `t`, **Position:** `5`, **Words:** plaatselijke, krentenbrood, hersteld, kapot, zachte
+- **Letter:** `t`, **Position:** `6`, **Words:** gracht, industrieterrein, draait, opgesteld, computerspel
+- **Letter:** `u`, **Position:** `1`, **Words:** uitwijden, uitstel, unie, uitdrukking, uitsluitend
+- **Letter:** `u`, **Position:** `2`, **Words:** quotum, huisje, huurquote, queue, burger
+- **Letter:** `u`, **Position:** `3`, **Words:** meubilering, klus, neus, heuptas, thuiswerken
+- **Letter:** `u`, **Position:** `4`, **Words:** vanuit, geluid, document, requisitoir, request
+- **Letter:** `u`, **Position:** `5`, **Words:** gebouw, verzuim, indrukwekkend, circus, exequatur
+- **Letter:** `u`, **Position:** `6`, **Words:** deliquenten, filmquiz, pedicure, taalquiz, barhouder
+- **Letter:** `v`, **Position:** `1`, **Words:** voorbeeldzin, verbieden, vampier, voorbereiding, vrijster
+- **Letter:** `v`, **Position:** `2`, **Words:** ovulatie, avond, overleden, evenwicht, overzichtelijk
+- **Letter:** `v`, **Position:** `3`, **Words:** omvat, kaviaar, bovennatuurlijke, onveranderd, afvalwater
+- **Letter:** `v`, **Position:** `4`, **Words:** toevoegt, wuiven, ijsvogel, stevig, golven
+- **Letter:** `v`, **Position:** `5`, **Words:** activiteit, zoutvat, blijven, daarvan, waarvan
+- **Letter:** `v`, **Position:** `6`, **Words:** uitgevoerd, aanbeveling, observatieteam, slijmvlies, interviewer
+- **Letter:** `w`, **Position:** `1`, **Words:** weergave, wortel, werkstijl, woonplaats, whatsappen
+- **Letter:** `w`, **Position:** `2`, **Words:** twijfelgeval, tweede, zwaardvechten, kwitantie, zwitserse
+- **Letter:** `w`, **Position:** `3`, **Words:** huwelijk, bewaartermijn, afwegen, afwezig, bewust
+- **Letter:** `w`, **Position:** `4`, **Words:** eeuwig, aanwijzen, bouwgrond, bijwoordelijk, uurwerk
+- **Letter:** `w`, **Position:** `5`, **Words:** glaswand, naamwoord, blauw, daadwerkelijk, nieuwbouwhuis
+- **Letter:** `w`, **Position:** `6`, **Words:** onderwijs, afvalwater, adreswijziging, gebouwd, bekerwinst
+- **Letter:** `x`, **Position:** `1`, **Words:** xavier, x-coordinaten, xtc, xistentie
+- **Letter:** `x`, **Position:** `2`, **Words:** exacte, extrapoleren, axel, extra, excuseren
+- **Letter:** `x`, **Position:** `3`, **Words:** sexy, mixer, fax, taxi, hexagram
+- **Letter:** `x`, **Position:** `4`, **Words:** ajax, brexit, claxon, alex, faux
+- **Letter:** `x`, **Position:** `5`, **Words:** index, relaxt, relaxen, relaxed, remix
+- **Letter:** `x`, **Position:** `6`, **Words:** contexten, antrax, reflex, eindexamen, context
+- **Letter:** `y`, **Position:** `1`, **Words:** ypsilon, yoghurt, yoga, youtube
+- **Letter:** `y`, **Position:** `2`, **Words:** mythische, cyprus, hybrideauto, gymnasium, gynaecoloog
+- **Letter:** `y`, **Position:** `3`, **Words:** psychische, etymologisch, stylist, crypto, cayenne
+- **Letter:** `y`, **Position:** `4`, **Words:** acryl, baby, lelystad, ebay, bodyguard
+- **Letter:** `y`, **Position:** `5`, **Words:** ecosysteem, analytics, buddy, boobytrap, sorry
+- **Letter:** `y`, **Position:** `6`, **Words:** whisky, alfatype, audrey, hockey, zoeksysteem
+- **Letter:** `z`, **Position:** `1`, **Words:** zusje, zeggen, zoeksysteem, zeldzaamheid, zomaar
+- **Letter:** `z`, **Position:** `2`, **Words:** ezelsbruggetje, ozon, ezel, aziatische, azijn
+- **Letter:** `z`, **Position:** `3`, **Words:** ijzermijn, gezeten, ikzelf, gezinsauto, gezien
+- **Letter:** `z`, **Position:** `4`, **Words:** verzuim, wijze, quizzen, verzorgster, seizoenen
+- **Letter:** `z`, **Position:** `5`, **Words:** oostzijde, zeldzaam, voorzieningen, duurzaamheid, overzichtelijk
+- **Letter:** `z`, **Position:** `6`, **Words:** bewijzen, borstzakje, verbazen, asielzoekers, uitgezonden
 
 </details>
 
@@ -3173,131 +3173,131 @@ Total missing words: `312`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Assel, Afrikanischer Elefant, Adler, Alpaka, Amobe
-- **Letter:** `a`, **Position:** `2`, **Words:** Habicht, Wallaroo, Aal, Pavian, Wal
-- **Letter:** `a`, **Position:** `3`, **Words:** Grashupfer, Chamaleon, Flamingo, Boa, Blauhaher
-- **Letter:** `a`, **Position:** `4`, **Words:** Giraffe, Urial, Papagei, Fasan, Salamander
-- **Letter:** `a`, **Position:** `5`, **Words:** Kaiman, Zebra, Narwal, Chamaleon, Schwalbe
-- **Letter:** `a`, **Position:** `6`, **Words:** Hylidae, Alligator, Quokka, Alpaka, Admiral
-- **Letter:** `b`, **Position:** `1`, **Words:** Blauhaher, Bison, Braunhaher, Bonobo, Buffel
-- **Letter:** `b`, **Position:** `3`, **Words:** Habicht, Biber, Albatros, Zibetkatze, Robbe
-- **Letter:** `b`, **Position:** `4`, **Words:** Robbe, Amobe, Wombat
+- **Letter:** `a`, **Position:** `1`, **Words:** Amobe, Albatros, Adler, Admiral, Assel
+- **Letter:** `a`, **Position:** `2`, **Words:** Gazelle, Kaiman, Sardine, Wallaroo, Wapiti
+- **Letter:** `a`, **Position:** `3`, **Words:** Orang-Utan, Anakonda, Chamaleon, Ara, Koala
+- **Letter:** `a`, **Position:** `4`, **Words:** Gepard, Seeadler, Kakadu, Salamander, Kanarienvogel
+- **Letter:** `a`, **Position:** `5`, **Words:** Kaiman, Jaguar, Panda, Pavian, Schlange
+- **Letter:** `a`, **Position:** `6`, **Words:** Alpaka, Alligator, Blauhaher, Afrikanischer Elefant, Pelikan
+- **Letter:** `b`, **Position:** `1`, **Words:** Bonobo, Braunhaher, Biber, Boa, Bison
+- **Letter:** `b`, **Position:** `3`, **Words:** Zibetkatze, Robbe, Habicht, Biber, Rabe
+- **Letter:** `b`, **Position:** `4`, **Words:** Wombat, Amobe, Robbe
 - **Letter:** `b`, **Position:** `6`, **Words:** Wallaby, Steinbock
-- **Letter:** `c`, **Position:** `1`, **Words:** Chamaleon, Chinchilla, Clownfisch
-- **Letter:** `c`, **Position:** `2`, **Words:** Schlange, Schildkrote, Schnecke, Schleiereule, Ocelot
-- **Letter:** `c`, **Position:** `3`, **Words:** Mucke, Eichelhaher, Fuchs, Eichhornchen, Luchs
-- **Letter:** `c`, **Position:** `5`, **Words:** Storch, Eidechse, Hirsch, Sprecht, Heuschrecke
-- **Letter:** `c`, **Position:** `6`, **Words:** Frettchen, Rotfuchs, Schnecke, Kranich, Erquicken
-- **Letter:** `d`, **Position:** `1`, **Words:** Damhirsch, Dachs, Dromedar, Delfin, Dodo
+- **Letter:** `c`, **Position:** `1`, **Words:** Chamaleon, Clownfisch, Chinchilla
+- **Letter:** `c`, **Position:** `2`, **Words:** Schlange, Schleiereule, Schwalbe, Ochse, Schwein
+- **Letter:** `c`, **Position:** `3`, **Words:** Luchs, Eichhornchen, Fuchs, Dachs, Eichelhaher
+- **Letter:** `c`, **Position:** `5`, **Words:** Chinchilla, Storch, Eidechse, Sprecht, Heuschrecke
+- **Letter:** `c`, **Position:** `6`, **Words:** Frettchen, Schnecke, Rotfuchs, Kranich, Erquicken
+- **Letter:** `d`, **Position:** `1`, **Words:** Dromedar, Dodo, Delfin, Damhirsch, Dachs
 - **Letter:** `d`, **Position:** `2`, **Words:** Admiral, Adler
-- **Letter:** `d`, **Position:** `3`, **Words:** Dodo, Eidechse, Erdmannchen, Badejacke
-- **Letter:** `d`, **Position:** `4`, **Words:** Kondor, Hund, Sardine, Panda
-- **Letter:** `d`, **Position:** `5`, **Words:** Seeadler, Pferd, Komodowaran, Kakadu, Zikade
-- **Letter:** `d`, **Position:** `6`, **Words:** Schildkrote, Krokodil, Gepard, Dromedar
-- **Letter:** `e`, **Position:** `1`, **Words:** Eichhornchen, Eidechse, Emu, Erdmannchen, Ente
-- **Letter:** `e`, **Position:** `2`, **Words:** Reiher, Pelikan, Reh, Gecko, Delfin
-- **Letter:** `e`, **Position:** `3`, **Words:** Seepferdchen, Pferd, Frettchen, Steinbock, Quetzal
-- **Letter:** `e`, **Position:** `4`, **Words:** Biber, Mowe, Eule, Vogel, Zibetkatze
-- **Letter:** `e`, **Position:** `5`, **Words:** Ochse, Amobe, Wiesel, Wasserbock, Schmetterling
-- **Letter:** `e`, **Position:** `6`, **Words:** Papagei, Ameise, Zikade, Seepferdchen, Spinne
-- **Letter:** `f`, **Position:** `1`, **Words:** Flusspferd, Fasan, Flusskrebs, Falco, Frettchen
+- **Letter:** `d`, **Position:** `3`, **Words:** Eidechse, Erdmannchen, Dodo, Badejacke
+- **Letter:** `d`, **Position:** `4`, **Words:** Panda, Sardine, Kondor, Hund
+- **Letter:** `d`, **Position:** `5`, **Words:** Hylidae, Seeadler, Komodowaran, Zikade, Kakadu
+- **Letter:** `d`, **Position:** `6`, **Words:** Schildkrote, Dromedar, Krokodil, Gepard
+- **Letter:** `e`, **Position:** `1`, **Words:** Eichelhaher, Eule, Eidechse, Eichhornchen, Erdmannchen
+- **Letter:** `e`, **Position:** `2`, **Words:** Seelowe, Seehund, Gepard, Zebra, Geier
+- **Letter:** `e`, **Position:** `3`, **Words:** Ocelot, Quetzal, Frettchen, Steinbock, Elefant
+- **Letter:** `e`, **Position:** `4`, **Words:** Sprecht, Rabe, Gazelle, Biber, Vogel
+- **Letter:** `e`, **Position:** `5`, **Words:** Murmeltier, Buffel, Robbe, Falke, Dromedar
+- **Letter:** `e`, **Position:** `6`, **Words:** Spinne, Papagei, Seepferdchen, Seestern, Ameise
+- **Letter:** `f`, **Position:** `1`, **Words:** Falco, Fasan, Flamingo, Frettchen, Flusspferd
 - **Letter:** `f`, **Position:** `2`, **Words:** Afrikanischer Elefant, Pferd
-- **Letter:** `f`, **Position:** `4`, **Words:** Wolf, Buffel, Rotfuchs, Delfin, Elefant
+- **Letter:** `f`, **Position:** `4`, **Words:** Wolf, Elefant, Buffel, Rotfuchs, Delfin
 - **Letter:** `f`, **Position:** `5`, **Words:** Nilpferd, Seepferdchen, Giraffe
-- **Letter:** `f`, **Position:** `6`, **Words:** Argusfasan, Clownfisch, Giraffe
-- **Letter:** `g`, **Position:** `1`, **Words:** Gorilla, Gazelle, Gepard, Geier, Grashupfer
-- **Letter:** `g`, **Position:** `3`, **Words:** Jaguar, Vogel, Argusfasan
+- **Letter:** `f`, **Position:** `6`, **Words:** Clownfisch, Giraffe, Argusfasan
+- **Letter:** `g`, **Position:** `1`, **Words:** Grizzlybar, Geier, Gepard, Giraffe, Grashupfer
+- **Letter:** `g`, **Position:** `3`, **Words:** Vogel, Jaguar, Argusfasan
 - **Letter:** `g`, **Position:** `4`, **Words:** Kanguru, Pinguin
 - **Letter:** `g`, **Position:** `5`, **Words:** Alligator, Orang-Utan, Papagei
 - **Letter:** `g`, **Position:** `6`, **Words:** Springbock, Majunga-Springaffe
-- **Letter:** `h`, **Position:** `1`, **Words:** Hai, Hylidae, Hirsch, Heuschrecke, Hund
-- **Letter:** `h`, **Position:** `2`, **Words:** Chinchilla, Chamaleon, Uhu
-- **Letter:** `h`, **Position:** `3`, **Words:** Ochse, Schwalbe, Schnecke, Schmetterling, Kuh
-- **Letter:** `h`, **Position:** `4`, **Words:** Luchs, Eichelhaher, Eichhornchen, Fuchs, Damhirsch
-- **Letter:** `h`, **Position:** `5`, **Words:** Blauhaher, Perlhuhn, Truthahn, Grashupfer, Eichhornchen
-- **Letter:** `h`, **Position:** `6`, **Words:** Sprecht, Braunhaher, Rotkehlchen, Eidechse, Chinchilla
+- **Letter:** `h`, **Position:** `1`, **Words:** Hai, Habicht, Hauskatze, Heuschrecke, Hund
+- **Letter:** `h`, **Position:** `2`, **Words:** Chamaleon, Chinchilla, Uhu
+- **Letter:** `h`, **Position:** `3`, **Words:** Ochse, Schwan, Schwein, Schnecke, Schmetterling
+- **Letter:** `h`, **Position:** `4`, **Words:** Luchs, Eichelhaher, Damhirsch, Nashorn, Fuchs
+- **Letter:** `h`, **Position:** `5`, **Words:** Grashupfer, Eichhornchen, Blauhaher, Truthahn, Perlhuhn
+- **Letter:** `h`, **Position:** `6`, **Words:** Chinchilla, Hirsch, Eidechse, Sprecht, Braunhaher
 - **Letter:** `i`, **Position:** `1`, **Words:** Igel, Ibis
-- **Letter:** `i`, **Position:** `2`, **Words:** Kiwi, Wiesel, Bison, Zikade, Biber
-- **Letter:** `i`, **Position:** `3`, **Words:** Urial, Reiher, Grizzlybar, Chinchilla, Geier
-- **Letter:** `i`, **Position:** `4`, **Words:** Schildkrote, Pavian, Alligator, Kiwi, Gorilla
-- **Letter:** `i`, **Position:** `5`, **Words:** Sardine, Kranich, Delfin, Flamingo, Okapi
-- **Letter:** `i`, **Position:** `6`, **Words:** Pinguin, Wapiti, Kanarienvogel, Schleiereule, Schwein
-- **Letter:** `j`, **Position:** `2`, **Words:** Bjorn, Fjord, Ajaja
-- **Letter:** `j`, **Position:** `3`, **Words:** Majidae, Bajacalifornia, Majunga-Springaffe
+- **Letter:** `i`, **Position:** `2`, **Words:** Biber, Hirsch, Pinguin, Zikade, Bison
+- **Letter:** `i`, **Position:** `3`, **Words:** Geier, Grizzlybar, Chinchilla, Reiher, Spinne
+- **Letter:** `i`, **Position:** `4`, **Words:** Pavian, Admiral, Maki, Springbock, Ameise
+- **Letter:** `i`, **Position:** `5`, **Words:** Flamingo, Kranich, Delfin, Damhirsch, Okapi
+- **Letter:** `i`, **Position:** `6`, **Words:** Wapiti, Pinguin, Kanarienvogel, Schwein, Schleiereule
+- **Letter:** `j`, **Position:** `2`, **Words:** Bjorn, Ajaja, Fjord
+- **Letter:** `j`, **Position:** `3`, **Words:** Bajacalifornia, Majidae, Majunga-Springaffe
 - **Letter:** `j`, **Position:** `4`, **Words:** Ajaja, Trajana Schencke
-- **Letter:** `j`, **Position:** `5`, **Words:** Azurjungfer, Ameija, Minijob, Badejacke
-- **Letter:** `j`, **Position:** `6`, **Words:** Nebenjob, Kreuzjoch
-- **Letter:** `k`, **Position:** `1`, **Words:** Kormoran, Koala, Kaiman, Kanarienvogel, Krokodil
-- **Letter:** `k`, **Position:** `3`, **Words:** Yak, Kakadu, Maki, Tukan, Zikade
-- **Letter:** `k`, **Position:** `4`, **Words:** Anakonda, Quokka, Gecko, Rotkehlchen, Krokodil
-- **Letter:** `k`, **Position:** `5`, **Words:** Hauskatze, Afrikanischer Elefant, Alpaka, Pelikan, Quokka
-- **Letter:** `k`, **Position:** `6`, **Words:** Flusskrebs, Zibetkatze
-- **Letter:** `l`, **Position:** `1`, **Words:** Lowe, Luchs, Lama, Lowenpapagei
-- **Letter:** `l`, **Position:** `2`, **Words:** Flamingo, Clownfisch, Flusspferd, Blauhaher, Alpaka
-- **Letter:** `l`, **Position:** `3`, **Words:** Delfin, Nilpferd, Hylidae, Pelikan, Wal
-- **Letter:** `l`, **Position:** `4`, **Words:** Schlange, Igel, Axolotl, Ocelot, Perlhuhn
-- **Letter:** `l`, **Position:** `5`, **Words:** Schildkrote, Urial, Gorilla, Gazelle, Vogel
-- **Letter:** `l`, **Position:** `6`, **Words:** Buffel, Wiesel, Eichelhaher, Narwal, Gazelle
-- **Letter:** `m`, **Position:** `1`, **Words:** Murmeltier, Mowe, Maki, Mucke, Majunga-Springaffe
+- **Letter:** `j`, **Position:** `5`, **Words:** Azurjungfer, Minijob, Badejacke, Ameija
+- **Letter:** `j`, **Position:** `6`, **Words:** Kreuzjoch, Nebenjob
+- **Letter:** `k`, **Position:** `1`, **Words:** Kuh, Kanarienvogel, Kondor, Kormoran, Krokodil
+- **Letter:** `k`, **Position:** `3`, **Words:** Yak, Maki, Kakadu, Tukan, Zikade
+- **Letter:** `k`, **Position:** `4`, **Words:** Gecko, Rotkehlchen, Anakonda, Falke, Mucke
+- **Letter:** `k`, **Position:** `5`, **Words:** Alpaka, Pelikan, Quokka, Hauskatze, Afrikanischer Elefant
+- **Letter:** `k`, **Position:** `6`, **Words:** Zibetkatze, Flusskrebs
+- **Letter:** `l`, **Position:** `1`, **Words:** Lama, Lowe, Luchs, Lowenpapagei
+- **Letter:** `l`, **Position:** `2`, **Words:** Elefant, Blauhaher, Clownfisch, Alligator, Flusskrebs
+- **Letter:** `l`, **Position:** `3`, **Words:** Eule, Delfin, Wolf, Alligator, Falke
+- **Letter:** `l`, **Position:** `4`, **Words:** Schleiereule, Seelowe, Wallaroo, Koala, Perlhuhn
+- **Letter:** `l`, **Position:** `5`, **Words:** Gorilla, Kamel, Gazelle, Assel, Schildkrote
+- **Letter:** `l`, **Position:** `6`, **Words:** Buffel, Grizzlybar, Wiesel, Schwalbe, Gorilla
+- **Letter:** `m`, **Position:** `1`, **Words:** Maki, Murmeltier, Mowe, Mucke, Majunga-Springaffe
 - **Letter:** `m`, **Position:** `2`, **Words:** Ameise, Emu, Amobe, Ameija
-- **Letter:** `m`, **Position:** `3`, **Words:** Lama, Admiral, Hamster, Komodowaran, Kamel
-- **Letter:** `m`, **Position:** `4`, **Words:** Murmeltier, Flamingo, Kormoran, Kaiman, Chamaleon
+- **Letter:** `m`, **Position:** `3`, **Words:** Lama, Wombat, Admiral, Hamster, Komodowaran
+- **Letter:** `m`, **Position:** `4`, **Words:** Kaiman, Dromedar, Flamingo, Murmeltier, Erdmannchen
 - **Letter:** `m`, **Position:** `5`, **Words:** Salamander, Schimmelkafer
 - **Letter:** `m`, **Position:** `6`, **Words:** Schimmelkafer, Schwimmwurm
-- **Letter:** `n`, **Position:** `1`, **Words:** Narwal, Nilpferd, Nashorn, Nerventier, Nebenjob
-- **Letter:** `n`, **Position:** `2`, **Words:** Antilope, Unau, Anakonda, Ente
-- **Letter:** `n`, **Position:** `3`, **Words:** Kondor, Bonobo, Kanguru, Hund, Pinguin
-- **Letter:** `n`, **Position:** `4`, **Words:** Spinne, Orang-Utan, Kranich, Chinchilla, Schnecke
-- **Letter:** `n`, **Position:** `5`, **Words:** Spinne, Steinbock, Tukan, Braunhaher, Springbock
-- **Letter:** `n`, **Position:** `6`, **Words:** Kaiman, Anakonda, Delfin, Elefant, Schlange
-- **Letter:** `o`, **Position:** `1`, **Words:** Opossum, Okapi, Orang-Utan, Otter, Ocelot
-- **Letter:** `o`, **Position:** `2`, **Words:** Robbe, Lowe, Bonobo, Kondor, Gorilla
-- **Letter:** `o`, **Position:** `3`, **Words:** Amobe, Krokodil, Axolotl, Clownfisch, Dromedar
-- **Letter:** `o`, **Position:** `4`, **Words:** Komodowaran, Bison, Bonobo, Dodo, Xenopus laevis
-- **Letter:** `o`, **Position:** `5`, **Words:** Anakonda, Axolotl, Nashorn, Gecko, Krokodil
-- **Letter:** `o`, **Position:** `6`, **Words:** Eichhornchen, Antilope, Komodowaran, Bonobo, Minijob
-- **Letter:** `p`, **Position:** `1`, **Words:** Papagei, Panda, Pony, Pavian, Pinguin
-- **Letter:** `p`, **Position:** `2`, **Words:** Spinne, Opossum, Springbock, Sprecht
-- **Letter:** `p`, **Position:** `3`, **Words:** Wapiti, Gepard, Alpaka, Papagei, Xiphophorus hellerii
-- **Letter:** `p`, **Position:** `4`, **Words:** Okapi, Seepferdchen, Wespe, Nilpferd
+- **Letter:** `n`, **Position:** `1`, **Words:** Narwal, Nashorn, Nilpferd, Nebenjob, Nerventier
+- **Letter:** `n`, **Position:** `2`, **Words:** Antilope, Ente, Anakonda, Unau
+- **Letter:** `n`, **Position:** `3`, **Words:** Panda, Bonobo, Hund, Kanguru, Pony
+- **Letter:** `n`, **Position:** `4`, **Words:** Orang-Utan, Kranich, Schnecke, Spinne, Chinchilla
+- **Letter:** `n`, **Position:** `5`, **Words:** Bison, Steinbock, Clownfisch, Braunhaher, Spinne
+- **Letter:** `n`, **Position:** `6`, **Words:** Schlange, Sardine, Elefant, Delfin, Pavian
+- **Letter:** `o`, **Position:** `1`, **Words:** Ocelot, Ochse, Okapi, Orang-Utan, Opossum
+- **Letter:** `o`, **Position:** `2`, **Words:** Mowe, Kormoran, Koala, Komodowaran, Bonobo
+- **Letter:** `o`, **Position:** `3`, **Words:** Quokka, Clownfisch, Amobe, Axolotl, Storch
+- **Letter:** `o`, **Position:** `4`, **Words:** Bonobo, Komodowaran, Bison, Dodo, Xenopus laevis
+- **Letter:** `o`, **Position:** `5`, **Words:** Anakonda, Ocelot, Axolotl, Kormoran, Falco
+- **Letter:** `o`, **Position:** `6`, **Words:** Komodowaran, Bonobo, Eichhornchen, Antilope, Minijob
+- **Letter:** `p`, **Position:** `1`, **Words:** Pelikan, Panda, Pavian, Perlhuhn, Papagei
+- **Letter:** `p`, **Position:** `2`, **Words:** Spinne, Springbock, Opossum, Sprecht
+- **Letter:** `p`, **Position:** `3`, **Words:** Gepard, Alpaka, Wapiti, Papagei, Xiphophorus hellerii
+- **Letter:** `p`, **Position:** `4`, **Words:** Nilpferd, Seepferdchen, Okapi, Wespe
 - **Letter:** `p`, **Position:** `6`, **Words:** Flusspferd, Xiphophorus hellerii, Lowenpapagei
-- **Letter:** `q`, **Position:** `1`, **Words:** Quokka, Quetzal
-- **Letter:** `q`, **Position:** `2`, **Words:** Equus-Quagga, Aquarium, Aquadukt
+- **Letter:** `q`, **Position:** `1`, **Words:** Quetzal, Quokka
+- **Letter:** `q`, **Position:** `2`, **Words:** Equus-Quagga, Aquadukt, Aquarium
 - **Letter:** `q`, **Position:** `3`, **Words:** Urquell, Erquicken
-- **Letter:** `q`, **Position:** `4`, **Words:** Marquardt, Marquise
+- **Letter:** `q`, **Position:** `4`, **Words:** Marquise, Marquardt
 - **Letter:** `q`, **Position:** `6`, **Words:** Konsequent, Konsequenz, Equus-Quagga
-- **Letter:** `r`, **Position:** `1`, **Words:** Rotkehlchen, Ratte, Reh, Robbe, Rabe
-- **Letter:** `r`, **Position:** `2`, **Words:** Frettchen, Urial, Ara, Argusfasan, Grashupfer
-- **Letter:** `r`, **Position:** `3`, **Words:** Narwal, Sprecht, Giraffe, Afrikanischer Elefant, Sardine
-- **Letter:** `r`, **Position:** `4`, **Words:** Storch, Azurjungfer, Pferd, Zebra, Fjord
-- **Letter:** `r`, **Position:** `5`, **Words:** Geier, Admiral, Adler, Biber, Kanarienvogel
-- **Letter:** `r`, **Position:** `6`, **Words:** Kanguru, Reiher, Kondor, Nashorn, Kormoran
-- **Letter:** `s`, **Position:** `1`, **Words:** Steinbock, Spinne, Seepferdchen, Schwan, Schwalbe
-- **Letter:** `s`, **Position:** `3`, **Words:** Assel, Nashorn, Wespe, Wasserbock, Fasan
-- **Letter:** `s`, **Position:** `4`, **Words:** Flusskrebs, Wasserbock, Hauskatze, Heuschrecke, Ochse
-- **Letter:** `s`, **Position:** `5`, **Words:** Ameise, Argusfasan, Dachs, Opossum, Flusspferd
+- **Letter:** `r`, **Position:** `1`, **Words:** Rabe, Ratte, Reiher, Reh, Robbe
+- **Letter:** `r`, **Position:** `2`, **Words:** Orang-Utan, Grashupfer, Kranich, Krokodil, Argusfasan
+- **Letter:** `r`, **Position:** `3`, **Words:** Kormoran, Murmeltier, Afrikanischer Elefant, Perlhuhn, Gorilla
+- **Letter:** `r`, **Position:** `4`, **Words:** Zebra, Storch, Pferd, Azurjungfer, Bjorn
+- **Letter:** `r`, **Position:** `5`, **Words:** Gepard, Admiral, Adler, Biber, Geier
+- **Letter:** `r`, **Position:** `6`, **Words:** Wasserbock, Wallaroo, Reiher, Kondor, Damhirsch
+- **Letter:** `s`, **Position:** `1`, **Words:** Schwan, Sardine, Sprecht, Schwein, Schwalbe
+- **Letter:** `s`, **Position:** `3`, **Words:** Wasserbock, Wespe, Fasan, Assel, Nashorn
+- **Letter:** `s`, **Position:** `4`, **Words:** Grashupfer, Opossum, Flusspferd, Ibis, Wiesel
+- **Letter:** `s`, **Position:** `5`, **Words:** Luchs, Argusfasan, Dachs, Ameise, Flusskrebs
 - **Letter:** `t`, **Position:** `1`, **Words:** Tukan, Truthahn, Trajana Schencke
-- **Letter:** `t`, **Position:** `2`, **Words:** Steinbock, Otter, Storch
-- **Letter:** `t`, **Position:** `3`, **Words:** Rotfuchs, Katze, Ratte, Ente, Antilope
-- **Letter:** `t`, **Position:** `4`, **Words:** Ratte, Truthahn, Quetzal, Krote, Frettchen
-- **Letter:** `t`, **Position:** `5`, **Words:** Seestern, Albatros, Wapiti, Hamster, Zibetkatze
-- **Letter:** `t`, **Position:** `6`, **Words:** Ocelot, Wombat, Axolotl, Schmetterling
+- **Letter:** `t`, **Position:** `2`, **Words:** Steinbock, Storch, Otter
+- **Letter:** `t`, **Position:** `3`, **Words:** Otter, Ratte, Ente, Antilope, Katze
+- **Letter:** `t`, **Position:** `4`, **Words:** Truthahn, Krote, Frettchen, Quetzal, Ratte
+- **Letter:** `t`, **Position:** `5`, **Words:** Seestern, Albatros, Frettchen, Zibetkatze, Hamster
+- **Letter:** `t`, **Position:** `6`, **Words:** Schmetterling, Ocelot, Axolotl, Wombat
 - **Letter:** `u`, **Position:** `1`, **Words:** Unau, Uhu, Urial, Urquell
-- **Letter:** `u`, **Position:** `2`, **Words:** Quetzal, Kuh, Mucke, Fuchs, Hund
-- **Letter:** `u`, **Position:** `3`, **Words:** Truthahn, Hauskatze, Uhu, Azurjungfer, Flusspferd
-- **Letter:** `u`, **Position:** `4`, **Words:** Argusfasan, Blauhaher, Jaguar, Unau, Braunhaher
-- **Letter:** `u`, **Position:** `5`, **Words:** Kanguru, Pinguin, Rotfuchs, Seehund, Marquise
-- **Letter:** `u`, **Position:** `6`, **Words:** Azurjungfer, Opossum, Perlhuhn, Kakadu, Orang-Utan
+- **Letter:** `u`, **Position:** `2`, **Words:** Buffel, Tukan, Quokka, Mucke, Kuh
+- **Letter:** `u`, **Position:** `3`, **Words:** Flusspferd, Flusskrebs, Truthahn, Heuschrecke, Azurjungfer
+- **Letter:** `u`, **Position:** `4`, **Words:** Argusfasan, Braunhaher, Blauhaher, Jaguar, Unau
+- **Letter:** `u`, **Position:** `5`, **Words:** Rotfuchs, Seehund, Pinguin, Kanguru, Marquardt
+- **Letter:** `u`, **Position:** `6`, **Words:** Azurjungfer, Grashupfer, Orang-Utan, Perlhuhn, Kakadu
 - **Letter:** `v`, **Position:** `1`, **Words:** Vogel, Vixen
-- **Letter:** `w`, **Position:** `1`, **Words:** Wasserbock, Wallaroo, Wapiti, Wallaby, Wiesel
-- **Letter:** `w`, **Position:** `3`, **Words:** Kiwi, Lowe, Mowe, Lowenpapagei
-- **Letter:** `w`, **Position:** `4`, **Words:** Narwal, Schwalbe, Schwan, Schwein, Clownfisch
+- **Letter:** `w`, **Position:** `1`, **Words:** Wasserbock, Wiesel, Wespe, Wal, Wallaby
+- **Letter:** `w`, **Position:** `3`, **Words:** Mowe, Kiwi, Lowe, Lowenpapagei
+- **Letter:** `w`, **Position:** `4`, **Words:** Clownfisch, Schwalbe, Schwan, Schwein, Narwal
 - **Letter:** `x`, **Position:** `1`, **Words:** Xenopus laevis, Xenus, Xiphophorus hellerii
-- **Letter:** `x`, **Position:** `2`, **Words:** Axolotl, Exmoor-Pony, Oxyuranus
-- **Letter:** `x`, **Position:** `3`, **Words:** Fox, Vixen
+- **Letter:** `x`, **Position:** `2`, **Words:** Axolotl, Oxyuranus, Exmoor-Pony
+- **Letter:** `x`, **Position:** `3`, **Words:** Vixen, Fox
 - **Letter:** `x`, **Position:** `4`, **Words:** Praxis, Proxy
 - **Letter:** `y`, **Position:** `1`, **Words:** Yak, Yeti, Yacht
-- **Letter:** `z`, **Position:** `1`, **Words:** Zikade, Zebra, Zibetkatze
+- **Letter:** `z`, **Position:** `1`, **Words:** Zebra, Zibetkatze, Zikade
 - **Letter:** `z`, **Position:** `4`, **Words:** Grizzlybar, Katze
 - **Letter:** `z`, **Position:** `5`, **Words:** Grizzlybar, Quetzal, Kreuzjoch
 
@@ -3701,162 +3701,162 @@ Total missing words: `312`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Abstraktion, Agentur, Abflug, Alpe, Aluminium
-- **Letter:** `a`, **Position:** `2`, **Words:** Kantor, Wasserwelle, Saal, Samt, Oase
-- **Letter:** `a`, **Position:** `3`, **Words:** Klausur, Braut, Diagramm, Qual, Drama
-- **Letter:** `a`, **Position:** `4`, **Words:** Regatta, Umtausch, Unfall, Negation, Umlaut
-- **Letter:** `a`, **Position:** `5`, **Words:** Schlafwagen, Courage, Granatapfel, Agitation, Vorrat
-- **Letter:** `a`, **Position:** `6`, **Words:** Chrysantheme, Grammatik, Pomeranze, Finnland, Puritaner
-- **Letter:** `b`, **Position:** `1`, **Words:** Bonbon, Bericht, Busch, Basketball, Bach
-- **Letter:** `b`, **Position:** `2`, **Words:** Absender, Ebene, Abhandlung, Abgrund, Absicht
-- **Letter:** `b`, **Position:** `3`, **Words:** Rebus, Vibration, Imbiss, Cube, Geburt
-- **Letter:** `b`, **Position:** `4`, **Words:** Taubheit, Robbe, Einbahnstrasse, Grube, Bonbon
-- **Letter:** `b`, **Position:** `5`, **Words:** Drehbuch, Schublade, Playboy, Angebot, Weltbild
-- **Letter:** `b`, **Position:** `6`, **Words:** Waschbecken, Vorgabe, Alphabet, Columbus, Scheibe
-- **Letter:** `c`, **Position:** `1`, **Words:** Charakter, Cafeteria, Charge, Cognac, Couch
-- **Letter:** `c`, **Position:** `2`, **Words:** Schuhwerk, Schulhof, Schlosser, Ich, Schneeball
-- **Letter:** `c`, **Position:** `3`, **Words:** Wechselkurs, Becken, Fackel, Rechtsstreit, Zecke
-- **Letter:** `c`, **Position:** `4`, **Words:** Durchbruch, Sauce, Rauch, Durchsuchung, Zeichen
-- **Letter:** `c`, **Position:** `5`, **Words:** Schicht, Gesicht, Entscheidung, Zurechtweisung, Gewicht
-- **Letter:** `c`, **Position:** `6`, **Words:** Teppich, Fleisch, Schlacht, Schmuck, Vorrichtung
-- **Letter:** `d`, **Position:** `1`, **Words:** Dienst, Denken, Debatte, Digitalisierung, Doktor
-- **Letter:** `d`, **Position:** `2`, **Words:** Odem, CD, Idylle, Oda, Edition
-- **Letter:** `d`, **Position:** `3`, **Words:** Rad, Obdach, Widerspruch, Indien, Rednerpult
-- **Letter:** `d`, **Position:** `4`, **Words:** Void, Kind, Wiederwert, Wanderlust, Quadratwurzel
-- **Letter:** `d`, **Position:** `5`, **Words:** Wehrdienst, Pfund, Ramadan, Pseudonym, Kleidung
-- **Letter:** `d`, **Position:** `6`, **Words:** Verordnung, Legende, Schandtat, Freund, Kandidatin
-- **Letter:** `e`, **Position:** `1`, **Words:** Evangelium, Etage, Event, Explosion, Enkelin
-- **Letter:** `e`, **Position:** `2`, **Words:** Werkzeug, Leiche, Wetterlage, Herz, Zeitlupe
-- **Letter:** `e`, **Position:** `3`, **Words:** Elektriker, Quellgebiet, Dienst, Dienstag, Querachse
-- **Letter:** `e`, **Position:** `4`, **Words:** Latein, Zwiebel, Tonerde, Erkenntnis, Unterlehrer
-- **Letter:** `e`, **Position:** `5`, **Words:** Begleitung, Ranke, Ernte, Phase, Paste
-- **Letter:** `e`, **Position:** `6`, **Words:** Pforte, Quotient, Tapetenwechsel, Klugheit, Wellness
-- **Letter:** `f`, **Position:** `1`, **Words:** Finder, Feder, Freiheit, Frau, Farbe
-- **Letter:** `f`, **Position:** `2`, **Words:** Pflicht, Ofen, Pflaster, Pflasterstein, Offerte
-- **Letter:** `f`, **Position:** `3`, **Words:** Waffel, Luftspiegelung, Saft, Ruf, Luftgewehr
-- **Letter:** `f`, **Position:** `4`, **Words:** Reifen, Riff, Kauf, Chef, Torf
-- **Letter:** `f`, **Position:** `5`, **Words:** Taxifahrer, Langfinger, Wallfahrt, Telefon, Pfeffer
-- **Letter:** `f`, **Position:** `6`, **Words:** Zeigefinger, Kartoffel, Zugluft, Beeinflussung, Schlafapnoe
-- **Letter:** `g`, **Position:** `1`, **Words:** Geburtstag, Granatapfel, Galopp, Geschopf, Gipfel
-- **Letter:** `g`, **Position:** `2`, **Words:** Ego, Aggression, Agentur, Ignoranz, Agitation
-- **Letter:** `g`, **Position:** `3`, **Words:** Regenmantel, Organisation, Jogging, Jagd, Gegend
-- **Letter:** `g`, **Position:** `4`, **Words:** Programm, Programmierer, Junggeselle, Zeugnis, Zergliederung
-- **Letter:** `g`, **Position:** `5`, **Words:** Unfug, Typografie, Papagei, Resignation, Zwinger
-- **Letter:** `g`, **Position:** `6`, **Words:** Abflug, Schmuggler, Notlage, Peking, Wendigkeit
-- **Letter:** `h`, **Position:** `1`, **Words:** Himbeere, Hirn, Husten, Hubschrauber, Handlung
-- **Letter:** `h`, **Position:** `2`, **Words:** Philosoph, Phosphor, Phase, Theologie, Theater
-- **Letter:** `h`, **Position:** `3`, **Words:** Schaudern, Zahnpasta, Ich, Schrift, Schraubenzieher
-- **Letter:** `h`, **Position:** `4`, **Words:** Zeche, Pathologie, Zephir, Drohung, Fachtagung
-- **Letter:** `h`, **Position:** `5`, **Words:** Brecheisen, Unwahrheit, Vokuhila, Geschopf, Unruhe
-- **Letter:** `h`, **Position:** `6`, **Words:** Tausch, Verkehr, Ratschlag, Zwischenfall, Bericht
-- **Letter:** `i`, **Position:** `1`, **Words:** Inhalt, Isolation, Indikator, Imbiss, Islam
-- **Letter:** `i`, **Position:** `2`, **Words:** Liturgie, Visier, Pinne, Nickel, Bild
-- **Letter:** `i`, **Position:** `3`, **Words:** Crime, Chip, Zwischenfall, Weinberg, Zeitreise
-- **Letter:** `i`, **Position:** `4`, **Words:** Saline, Visite, Schinken, Radieschen, Risiko
-- **Letter:** `i`, **Position:** `5`, **Words:** Schwimmer, Schnipsel, Kiebitz, Brasilien, Vorlieger
-- **Letter:** `i`, **Position:** `6`, **Words:** Schleim, Division, Rohheit, Luftgitarre, Walhai
-- **Letter:** `j`, **Position:** `1`, **Words:** Jett, Jogging, Jeton, Juwelier, Jahreszeit
-- **Letter:** `j`, **Position:** `2`, **Words:** Bjorn, Fjord
-- **Letter:** `j`, **Position:** `3`, **Words:** Kajak, Pyjama, Objekt, Injektion
-- **Letter:** `j`, **Position:** `4`, **Words:** Neujahr, Vorjahr, Projekt
-- **Letter:** `j`, **Position:** `5`, **Words:** Badejacke, Minijob
-- **Letter:** `j`, **Position:** `6`, **Words:** Kreuzjoch, Nebenjob
-- **Letter:** `k`, **Position:** `1`, **Words:** Klo, Kiefer, Kluppe, Kapitulation, Kloster
-- **Letter:** `k`, **Position:** `2`, **Words:** Aktion, Ekel, Ikone, Akteur, Akustik
-- **Letter:** `k`, **Position:** `3`, **Words:** Anklage, Taktik, Rakete, Unkosten, Dokument
-- **Letter:** `k`, **Position:** `4`, **Words:** Funke, Kick, Verkauf, Elektriker, Wecker
-- **Letter:** `k`, **Position:** `5`, **Words:** Zweck, Block, Injektion, Panik, Detektiv
-- **Letter:** `k`, **Position:** `6`, **Words:** Bemerkung, Schick, Gedanke, Etrusker, Schock
-- **Letter:** `l`, **Position:** `1`, **Words:** Leder, Lokal, Los, Luftheizung, Lagerhaus
-- **Letter:** `l`, **Position:** `2`, **Words:** Gletscher, Platin, Element, Flur, Fleisch
-- **Letter:** `l`, **Position:** `3`, **Words:** Walross, Volkslied, Balken, Allergie, Vulkan
-- **Letter:** `l`, **Position:** `4`, **Words:** Toilette, Wellness, Hallo, Collie, Schlaraffenland
-- **Letter:** `l`, **Position:** `5`, **Words:** Vinyl, Quelle, Rudel, Schulweg, Napoleon
-- **Letter:** `l`, **Position:** `6`, **Words:** Privileg, Zuzahlung, Tempel, Israel, Zausel
-- **Letter:** `m`, **Position:** `1`, **Words:** Marquardt, Marquise, Meise, Maus, Minijob
-- **Letter:** `m`, **Position:** `2`, **Words:** Imker, Ambiente, Imbiss, Amulett, Umsatz
-- **Letter:** `m`, **Position:** `3`, **Words:** Hymne, Rammbock, Kamel, Tomate, Rumpf
-- **Letter:** `m`, **Position:** `4`, **Words:** Einmaleins, Saum, Drama, Odem, Palme
-- **Letter:** `m`, **Position:** `5`, **Words:** Thermometer, Therme, Fachmann, Weltmeister, Denkmal
-- **Letter:** `m`, **Position:** `6`, **Words:** Geheimnis, Untermieter, Einkommen, Portemonnaie, Schimmer
-- **Letter:** `n`, **Position:** `1`, **Words:** Nervenheilanstalt, Niederschlag, Norm, Nektar, Nutzung
-- **Letter:** `n`, **Position:** `2`, **Words:** Unwillen, Energie, Intellekt, Unwesen, Uniform
-- **Letter:** `n`, **Position:** `3`, **Words:** Container, Panorama, Ranke, Randale, Funktion
-- **Letter:** `n`, **Position:** `4`, **Words:** Gymnasium, Brandung, Schnitzel, Schneematsch, Hornhaut
-- **Letter:** `n`, **Position:** `5`, **Words:** Resonanz, Kleinstadt, Hering, Lebensmittel, Kellnerin
-- **Letter:** `n`, **Position:** `6`, **Words:** Unternehmung, Planung, Kissen, Rettung, Bindung
-- **Letter:** `o`, **Position:** `1`, **Words:** Optimismus, Osten, Obst, Obelisk, Ornament
-- **Letter:** `o`, **Position:** `2`, **Words:** Touristinformation, Hotel, Torf, Vorliegendes, Vorahnung
-- **Letter:** `o`, **Position:** `3`, **Words:** Evolution, Aloe, Glocke, Prominenz, Pforte
-- **Letter:** `o`, **Position:** `4`, **Words:** Roboter, Chronik, Innovation, Schoss, Phiole
-- **Letter:** `o`, **Position:** `5`, **Words:** London, Pathologie, Voodoo, Balkon, Promotion
-- **Letter:** `o`, **Position:** `6`, **Words:** Katalog, Thermometer, Reunion, Diagnose, Saxofon
-- **Letter:** `p`, **Position:** `1`, **Words:** Pneu, Pflasterstein, Pferd, Puppe, Panik
-- **Letter:** `p`, **Position:** `2`, **Words:** Opa, Apfel, Epistel, Epoche, Opposition
-- **Letter:** `p`, **Position:** `3`, **Words:** Topfpflanze, Pop, Export, Tapetenwechsel, Typ
-- **Letter:** `p`, **Position:** `4`, **Words:** Klopapier, Pimpernuss, Terpentin, Eisprung, Rippe
-- **Letter:** `p`, **Position:** `5`, **Words:** Exemplar, Quappe, Gruppe, Wertpapier, Beispiel
-- **Letter:** `p`, **Position:** `6`, **Words:** Luftspiegelung, Wendepunkt, Schnipsel, Regenpause, Schimpfwort
-- **Letter:** `q`, **Position:** `1`, **Words:** Quadratwurzel, Querstange, Quadratur, Quatsch, Querkraft
-- **Letter:** `q`, **Position:** `2`, **Words:** Aquarium, Aquadukt
-- **Letter:** `q`, **Position:** `3`, **Words:** Urquell, Erquicken
+- **Letter:** `a`, **Position:** `1`, **Words:** Alter, Abgrund, Amsel, Abschied, Aluminium
+- **Letter:** `a`, **Position:** `2`, **Words:** Narzisse, Payment, Rain, Naturgewalt, Haar
+- **Letter:** `a`, **Position:** `3`, **Words:** Evangelium, E-Mail, Examen, Etage, Plan
+- **Letter:** `a`, **Position:** `4`, **Words:** Baracke, Visage, Umtausch, Undank, Gitarre
+- **Letter:** `a`, **Position:** `5`, **Words:** Sauna, Vorland, Einkauf, Reklame, Unglaube
+- **Letter:** `a`, **Position:** `6`, **Words:** Quadratzahl, Zuschauer, Prostata, Verstand, Fussball
+- **Letter:** `b`, **Position:** `1`, **Words:** Bericht, Bank, Betrieb, Buch, Bolzen
+- **Letter:** `b`, **Position:** `2`, **Words:** Abgrund, Obdach, Abhandlung, Abkommen, Absatz
+- **Letter:** `b`, **Position:** `3`, **Words:** Rebus, Hebel, Jubel, Lebenslauf, Labrador
+- **Letter:** `b`, **Position:** `4`, **Words:** Bombe, Werbung, Notbremse, Reibeisen, Taube
+- **Letter:** `b`, **Position:** `5`, **Words:** Angebot, Parabel, Playboy, Weltbild, Zwiebel
+- **Letter:** `b`, **Position:** `6`, **Words:** Tauchboot, Urlaub, Nasenbluten, Durchbruch, Geliebte
+- **Letter:** `c`, **Position:** `1`, **Words:** Couch, Campus, Chemie, Chaos, Chronologie
+- **Letter:** `c`, **Position:** `2`, **Words:** Schwarzbrot, Schneeregen, Schwert, Schriftsteller, Scherzartikel
+- **Letter:** `c`, **Position:** `3`, **Words:** Wechselbad, Locke, Nacken, Fachschule, Sache
+- **Letter:** `c`, **Position:** `4`, **Words:** Sauce, Geschirr, Umschlag, Popcorn, Blick
+- **Letter:** `c`, **Position:** `5`, **Words:** Schacht, Verschnupfen, Teilchen, Comic, Baracke
+- **Letter:** `c`, **Position:** `6`, **Words:** Balance, Lebkuchen, Vorwoche, Deutschland, Versuch
+- **Letter:** `d`, **Position:** `1`, **Words:** Dank, Debatte, Delegation, Deck, Denkmal
+- **Letter:** `d`, **Position:** `2`, **Words:** CD, Edition, Adel, Ode, Advent
+- **Letter:** `d`, **Position:** `3`, **Words:** Eid, Widder, Obdachlose, Ordner, Undine
+- **Letter:** `d`, **Position:** `4`, **Words:** Produktion, Niedrigkeit, Verdacht, Wiederkehr, Nordamerika
+- **Letter:** `d`, **Position:** `5`, **Words:** Brandung, Quidditch, Reseda, Abend, Dresdner
+- **Letter:** `d`, **Position:** `6`, **Words:** Veranda, Abhandlung, Schaudern, Schiedsrichter, Schande
+- **Letter:** `e`, **Position:** `1`, **Words:** Examen, Elend, Elan, Essay, E-Mail
+- **Letter:** `e`, **Position:** `2`, **Words:** Redundanz, Verpackung, Deckung, Definition, Regatta
+- **Letter:** `e`, **Position:** `3`, **Words:** Zweig, Ehepaar, Tiergarten, Idee, Fieber
+- **Letter:** `e`, **Position:** `4`, **Words:** Hase, Popeline, Wagen, Brief, Nebenwirkung
+- **Letter:** `e`, **Position:** `5`, **Words:** Redner, Schreckbild, Entdeckung, Wiederwert, Schienbein
+- **Letter:** `e`, **Position:** `6`, **Words:** Salzbergwerk, Partnerschaft, Edelmetall, Querweltein, Zyniker
+- **Letter:** `f`, **Position:** `1`, **Words:** Frist, Ferien, Fernseher, Fasching, Feier
+- **Letter:** `f`, **Position:** `2`, **Words:** Pfropfen, Ofen, Pflaster, Offenbarung, Pflege
+- **Letter:** `f`, **Position:** `3`, **Words:** Rafinesse, Unfug, Neffe, Luft, Informatik
+- **Letter:** `f`, **Position:** `4`, **Words:** Puffer, Verfasser, Grafik, Entfernung, Neffe
+- **Letter:** `f`, **Position:** `5`, **Words:** Langfinger, Brief, Raumfahrt, Briefkasten, Zahnfleisch
+- **Letter:** `f`, **Position:** `6`, **Words:** Schlafanzug, Schiff, Regenfront, Zeigefinger, Schlafapnoe
+- **Letter:** `g`, **Position:** `1`, **Words:** Grafik, Gipfel, Gehirn, Gruppe, Gastgeber
+- **Letter:** `g`, **Position:** `2`, **Words:** Agnostiker, Ignoranz, Ego, Agentur, Aggression
+- **Letter:** `g`, **Position:** `3`, **Words:** Sage, Beginn, Zugluft, Regenmantel, Ungleichheit
+- **Letter:** `g`, **Position:** `4`, **Words:** Zeugnis, Finger, Ding, Junggeselle, Neigung
+- **Letter:** `g`, **Position:** `5`, **Words:** Unfug, Telegramm, Visage, Hexagon, Rostgrad
+- **Letter:** `g`, **Position:** `6`, **Words:** Losung, Photographie, Lithographie, Sausage, Naturgewalt
+- **Letter:** `h`, **Position:** `1`, **Words:** Hunderte, Heimweh, Hand, Haar, Himbeere
+- **Letter:** `h`, **Position:** `2`, **Words:** Phiole, Uhu, Phrase, Chance, Theorie
+- **Letter:** `h`, **Position:** `3`, **Words:** Schaum, Schwarz, Abhandlung, Lohre, Schamane
+- **Letter:** `h`, **Position:** `4`, **Words:** Nachteil, Nachtwache, Nachtmensch, Amphibie, Loch
+- **Letter:** `h`, **Position:** `5`, **Words:** Benehmen, Rauch, Durchgang, Zeichnung, Waschmaschine
+- **Letter:** `h`, **Position:** `6`, **Words:** Flasche, Gesicht, Geruch, Anarchie, Kirschbaum
+- **Letter:** `i`, **Position:** `1`, **Words:** Isolation, Israel, Ignoranz, Industrie, Ikone
+- **Letter:** `i`, **Position:** `2`, **Words:** Rippe, Visage, Pille, Zitat, Diagramm
+- **Letter:** `i`, **Position:** `3`, **Words:** Reise, Weissdorn, Brief, China, Geist
+- **Letter:** `i`, **Position:** `4`, **Words:** Emaille, Essig, Hygiene, Kleinkind, Retina
+- **Letter:** `i`, **Position:** `5`, **Words:** Routine, Schmied, Version, Premiere, Heldin
+- **Letter:** `i`, **Position:** `6`, **Words:** Geschichte, Zwilling, Container, Eintritt, Weltbild
+- **Letter:** `j`, **Position:** `1`, **Words:** Junggeselle, Jahrgang, Jagd, Jumbo, Jahrhundert
+- **Letter:** `j`, **Position:** `2`, **Words:** Fjord, Bjorn
+- **Letter:** `j`, **Position:** `3`, **Words:** Pyjama, Objekt, Injektion, Kajak
+- **Letter:** `j`, **Position:** `4`, **Words:** Projekt, Neujahr, Vorjahr
+- **Letter:** `j`, **Position:** `5`, **Words:** Minijob, Badejacke
+- **Letter:** `j`, **Position:** `6`, **Words:** Nebenjob, Kreuzjoch
+- **Letter:** `k`, **Position:** `1`, **Words:** Kajak, Kilogramm, Kirschbaum, Kluppe, Kind
+- **Letter:** `k`, **Position:** `2`, **Words:** Akustik, Aktion, Ikone, Ekel, Akademie
+- **Letter:** `k`, **Position:** `3`, **Words:** Ecke, Reklame, Paket, Lokal, Rakete
+- **Letter:** `k`, **Position:** `4`, **Words:** Diskothek, Volk, Boykott, Lockmittel, Volksrepublik
+- **Letter:** `k`, **Position:** `5`, **Words:** Fleck, Quickstep, Luftkissen, Block, Quicksilver
+- **Letter:** `k`, **Position:** `6`, **Words:** Paprika, Fabrikant, Etrusker, Chemiker, Produkt
+- **Letter:** `l`, **Position:** `1`, **Words:** Lehrer, Lowe, Luftgewehr, Leiter, Labor
+- **Letter:** `l`, **Position:** `2`, **Words:** Alternative, Ultra, Klassiker, Alarm, Glanz
+- **Letter:** `l`, **Position:** `3`, **Words:** Talsohle, Religion, Ballon, Nil, Sal
+- **Letter:** `l`, **Position:** `4`, **Words:** Wahl, Abflug, Halle, Publikation, Qual
+- **Letter:** `l`, **Position:** `5`, **Words:** Problem, Querlenker, Hotel, Impuls, Nudeln
+- **Letter:** `l`, **Position:** `6`, **Words:** Zuzahlung, Paralleluniversum, Ventilator, Abfall, Unfall
+- **Letter:** `m`, **Position:** `1`, **Words:** Marquise, Minijob, Maus, Marquardt, Meise
+- **Letter:** `m`, **Position:** `2`, **Words:** Umsatz, Empfindung, Amphibie, Image, Amt
+- **Letter:** `m`, **Position:** `3`, **Words:** Jumbo, Unmenschlichkeit, Comic, Pomp, Vampir
+- **Letter:** `m`, **Position:** `4`, **Words:** Drama, Bremse, Schmuck, Crime, Schmetterling
+- **Letter:** `m`, **Position:** `5`, **Words:** Grammatik, Zeremonie, Scham, Weltmacht, Alarm
+- **Letter:** `m`, **Position:** `6`, **Words:** Diplom, Pronomen, Anatomie, Grossmutter, Scharm
+- **Letter:** `n`, **Position:** `1`, **Words:** Notstand, Nacktheit, Nebensatz, Nabel, Nervenheilanstalt
+- **Letter:** `n`, **Position:** `2`, **Words:** Unterschied, Andacht, Unstrut, Unterbegriff, Unterputz
+- **Letter:** `n`, **Position:** `3`, **Words:** Genetik, Rennauto, Tanzlokal, Hand, Wende
+- **Letter:** `n`, **Position:** `4`, **Words:** Laune, Uranium, Grund, Schnee, Warnung
+- **Letter:** `n`, **Position:** `5`, **Words:** Schandtat, Lebensstandard, Teilnehmer, Gesundheit, Schandfleck
+- **Letter:** `n`, **Position:** `6`, **Words:** Rettungsboot, Schmankerl, Aktion, Tyrann, Ambiente
+- **Letter:** `o`, **Position:** `1`, **Words:** Oda, Oase, Original, Ochse, Opposition
+- **Letter:** `o`, **Position:** `2`, **Words:** Zopf, Vorsitzender, Torbogen, Pomeranze, Vorfahrt
+- **Letter:** `o`, **Position:** `3`, **Words:** Protokoll, Prolog, Phosphor, Promenade, Quota
+- **Letter:** `o`, **Position:** `4`, **Words:** Kilometer, Advokat, Sago, Theorie, Kilo
+- **Letter:** `o`, **Position:** `5`, **Words:** Piano, Hydrodynamik, Kartoffel, Vermogen, Nationalhymne
+- **Letter:** `o`, **Position:** `6`, **Words:** Anekdote, Telefon, Bahnhof, Theologe, Chronologie
+- **Letter:** `p`, **Position:** `1`, **Words:** Plauderei, Pilz, Puls, Polster, Promenade
+- **Letter:** `p`, **Position:** `2`, **Words:** Epoche, Apfel, Episode, Oper, Operation
+- **Letter:** `p`, **Position:** `3`, **Words:** Kapital, Zupacken, Laptop, Reportage, Kapitel
+- **Letter:** `p`, **Position:** `4`, **Words:** Inspiration, Tempo, Terpentin, Lippe, Pompon
+- **Letter:** `p`, **Position:** `5`, **Words:** Weinprobe, Galopp, Nullpunkt, Rezeption, Klippe
+- **Letter:** `p`, **Position:** `6`, **Words:** Galopp, Reisepass, Luftspiegelung, Schnupfen, Nobelpreis
+- **Letter:** `q`, **Position:** `1`, **Words:** Querulant, Quotient, Quadratwurzel, Quadrant, Quadratur
+- **Letter:** `q`, **Position:** `2`, **Words:** Aquadukt, Aquarium
+- **Letter:** `q`, **Position:** `3`, **Words:** Erquicken, Urquell
 - **Letter:** `q`, **Position:** `4`, **Words:** Marquardt, Marquise
 - **Letter:** `q`, **Position:** `5`, **Words:** Kaulquappe, Reliquie
 - **Letter:** `q`, **Position:** `6`, **Words:** Konsequent, Konsequenz
-- **Letter:** `r`, **Position:** `1`, **Words:** Rendite, Riff, Rangliste, Rente, Rast
-- **Letter:** `r`, **Position:** `2`, **Words:** Pro, Prompt, Dresdner, Gramm, Frankreich
-- **Letter:** `r`, **Position:** `3`, **Words:** Zergliederung, Vorbote, Verleihung, Vorraum, Verletzung
-- **Letter:** `r`, **Position:** `4`, **Words:** Lehramt, Nahrung, Leere, Vorraum, Quartett
-- **Letter:** `r`, **Position:** `5`, **Words:** Luder, Kanarienvogel, Vortritt, Notbremse, Feder
-- **Letter:** `r`, **Position:** `6`, **Words:** Akteur, Velours, Vesper, Vorsprung, Gouvernante
-- **Letter:** `s`, **Position:** `1`, **Words:** Schiffshebewerk, Schmutz, Sanftheit, Sand, Schub
-- **Letter:** `s`, **Position:** `2`, **Words:** Istzustand, Osten, Essig, Psychologie, Essenz
-- **Letter:** `s`, **Position:** `3`, **Words:** Bastion, Basis, Besitz, Gestein, Viskose
-- **Letter:** `s`, **Position:** `4`, **Words:** Wasserhahn, Achse, Patsche, Regsamkeit, Wasserkocher
-- **Letter:** `s`, **Position:** `5`, **Words:** Ritus, Volksabstimmung, Devise, Raumschiff, Gewissen
-- **Letter:** `s`, **Position:** `6`, **Words:** Radieschen, Sauerstoff, Verfasser, Terrasse, Narzisse
-- **Letter:** `t`, **Position:** `1`, **Words:** Tempo, Tapetenwechsel, Topfpflanze, Tauglichkeit, Talsohle
-- **Letter:** `t`, **Position:** `2`, **Words:** Etikette, Etage, Italien, Utopist, Etrusker
-- **Letter:** `t`, **Position:** `3`, **Words:** Not, Umtausch, Unterholz, Aktie, Wetterdienst
-- **Letter:** `t`, **Position:** `4`, **Words:** Installation, Photographie, Weltrekord, Anatomie, Weltanschauung
-- **Letter:** `t`, **Position:** `5`, **Words:** Neustadt, Negation, Polsterung, Rechtsanwalt, Jupiter
-- **Letter:** `t`, **Position:** `6`, **Words:** Pollution, Reporter, Rekrut, Untertitel, Rezeption
-- **Letter:** `u`, **Position:** `1`, **Words:** Ursprung, Unterbegriff, Unwillen, Umtausch, Untertan
-- **Letter:** `u`, **Position:** `2`, **Words:** Querformat, Nummerierung, Pudel, Puppet, Burg
-- **Letter:** `u`, **Position:** `3`, **Words:** Voucher, Bau, Brust, Poussin, Flut
-- **Letter:** `u`, **Position:** `4`, **Words:** Schule, Schulhof, Naturwissenschaft, Greuel, Notunterkunft
-- **Letter:** `u`, **Position:** `5`, **Words:** Schluss, Gravur, Schauwert, Schaufenster, Schmutz
-- **Letter:** `u`, **Position:** `6`, **Words:** Pleasure, Vorstufe, Halstuch, Zeitpunkt, Schleuse
-- **Letter:** `v`, **Position:** `1`, **Words:** Venus, Vatikan, Verstand, Vitamin, Virus
-- **Letter:** `v`, **Position:** `2`, **Words:** Event, Evangelium, Evolution
-- **Letter:** `v`, **Position:** `3`, **Words:** Revanche, Investor, Favorit, Lavendel, Investition
-- **Letter:** `v`, **Position:** `4`, **Words:** Kelvin, Larve, Provisorium, Provinz, Gouvernante
-- **Letter:** `v`, **Position:** `5`, **Words:** Vesuv, Zeitverschwendung, Zeitvertreib, Individuum, Luftverschmutzung
-- **Letter:** `v`, **Position:** `6`, **Words:** Intervention, Pullover, Reservierung, Improvisation, Reserve
-- **Letter:** `w`, **Position:** `1`, **Words:** Wiedersehen, Wertgegenstand, Wertanlage, Wallfahrt, Wandlung
-- **Letter:** `w`, **Position:** `2`, **Words:** Zwilling, Zwischenstand, Zwinger, Zwirn, Zwerchfell
-- **Letter:** `w`, **Position:** `3`, **Words:** Unwetter, Juwel, Gewissen, Gewitter, Lawine
-- **Letter:** `w`, **Position:** `4`, **Words:** Schwert, Crew, Vorwort, Verwandtschaft, Schwimmen
-- **Letter:** `w`, **Position:** `5`, **Words:** Redewendung, Heimweh, Weltwunder, Passwort, Fernweh
-- **Letter:** `w`, **Position:** `6`, **Words:** Weisswein, Unterwelt, Regenwurm, Nebenwirkung, Schulweg
-- **Letter:** `x`, **Position:** `1`, **Words:** Xenon, Xylit, Xylothek, Xylophon
-- **Letter:** `x`, **Position:** `2`, **Words:** Existenz, Experte, Exotik, Exkursion, Exemplar
-- **Letter:** `x`, **Position:** `3`, **Words:** Text, Taxonomie, Hexe, Textur, Hexerei
+- **Letter:** `r`, **Position:** `1`, **Words:** Riemen, Rupf, Residenz, Rast, Ranch
+- **Letter:** `r`, **Position:** `2`, **Words:** Prinzessin, Ortszeit, Erdkunde, Erholung, Drehung
+- **Letter:** `r`, **Position:** `3`, **Words:** Durchbruch, Porree, Garantie, Wermut, Vorwand
+- **Letter:** `r`, **Position:** `4`, **Words:** Jahrhundert, Querulant, Zitrone, Nahrungskette, Leere
+- **Letter:** `r`, **Position:** `5`, **Words:** Opfer, Hexerei, Unstrut, Untermieter, Tapir
+- **Letter:** `r`, **Position:** `6`, **Words:** Kantor, Lehrer, Wassermelone, Proportion, Wiederkehr
+- **Letter:** `s`, **Position:** `1`, **Words:** Schauspielerin, Sache, Schiffshebewerk, Savanne, Schimpansen
+- **Letter:** `s`, **Position:** `2`, **Words:** Isolation, Essay, Ostern, Psychiater, Essig
+- **Letter:** `s`, **Position:** `3`, **Words:** Postulat, Husten, Eiszeit, Pistole, Geschwister
+- **Letter:** `s`, **Position:** `4`, **Words:** Frosch, Brasilien, Prise, Fuss, Tasse
+- **Letter:** `s`, **Position:** `5`, **Words:** Pflasterstein, Palast, Luftspiegelung, Chaos, Fachschule
+- **Letter:** `s`, **Position:** `6`, **Words:** Radieschen, Unmenschlichkeit, Rechtsanwalt, Ekstase, Geleise
+- **Letter:** `t`, **Position:** `1`, **Words:** Telefax, Tierarzt, Talg, Teilnahme, Tusche
+- **Letter:** `t`, **Position:** `2`, **Words:** Etikette, Italien, Etrusker, Iteration, Utopie
+- **Letter:** `t`, **Position:** `3`, **Words:** Detektiv, Lot, Naturwissenschaft, Abteilung, Butter
+- **Letter:** `t`, **Position:** `4`, **Words:** Wetter, Vortrefflichkeit, Gast, Party, Zeitreise
+- **Letter:** `t`, **Position:** `5`, **Words:** Vorstand, Pilot, Tochter, Quittung, Visite
+- **Letter:** `t`, **Position:** `6`, **Words:** Profit, Einsatz, Boykott, Bereitschaft, Valentin
+- **Letter:** `u`, **Position:** `1`, **Words:** Unfug, Unrat, Unwetter, Unterton, Unterteil
+- **Letter:** `u`, **Position:** `2`, **Words:** Fund, Junta, Fussball, Fundament, Funk
+- **Letter:** `u`, **Position:** `3`, **Words:** Eruption, Druck, Laut, Taucher, Pound
+- **Letter:** `u`, **Position:** `4`, **Words:** Album, Rebus, Illustration, Visum, Obduktion
+- **Letter:** `u`, **Position:** `5`, **Words:** Herkunft, Vakuum, Notruf, Schwund, Nahrungskette
+- **Letter:** `u`, **Position:** `6`, **Words:** Uranium, Schleuse, Instrument, Verlauf, Vokabular
+- **Letter:** `v`, **Position:** `1`, **Words:** Verzicht, Vokal, Vertretung, Vater, Vortag
+- **Letter:** `v`, **Position:** `2`, **Words:** Evangelium, Event, Evolution
+- **Letter:** `v`, **Position:** `3`, **Words:** Division, Devise, Pavillon, Revanche, Zuversicht
+- **Letter:** `v`, **Position:** `4`, **Words:** Larve, Privileg, Gouvernante, Vorverkauf, Privatdetektiv
+- **Letter:** `v`, **Position:** `5`, **Words:** Karavane, Vesuv, Innovation, Zeitverschwendung, Individuum
+- **Letter:** `v`, **Position:** `6`, **Words:** Interview, Pullover, Reserve, Anchovis, Grossvater
+- **Letter:** `w`, **Position:** `1`, **Words:** Weste, Wange, Weltkrieg, Weltschmerz, Wabe
+- **Letter:** `w`, **Position:** `2`, **Words:** Zwiesprache, Zwischenspiel, Zwischenraum, Zweifel, Zwischenstand
+- **Letter:** `w`, **Position:** `3`, **Words:** Bewertung, Juwelier, Gewolbe, Umwelt, Gewissen
+- **Letter:** `w`, **Position:** `4`, **Words:** Schwan, Schwarzfahrer, Schwelle, Rotwein, Schwimmbad
+- **Letter:** `w`, **Position:** `5`, **Words:** Lebewesen, Heimweh, Netzwerk, Querweltein, Landwirt
+- **Letter:** `w`, **Position:** `6`, **Words:** Schuhwerk, Widerwille, Feuerwehr, Langeweile, Weisswein
+- **Letter:** `x`, **Position:** `1`, **Words:** Xylit, Xenon, Xylophon, Xylothek
+- **Letter:** `x`, **Position:** `2`, **Words:** Existenz, Exzess, Export, Exkursion, Experte
+- **Letter:** `x`, **Position:** `3`, **Words:** Saxofon, Textur, Hexagon, Taxi, Box
 - **Letter:** `x`, **Position:** `4`, **Words:** Praxis, Proxy
 - **Letter:** `x`, **Position:** `5`, **Words:** Telex, Latex, Index
 - **Letter:** `x`, **Position:** `6`, **Words:** Reflex, Reflexion
 - **Letter:** `y`, **Position:** `1`, **Words:** Yacht, Yeti
-- **Letter:** `y`, **Position:** `2`, **Words:** Cyclist, Zyste, Hygiene, Pyjama, Python
-- **Letter:** `y`, **Position:** `3`, **Words:** Glyptothek, Psychiatrie, Physiker, Payment, Psychologie
-- **Letter:** `y`, **Position:** `4`, **Words:** Vinyl, Lady, Playboy, Chrysantheme, Polyethylen
-- **Letter:** `y`, **Position:** `5`, **Words:** Curry, Analyse, Hobby, Essay, Party
-- **Letter:** `y`, **Position:** `6`, **Words:** Aerodynamik, Pennsylvania, Amethyst, Eukalyptus
-- **Letter:** `z`, **Position:** `1`, **Words:** Zunge, Zwischenraum, Zombie, Zensur, Zeuge
-- **Letter:** `z`, **Position:** `2`, **Words:** Ozon, Szene, Ozean
-- **Letter:** `z`, **Position:** `3`, **Words:** Puzzle, Beziehung, Rezeption, Luzifer, Exzess
-- **Letter:** `z`, **Position:** `4`, **Words:** Walzer, Heizung, Nutzen, Pilz, Istzustand
-- **Letter:** `z`, **Position:** `5`, **Words:** Tapezierer, Defizit, Quarz, Venezuela, Ortszeit
-- **Letter:** `z`, **Position:** `6`, **Words:** Umsatz, Schatz, Halluzination, Schmuzeln, Finanzen
+- **Letter:** `y`, **Position:** `2`, **Words:** Hydrodynamik, Xylophon, Xylothek, Nylon, Cyclist
+- **Letter:** `y`, **Position:** `3`, **Words:** Olympiade, Psychologie, Psychiater, Payment, Physik
+- **Letter:** `y`, **Position:** `4`, **Words:** Jury, Lady, Polyethylen, Chrysantheme, Playboy
+- **Letter:** `y`, **Position:** `5`, **Words:** Curry, Essay, Analyse, Party, Hobby
+- **Letter:** `y`, **Position:** `6`, **Words:** Amethyst, Eukalyptus, Aerodynamik, Pennsylvania
+- **Letter:** `z`, **Position:** `1`, **Words:** Zahn, Zwischenstand, Zeile, Zeitpunkt, Zeuge
+- **Letter:** `z`, **Position:** `2`, **Words:** Ozon, Ozean, Szene
+- **Letter:** `z`, **Position:** `3`, **Words:** Rezeption, Pazifik, Zuzahlung, Jazz, Rezept
+- **Letter:** `z`, **Position:** `4`, **Words:** Linz, Einzelheit, Kanzel, Eiszeit, Penzance
+- **Letter:** `z`, **Position:** `5`, **Words:** Quarz, Glanz, Tapezierer, Blitz, Prinz
+- **Letter:** `z`, **Position:** `6`, **Words:** Scherz, Pistazie, Pflanze, Absatz, Umsatz
 
 </details>
 
@@ -3872,161 +3872,161 @@ Total missing words: `0`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Adelaide, Antalya, Australien, Aleppo, Accra
-- **Letter:** `a`, **Position:** `2`, **Words:** Rawalpindi, Canberra, Camden, Kanton, Sacramento
-- **Letter:** `a`, **Position:** `3`, **Words:** Irak, Changsha, Aqaba, Changchun, Guadalajara
-- **Letter:** `a`, **Position:** `4`, **Words:** Kanada, Kitakyushu, Somalia, Agra, Kumamoto
-- **Letter:** `a`, **Position:** `5`, **Words:** Yantai, Bangalore, Tijuana, Jordanien, Indianapolis
-- **Letter:** `a`, **Position:** `6`, **Words:** Ahmedabad, Uganda, Tirana, Isfahan, Jerusalem
-- **Letter:** `b`, **Position:** `1`, **Words:** Bournemouth, Baku, Brunei, Brisbane, Bethlehem
-- **Letter:** `b`, **Position:** `2`, **Words:** Aberdeen, Ibadan, Abidjan
-- **Letter:** `b`, **Position:** `3`, **Words:** Cebu, Rabat, Gaborone, Albanien, Hobart
-- **Letter:** `b`, **Position:** `4`, **Words:** Mumbai, Gambia, Cambridge, Serbien, Hamburg
-- **Letter:** `b`, **Position:** `5`, **Words:** Brisbane, Duisburg, Surabaya, Salzburg, Edinburgh
-- **Letter:** `b`, **Position:** `6`, **Words:** Zagreb, Simbabwe, Cordoba, Columbus, Pittsburgh
-- **Letter:** `c`, **Position:** `1`, **Words:** Cambridge, Christchurch, China, Cincinnati, Conakry
-- **Letter:** `c`, **Position:** `2`, **Words:** Schiraz, Ecuador, Schweden, Schweiz, Schardscha
-- **Letter:** `c`, **Position:** `3`, **Words:** Dschibuti, Macau, Richmond, Auckland, Bochum
-- **Letter:** `c`, **Position:** `4`, **Words:** Taschkent, Chicago, Stockholm, Newcastle, Winchester
-- **Letter:** `c`, **Position:** `5`, **Words:** Griechenland, Monaco, Kasachstan, Warschau, Mexicali
-- **Letter:** `c`, **Position:** `6`, **Words:** Norwich, Lerwick, Valencia, Deutschland, Changchun
-- **Letter:** `d`, **Position:** `1`, **Words:** Danemark, Dresden, Davao, Duschanbe, Dakar
-- **Letter:** `d`, **Position:** `2`, **Words:** Adelaide, Edmonton, Odessa, Edinburgh
-- **Letter:** `d`, **Position:** `3`, **Words:** Vadodara, Fidschi, Sydney, Hyderabad, Jodhpur
-- **Letter:** `d`, **Position:** `4`, **Words:** Bordeaux, Ibadan, Cardiff, Niederlande, Abidjan
-- **Letter:** `d`, **Position:** `5`, **Words:** Potsdam, Uganda, Chandigarh, Dresden, Venedig
-- **Letter:** `d`, **Position:** `6`, **Words:** Salvador, Schweden, Granada, Yaounde, Oxford
-- **Letter:** `e`, **Position:** `1`, **Words:** Edmonton, Ecuador, Estland, Exeter, Essex
-- **Letter:** `e`, **Position:** `2`, **Words:** Beirut, Bergen, Seoul, Wellington, Leipzig
-- **Letter:** `e`, **Position:** `3`, **Words:** Aberdeen, Grenada, Wien, Vietnam, Shenyang
-- **Letter:** `e`, **Position:** `4`, **Words:** Argentinien, Coventry, Freetown, Usbekistan, Nigeria
-- **Letter:** `e`, **Position:** `5`, **Words:** Schweden, Syrien, Barcelona, Chile, Algier
-- **Letter:** `e`, **Position:** `6`, **Words:** Mosquera, Aberdeen, Manchester, Bethlehem, Georgetown
-- **Letter:** `f`, **Position:** `1`, **Words:** Foshan, Fortaleza, Florenz, Freetown, Frankreich
+- **Letter:** `a`, **Position:** `1`, **Words:** Aqaba, Astana, Adelaide, Algerien, Accra
+- **Letter:** `a`, **Position:** `2`, **Words:** Baku, Cambridge, Patras, Maschhad, Taschkent
+- **Letter:** `a`, **Position:** `3`, **Words:** Krasnojarsk, Iran, Zhangxian, Xiangtan, Luanda
+- **Letter:** `a`, **Position:** `4`, **Words:** Rabat, Madagaskar, Macau, Doha, Ankara
+- **Letter:** `a`, **Position:** `5`, **Words:** Bangalore, Konya, Bhutan, Barbados, Bhopal
+- **Letter:** `a`, **Position:** `6`, **Words:** Santiago, Bahamas, Southampton, Isfahan, Vadodara
+- **Letter:** `b`, **Position:** `1`, **Words:** Bahrain, Bordeaux, Belarus, Budapest, Bergen
+- **Letter:** `b`, **Position:** `2`, **Words:** Abidjan, Ibadan, Aberdeen
+- **Letter:** `b`, **Position:** `3`, **Words:** Dubai, Rabat, Gaborone, Libanon, Libyen
+- **Letter:** `b`, **Position:** `4`, **Words:** Lemberg, Cambridge, Trabzon, Serbien, Canberra
+- **Letter:** `b`, **Position:** `5`, **Words:** Casablanca, Kiribati, Duisburg, Huaibei, Ningbo
+- **Letter:** `b`, **Position:** `6`, **Words:** Simbabwe, Dschibuti, Istanbul, Zagreb, Columbus
+- **Letter:** `c`, **Position:** `1`, **Words:** Charkiw, Chiquimula, Charlotte, China, Chile
+- **Letter:** `c`, **Position:** `2`, **Words:** Schardscha, Ecuador, Schweden, Accra, Schiraz
+- **Letter:** `c`, **Position:** `3`, **Words:** Nicaragua, Sacramento, Macao, Tschad, Anchorage
+- **Letter:** `c`, **Position:** `4`, **Words:** Cincinnati, Leicester, Winchester, Barcelona, Liechtenstein
+- **Letter:** `c`, **Position:** `5`, **Words:** Asuncion, Fidschi, Warschau, Monaco, Caracas
+- **Letter:** `c`, **Position:** `6`, **Words:** Lerwick, Valencia, Changchun, Deutschland, Norwich
+- **Letter:** `d`, **Position:** `1`, **Words:** Duschanbe, Dubai, Dover, Daegu, Dar es Salaam
+- **Letter:** `d`, **Position:** `2`, **Words:** Edmonton, Odessa, Adelaide, Edinburgh
+- **Letter:** `d`, **Position:** `3`, **Words:** Indonesien, Fidschi, Kaduna, Sydney, Madagaskar
+- **Letter:** `d`, **Position:** `4`, **Words:** Cardiff, Bagdad, Bordeaux, Windermere, Niederlande
+- **Letter:** `d`, **Position:** `5`, **Words:** Uganda, Ahmedabad, Kanada, Jaunde, Vadodara
+- **Letter:** `d`, **Position:** `6`, **Words:** Tschad, Schweden, Bagdad, Granada, Island
+- **Letter:** `e`, **Position:** `1`, **Words:** Exeter, Edmonton, Eritrea, Edinburgh, Essex
+- **Letter:** `e`, **Position:** `2`, **Words:** Venezuela, Nepal, Sendai, Reading, Beirut
+- **Letter:** `e`, **Position:** `3`, **Words:** Daejeon, Shenyang, Kiel, Chester, Quetta
+- **Letter:** `e`, **Position:** `4`, **Words:** Danemark, Venezuela, Medellin, Bruenn, Teheran
+- **Letter:** `e`, **Position:** `5`, **Words:** Bergen, Brunei, Barcelona, Indien, Libyen
+- **Letter:** `e`, **Position:** `6`, **Words:** Munchen, Turkmenistan, Huaibei, Lahore, Italien
+- **Letter:** `f`, **Position:** `1`, **Words:** Frankreich, Freetown, Fuzhou, Florenz, Fukuoka
 - **Letter:** `f`, **Position:** `2`, **Words:** Ufa, Afghanistan
-- **Letter:** `f`, **Position:** `3`, **Words:** Tiflis, Hefei, Isfahan, Oxford, Sofia
-- **Letter:** `f`, **Position:** `4`, **Words:** Genf, Haifa, Belfast, Kaifeng, Sheffield
-- **Letter:** `f`, **Position:** `5`, **Words:** Sheffield, Recife, Halifax, Bradford
+- **Letter:** `f`, **Position:** `3`, **Words:** Isfahan, Oxford, Hefei, Sofia, Tiflis
+- **Letter:** `f`, **Position:** `4`, **Words:** Sheffield, Belfast, Kaifeng, Genf, Haifa
+- **Letter:** `f`, **Position:** `5`, **Words:** Sheffield, Halifax, Bradford, Recife
 - **Letter:** `f`, **Position:** `6`, **Words:** Cardiff, Frankfurt
-- **Letter:** `g`, **Position:** `1`, **Words:** Gwangju, Gaborone, Ghana, Georgetown, Gabun
+- **Letter:** `g`, **Position:** `1`, **Words:** Granada, Greenwich, Griechenland, Guinea, Genua
 - **Letter:** `g`, **Position:** `2`, **Words:** Agra, Uganda
-- **Letter:** `g`, **Position:** `3`, **Words:** Nigeria, Argentinien, Togo, Algier, Algerien
-- **Letter:** `g`, **Position:** `4`, **Words:** Brighton, Daegu, Prag, Belgien, Belgrad
-- **Letter:** `g`, **Position:** `5`, **Words:** Changsha, Saragossa, Guangzhou, Georgien, Malaga
-- **Letter:** `g`, **Position:** `6`, **Words:** Portugal, Stuttgart, Wolgograd, Norwegen, Peking
-- **Letter:** `h`, **Position:** `1`, **Words:** Harare, Homs, Hamburg, Havanna, Hamamatsu
-- **Letter:** `h`, **Position:** `2`, **Words:** Chiquimula, Chandigarh, Changsha, Philippinen, Chengdu
-- **Letter:** `h`, **Position:** `3`, **Words:** Lahore, Teheran, Johannesburg, Athen, Wuhan
-- **Letter:** `h`, **Position:** `4`, **Words:** Kochi, Anshan, Tschad, Bethlehem, Nashville
-- **Letter:** `h`, **Position:** `5`, **Words:** Liechtenstein, Duschanbe, Maschhad, Winchester, Seychellen
-- **Letter:** `h`, **Position:** `6`, **Words:** Shanghai, Shenzhen, Lesotho, Fidschi, Utrecht
-- **Letter:** `i`, **Position:** `1`, **Words:** Iquitos, Irland, Isfahan, Indonesien, Istanbul
-- **Letter:** `i`, **Position:** `2`, **Words:** Liverpool, Windsor, Jilin, Winchester, Minsk
-- **Letter:** `i`, **Position:** `3`, **Words:** Reims, Mailand, Haifa, Philippinen, Tripolis
-- **Letter:** `i`, **Position:** `4`, **Words:** Peking, Puri, Mali, Bali, Sevilla
-- **Letter:** `i`, **Position:** `5`, **Words:** Cincinnati, Dublin, Tallinn, Togliatti, Italien
-- **Letter:** `i`, **Position:** `6`, **Words:** Nowosibirsk, Brunei, Charkiw, Tunesien, Adelaide
-- **Letter:** `j`, **Position:** `1`, **Words:** Jamaika, Jekaterinburg, Johannesburg, Japan, Jerusalem
+- **Letter:** `g`, **Position:** `3`, **Words:** Argentinien, Riga, Lagos, Vigo, Nagpur
+- **Letter:** `g`, **Position:** `4`, **Words:** Kirgisistan, Belgien, Ningbo, Bangalore, Wolgograd
+- **Letter:** `g`, **Position:** `5`, **Words:** Madagaskar, Gwangju, Ramsgate, Changchun, Saragossa
+- **Letter:** `g`, **Position:** `6`, **Words:** Wolgograd, Portugal, Peking, Cartagena, Norwegen
+- **Letter:** `h`, **Position:** `1`, **Words:** Hanoi, Hobart, Houston, Halifax, Hamburg
+- **Letter:** `h`, **Position:** `2`, **Words:** Changsha, Thessaloniki, Charlotte, Philippinen, Shanghai
+- **Letter:** `h`, **Position:** `3`, **Words:** Athen, Schiraz, Johannesburg, Teheran, Schweden
+- **Letter:** `h`, **Position:** `4`, **Words:** Ludhiana, Delhi, Tschad, Richmond, Puchong
+- **Letter:** `h`, **Position:** `5`, **Words:** Mannheim, Southampton, Peschawar, Nanchang, Manchester
+- **Letter:** `h`, **Position:** `6`, **Words:** Warschau, Maschhad, Hiroshima, Shanghai, Quanzhou
+- **Letter:** `i`, **Position:** `1`, **Words:** Indonesien, Irkutsk, Irak, Inverness, Istanbul
+- **Letter:** `i`, **Position:** `2`, **Words:** Simbabwe, Nigeria, Finnland, Fidschi, Tianjin
+- **Letter:** `i`, **Position:** `3`, **Words:** Chile, Griechenland, Nairobi, Tripolis, Leicester
+- **Letter:** `i`, **Position:** `4`, **Words:** Indianapolis, Recife, Bali, Kaliningrad, Manila
+- **Letter:** `i`, **Position:** `5`, **Words:** Helsinki, Swasiland, Reading, Tiflis, Kirgisistan
+- **Letter:** `i`, **Position:** `6`, **Words:** Nowosibirsk, Turkei, Rosario, Kaohsiung, Brunei
+- **Letter:** `j`, **Position:** `1`, **Words:** Jaipur, Jamaika, Jerewan, Jerusalem, Jinan
 - **Letter:** `j`, **Position:** `2`, **Words:** Ljubljana, Ljubno
-- **Letter:** `j`, **Position:** `3`, **Words:** Tijuana, Gujarat
-- **Letter:** `j`, **Position:** `4`, **Words:** Shijiazhuang, Daejeon, Nanjing
-- **Letter:** `j`, **Position:** `5`, **Words:** Abidjan, Reykjavik, Tianjin
-- **Letter:** `j`, **Position:** `6`, **Words:** Ljubljana, Gwangju
-- **Letter:** `k`, **Position:** `1`, **Words:** Kunming, Kamerun, Kochi, Kaohsiung, Kyoto
+- **Letter:** `j`, **Position:** `3`, **Words:** Gujarat, Tijuana
+- **Letter:** `j`, **Position:** `4`, **Words:** Nanjing, Shijiazhuang, Daejeon
+- **Letter:** `j`, **Position:** `5`, **Words:** Tianjin, Abidjan, Reykjavik
+- **Letter:** `j`, **Position:** `6`, **Words:** Gwangju, Ljubljana
+- **Letter:** `k`, **Position:** `1`, **Words:** Kobe, Kroatien, Kuwait, Kathmandu, Kiel
 - **Letter:** `k`, **Position:** `2`, **Words:** Ukraine, Okzitanien
-- **Letter:** `k`, **Position:** `3`, **Words:** Ankara, Mikronesien, Irkutsk, Jekaterinburg, Tokio
-- **Letter:** `k`, **Position:** `4`, **Words:** Muskat, Dhaka, Turkmenistan, Lucknow, Moskau
-- **Letter:** `k`, **Position:** `5`, **Words:** Malakka, Kitakyushu, Conakry, Frankfurt, Minsk
-- **Letter:** `k`, **Position:** `6`, **Words:** Marokko, Damaskus, Fukuoka, Malakka, Marrakesch
-- **Letter:** `l`, **Position:** `1`, **Words:** Lincoln, Ludhiana, Lublin, Leeds, Libyen
-- **Letter:** `l`, **Position:** `2`, **Words:** Algerien, Algier, Cleveland, Alexandria, Alicante
-- **Letter:** `l`, **Position:** `3`, **Words:** Columbus, Malakka, Bali, Malaysia, Malediven
-- **Letter:** `l`, **Position:** `4`, **Words:** Chile, Adelaide, Philippinen, Mailand, Tiflis
-- **Letter:** `l`, **Position:** `5`, **Words:** Medellin, Honolulu, Finnland, Basel, Angola
-- **Letter:** `l`, **Position:** `6`, **Words:** Mandalay, Medellin, Lincoln, Israel, Guadalajara
-- **Letter:** `m`, **Position:** `1`, **Words:** Madagaskar, Mainz, Malta, Mali, Multan
-- **Letter:** `m`, **Position:** `2`, **Words:** Amritsar, Amsterdam, Omsk, Amman, Oman
-- **Letter:** `m`, **Position:** `3`, **Words:** Somalia, Lemberg, Kamerun, Armenien, Damaskus
-- **Letter:** `m`, **Position:** `4`, **Words:** Birmingham, Reims, Kunming, Perm, Chemnitz
-- **Letter:** `m`, **Position:** `5`, **Words:** Richmond, Manama, Turkmenistan, Danemark, Kathmandu
-- **Letter:** `m`, **Position:** `6`, **Words:** Portsmouth, Palermo, Saitama, Durham, Sacramento
-- **Letter:** `n`, **Position:** `1`, **Words:** Norwegen, Nizza, Nottingham, Namibia, Nepal
-- **Letter:** `n`, **Position:** `2`, **Words:** Indore, Ankara, Andorra, Anchorage, Angola
-- **Letter:** `n`, **Position:** `3`, **Words:** Dundee, Cincinnati, Jinan, Denver, Qingdao
-- **Letter:** `n`, **Position:** `4`, **Words:** Frankfurt, Spanien, Swansea, Chennai, Iran
-- **Letter:** `n`, **Position:** `5`, **Words:** Jemen, Gabun, Aswan, Havanna, Turin
-- **Letter:** `n`, **Position:** `6`, **Words:** Bandung, Dublin, Helsinki, Kunming, Havanna
-- **Letter:** `o`, **Position:** `1`, **Words:** Oxford, Oman, Odessa, Omsk, Orlando
-- **Letter:** `o`, **Position:** `2`, **Words:** Portugal, Doha, Dortmund, Bolivien, Honolulu
-- **Letter:** `o`, **Position:** `3`, **Words:** Kroatien, Slowakei, Slowenien, Lyon, Ipoh
-- **Letter:** `o`, **Position:** `4`, **Words:** Nowosibirsk, Bologna, Oxford, Indore, Vadodara
-- **Letter:** `o`, **Position:** `5`, **Words:** Fukuoka, Truro, Kambodscha, Tripolis, Kyoto
-- **Letter:** `o`, **Position:** `6`, **Words:** Bradford, Krasnojarsk, Freetown, Iquitos, Libanon
-- **Letter:** `p`, **Position:** `1`, **Words:** Patras, Polen, Perth, Preston, Palembang
-- **Letter:** `p`, **Position:** `2`, **Words:** Uppsala, Apia, Ipoh, Spanien
-- **Letter:** `p`, **Position:** `3`, **Words:** Uppsala, Kopenhagen, Sapporo, Nepal, Zypern
-- **Letter:** `p`, **Position:** `4`, **Words:** Kanpur, Memphis, Sapporo, Nagpur, Kampala
-- **Letter:** `p`, **Position:** `5`, **Words:** Zapopan, Budapest, Aleppo, Jodhpur
-- **Letter:** `p`, **Position:** `6`, **Words:** Singapur, Winnipeg, Liverpool, Philippinen, Rawalpindi
-- **Letter:** `q`, **Position:** `1`, **Words:** Quito, Quanzhou, Qingdao, Quetta, Qiqihar
+- **Letter:** `k`, **Position:** `3`, **Words:** Baku, Pakistan, Dakar, Mekka, Fukuoka
+- **Letter:** `k`, **Position:** `4`, **Words:** Kirkwall, Omsk, Dhaka, Cork, Muskat
+- **Letter:** `k`, **Position:** `5`, **Words:** Usbekistan, Conakry, Bangkok, Mexiko, Kitakyushu
+- **Letter:** `k`, **Position:** `6`, **Words:** Fukuoka, Taschkent, Jamaika, Damaskus, Slowakei
+- **Letter:** `l`, **Position:** `1`, **Words:** Lerwick, Lusaka, Luxemburg, Ludhiana, Luanda
+- **Letter:** `l`, **Position:** `2`, **Words:** Cleveland, Algerien, Glasgow, Plymouth, Florenz
+- **Letter:** `l`, **Position:** `3`, **Words:** Malaga, Bolton, Palembang, Valencia, Helsinki
+- **Letter:** `l`, **Position:** `4`, **Words:** Tiflis, Berlin, Mailand, Italien, Lille
+- **Letter:** `l`, **Position:** `5`, **Words:** Kabul, Breslau, Bethlehem, Bangladesch, Lettland
+- **Letter:** `l`, **Position:** `6`, **Words:** Medellin, Swasiland, Tscheljabinsk, Seattle, Guadalajara
+- **Letter:** `m`, **Position:** `1`, **Words:** Mali, Manama, Manaus, Mannheim, Macao
+- **Letter:** `m`, **Position:** `2`, **Words:** Amritsar, Amsterdam, Oman, Amman, Omsk
+- **Letter:** `m`, **Position:** `3`, **Words:** Damaskus, Samoa, Simbabwe, Kumamoto, Lima
+- **Letter:** `m`, **Position:** `4`, **Words:** Birmingham, Chemnitz, Plymouth, Bremen, Kunming
+- **Letter:** `m`, **Position:** `5`, **Words:** Panama, Danemark, Columbus, Richmond, Kathmandu
+- **Letter:** `m`, **Position:** `6`, **Words:** Guatemala, Sacramento, Saitama, Durham, Baltimore
+- **Letter:** `n`, **Position:** `1`, **Words:** Nagpur, Norwegen, Nanjing, Norwich, Nanchang
+- **Letter:** `n`, **Position:** `2`, **Words:** Indore, Indien, Antwerpen, Angola, Andorra
+- **Letter:** `n`, **Position:** `3`, **Words:** Venezuela, Manila, Bandung, Kanton, Tonga
+- **Letter:** `n`, **Position:** `4`, **Words:** Changsha, Guangxi, Chengdu, Spanien, Bonn
+- **Letter:** `n`, **Position:** `5`, **Words:** Sudan, Chemnitz, Medan, Wuhan, Havanna
+- **Letter:** `n`, **Position:** `6`, **Words:** Tansania, Ukraine, Tijuana, Durban, Estland
+- **Letter:** `o`, **Position:** `1`, **Words:** Osaka, Odessa, Oslo, Oman, Oxford
+- **Letter:** `o`, **Position:** `2`, **Words:** Yokohama, Honduras, Dortmund, Kongo, Dominica
+- **Letter:** `o`, **Position:** `3`, **Words:** Slowenien, Seoul, Kyoto, Bhopal, Kaohsiung
+- **Letter:** `o`, **Position:** `4`, **Words:** Vigo, Lesotho, Hiroshima, Nowosibirsk, Samoa
+- **Letter:** `o`, **Position:** `5`, **Words:** Wolgograd, Quito, Truro, Melbourne, Cordoba
+- **Letter:** `o`, **Position:** `6`, **Words:** Lanzhou, Liuzhou, Preston, Windsor, Toledo
+- **Letter:** `p`, **Position:** `1`, **Words:** Plymouth, Phoenix, Palau, Polen, Preston
+- **Letter:** `p`, **Position:** `2`, **Words:** Apia, Spanien, Uppsala, Ipoh
+- **Letter:** `p`, **Position:** `3`, **Words:** Japan, Kopenhagen, Zapopan, Sapporo, Nepal
+- **Letter:** `p`, **Position:** `4`, **Words:** Neapel, Leipzig, Aleppo, Jaipur, Denpasar
+- **Letter:** `p`, **Position:** `5`, **Words:** Aleppo, Jodhpur, Zapopan, Budapest
+- **Letter:** `p`, **Position:** `6`, **Words:** Winnipeg, Philippinen, Rawalpindi, Singapur, Liverpool
+- **Letter:** `q`, **Position:** `1`, **Words:** Quanzhou, Qingdao, Quetta, Quito, Qiqihar
 - **Letter:** `q`, **Position:** `2`, **Words:** Aqaba, Iquitos
 - **Letter:** `q`, **Position:** `3`, **Words:** Suqian, Qiqihar
 - **Letter:** `q`, **Position:** `4`, **Words:** Chiquimula, Mosquera
-- **Letter:** `q`, **Position:** `5`, **Words:** Mariquina, Mariquita
+- **Letter:** `q`, **Position:** `5`, **Words:** Mariquita, Mariquina
 - **Letter:** `q`, **Position:** `6`, **Words:** Chinique, Antioquia
-- **Letter:** `r`, **Position:** `1`, **Words:** Rom, Russland, Reykjavik, Rosario, Reading
-- **Letter:** `r`, **Position:** `2`, **Words:** Freetown, Preston, Kroatien, Granada, Trabzon
-- **Letter:** `r`, **Position:** `3`, **Words:** Marseille, Toronto, Cork, Syrien, Surabaya
-- **Letter:** `r`, **Position:** `4`, **Words:** Florenz, Mauritius, Kairo, Marrakesch, Aberdeen
-- **Letter:** `r`, **Position:** `5`, **Words:** Australien, Eritrea, Zypern, Nigeria, Teheran
-- **Letter:** `r`, **Position:** `6`, **Words:** Jaipur, Anchorage, Hamburg, Windermere, Antwerpen
-- **Letter:** `s`, **Position:** `1`, **Words:** Slowenien, Saitama, Surat, Sambia, Sapporo
-- **Letter:** `s`, **Position:** `2`, **Words:** Usbekistan, Asuncion, Oslo, Aswan, Osaka
-- **Letter:** `s`, **Position:** `3`, **Words:** Anshan, Russland, Taschkent, Mosquera, Nassau
-- **Letter:** `s`, **Position:** `4`, **Words:** Breslau, Bristol, Preston, Duisburg, Bursa
-- **Letter:** `s`, **Position:** `5`, **Words:** Nowosibirsk, Windsor, Swansea, Hiroshima, Odessa
-- **Letter:** `s`, **Position:** `6`, **Words:** Tiflis, Changsha, Leicester, Patras, Denpasar
-- **Letter:** `t`, **Position:** `1`, **Words:** Tunesien, Trabzon, Turkei, Toulouse, Togliatti
-- **Letter:** `t`, **Position:** `2`, **Words:** Stockholm, Atlanta, Italien, Athen, Utrecht
-- **Letter:** `t`, **Position:** `3`, **Words:** Nottingham, Istanbul, Antwerpen, Botswana, Patras
-- **Letter:** `t`, **Position:** `4`, **Words:** Nottingham, Yantai, Haiti, Bhutan, Saitama
-- **Letter:** `t`, **Position:** `5`, **Words:** Surat, Irkutsk, Bogota, Khartum, Lesotho
-- **Letter:** `t`, **Position:** `6`, **Words:** Atlanta, Argentinien, Kuwait, Muskat, Hamilton
-- **Letter:** `u`, **Position:** `1`, **Words:** Uruguay, Utrecht, Ungarn, Uganda, Uppsala
-- **Letter:** `u`, **Position:** `2`, **Words:** Austin, Gujarat, Quanzhou, Turin, Budapest
-- **Letter:** `u`, **Position:** `3`, **Words:** Truro, Uruguay, Liuzhou, Asuncion, Jaunde
-- **Letter:** `u`, **Position:** `4`, **Words:** Vanuatu, Maputo, Peru, Kolumbien, Augusta
-- **Letter:** `u`, **Position:** `5`, **Words:** Bochum, Litauen, Palau, Manaus, Macau
-- **Letter:** `u`, **Position:** `6`, **Words:** Toulouse, Honolulu, Tuvalu, Dortmund, Krakau
-- **Letter:** `v`, **Position:** `1`, **Words:** Vilnius, Varanasi, Venezuela, Venedig, Vigo
-- **Letter:** `v`, **Position:** `2`, **Words:** Avignon, Evreux
-- **Letter:** `v`, **Position:** `3`, **Words:** Havanna, Coventry, Dover, Inverness, Davao
-- **Letter:** `v`, **Position:** `4`, **Words:** Cleveland, Denver, Salvador
-- **Letter:** `v`, **Position:** `5`, **Words:** Tel Aviv, Bolivien, Nashville, Izhevsk
-- **Letter:** `v`, **Position:** `6`, **Words:** Moldavien, Monrovia
-- **Letter:** `w`, **Position:** `1`, **Words:** Wellington, Winnipeg, Windermere, Windsor, Warschau
-- **Letter:** `w`, **Position:** `2`, **Words:** Swasiland, Swansea, Zwickau, Gwangju
-- **Letter:** `w`, **Position:** `3`, **Words:** Newport, Nowosibirsk, Rawalpindi, Newcastle, Kuwait
-- **Letter:** `w`, **Position:** `4`, **Words:** Darwin, Lerwick, Taiwan, Slowakei, Norwegen
-- **Letter:** `w`, **Position:** `5`, **Words:** Kirkwall, Malawi, Jerewan, Botswana
+- **Letter:** `r`, **Position:** `1`, **Words:** Reading, Reims, Ramsgate, Riga, Richmond
+- **Letter:** `r`, **Position:** `2`, **Words:** Bradford, Prag, Truro, Granada, Brunei
+- **Letter:** `r`, **Position:** `3`, **Words:** Fortaleza, Paris, Karatschi, Dortmund, Suriname
+- **Letter:** `r`, **Position:** `4`, **Words:** Beirut, Bahrain, Charlotte, Mauritius, Marrakesch
+- **Letter:** `r`, **Position:** `5`, **Words:** Lahore, Aurora, Nigeria, Andorra, Niger
+- **Letter:** `r`, **Position:** `6`, **Words:** Kanpur, Honduras, Newport, Algier, Windermere
+- **Letter:** `s`, **Position:** `1`, **Words:** Serbien, Salzburg, Saitama, Sofia, Swasiland
+- **Letter:** `s`, **Position:** `2`, **Words:** Oslo, Islamabad, Asuncion, Tscheljabinsk, Island
+- **Letter:** `s`, **Position:** `3`, **Words:** Basel, Anshan, Nassau, Ulsan, Australien
+- **Letter:** `s`, **Position:** `4`, **Words:** Preston, Faisalabad, Ramsgate, Glasgow, Nassau
+- **Letter:** `s`, **Position:** `5`, **Words:** Lagos, Makassar, Kawasaki, Leeds, Swansea
+- **Letter:** `s`, **Position:** `6`, **Words:** Manaus, Denpasar, Malaysia, Changsha, Belfast
+- **Letter:** `t`, **Position:** `1`, **Words:** Tscheljabinsk, Tuvalu, Tel Aviv, Thailand, Tampa
+- **Letter:** `t`, **Position:** `2`, **Words:** Utrecht, Italien, Stockholm, Athen, Atlanta
+- **Letter:** `t`, **Position:** `3`, **Words:** Pittsburgh, Lettland, Detroit, Antalya, Antwerpen
+- **Letter:** `t`, **Position:** `4`, **Words:** Australien, Quito, Seattle, Bhutan, Porto
+- **Letter:** `t`, **Position:** `5`, **Words:** Iquitos, Rabat, Seattle, Chester, Surat
+- **Letter:** `t`, **Position:** `6`, **Words:** Vanuatu, Hobart, Muskat, Toronto, Argentinien
+- **Letter:** `u`, **Position:** `1`, **Words:** Uganda, Utrecht, Ukraine, Ufa, Ungarn
+- **Letter:** `u`, **Position:** `2`, **Words:** Munchen, Dundee, Luanda, Quanzhou, Budapest
+- **Letter:** `u`, **Position:** `3`, **Words:** Douglas, Southampton, Ljubljana, Brunei, Nauru
+- **Letter:** `u`, **Position:** `4`, **Words:** Maputo, Peru, Tijuana, Kolumbien, Vanuatu
+- **Letter:** `u`, **Position:** `5`, **Words:** Bochum, Hamburg, Daegu, Beirut, Chiquimula
+- **Letter:** `u`, **Position:** `6`, **Words:** Nassau, Honolulu, Tuvalu, Jodhpur, Venezuela
+- **Letter:** `v`, **Position:** `1`, **Words:** Venezuela, Vilnius, Vanuatu, Valencia, Varanasi
+- **Letter:** `v`, **Position:** `2`, **Words:** Evreux, Avignon
+- **Letter:** `v`, **Position:** `3`, **Words:** Liverpool, Havanna, Tuvalu, Dover, Inverness
+- **Letter:** `v`, **Position:** `4`, **Words:** Salvador, Cleveland, Denver
+- **Letter:** `v`, **Position:** `5`, **Words:** Bolivien, Tel Aviv, Nashville, Izhevsk
+- **Letter:** `v`, **Position:** `6`, **Words:** Monrovia, Moldavien
+- **Letter:** `w`, **Position:** `1`, **Words:** Wladiwostok, Windsor, Washington, Wellington, Winnipeg
+- **Letter:** `w`, **Position:** `2`, **Words:** Swansea, Swasiland, Gwangju, Zwickau
+- **Letter:** `w`, **Position:** `3`, **Words:** Kuwait, Rawalpindi, Nowosibirsk, Aswan, Newport
+- **Letter:** `w`, **Position:** `4`, **Words:** Darwin, Antwerpen, Norwich, Slowenien, Schweiz
+- **Letter:** `w`, **Position:** `5`, **Words:** Kirkwall, Botswana, Malawi, Jerewan
 - **Letter:** `w`, **Position:** `6`, **Words:** Wladiwostok, Greenwich
-- **Letter:** `x`, **Position:** `1`, **Words:** Xiangxiang, Xiangtan, Xiamen
-- **Letter:** `x`, **Position:** `2`, **Words:** Exeter, Oxford
-- **Letter:** `x`, **Position:** `3`, **Words:** Mexiko, Luxemburg, Mexicali
+- **Letter:** `x`, **Position:** `1`, **Words:** Xiangtan, Xiamen, Xiangxiang
+- **Letter:** `x`, **Position:** `2`, **Words:** Oxford, Exeter
+- **Letter:** `x`, **Position:** `3`, **Words:** Mexiko, Mexicali, Luxemburg
 - **Letter:** `x`, **Position:** `4`, **Words:** Alexandria, Alexandroupolis
 - **Letter:** `x`, **Position:** `5`, **Words:** Essex, Ornex
 - **Letter:** `x`, **Position:** `6`, **Words:** Zhangxian, Xiangxiang, Guangxi, Evreux
-- **Letter:** `y`, **Position:** `1`, **Words:** Yantai, Yaounde, Yokohama, York
-- **Letter:** `y`, **Position:** `2`, **Words:** Zypern, Lyon, Hyderabad, Sydney, Myanmar
-- **Letter:** `y`, **Position:** `3`, **Words:** Plymouth, Seychellen, Guyana, Reykjavik
-- **Letter:** `y`, **Position:** `4`, **Words:** Guiyang, Konya, Taiyuan, Libyen
-- **Letter:** `y`, **Position:** `5`, **Words:** Shenyang, Malaysia, Nagoya
-- **Letter:** `y`, **Position:** `6`, **Words:** Almaty, Antalya, Sydney, Kitakyushu
-- **Letter:** `z`, **Position:** `1`, **Words:** Zhangxian, Zagreb, Zhengzhou, Zypern, Zapopan
-- **Letter:** `z`, **Position:** `2`, **Words:** Izhevsk, Azoren
-- **Letter:** `z`, **Position:** `3`, **Words:** Mazedonien, Suzhou, Fuzhou, Nizza, Okzitanien
-- **Letter:** `z`, **Position:** `4`, **Words:** Lanzhou, Salzburg, Liuzhou, Lodz, Nizza
-- **Letter:** `z`, **Position:** `5`, **Words:** Shenzhen, Trabzon, Mainz, Leipzig, Belize
+- **Letter:** `y`, **Position:** `1`, **Words:** Yaounde, Yantai, Yokohama, York
+- **Letter:** `y`, **Position:** `2`, **Words:** Syrien, Myanmar, Hyderabad, Lyon, Sydney
+- **Letter:** `y`, **Position:** `3`, **Words:** Guyana, Reykjavik, Seychellen, Plymouth
+- **Letter:** `y`, **Position:** `4`, **Words:** Libyen, Taiyuan, Konya, Guiyang
+- **Letter:** `y`, **Position:** `5`, **Words:** Malaysia, Nagoya, Shenyang
+- **Letter:** `y`, **Position:** `6`, **Words:** Antalya, Almaty, Sydney, Kitakyushu
+- **Letter:** `z`, **Position:** `1`, **Words:** Zhangxian, Zhengzhou, Zhuzhou, Zagreb, Zypern
+- **Letter:** `z`, **Position:** `2`, **Words:** Azoren, Izhevsk
+- **Letter:** `z`, **Position:** `3`, **Words:** Mazedonien, Nizza, Fuzhou, Suzhou, Okzitanien
+- **Letter:** `z`, **Position:** `4`, **Words:** Nizza, Liuzhou, Lanzhou, Lodz, Zhuzhou
+- **Letter:** `z`, **Position:** `5`, **Words:** Hangzhou, Quanzhou, Belize, Venezuela, Trabzon
 - **Letter:** `z`, **Position:** `6`, **Words:** Zhengzhou, Guangzhou
 
 </details>
@@ -4043,145 +4043,145 @@ Total missing words: `0`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Antoni, Alice, Ammar, Arian, Alfred
-- **Letter:** `a`, **Position:** `2`, **Words:** Jakob, Kathe, Hazal, Natalie, Carolin
-- **Letter:** `a`, **Position:** `3`, **Words:** Kiano, Leander, Dean, Tian, Azad
-- **Letter:** `a`, **Position:** `4`, **Words:** Roman, Kira, Osman, Masa, Tamara
-- **Letter:** `a`, **Position:** `5`, **Words:** Nathan, Anisa, Nathanael, Janna, Kilian
-- **Letter:** `a`, **Position:** `6`, **Words:** Emilian, Amanda, Samira, Tristan, Konstantin
-- **Letter:** `b`, **Position:** `1`, **Words:** Ben, Bastian, Beatrice, Baran, Berat
-- **Letter:** `b`, **Position:** `2`, **Words:** Ibrahim, Abigail, Abdullah, Abdul
-- **Letter:** `b`, **Position:** `3`, **Words:** Gabriel, Fabian, Ruby, Alba, Fabio
-- **Letter:** `b`, **Position:** `4`, **Words:** Isabella, Lisbeth, Isabell, Korbinian
-- **Letter:** `b`, **Position:** `5`, **Words:** Annabell, Jakob, Caleb, Jakub
-- **Letter:** `c`, **Position:** `1`, **Words:** Clea, Can, Caleb, Cara, Clara
-- **Letter:** `c`, **Position:** `3`, **Words:** Michael, Michel, Lucia, Jack, Nicole
-- **Letter:** `c`, **Position:** `4`, **Words:** Marcel, Vincent, Marc, Grace, Alice
-- **Letter:** `c`, **Position:** `5`, **Words:** Bianca, Felicitas, Rebecca, Mirac, Felicia
+- **Letter:** `a`, **Position:** `1`, **Words:** Alaya, Aquilo, Adelmut, Alisa, Aleyna
+- **Letter:** `a`, **Position:** `2`, **Words:** Maja, Marlo, Sarah, Jakov, Jaron
+- **Letter:** `a`, **Position:** `3`, **Words:** Ilay, Lian, Leano, Pia, Franz
+- **Letter:** `a`, **Position:** `4`, **Words:** Kiyan, Sina, Hira, Lena, Cara
+- **Letter:** `a`, **Position:** `5`, **Words:** Gustaw, Hafsa, Michael, Yahya, Ayana
+- **Letter:** `a`, **Position:** `6`, **Words:** Nikita, Frieda, Sofija, Mathea, Dietwalt
+- **Letter:** `b`, **Position:** `1`, **Words:** Bo, Bianca, Bastian, Bruno, Bora
+- **Letter:** `b`, **Position:** `2`, **Words:** Abigail, Ibrahim, Abdullah, Abdul
+- **Letter:** `b`, **Position:** `3`, **Words:** Albert, Alba, Fabienne, Rebecca, Ruby
+- **Letter:** `b`, **Position:** `4`, **Words:** Lisbeth, Isabell, Korbinian, Isabella
+- **Letter:** `b`, **Position:** `5`, **Words:** Jakub, Jakob, Annabell, Caleb
+- **Letter:** `c`, **Position:** `1`, **Words:** Colin, Celia, Christina, Charlie, Clemens
+- **Letter:** `c`, **Position:** `3`, **Words:** Cecilia, Michelle, Lucy, Luca, Nick
+- **Letter:** `c`, **Position:** `4`, **Words:** Vincent, Joscha, Jascha, Alicia, Grace
+- **Letter:** `c`, **Position:** `5`, **Words:** Bianca, Francesco, Felicitas, Mirac, Felicia
 - **Letter:** `c`, **Position:** `6`, **Words:** Patrick, Rebecca, Janosch
-- **Letter:** `d`, **Position:** `1`, **Words:** Dominik, Diego, Dina, Dana, Daris
-- **Letter:** `d`, **Position:** `2`, **Words:** Adelina, Eddy, Adriano, Idris, Eda
-- **Letter:** `d`, **Position:** `3`, **Words:** Sidra, Lydia, Hedda, Jad, Andrej
-- **Letter:** `d`, **Position:** `4`, **Words:** Linda, Frederik, Zaid, Said, Jayden
-- **Letter:** `d`, **Position:** `5`, **Words:** Amanda, David, Melody, Ewald, Sanad
-- **Letter:** `d`, **Position:** `6`, **Words:** Khaled, Eduard, Konrad, Alfred, Leonidas
-- **Letter:** `e`, **Position:** `1`, **Words:** Eliano, Eloise, Emma, Eliana, Eleni
-- **Letter:** `e`, **Position:** `2`, **Words:** Sebastian, Leandra, Nelio, Kevin, Felix
-- **Letter:** `e`, **Position:** `3`, **Words:** Zoe, Joel, Theo, Eren, Thea
-- **Letter:** `e`, **Position:** `4`, **Words:** Melek, Lorena, Matei, Ahmet, Caleb
-- **Letter:** `e`, **Position:** `5`, **Words:** Ylvie, Clemens, Jonne, Oliver, Jonte
-- **Letter:** `e`, **Position:** `6`, **Words:** Cataleya, Elaine, Gabriel, Marlie, Elodie
-- **Letter:** `f`, **Position:** `1`, **Words:** Flora, Felicitas, Finja, Fabian, Fritz
+- **Letter:** `d`, **Position:** `1`, **Words:** Devin, David, Dorothea, Dante, Darius
+- **Letter:** `d`, **Position:** `2`, **Words:** Ediz, Ida, Edda, Idris, Adelmut
+- **Letter:** `d`, **Position:** `3`, **Words:** Hedda, Madita, Jade, Aiden, Hadi
+- **Letter:** `d`, **Position:** `4`, **Words:** Frederik, Fred, Azad, Said, Gerda
+- **Letter:** `d`, **Position:** `5`, **Words:** Arvid, Ewald, Leandro, Friedrich, Melody
+- **Letter:** `d`, **Position:** `6`, **Words:** Khaled, Konrad, Eduard, Leonidas, Alfred
+- **Letter:** `e`, **Position:** `1`, **Words:** Eddy, Elsa, Ensar, Elea, Enno
+- **Letter:** `e`, **Position:** `2`, **Words:** Melek, Mehmet, Celia, Felina, Felia
+- **Letter:** `e`, **Position:** `3`, **Words:** Aseel, Aleyna, Clea, Theodor, Stella
+- **Letter:** `e`, **Position:** `4`, **Words:** Eslem, Penelope, Angelina, Romeo, Tabea
+- **Letter:** `e`, **Position:** `5`, **Words:** Bennet, Madlen, Mariella, Alice, Jonne
+- **Letter:** `e`, **Position:** `6`, **Words:** Marleen, Salome, Gabriela, Raphaela, Feline
+- **Letter:** `f`, **Position:** `1`, **Words:** Fiete, Felix, Franka, Frederik, Florian
 - **Letter:** `f`, **Position:** `2`, **Words:** Efe, Efnan
-- **Letter:** `f`, **Position:** `3`, **Words:** Safiya, Defne, Hafsa, Nefes, Alfred
-- **Letter:** `f`, **Position:** `4`, **Words:** Elif, Stefan, Leif
-- **Letter:** `f`, **Position:** `5`, **Words:** Josefa, Josefin, Yusuf, Josef
-- **Letter:** `g`, **Position:** `1`, **Words:** Grace, Greta, Gabriela, Gloria, Gregor
+- **Letter:** `f`, **Position:** `3`, **Words:** Sofija, Alfred, Hafsa, Defne, Nefes
+- **Letter:** `f`, **Position:** `4`, **Words:** Stefan, Leif, Elif
+- **Letter:** `f`, **Position:** `5`, **Words:** Josef, Josefin, Josefa, Yusuf
+- **Letter:** `g`, **Position:** `1`, **Words:** Gloria, Greta, Gabriela, Grace, Giulia
 - **Letter:** `g`, **Position:** `2`, **Words:** Igor, Ugo
-- **Letter:** `g`, **Position:** `3`, **Words:** Miguel, August, Magdalena, Bogdan, Edgar
-- **Letter:** `g`, **Position:** `4`, **Words:** Abigail, Tiago, Gregor, Diego
-- **Letter:** `h`, **Position:** `1`, **Words:** Helene, Holly, Hartmut, Henry, Harun
-- **Letter:** `h`, **Position:** `2`, **Words:** Theo, Chloe, Chiara, Theodor, Philipp
-- **Letter:** `h`, **Position:** `3`, **Words:** Johanna, Taha, Zahra, Mohammed, Zehra
-- **Letter:** `h`, **Position:** `4`, **Words:** Sophie, Michelle, Wilhelm, Kathe, Mathilda
-- **Letter:** `h`, **Position:** `5`, **Words:** Jascha, Joscha, Leonhard, Matthias, Zarah
-- **Letter:** `h`, **Position:** `6`, **Words:** Dorothea, Lilith, Elijah, Josephina, Hannah
-- **Letter:** `i`, **Position:** `1`, **Words:** Irma, Ian, Imani, Ilaria, Isa
-- **Letter:** `i`, **Position:** `2`, **Words:** Finley, Fiete, Lilia, Mira, Linnea
-- **Letter:** `i`, **Position:** `3`, **Words:** Emilian, Hailey, Asiya, Alia, Elise
-- **Letter:** `i`, **Position:** `4`, **Words:** Annika, Christian, Sofija, Lilian, Lavin
-- **Letter:** `i`, **Position:** `5`, **Words:** Laurin, Henriette, Amelia, Sophie, Korbinian
-- **Letter:** `i`, **Position:** `6`, **Words:** Benedikt, Hussein, Aurelia, Abigail, Antonio
-- **Letter:** `j`, **Position:** `1`, **Words:** Josie, Joana, Jakov, Joel, Jon
-- **Letter:** `j`, **Position:** `2`, **Words:** Bjarne, Bjorn, Kjell, Ajla
-- **Letter:** `j`, **Position:** `3`, **Words:** Ilja, Maja, Kaja, Lijan
-- **Letter:** `j`, **Position:** `4`, **Words:** Ronja, Fenja, Finja, Benjamin, Lenja
+- **Letter:** `g`, **Position:** `3`, **Words:** Magnus, Magdalena, Hugo, Miguel, August
+- **Letter:** `g`, **Position:** `4`, **Words:** Tiago, Abigail, Gregor, Diego
+- **Letter:** `h`, **Position:** `1`, **Words:** Hasan, Henriette, Hope, Hazel, Helen
+- **Letter:** `h`, **Position:** `2`, **Words:** Chloe, Philine, Theresa, Ahmad, Thalia
+- **Letter:** `h`, **Position:** `3`, **Words:** Rahel, Mohammed, John, Ophelia, Johanna
+- **Letter:** `h`, **Position:** `4`, **Words:** Nathan, Raphaela, Esther, Noah, Wilhelm
+- **Letter:** `h`, **Position:** `5`, **Words:** Leonhard, Sarah, Zarah, Metehan, Martha
+- **Letter:** `h`, **Position:** `6`, **Words:** Josephine, Elijah, Dorothea, Jonathan, Josephina
+- **Letter:** `i`, **Position:** `1`, **Words:** Ivy, Idris, Iman, Ian, Imran
+- **Letter:** `i`, **Position:** `2`, **Words:** Till, Wilma, Ria, Mira, Lijan
+- **Letter:** `i`, **Position:** `3`, **Words:** Zain, Heidi, Elif, Philipp, Hailey
+- **Letter:** `i`, **Position:** `4`, **Words:** Arvid, Daria, Julia, Romina, Ayliz
+- **Letter:** `i`, **Position:** `5`, **Words:** Marlie, Pauline, Gloria, Naemi, Emilian
+- **Letter:** `i`, **Position:** `6`, **Words:** Abigail, Melanie, Felicia, Fritzi, Charlie
+- **Letter:** `j`, **Position:** `1`, **Words:** Jari, Joel, Jasmina, Jasper, Jolie
+- **Letter:** `j`, **Position:** `2`, **Words:** Bjarne, Ajla, Kjell, Bjorn
+- **Letter:** `j`, **Position:** `3`, **Words:** Ilja, Lijan, Maja, Kaja
+- **Letter:** `j`, **Position:** `4`, **Words:** Fenja, Finja, Lenja, Elijah, Benjamin
 - **Letter:** `j`, **Position:** `6`, **Words:** Khadija, Andrej
-- **Letter:** `k`, **Position:** `1`, **Words:** Kuzey, Kaja, Karam, Konstantin, Kjell
+- **Letter:** `k`, **Position:** `1`, **Words:** Kalea, Kayla, Kiano, Kaja, Karlie
 - **Letter:** `k`, **Position:** `2`, **Words:** Ikra, Skadi
-- **Letter:** `k`, **Position:** `3`, **Words:** Lukas, Nika, Jakob, Mike, Nikolai
-- **Letter:** `k`, **Position:** `4`, **Words:** Levke, Rieke, Erika, Markus, Jack
-- **Letter:** `k`, **Position:** `5`, **Words:** Malika, Annika, Marek, Malak, Malek
-- **Letter:** `k`, **Position:** `6`, **Words:** Henrik, Jannik
-- **Letter:** `l`, **Position:** `1`, **Words:** Lilly, Leana, Lennard, Levi, Lorik
-- **Letter:** `l`, **Position:** `2`, **Words:** Alicia, Olivia, Ilja, Albert, Alia
-- **Letter:** `l`, **Position:** `3`, **Words:** Valentin, Valentino, Nelly, Milo, Nilo
-- **Letter:** `l`, **Position:** `4`, **Words:** Carla, Kayla, Pablo, Adelmut, Karlie
-- **Letter:** `l`, **Position:** `5`, **Words:** Hazel, Danilo, Ophelia, Annelie, Masal
-- **Letter:** `l`, **Position:** `6`, **Words:** Marcel, Ismail, Mathilde, Estelle, Lieselotte
-- **Letter:** `m`, **Position:** `1`, **Words:** Max, Maria, Merle, Metehan, Magdalena
-- **Letter:** `m`, **Position:** `2`, **Words:** Imran, Emily, Amanda, Imani, Amir
-- **Letter:** `m`, **Position:** `3`, **Words:** Timur, Romina, Jamila, Timo, Jamie
-- **Letter:** `m`, **Position:** `4`, **Words:** Aram, Mehmet, Jasmin, Tammo, Adam
-- **Letter:** `m`, **Position:** `5`, **Words:** Maxim, Karam, Adelmut, Mohammed, Kerem
-- **Letter:** `m`, **Position:** `6`, **Words:** Mohammed, Philomena, Benjamin, Meryem, Mariam
-- **Letter:** `n`, **Position:** `1`, **Words:** Nilo, Nefes, Noura, Noar, Nicolas
-- **Letter:** `n`, **Position:** `2`, **Words:** Enie, Anna, Inaya, Ensar, Anisa
-- **Letter:** `n`, **Position:** `3`, **Words:** Enna, Jonne, Jano, Kenan, Sena
-- **Letter:** `n`, **Position:** `4`, **Words:** Imani, Liano, Jarno, Zeynep, Jannis
-- **Letter:** `n`, **Position:** `5`, **Words:** Bjarne, Aylin, Timon, Ariana, Efnan
-- **Letter:** `n`, **Position:** `6`, **Words:** Darian, Jasmin, Florentine, Fabian, Marlena
-- **Letter:** `o`, **Position:** `1`, **Words:** Osman, Omar, Oliver, Omer, Olivia
-- **Letter:** `o`, **Position:** `2`, **Words:** Josua, Rosi, Nova, Lorik, Lorin
-- **Letter:** `o`, **Position:** `3`, **Words:** Leonhard, Liora, Florian, Thomas, Leo
-- **Letter:** `o`, **Position:** `4`, **Words:** Melody, Jaron, Elio, Carolin, Veronika
-- **Letter:** `o`, **Position:** `5`, **Words:** Maleo, Marlo, Gregor, Benno, Mailo
-- **Letter:** `o`, **Position:** `6`, **Words:** Eleonora, Aquilo, Eliano, Theodora, Penelope
-- **Letter:** `p`, **Position:** `1`, **Words:** Peter, Patrick, Palina, Paulina, Philine
-- **Letter:** `p`, **Position:** `3`, **Words:** Alparslan, Raphaela, Hope, Sophie, Sophia
-- **Letter:** `p`, **Position:** `4`, **Words:** Leopold, Caspar, Jesper, Jasper
-- **Letter:** `p`, **Position:** `5`, **Words:** Josephine, Josephina
-- **Letter:** `p`, **Position:** `6`, **Words:** Philippa, Zeynep, Philipp
+- **Letter:** `k`, **Position:** `3`, **Words:** Luke, Nikodem, Mikail, Mike, Nika
+- **Letter:** `k`, **Position:** `4`, **Words:** Rieke, Erik, Mick, Levke, Markus
+- **Letter:** `k`, **Position:** `5`, **Words:** Malik, Anouk, Lorik, Malak, Melek
+- **Letter:** `k`, **Position:** `6`, **Words:** Jannik, Henrik
+- **Letter:** `l`, **Position:** `1`, **Words:** Leif, Luana, Lorenzo, Levke, Leano
+- **Letter:** `l`, **Position:** `2`, **Words:** Elara, Eleyna, Ole, Elaine, Elena
+- **Letter:** `l`, **Position:** `3`, **Words:** Bilal, Ayliz, Tilda, Feli, Nelly
+- **Letter:** `l`, **Position:** `4`, **Words:** Marlie, Philine, Noel, Till, Philomena
+- **Letter:** `l`, **Position:** `5`, **Words:** Stella, Annalena, Carolina, Hazel, Ophelia
+- **Letter:** `l`, **Position:** `6`, **Words:** Leopold, Isabella, Magdalena, Miguel, Wilhelm
+- **Letter:** `m`, **Position:** `1`, **Words:** Milo, Malek, Martin, Mailo, Markus
+- **Letter:** `m`, **Position:** `2`, **Words:** Amaya, Emma, Amar, Amal, Imani
+- **Letter:** `m`, **Position:** `3`, **Words:** Sam, Roman, James, Ammar, Emma
+- **Letter:** `m`, **Position:** `4`, **Words:** Liam, Selma, Aram, Adem, Clemens
+- **Letter:** `m`, **Position:** `5`, **Words:** Eslem, Maximilian, Hartmut, Fatima, Mohammed
+- **Letter:** `m`, **Position:** `6`, **Words:** Meryem, Miriam, Philomena, Mohammed, Mariam
+- **Letter:** `n`, **Position:** `1`, **Words:** Noar, Nisa, Nico, Nala, Noemi
+- **Letter:** `n`, **Position:** `2`, **Words:** Antonia, Andreas, Enna, Annika, Angelina
+- **Letter:** `n`, **Position:** `3`, **Words:** Sanad, Ronja, Janne, Sena, Danilo
+- **Letter:** `n`, **Position:** `4`, **Words:** Rian, Lian, Emanuel, Sanna, Jarno
+- **Letter:** `n`, **Position:** `5`, **Words:** Sienna, Celine, Roman, Jason, Helin
+- **Letter:** `n`, **Position:** `6`, **Words:** Paulina, Juliana, Martin, Fabian, Adriana
+- **Letter:** `o`, **Position:** `1`, **Words:** Osman, Omar, Oliver, Otto, Olivia
+- **Letter:** `o`, **Position:** `2`, **Words:** Lorenzo, Nour, Solea, Bogdan, Johanne
+- **Letter:** `o`, **Position:** `3`, **Words:** Leo, Naomi, Dion, Leon, Leonardo
+- **Letter:** `o`, **Position:** `4`, **Words:** Timo, Antoni, Enzo, Nikodem, Eleonora
+- **Letter:** `o`, **Position:** `5`, **Words:** Gregor, Dario, Mailo, Levio, Romeo
+- **Letter:** `o`, **Position:** `6`, **Words:** Emilio, Theodora, Aquilo, Penelope, Charlotte
+- **Letter:** `p`, **Position:** `1`, **Words:** Paula, Philomena, Penelope, Pia, Philippa
+- **Letter:** `p`, **Position:** `3`, **Words:** Pepe, Hope, Sophie, Raphael, Raphaela
+- **Letter:** `p`, **Position:** `4`, **Words:** Jesper, Jasper, Caspar, Leopold
+- **Letter:** `p`, **Position:** `5`, **Words:** Josephina, Josephine
+- **Letter:** `p`, **Position:** `6`, **Words:** Philipp, Philippa, Zeynep
 - **Letter:** `q`, **Position:** `2`, **Words:** Aquilo, Iquan, Equan
 - **Letter:** `q`, **Position:** `4`, **Words:** Eloquin, Maxquell
-- **Letter:** `r`, **Position:** `1`, **Words:** Rune, Rosa, Ria, Ruben, Rose
-- **Letter:** `r`, **Position:** `2`, **Words:** Bruno, Aras, Arina, Frederik, Ares
-- **Letter:** `r`, **Position:** `3`, **Words:** Miro, Mariella, Hartmut, Kira, Christina
-- **Letter:** `r`, **Position:** `4`, **Words:** Thore, Andrej, Henrik, Laurin, Laurenz
-- **Letter:** `r`, **Position:** `5`, **Words:** Ensar, Samira, Ammar, Oskar, Robert
-- **Letter:** `r`, **Position:** `6`, **Words:** Katharina, Esther, Frederik, Viktor, Friedrich
-- **Letter:** `s`, **Position:** `1`, **Words:** Sebastian, Selin, Sarah, Selma, Sanna
-- **Letter:** `s`, **Position:** `2`, **Words:** Eslem, Esma, Esila, Ismail, Asya
-- **Letter:** `s`, **Position:** `3`, **Words:** Caspar, Josef, Jasmin, Hussein, Jasmina
-- **Letter:** `s`, **Position:** `4`, **Words:** Konstantin, Alessia, Hussein, Lieselotte, Pius
-- **Letter:** `s`, **Position:** `5`, **Words:** Melissa, James, Christoph, Idris, Louis
-- **Letter:** `s`, **Position:** `6`, **Words:** Jannes, Melissa, Tobias, Younes, Julius
-- **Letter:** `t`, **Position:** `1`, **Words:** Toni, Tristan, Tobias, Timur, Timo
-- **Letter:** `t`, **Position:** `2`, **Words:** Stella, Otto, Stefan, Ethan, Atlas
-- **Letter:** `t`, **Position:** `3`, **Words:** Ruth, Metehan, Kathe, Anton, Jette
-- **Letter:** `t`, **Position:** `4`, **Words:** Hartmut, Fritz, Sultan, Victoria, Malte
-- **Letter:** `t`, **Position:** `5`, **Words:** Lilith, Konstantin, Moritz, Dorothea, Jonathan
-- **Letter:** `t`, **Position:** `6`, **Words:** Robert, Lisbeth, Sebastian, August, Valentina
+- **Letter:** `r`, **Position:** `1`, **Words:** Rosalie, Ronja, Ruby, Ruth, Richard
+- **Letter:** `r`, **Position:** `2`, **Words:** Greta, Tristan, Bruno, Ariana, Frieda
+- **Letter:** `r`, **Position:** `3`, **Words:** Ferdinand, Martha, Ibrahim, Joris, Lorik
+- **Letter:** `r`, **Position:** `4`, **Words:** Theresa, Zahra, Charlotte, Alara, Bjarne
+- **Letter:** `r`, **Position:** `5`, **Words:** Hendrik, Samira, Oskar, Alparslan, Samir
+- **Letter:** `r`, **Position:** `6`, **Words:** Arthur, Jesper, Ragnar, Leonard, Frederik
+- **Letter:** `s`, **Position:** `1`, **Words:** Stella, Sienna, Sanna, Sidra, Sultan
+- **Letter:** `s`, **Position:** `2`, **Words:** Asiya, Eslem, Asel, Asya, Aslan
+- **Letter:** `s`, **Position:** `3`, **Words:** Rose, Jasper, Gustav, Rosa, Jascha
+- **Letter:** `s`, **Position:** `4`, **Words:** Anastasia, Ares, Anas, Enes, Lars
+- **Letter:** `s`, **Position:** `5`, **Words:** Alessia, Daris, Anissa, Louis, James
+- **Letter:** `s`, **Position:** `6`, **Words:** Mattis, Hannes, Darius, Carlos, Jannis
+- **Letter:** `t`, **Position:** `1`, **Words:** Timo, Thore, Tom, Tabea, Tuana
+- **Letter:** `t`, **Position:** `2`, **Words:** Otto, Stella, Stefan, Atlas, Ethan
+- **Letter:** `t`, **Position:** `3`, **Words:** Kate, Arthur, Mathilde, Katharina, Vito
+- **Letter:** `t`, **Position:** `4`, **Words:** Matti, Dante, Kurt, Fritz, Mert
+- **Letter:** `t`, **Position:** `5`, **Words:** Berat, Jonathan, Ahmet, Madita, Tristan
+- **Letter:** `t`, **Position:** `6`, **Words:** Carlotta, Christina, Valentin, Valentina, Albert
 - **Letter:** `u`, **Position:** `1`, **Words:** Una, Umut, Ugo
-- **Letter:** `u`, **Position:** `2`, **Words:** Luana, Justus, Rune, Lucia, Sultan
-- **Letter:** `u`, **Position:** `3`, **Words:** Laurenz, Giulia, Aquilo, Pauline, Laura
-- **Letter:** `u`, **Position:** `4`, **Words:** Yunus, Samuel, Manuel, Harun, Anouk
-- **Letter:** `u`, **Position:** `5`, **Words:** Markus, Malou, Julius, Marius, Justus
-- **Letter:** `u`, **Position:** `6`, **Words:** Hartwulf, Adelmut, Hartmut, Aldoqu
-- **Letter:** `v`, **Position:** `1`, **Words:** Valerie, Victoria, Veronika, Vivien, Vito
-- **Letter:** `v`, **Position:** `2`, **Words:** Eva, Ivar, Ivy, Avin, Ava
-- **Letter:** `v`, **Position:** `3`, **Words:** Hava, Arvid, Levin, Liv, Ylva
-- **Letter:** `v`, **Position:** `4`, **Words:** Oliver, Olivia, Marvin, Taavi
-- **Letter:** `w`, **Position:** `1`, **Words:** Wilma, Willi, Wilhelm, Wim, William
-- **Letter:** `w`, **Position:** `3`, **Words:** Erwin, Alwin
-- **Letter:** `w`, **Position:** `4`, **Words:** Norwin, Ludwig
-- **Letter:** `w`, **Position:** `5`, **Words:** Ludewig, Dietwalt, Hartwulf
+- **Letter:** `u`, **Position:** `2`, **Words:** Juliana, Luca, Julie, Ruya, August
+- **Letter:** `u`, **Position:** `3`, **Words:** Paulina, Pauline, Noura, Laura, Youssef
+- **Letter:** `u`, **Position:** `4`, **Words:** Josua, Manuel, August, Timur, Harun
+- **Letter:** `u`, **Position:** `5`, **Words:** Markus, Emanuel, Julius, Justus, Marius
+- **Letter:** `u`, **Position:** `6`, **Words:** Hartmut, Hartwulf, Adelmut, Aldoqu
+- **Letter:** `v`, **Position:** `1`, **Words:** Vitus, Valentin, Valentino, Vivien, Valeria
+- **Letter:** `v`, **Position:** `2`, **Words:** Evelyn, Evi, Avin, Eva, Ava
+- **Letter:** `v`, **Position:** `3`, **Words:** Levi, Havin, Kevin, Hava, Nevio
+- **Letter:** `v`, **Position:** `4`, **Words:** Olivia, Marvin, Oliver, Taavi
+- **Letter:** `w`, **Position:** `1`, **Words:** Wim, Wilhelm, William, Wilma, Willi
+- **Letter:** `w`, **Position:** `3`, **Words:** Alwin, Erwin
+- **Letter:** `w`, **Position:** `4`, **Words:** Ludwig, Norwin
+- **Letter:** `w`, **Position:** `5`, **Words:** Ludewig, Hartwulf, Dietwalt
 - **Letter:** `x`, **Position:** `1`, **Words:** Xenia, Xaver
-- **Letter:** `x`, **Position:** `2`, **Words:** Axana, Axel
+- **Letter:** `x`, **Position:** `2`, **Words:** Axel, Axana
 - **Letter:** `x`, **Position:** `3`, **Words:** Maxim, Maximilian, Max, Maxquell
-- **Letter:** `x`, **Position:** `4`, **Words:** Alexandra, Alex, Alexander
-- **Letter:** `y`, **Position:** `1`, **Words:** Yazan, Yunus, Youssef, Yasin, Yahya
-- **Letter:** `y`, **Position:** `2`, **Words:** Lydia, Aya, Ayaz, Ryan, Ayliz
-- **Letter:** `y`, **Position:** `3`, **Words:** Diyan, Ceylin, Kiyan, Nayla, Raya
-- **Letter:** `y`, **Position:** `4`, **Words:** Ilay, Meryem, Zoey, Lucy, Romy
-- **Letter:** `y`, **Position:** `5`, **Words:** Emely, Kuzey, Lenny, Maliya, Lilly
-- **Letter:** `y`, **Position:** `6`, **Words:** Hailey, Melody, Finley
-- **Letter:** `z`, **Position:** `1`, **Words:** Zoey, Zahra, Zehra, Zaid, Zoe
-- **Letter:** `z`, **Position:** `2`, **Words:** Azad, Azra
-- **Letter:** `z`, **Position:** `3`, **Words:** Enzo, Yazan, Kuzey, Liz, Hazal
-- **Letter:** `z`, **Position:** `4`, **Words:** Ediz, Hamza, Eliz, Alaz, Ayaz
-- **Letter:** `z`, **Position:** `5`, **Words:** Ayliz, Franz, Fritzi, Letizia, Franziska
-- **Letter:** `z`, **Position:** `6`, **Words:** Lorenz, Lorenzo, Moritz
+- **Letter:** `x`, **Position:** `4`, **Words:** Alexander, Alexandra, Alex
+- **Letter:** `y`, **Position:** `1`, **Words:** Younes, Yasin, Yaman, Yusuf, Yusra
+- **Letter:** `y`, **Position:** `2`, **Words:** Lydia, Ayman, Lynn, Ayaz, Tyler
+- **Letter:** `y`, **Position:** `3`, **Words:** Amy, Nayla, Ilyas, Enya, Ceylin
+- **Letter:** `y`, **Position:** `4`, **Words:** Yahya, Meryem, Anaya, Lucy, Eddy
+- **Letter:** `y`, **Position:** `5`, **Words:** Nelly, Miley, Safiya, Evelyn, Soraya
+- **Letter:** `y`, **Position:** `6`, **Words:** Finley, Hailey, Melody
+- **Letter:** `z`, **Position:** `1`, **Words:** Zumra, Zaid, Zeynep, Zoey, Zeyd
+- **Letter:** `z`, **Position:** `2`, **Words:** Azra, Azad
+- **Letter:** `z`, **Position:** `3`, **Words:** Enzo, Liz, Kuzey, Hazel, Yazan
+- **Letter:** `z`, **Position:** `4`, **Words:** Eliza, Eliz, Ediz, Hamza, Ayaz
+- **Letter:** `z`, **Position:** `5`, **Words:** Franz, Fritz, Ayliz, Letizia, Fritzi
+- **Letter:** `z`, **Position:** `6`, **Words:** Lorenzo, Lorenz, Moritz
 
 </details>
 
@@ -4395,162 +4395,162 @@ Total missing words: `312`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** assistir, afetar, aqueles, amarwe, akorde
-- **Letter:** `a`, **Position:** `2`, **Words:** nabo, la, banheira, babador, validade
-- **Letter:** `a`, **Position:** `3`, **Words:** doacao, prazer, amargo, drama, jeans
-- **Letter:** `a`, **Position:** `4`, **Words:** opcao, decadente, bazar, lagarto, triagem
-- **Letter:** `a`, **Position:** `5`, **Words:** guarana, webcam, simpatizar, passar, instante
-- **Letter:** `a`, **Position:** `6`, **Words:** pessoa, renovar, gloria, revisar, rotina
-- **Letter:** `b`, **Position:** `1`, **Words:** brilhar, bencao, barreira, barometro, barman
-- **Letter:** `b`, **Position:** `2`, **Words:** observar, observador, abencoar, obrigar, ubiquo
-- **Letter:** `b`, **Position:** `3`, **Words:** album, robo, jabuti, sobrecarregar, embasamento
-- **Letter:** `b`, **Position:** `4`, **Words:** tributacao, zumbido, exibir, borbulha, carbono
-- **Letter:** `b`, **Position:** `5`, **Words:** atribuir, malabarismo, desabamento, jujuba, desabrochar
-- **Letter:** `b`, **Position:** `6`, **Words:** englobar, instabilidade, hiperbole, querubins, elegibilidade
-- **Letter:** `c`, **Position:** `1`, **Words:** carregar, carpete, conduzir, cafe, cerca
-- **Letter:** `c`, **Position:** `2`, **Words:** icone, acucar, acordado, aco, oculto
-- **Letter:** `c`, **Position:** `3`, **Words:** vacuo, sociedade, escondido, reconhecimento, decadencia
-- **Letter:** `c`, **Position:** `4`, **Words:** oficio, opaco, unico, descrever, atacar
-- **Letter:** `c`, **Position:** `5`, **Words:** policia, guincho, vaticano, fresco, direcao
-- **Letter:** `c`, **Position:** `6`, **Words:** variacao, impreciso, engracado, zodiaco, licenciamento
-- **Letter:** `d`, **Position:** `1`, **Words:** desintoxicacao, debate, desporto, duplicidade, divorcio
-- **Letter:** `d`, **Position:** `2`, **Words:** idealismo, adivinhar, identidade, adequado, educacao
-- **Letter:** `d`, **Position:** `3`, **Words:** deducao, redefinir, cidadao, lido, indiferenca
-- **Letter:** `d`, **Position:** `4`, **Words:** feudo, molde, credito, inedito, quadragesimo
-- **Letter:** `d`, **Position:** `5`, **Words:** colidir, validade, decadencia, urdidura, pesado
-- **Letter:** `d`, **Position:** `6`, **Words:** utilidade, elucidar, condado, qualidade, aprender
-- **Letter:** `e`, **Position:** `1`, **Words:** edificado, epoxi, englobar, eficiencia, epiderme
-- **Letter:** `e`, **Position:** `2`, **Words:** mensalao, letra, cesta, mensagem, tecer
-- **Letter:** `e`, **Position:** `3`, **Words:** exercito, frente, mae, elevacao, bretanha
-- **Letter:** `e`, **Position:** `4`, **Words:** orientado, desenvolver, rede, sugerir, maleavel
-- **Letter:** `e`, **Position:** `5`, **Words:** floresta, florescer, barreira, paciente, geometrista
-- **Letter:** `e`, **Position:** `6`, **Words:** bagagem, descrever, empreendedor, notavel, tapete
-- **Letter:** `f`, **Position:** `1`, **Words:** fabula, famoso, fundacao, frustracao, fragilidade
-- **Letter:** `f`, **Position:** `2`, **Words:** oficio, afiado, ufanista, afirmar, efeito
-- **Letter:** `f`, **Position:** `3`, **Words:** alfa, esfera, definir, enfermeira, defesa
-- **Letter:** `f`, **Position:** `4`, **Words:** perfeito, uniformidade, preferir, buffer, perfil
-- **Letter:** `f`, **Position:** `5`, **Words:** ratificar, beneficio, pacifico, indiferenca, girafa
-- **Letter:** `f`, **Position:** `6`, **Words:** satisfazer, transformacao, satisfacao, quimificacao, qualificado
-- **Letter:** `g`, **Position:** `1`, **Words:** gesta, geada, guitarra, grau, geologo
-- **Letter:** `g`, **Position:** `2`, **Words:** ignorar, aguia, agua, igual, agenda
-- **Letter:** `g`, **Position:** `3`, **Words:** tigre, regimento, regular, organizar, segundo
-- **Letter:** `g`, **Position:** `4`, **Words:** xingamento, origem, bangkok, oxigenio, briga
-- **Letter:** `g`, **Position:** `5`, **Words:** integridade, antigo, holograma, irrigacao, ortografia
-- **Letter:** `g`, **Position:** `6`, **Words:** dialogo, mensagem, inimigo, negligencia, entregar
-- **Letter:** `h`, **Position:** `1`, **Words:** hidrogenio, hemorragia, hoje, helix, herdar
-- **Letter:** `h`, **Position:** `2`, **Words:** chama, choque, chato, chefe, checar
+- **Letter:** `a`, **Position:** `1`, **Words:** afetar, amostra, alfabeto, amplo, animal
+- **Letter:** `a`, **Position:** `2`, **Words:** vassalo, sagrada, falacia, bandeira, palpite
+- **Letter:** `a`, **Position:** `3`, **Words:** fragilidade, aparecer, prazer, aranha, gratidao
+- **Letter:** `a`, **Position:** `4`, **Words:** expandir, errado, desafio, obra, urbanidade
+- **Letter:** `a`, **Position:** `5`, **Words:** juncao, tornar, poeta, quilate, resgatar
+- **Letter:** `a`, **Position:** `6`, **Words:** hostia, avaliar, injetar, queijaria, separar
+- **Letter:** `b`, **Position:** `1`, **Words:** benefico, beber, babar, baia, batucada
+- **Letter:** `b`, **Position:** `2`, **Words:** obsoleto, obvio, objeto, observador, obeso
+- **Letter:** `b`, **Position:** `3`, **Words:** dublagem, zebra, robo, orbita, liberdade
+- **Letter:** `b`, **Position:** `4`, **Words:** borboleta, tombo, global, simbologia, bomba
+- **Letter:** `b`, **Position:** `5`, **Words:** vagabundo, desabamento, funebre, alfabeto, atribuir
+- **Letter:** `b`, **Position:** `6`, **Words:** descoberta, sociabilidade, youtuber, englobar, instabilidade
+- **Letter:** `c`, **Position:** `1`, **Words:** corda, clicar, cancer, comum, coluna
+- **Letter:** `c`, **Position:** `2`, **Words:** acucar, acreditar, acustico, oceano, acento
+- **Letter:** `c`, **Position:** `3`, **Words:** ancora, excelencia, vicissitude, rocha, docura
+- **Letter:** `c`, **Position:** `4`, **Words:** ilacao, elucidar, procura, sincronizacao, cancer
+- **Letter:** `c`, **Position:** `5`, **Words:** guincho, chance, impacto, democratizacao, fianca
+- **Letter:** `c`, **Position:** `6`, **Words:** duplicidade, exibicao, tragico, alcance, erudicao
+- **Letter:** `d`, **Position:** `1`, **Words:** definir, doutorado, doenca, diario, diminuir
+- **Letter:** `d`, **Position:** `2`, **Words:** edificado, adequado, idealismo, adivinhar, editor
+- **Letter:** `d`, **Position:** `3`, **Words:** cidadao, redondo, redefinir, roda, reduzir
+- **Letter:** `d`, **Position:** `4`, **Words:** umido, quadro, moeda, tarde, jardim
+- **Letter:** `d`, **Position:** `5`, **Words:** nadador, escada, armadura, sanidade, escudo
+- **Letter:** `d`, **Position:** `6`, **Words:** holandes, multidao, hibridizacao, vencedor, segundo
+- **Letter:** `e`, **Position:** `1`, **Words:** excluir, esbocar, estender, embaraco, executar
+- **Letter:** `e`, **Position:** `2`, **Words:** pedaco, decifrar, aeronave, dedo, pesquisar
+- **Letter:** `e`, **Position:** `3`, **Words:** exemplo, ejectavel, obediencia, queixada, queridinha
+- **Letter:** `e`, **Position:** `4`, **Words:** interacao, assegurar, goleiro, fase, bateria
+- **Letter:** `e`, **Position:** `5`, **Words:** hockey, balneario, carreira, mente, obviedade
+- **Letter:** `e`, **Position:** `6`, **Words:** choque, ornamentar, obsoleto, breguete, surpreender
+- **Letter:** `f`, **Position:** `1`, **Words:** farol, frequentemente, flexivel, fator, fabula
+- **Letter:** `f`, **Position:** `2`, **Words:** ufanista, ufanismo, oficial, eficiencia, oficio
+- **Letter:** `f`, **Position:** `3`, **Words:** zafira, refletir, informar, infografico, lufada
+- **Letter:** `f`, **Position:** `4`, **Words:** confirmar, chefe, perfeita, fosforo, por favor
+- **Letter:** `f`, **Position:** `5`, **Words:** girafa, benefico, irrefreavel, pacifico, redefinir
+- **Letter:** `f`, **Position:** `6`, **Words:** jatosfera, amplificar, qualificado, quimificacao, garrafa
+- **Letter:** `g`, **Position:** `1`, **Words:** genio, grandeza, globalizacao, garrafa, governanca
+- **Letter:** `g`, **Position:** `2`, **Words:** aglomerado, ignorar, aguia, igual, agenda
+- **Letter:** `g`, **Position:** `3`, **Words:** vagao, vagabundo, angulo, bagagem, liga
+- **Letter:** `g`, **Position:** `4`, **Words:** tregua, linguagem, fragilidade, longevidade, pinguim
+- **Letter:** `g`, **Position:** `5`, **Words:** jazigo, paragrafo, integracao, relogio, fotografia
+- **Letter:** `g`, **Position:** `6`, **Words:** proteger, hidrogenio, geologo, dialogo, barragem
+- **Letter:** `h`, **Position:** `1`, **Words:** hangar, hidrante, hospitalizado, higienica, hotel
+- **Letter:** `h`, **Position:** `2`, **Words:** choque, chance, chato, chama, chefe
 - **Letter:** `h`, **Position:** `3`, **Words:** olho, olhar, ilha
-- **Letter:** `h`, **Position:** `4`, **Words:** bicho-da-seda, melhorar, melhor, pechincha, ganhar
-- **Letter:** `h`, **Position:** `5`, **Words:** lancheira, ketchup, brilho, flush, rancho
-- **Letter:** `h`, **Position:** `6`, **Words:** espelho, empilhamento, cozinha, guincho, sozinho
-- **Letter:** `i`, **Position:** `1`, **Words:** inter, indeterminado, inedito, implicacao, imperio
-- **Letter:** `i`, **Position:** `2`, **Words:** bizarro, dilema, civico, minusculo, diabo
-- **Letter:** `i`, **Position:** `3`, **Words:** alienigena, beija-flor, clima, triagem, editora
-- **Letter:** `i`, **Position:** `4`, **Words:** media, revisar, enciclopedia, tedio, fuzil
-- **Letter:** `i`, **Position:** `5`, **Words:** justificativa, nordico, hostil, piscina, direito
-- **Letter:** `i`, **Position:** `6`, **Words:** ultraismo, urbanidade, estudio, terceiro, infalivel
-- **Letter:** `j`, **Position:** `1`, **Words:** jornada, jurema, jocular, janela, jingoismo
-- **Letter:** `j`, **Position:** `2`, **Words:** ejectavel, ajudar, ajustar, ejetado
-- **Letter:** `j`, **Position:** `3`, **Words:** jujutsu, injusto, anjo, injecao, sujeito
-- **Letter:** `j`, **Position:** `4`, **Words:** projetar, projeto, feijoada, gorjeta, beija-flor
-- **Letter:** `j`, **Position:** `5`, **Words:** engajamento, reinjetar, franja, desejo, queijaria
-- **Letter:** `j`, **Position:** `6`, **Words:** blackjack, ultrajante, laranja, ultrajado
-- **Letter:** `k`, **Position:** `1`, **Words:** karaoke, ketchup, karate, kiwi, kitnet
+- **Letter:** `h`, **Position:** `4`, **Words:** melhor, filhote, folha, manha, falhar
+- **Letter:** `h`, **Position:** `5`, **Words:** lancheira, flash, brilhante, trilha, orelha
+- **Letter:** `h`, **Position:** `6`, **Words:** semelhanca, escolha, deboche, encolher, escolher
+- **Letter:** `i`, **Position:** `1`, **Words:** identidade, inserir, ilacao, interatividade, igual
+- **Letter:** `i`, **Position:** `2`, **Words:** sim, fianca, linguagem, zingaro, fisico
+- **Letter:** `i`, **Position:** `3`, **Words:** feirante, aviso, edificacao, evidencia, quinze
+- **Letter:** `i`, **Position:** `4`, **Words:** zueiro, artista, matiz, queimar, seriedade
+- **Letter:** `i`, **Position:** `5`, **Words:** receita, diario, vestido, suavizar, obediencia
+- **Letter:** `i`, **Position:** `6`, **Words:** pesquisa, politica, valorizar, umbilical, minoria
+- **Letter:** `j`, **Position:** `1`, **Words:** junho, Jupiter, jujutsu, jato, jacare
+- **Letter:** `j`, **Position:** `2`, **Words:** ajudar, ejetado, ajustar, ejectavel
+- **Letter:** `j`, **Position:** `3`, **Words:** objeto, anjo, injecao, injusto, hoje
+- **Letter:** `j`, **Position:** `4`, **Words:** projeto, conjunto, feijoada, projetar, beija-flor
+- **Letter:** `j`, **Position:** `5`, **Words:** igreja, queijada, corajoso, botijao, franja
+- **Letter:** `j`, **Position:** `6`, **Words:** blackjack, ultrajante, ultrajado, laranja
+- **Letter:** `k`, **Position:** `1`, **Words:** Kyoto, kayak, kit, kumykas, kimono
 - **Letter:** `k`, **Position:** `2`, **Words:** akorde, skate, Skol
-- **Letter:** `k`, **Position:** `3`, **Words:** yakuza, baklava
+- **Letter:** `k`, **Position:** `3`, **Words:** baklava, yakuza
 - **Letter:** `k`, **Position:** `4`, **Words:** kafka, funk, hockey
-- **Letter:** `k`, **Position:** `5`, **Words:** blackjack, kumykas, bangkok, kayak, snickers
+- **Letter:** `k`, **Position:** `5`, **Words:** bangkok, kayak, kumykas, blackjack, kiosk
 - **Letter:** `k`, **Position:** `6`, **Words:** karaoke, Patrik
-- **Letter:** `l`, **Position:** `1`, **Words:** labirinto, licenciamento, luta, lidar, liberacao
-- **Letter:** `l`, **Position:** `2`, **Words:** alfa, florescer, olhar, flush, ultrassonografia
-- **Letter:** `l`, **Position:** `3`, **Words:** belo, orlas, bilhete, multidao, voltar
-- **Letter:** `l`, **Position:** `4`, **Words:** quilometro, quilo, coelho, explodir, explicar
-- **Letter:** `l`, **Position:** `5`, **Words:** espalhar, modelo, napoleonico, total, sibilante
-- **Letter:** `l`, **Position:** `6`, **Words:** tripulacao, etimologia, globalizacao, jornalismo, normalidade
-- **Letter:** `m`, **Position:** `1`, **Words:** matiz, multidao, migracao, mental, militar
-- **Letter:** `m`, **Position:** `2`, **Words:** impudente, improviso, imperio, impreciso, amplificar
-- **Letter:** `m`, **Position:** `3`, **Words:** comparar, almoco, zumbir, irmao, tematica
-- **Letter:** `m`, **Position:** `4`, **Words:** quimicidade, hermetico, trem, harmonizacao, otimismo
-- **Letter:** `m`, **Position:** `5`, **Words:** enigma, ultimo, ornamentar, realmente, afirmar
-- **Letter:** `m`, **Position:** `6`, **Words:** jardim, enfermeira, desdem, hipermidia, diplomacia
-- **Letter:** `n`, **Position:** `1`, **Words:** negociar, nocao, nota, notarizacao, notificacao
-- **Letter:** `n`, **Position:** `2`, **Words:** incluir, englobar, entrar, inimigo, engenheiro
-- **Letter:** `n`, **Position:** `3`, **Words:** bonde, lenda, renda, ponte, dinosaur
-- **Letter:** `n`, **Position:** `4`, **Words:** fronteira, quinze, ufanismo, carne, pronto
-- **Letter:** `n`, **Position:** `5`, **Words:** juventude, invencivel, garantir, escondido, intencao
-- **Letter:** `n`, **Position:** `6`, **Words:** sintonizar, fisionomista, ululante, barman, indignacao
-- **Letter:** `o`, **Position:** `1`, **Words:** obvio, oraculo, obrigacao, orgulho, outono
-- **Letter:** `o`, **Position:** `2`, **Words:** governanca, por, coroa, solidificar, cobra
-- **Letter:** `o`, **Position:** `3`, **Words:** amostra, bloco, elogio, uso, florescer
-- **Letter:** `o`, **Position:** `4`, **Words:** foco, fator, heroina, obsoleto, empoderamento
-- **Letter:** `o`, **Position:** `5`, **Words:** doutorado, unico, solto, vazio, plano
-- **Letter:** `o`, **Position:** `6`, **Words:** envelope, quinto, artico, numero, glorioso
-- **Letter:** `p`, **Position:** `1`, **Words:** patamar, paragrafo, pacotinho, para, padrao
-- **Letter:** `p`, **Position:** `2`, **Words:** aparecer, epiderme, aprender, episodio, aprovar
-- **Letter:** `p`, **Position:** `3`, **Words:** suprir, espalhar, aspecto, importancia, sepultura
-- **Letter:** `p`, **Position:** `4`, **Words:** inspirar, naipe, kriptonita, unipessoal, trapaca
-- **Letter:** `p`, **Position:** `5`, **Words:** hipopotamo, xarope, equipar, script, aeroporto
-- **Letter:** `p`, **Position:** `6`, **Words:** desespero, transporte, irresponsavel, transportar, oligopolio
-- **Letter:** `q`, **Position:** `1`, **Words:** qualificado, querer, questao, quietude, querubins
-- **Letter:** `q`, **Position:** `2`, **Words:** aqueles, equipar, aquatico, equidade, equilibrio
-- **Letter:** `q`, **Position:** `3`, **Words:** esquecer, maquina, soquete, arquivo, liquidificador
-- **Letter:** `q`, **Position:** `4`, **Words:** bloqueio, banquete, ubiquo, frequencia, truque
-- **Letter:** `q`, **Position:** `5`, **Words:** tranquilidade, estoque, quinquenio, quinquagesimo, franqueza
+- **Letter:** `l`, **Position:** `1`, **Words:** lar, leitura, local, ludico, lido
+- **Letter:** `l`, **Position:** `2`, **Words:** ilacao, florista, oligarquico, alterar, floracao
+- **Letter:** `l`, **Position:** `3`, **Words:** kilowatt, sul, bolo, melodia, colidir
+- **Letter:** `l`, **Position:** `4`, **Words:** replicar, suplemento, inflexao, explodir, util
+- **Letter:** `l`, **Position:** `5`, **Words:** penalidade, barulho, atual, modulo, casal
+- **Letter:** `l`, **Position:** `6`, **Words:** republica, dental, borbulha, cancelar, fortaleza
+- **Letter:** `m`, **Position:** `1`, **Words:** mato, marfim, momento, materia, medir
+- **Letter:** `m`, **Position:** `2`, **Words:** emergir, umbilical, em vez, amargo, amarelo
+- **Letter:** `m`, **Position:** `3`, **Words:** familia, remedio, camisa, templo, semelhanca
+- **Letter:** `m`, **Position:** `4`, **Words:** quimiossintetico, permanencia, formalidade, quimioterapia, permanente
+- **Letter:** `m`, **Position:** `5`, **Words:** afirmar, forum, fragmentacao, ultimo, ultimar
+- **Letter:** `m`, **Position:** `6`, **Words:** unicamente, decaimento, marfim, testemunhar, unidimensional
+- **Letter:** `n`, **Position:** `1`, **Words:** neutralizar, nome, normalidade, natureza, noite
+- **Letter:** `n`, **Position:** `2`, **Words:** inventar, englobar, informacao, intercessao, inteligencia
+- **Letter:** `n`, **Position:** `3`, **Words:** janelinha, funcional, xingamento, ninho, manutencao
+- **Letter:** `n`, **Position:** `4`, **Words:** quantia, quina, terno, imenso, unanime
+- **Letter:** `n`, **Position:** `5`, **Words:** organizar, telenovela, sereno, botanica, hifens
+- **Letter:** `n`, **Position:** `6`, **Words:** reivindicacao, responder, inverno, emaranhado, hibernar
+- **Letter:** `o`, **Position:** `1`, **Words:** orquidea, ou, opor, onirico, onde
+- **Letter:** `o`, **Position:** `2`, **Words:** bossa-nova, cobrir, bonus, conectar, complexo
+- **Letter:** `o`, **Position:** `3`, **Words:** idoso, utopia, globalizacao, produzir, utopicamente
+- **Letter:** `o`, **Position:** `4`, **Words:** renovacao, nevoeiro, zero, eixo, dinosaur
+- **Letter:** `o`, **Position:** `5`, **Words:** orador, borboleta, preto, prado, melhorar
+- **Letter:** `o`, **Position:** `6`, **Words:** buraco, abaixo, pesado, veneno, topico
+- **Letter:** `p`, **Position:** `1`, **Words:** ponto, polar, promulgar, patente, pao
+- **Letter:** `p`, **Position:** `2`, **Words:** opulento, epiderme, epidemia, opor, operacao
+- **Letter:** `p`, **Position:** `3`, **Words:** napoleonico, suprir, expresso, separar, impasse
+- **Letter:** `p`, **Position:** `4`, **Words:** erupcao, golpear, desporto, naipe, surpreso
+- **Letter:** `p`, **Position:** `5`, **Words:** ortopedico, exemplo, arrependimento, hipopotamo, trampa
+- **Letter:** `p`, **Position:** `6`, **Words:** irresponsavel, transporte, transportar, desespero, usucapiao
+- **Letter:** `q`, **Position:** `1`, **Words:** querer, quentura, queijaria, quadrinho, quasar
+- **Letter:** `q`, **Position:** `2`, **Words:** equidade, aqueles, equilibrio, aquatico, equipar
+- **Letter:** `q`, **Position:** `3`, **Words:** inquietude, toque, inquirir, esquecer, maquina
+- **Letter:** `q`, **Position:** `4`, **Words:** pesquisar, frequencia, ubiquo, banquete, eloquencia
+- **Letter:** `q`, **Position:** `5`, **Words:** tranquilidade, franqueza, branquear, estoque, reliquia
 - **Letter:** `q`, **Position:** `6`, **Words:** consequencia, embarque
-- **Letter:** `r`, **Position:** `1`, **Words:** remoto, reclusao, reinjetar, reparar, resgatar
-- **Letter:** `r`, **Position:** `2`, **Words:** oriente, ora, cracha, grandeza, preocupacao
-- **Letter:** `r`, **Position:** `3`, **Words:** karate, virus, garagem, mary, jurema
-- **Letter:** `r`, **Position:** `4`, **Words:** ultraismo, torrada, impressao, ultravioleta, vibrar
-- **Letter:** `r`, **Position:** `5`, **Words:** informar, importacao, quadrinhos, quebrar, lisura
-- **Letter:** `r`, **Position:** `6`, **Words:** desabrochar, doutorado, zingaro, vibrar, temporada
-- **Letter:** `s`, **Position:** `1`, **Words:** santo, salvacao, soco, sessao, separado
-- **Letter:** `s`, **Position:** `2`, **Words:** escrever, usucapiao, usabilidade, escudo, escovar
-- **Letter:** `s`, **Position:** `3`, **Words:** lisura, resolver, desejo, cesta, gastronomia
-- **Letter:** `s`, **Position:** `4`, **Words:** obeso, vassal, causa, crista, sussurro
-- **Letter:** `s`, **Position:** `5`, **Words:** renascimento, satisfacao, pressionar, infestacao, transformar
-- **Letter:** `s`, **Position:** `6`, **Words:** hifens, preciso, narcisismo, utopista, fantasia
-- **Letter:** `t`, **Position:** `1`, **Words:** tarde, tripulacao, tecnico, treinador, tematica
-- **Letter:** `t`, **Position:** `2`, **Words:** etica, atraso, atualizar, status, ativo
-- **Letter:** `t`, **Position:** `3`, **Words:** fator, categoria, entre, outono, entusiasmo
-- **Letter:** `t`, **Position:** `4`, **Words:** contato, broto, abstrato, destino, manto
-- **Letter:** `t`, **Position:** `5`, **Words:** imortal, monitor, identidade, existir, capitao
-- **Letter:** `t`, **Position:** `6`, **Words:** orientar, filantropia, exportacao, resgatar, desintoxicacao
-- **Letter:** `u`, **Position:** `1`, **Words:** ululacao, umido, ultra, urdume, unia
-- **Letter:** `u`, **Position:** `2`, **Words:** lunar, quadrante, sustentacao, quilo, quadridimensional
-- **Letter:** `u`, **Position:** `3`, **Words:** usurpar, aquatico, reuniao, louvavel, grupo
-- **Letter:** `u`, **Position:** `4`, **Words:** visual, entusiasmo, peculiar, jaqueta, documentario
-- **Letter:** `u`, **Position:** `5`, **Words:** tripulacao, deslumbrante, evolucao, desculpa, produto
-- **Letter:** `u`, **Position:** `6`, **Words:** levedura, conteudo, residuo, hidraulica, quietude
-- **Letter:** `v`, **Position:** `1`, **Words:** voz, velocidade, verbo, vaso, visao
-- **Letter:** `v`, **Position:** `2`, **Words:** evidenciar, evidencia, uveite, avaliar, uva
-- **Letter:** `v`, **Position:** `3`, **Words:** invisivel, livro, nevoeiro, neves, favor
-- **Letter:** `v`, **Position:** `4`, **Words:** travessia, breve, louvavel, curva, gravar
-- **Letter:** `v`, **Position:** `5`, **Words:** doravante, televisao, aprovar, remover, nativo
-- **Letter:** `v`, **Position:** `6`, **Words:** maleavel, baklava, escrever, promover, incrivel
-- **Letter:** `w`, **Position:** `1`, **Words:** webcam, wagner, walace, wilian, Windows
-- **Letter:** `w`, **Position:** `2`, **Words:** kwid, Twix, Twitter, Switch, Swatch
+- **Letter:** `r`, **Position:** `1`, **Words:** recusar, ritmo, renovacao, redefinir, reparar
+- **Letter:** `r`, **Position:** `2`, **Words:** origem, prado, tres, traco, tranquilo
+- **Letter:** `r`, **Position:** `3`, **Words:** perfil, ferida, porta, garrafa, borboleta
+- **Letter:** `r`, **Position:** `4`, **Words:** alerta, narrativa, nutricao, expressar, empreendedor
+- **Letter:** `r`, **Position:** `5`, **Words:** salario, numerico, hipermetro, alterar, matar
+- **Letter:** `r`, **Position:** `6`, **Words:** preservacao, obra-prima, procura, quaternario, mistura
+- **Letter:** `s`, **Position:** `1`, **Words:** sabedoria, segundo, sinal, silencio, simbolo
+- **Letter:** `s`, **Position:** `2`, **Words:** escondido, estoque, esporte, usurpador, escala
+- **Letter:** `s`, **Position:** `3`, **Words:** uisque, peso, fisico, tesouro, lustroso
+- **Letter:** `s`, **Position:** `4`, **Words:** ilusao, flush, prisao, mais, pessoal
+- **Letter:** `s`, **Position:** `5`, **Words:** industrias, jocosidade, orlas, estes, jatosfera
+- **Letter:** `s`, **Position:** `6`, **Words:** ingresso, introspeccao, intersecao, expresso, resposta
+- **Letter:** `t`, **Position:** `1`, **Words:** terno, torneira, tribunal, trem, tripulacao
+- **Letter:** `t`, **Position:** `2`, **Words:** status, otimista, otimo, otorrinolaringologia, util
+- **Letter:** `t`, **Position:** `3`, **Words:** matriz, rotacionar, ultrassonografia, matiz, nutrir
+- **Letter:** `t`, **Position:** `4`, **Words:** pratica, distante, festa, filtrar, monte
+- **Letter:** `t`, **Position:** `5`, **Words:** construir, quentinho, dilatacao, ecletico, relatorio
+- **Letter:** `t`, **Position:** `6`, **Words:** inedito, urgente, levantar, utilitario, infestacao
+- **Letter:** `u`, **Position:** `1`, **Words:** unico, utilizar, ungulado, urbanidade, urdume
+- **Letter:** `u`, **Position:** `2`, **Words:** quimiossintese, guilhotina, nuclear, quadridimensional, quantificavel
+- **Letter:** `u`, **Position:** `3`, **Words:** equipar, ocultar, opulento, usura, fruta
+- **Letter:** `u`, **Position:** `4`, **Words:** impulso, tabuleiro, tabua, escudo, ungulado
+- **Letter:** `u`, **Position:** `5`, **Words:** produto, frequentemente, banquete, choque, misturar
+- **Letter:** `u`, **Position:** `6`, **Words:** urdidura, quentura, kitesurfing, glamour, glandula
+- **Letter:** `v`, **Position:** `1`, **Words:** vociferar, vulcao, vao, vanguarda, vaticano
+- **Letter:** `v`, **Position:** `2`, **Words:** avenida, uva, evitar, evidenciar, avancar
+- **Letter:** `v`, **Position:** `3`, **Words:** movel, naval, envelope, navegar, obviedade
+- **Letter:** `v`, **Position:** `4`, **Words:** adivinhar, breve, suavizar, provacao, gravar
+- **Letter:** `v`, **Position:** `5`, **Words:** nativo, individualismo, notavel, motivo, nocivo
+- **Letter:** `v`, **Position:** `6`, **Words:** por favor, envolver, reservar, promover, improviso
+- **Letter:** `w`, **Position:** `1`, **Words:** webcam, wagner, walace, wanda, wilian
+- **Letter:** `w`, **Position:** `2`, **Words:** kwid, Swatch, Twix, Twitter, kwait
 - **Letter:** `w`, **Position:** `3`, **Words:** cowboy, kiwi
-- **Letter:** `w`, **Position:** `4`, **Words:** browser, brownie, crowdfunding, darwinismo, snowboard
-- **Letter:** `w`, **Position:** `5`, **Words:** amarwe, kilowatt
-- **Letter:** `w`, **Position:** `6`, **Words:** followers, yellow, Windows, Halloween
-- **Letter:** `x`, **Position:** `1`, **Words:** xiita, xicara, xenofobia, xama, xenonio
-- **Letter:** `x`, **Position:** `2`, **Words:** expressar, extraordinario, exercitar, executar, expresso
-- **Letter:** `x`, **Position:** `3`, **Words:** eixo, vexame, texto, lixeira, roxo
-- **Letter:** `x`, **Position:** `4`, **Words:** anexar, proximo, flexivel, deixar, epoxi
-- **Letter:** `x`, **Position:** `5`, **Words:** queixada, queixar, galaxia, queixoso, helix
-- **Letter:** `x`, **Position:** `6`, **Words:** encaixar, embaixo, influxo, contexto, inflexao
-- **Letter:** `y`, **Position:** `1`, **Words:** yakuza, yoga, youtuber, yellow
-- **Letter:** `y`, **Position:** `2`, **Words:** Lyra, Kyoto
-- **Letter:** `y`, **Position:** `3`, **Words:** Bayern, kayak, Ray-Ban, PayPal, Mayara
-- **Letter:** `y`, **Position:** `4`, **Words:** kumykas, city, mary
-- **Letter:** `y`, **Position:** `5`, **Words:** spray, array
+- **Letter:** `w`, **Position:** `4`, **Words:** crowdfunding, browser, darwinismo, brownie, snowboard
+- **Letter:** `w`, **Position:** `5`, **Words:** kilowatt, amarwe
+- **Letter:** `w`, **Position:** `6`, **Words:** yellow, followers, Windows, Halloween
+- **Letter:** `x`, **Position:** `1`, **Words:** xicara, xenonio, xama, xarope, xadrez
+- **Letter:** `x`, **Position:** `2`, **Words:** exibir, exato, extra, excel, experiencia
+- **Letter:** `x`, **Position:** `3`, **Words:** texto, lixeira, vexame, roxo, eixo
+- **Letter:** `x`, **Position:** `4`, **Words:** paixao, flexivel, proximo, anexar, epoxi
+- **Letter:** `x`, **Position:** `5`, **Words:** queixada, abaixo, helix, fenix, queixoso
+- **Letter:** `x`, **Position:** `6`, **Words:** influxo, reflexo, encaixar, embaixo, contexto
+- **Letter:** `y`, **Position:** `1`, **Words:** yakuza, youtuber, yoga, yellow
+- **Letter:** `y`, **Position:** `2`, **Words:** Kyoto, Lyra
+- **Letter:** `y`, **Position:** `3`, **Words:** kayak, Bayern, Ray-Ban, Mayara, PayPal
+- **Letter:** `y`, **Position:** `4`, **Words:** city, mary, kumykas
+- **Letter:** `y`, **Position:** `5`, **Words:** array, spray
 - **Letter:** `y`, **Position:** `6`, **Words:** hockey, cowboy
-- **Letter:** `z`, **Position:** `1`, **Words:** zeta, ziper, zingaro, zulu, zelo
-- **Letter:** `z`, **Position:** `2`, **Words:** azedo, azeite
-- **Letter:** `z`, **Position:** `3`, **Words:** vazio, voz, pizza, bizarro, bazar
-- **Letter:** `z`, **Position:** `4`, **Words:** trazer, raizes, juiz, cruzar, raiz
-- **Letter:** `z`, **Position:** `5`, **Words:** em vez, quinze, matiz, horizonte, feliz
-- **Letter:** `z`, **Position:** `6`, **Words:** nobreza, suavizar, xadrez, deslizar, utilizar
+- **Letter:** `z`, **Position:** `1`, **Words:** zumbi, zarcao, zueira, zona, zodiaco
+- **Letter:** `z`, **Position:** `2`, **Words:** azeite, azedo
+- **Letter:** `z`, **Position:** `3`, **Words:** haza, vazio, voz, vez, bazar
+- **Letter:** `z`, **Position:** `4`, **Words:** raiz, cruzar, pizza, juizo, juiz
+- **Letter:** `z`, **Position:** `5`, **Words:** em vez, quinze, matiz, armazenar, reduzir
+- **Letter:** `z`, **Position:** `6`, **Words:** deslizar, utilizar, conduzir, xadrez, nobreza
 
 </details>
 
@@ -4566,133 +4566,133 @@ Total missing words: `0`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Adriana Esteves, Andre Rieu, Abelardo Barbosa, Ana Furtado, Angelica
-- **Letter:** `a`, **Position:** `2`, **Words:** Fafa de Belem, Tania Mara, Rafael Cortez, Carla Quevedo, Carolina Dieckmann
-- **Letter:** `a`, **Position:** `3`, **Words:** Agatha Moreira, Ana Hickmann, Claudia Ohana, Flavia Alessandra, Leandra Leal
-- **Letter:** `a`, **Position:** `4`, **Words:** Rafael Cortez, Kaka, Sara Sampaio, Duda Nagle, Eliane Giardini
-- **Letter:** `a`, **Position:** `5`, **Words:** Maria Rita, Fernanda Torres, Erika Januza, Alexandra Daddario, Fernanda Souza
-- **Letter:** `a`, **Position:** `6`, **Words:** Helena Ranaldi, Karina Bacchi, Amanda Meirelles, Amanda Wanessa, Luan Santana
-- **Letter:** `b`, **Position:** `1`, **Words:** Bianca Rinaldi, Babu Santana, Bruno Cardoso, Bruno Mars, Bruno Gissoni
-- **Letter:** `b`, **Position:** `2`, **Words:** Abelardo Barbosa, Abilio Diniz
-- **Letter:** `b`, **Position:** `3`, **Words:** Pabllo Vittar, Gabriela Duarte, Gabriel Medina, Roberta Campos, Fabio Junior
-- **Letter:** `b`, **Position:** `4`, **Words:** Isabela Garcia, Gilberto Gil, Barbara Evans, Ana Beatriz Barros, Klebber Toledo
-- **Letter:** `b`, **Position:** `5`, **Words:** Caio Blat, Klebber Toledo, Rafa Brites, Dany Bananinha
-- **Letter:** `b`, **Position:** `6`, **Words:** Sonia Braga, Joana Balaguer, Vitor Belfort, Chico Buarque, Jairo Bouer
-- **Letter:** `c`, **Position:** `1`, **Words:** Claudia Ohana, Cleo Pires, Caua Reymond, Cris Vianna, Claudia Abreu
-- **Letter:** `c`, **Position:** `3`, **Words:** Lucio Mauro, Vicky, Ticiane Pinheiro, Tico Santa Cruz, Luciana Gimenez
-- **Letter:** `c`, **Position:** `4`, **Words:** Ana Carolina, Gal Costa, Walcyr Carrasco, Max Cavalera, Drica Moraes
-- **Letter:** `c`, **Position:** `5`, **Words:** Leticia Spiller, Priscila Fantin, Monica Martelli, Caio Castro, Leticia Lima
-- **Letter:** `c`, **Position:** `6`, **Words:** Carol Castro, Nanda Costa, Patrick Dempsey, Patricia Pillar, Patricia Poeta
-- **Letter:** `d`, **Position:** `1`, **Words:** Deborah Secco, David Brazil, Dalton Vigh, Daniel Boaventura, Daniel
-- **Letter:** `d`, **Position:** `2`, **Words:** Edson Nascimento, Adriana Galisteu, Adriana Alves, Edson e Hudson, Adriana Esteves
-- **Letter:** `d`, **Position:** `3`, **Words:** Rodrigo Santoro, Anderson Silva, Andre Marques, Andre Rieu, Ludmilla
-- **Letter:** `d`, **Position:** `4`, **Words:** Sandra Annenberg, Nanda Costa, Sandy, Janda Montenegro, Nando Reis
-- **Letter:** `d`, **Position:** `5`, **Words:** Leandra Leal, Leandro Hassum, Claudia Abreu, Nego do Borel, Amanda Meirelles
-- **Letter:** `d`, **Position:** `6`, **Words:** Ingrid Guimaraes, Carla Diaz, Arlindo Cruz, Ronaldo Fenomeno, Emicida
-- **Letter:** `e`, **Position:** `1`, **Words:** Edson Nascimento, Edson Cordeiro, Eliane Giardini, Erika Januza, Emicida
-- **Letter:** `e`, **Position:** `2`, **Words:** Leo Lins, Fernanda Montenegro, Jefferson D, Kevin O Chris, Leticia Colin
-- **Letter:** `e`, **Position:** `3`, **Words:** Ivete Sangalo, Alexandra Daddario, Alexandre Nero, Cleo Pires, Klebber Toledo
-- **Letter:** `e`, **Position:** `4`, **Words:** Jade Picon, Angelina Jolie, Ze Neto, Vanessa Giacomo, Ellen Roche
-- **Letter:** `e`, **Position:** `5`, **Words:** Florence Pugh, Daniella Sarahyba, Isabela Garcia, Daniel Dantas, Andre Marques
-- **Letter:** `e`, **Position:** `6`, **Words:** Xuxa Meneghel, Ruy Gaeto, Felipe Neto, Eliane Giardini, Gisele Bundchen
-- **Letter:** `f`, **Position:** `1`, **Words:** Florence Pugh, Fernanda Montenegro, Fernanda Lima, Fabio Rabin, Fernanda Paes Leme
-- **Letter:** `f`, **Position:** `3`, **Words:** Rafael Almeida, Jefferson D, Rafa Brites, Kefera, Fafa de Belem
-- **Letter:** `f`, **Position:** `4`, **Words:** Jefferson D, Bia Ferreira, Ana Furtado
+- **Letter:** `a`, **Position:** `1`, **Words:** Angela Bismarchi, Ana Paula Padrao, Andrea Nobrega, Amanda Meirelles, Alexandra Daddario
+- **Letter:** `a`, **Position:** `2`, **Words:** Tais Araujo, Xavier Dolan, Camila Queiroz, Vanessa Giacomo, Fabio Rabin
+- **Letter:** `a`, **Position:** `3`, **Words:** Joao Kleber, Bianca Rinaldi, Tiago Leifert, Ana Maria, Luan Santana
+- **Letter:** `a`, **Position:** `4`, **Words:** Dina Lohan, Ludacris, Caua Reymond, Kaka, Rita Lee
+- **Letter:** `a`, **Position:** `5`, **Words:** Giovanna Antonelli, Max Cavalera, Tania Khalill, Gal Gadot, Giovanna Lancellotti
+- **Letter:** `a`, **Position:** `6`, **Words:** Sara Sampaio, Marisa Monte, Gloria Maria, Tico Santa Cruz, Bianca Andrade
+- **Letter:** `b`, **Position:** `1`, **Words:** Bruno Mars, Bruno Gissoni, Beyonce, Bruno Gagliasso, Bianca Andrade
+- **Letter:** `b`, **Position:** `2`, **Words:** Abilio Diniz, Abelardo Barbosa
+- **Letter:** `b`, **Position:** `3`, **Words:** Gabriela Pugliesi, Fabio Porchat, Fabio Rabin, Fabio Assuncao, Fabio Junior
+- **Letter:** `b`, **Position:** `4`, **Words:** Isabelle Drummond, Gilberto Gil, Klebber Toledo, Barbara Evans, Isabela Garcia
+- **Letter:** `b`, **Position:** `5`, **Words:** Rafa Brites, Caio Blat, Klebber Toledo, Dany Bananinha
+- **Letter:** `b`, **Position:** `6`, **Words:** Maria Bethania, David Brazil, Aline Barros, Carol Biazin, Chico Buarque
+- **Letter:** `c`, **Position:** `1`, **Words:** Charlotte Church, Caua Reymond, Carol Biazin, Chris Hemsworth, Cleo Pires
+- **Letter:** `c`, **Position:** `3`, **Words:** Michel Telo, Lucio Mauro Filho, Luciano Huck, Nicole Bahls, Luciano Camargo
+- **Letter:** `c`, **Position:** `4`, **Words:** Drica Moraes, Gal Costa, Marcelo Adnet, Alice Wegmann, Max Cavalera
+- **Letter:** `c`, **Position:** `5`, **Words:** Caio Castro, Vinicius de Oliveira, Bianca Rinaldi, Leticia Spiller, Priscila Fantin
+- **Letter:** `c`, **Position:** `6`, **Words:** Edson Cordeiro, Karol Conka, Carol Castro, Beyonce, Patrick Dempsey
+- **Letter:** `d`, **Position:** `1`, **Words:** Duda Nagle, Dandara, Daniel, Dandara Mariana, Deborah Evelyn
+- **Letter:** `d`, **Position:** `2`, **Words:** Edson e Hudson, Adriana Galisteu, Edmilson, Edson Cordeiro, Adriane Galisteu
+- **Letter:** `d`, **Position:** `3`, **Words:** Jade Picon, Andrea Nobrega, Andreia Horta, Andre Marques, Sidney Magal
+- **Letter:** `d`, **Position:** `4`, **Words:** Janda Montenegro, Dandara Mariana, Sandra Annenberg, Sandy, Nando Reis
+- **Letter:** `d`, **Position:** `5`, **Words:** Claudia Raia, Zeze Di Camargo, Fafa de Belem, Nego do Borel, Amanda Wanessa
+- **Letter:** `d`, **Position:** `6`, **Words:** Ingrid Guimaraes, Ronaldo Fenomeno, Emicida, Fabio de Melo, Gal Gadot
+- **Letter:** `e`, **Position:** `1`, **Words:** Erika Januza, Emilly Araujo, Eliane Giardini, Eliana, Edson e Hudson
+- **Letter:** `e`, **Position:** `2`, **Words:** Helena Ranaldi, Selton Mello, Leticia Colin, Zeze Di Camargo, Renata Vasconcellos
+- **Letter:** `e`, **Position:** `3`, **Words:** Caetano Veloso, Alexandra Daddario, Ivete Sangalo, Klebber Toledo, Abelardo Barbosa
+- **Letter:** `e`, **Position:** `4`, **Words:** Angelina Jolie, Anderson Silva, Zeze Di Camargo, Angela Bismarchi, Pele
+- **Letter:** `e`, **Position:** `5`, **Words:** Fiorella Mattheis, Darlene, Aline Wirley, Andre Rieu, Matheus Lustosa
+- **Letter:** `e`, **Position:** `6`, **Words:** Joao Pedro, Tata Werneck, Fafa de Belem, Daiane dos Santos, Felipe Neto
+- **Letter:** `f`, **Position:** `1`, **Words:** Fofao, Fernanda Rodrigues, Fernanda Torres, Fabiola Nascimento, Fernanda Souza
+- **Letter:** `f`, **Position:** `3`, **Words:** Fafa de Belem, Rafa Brites, Fofao, Rafael Almeida, Jefferson D
+- **Letter:** `f`, **Position:** `4`, **Words:** Bia Ferreira, Ana Furtado, Jefferson D
 - **Letter:** `f`, **Position:** `5`, **Words:** Pato Fu, Vera Fischer
-- **Letter:** `f`, **Position:** `6`, **Words:** Jennifer Aniston, Chris Flores, Thais Fersoza, Jennifer Lawrence
-- **Letter:** `g`, **Position:** `1`, **Words:** Giulia Gam, Gilberto Gil, Gabriel Louchard, Gal Costa, Gloria Maria
-- **Letter:** `g`, **Position:** `3`, **Words:** Wagner Moura, Ingrid Guimaraes, Nego do Borel, Rogerio Flausino, Wagner de Assis
-- **Letter:** `g`, **Position:** `4`, **Words:** Sergio Malheiros, Ruy Gaeto, Tiago Iorc, Sergio Marone, Gal Gadot
-- **Letter:** `g`, **Position:** `5`, **Words:** Joao Guilherme, Thiago Martins, Joao Gordo, Djonga, Bela Gil
-- **Letter:** `g`, **Position:** `6`, **Words:** Rodrigo Faro, Rodrigo Santoro, Bruno Gissoni, Paulo Gustavo, Bruno Gagliasso
-- **Letter:** `h`, **Position:** `1`, **Words:** Hugo Gloss, Helena Ranaldi, Hugo Moura
-- **Letter:** `h`, **Position:** `2`, **Words:** Shakira, Chay Suede, Sheila Carvalho, Chris Hemsworth, Thiago Martins
-- **Letter:** `h`, **Position:** `3`, **Words:** Johnny Hooker, Johnny Depp, Rihanna
-- **Letter:** `h`, **Position:** `4`, **Words:** Dinho Ouro Preto, Milhem Cortaz, Matheus Nachtergaele, Michel Telo, Sophie Charlotte
-- **Letter:** `h`, **Position:** `5`, **Words:** Aninha, Agatha Moreira, Matthew McConaughey, Oprah Winfrey
-- **Letter:** `h`, **Position:** `6`, **Words:** Jonathan Azevedo, Chris Hemsworth, Yara Shahidi, Vitor Hugo
-- **Letter:** `i`, **Position:** `1`, **Words:** Ivo Meirelles, Isabelle Drummond, Isabela Garcia, Ivete Sangalo, Ingrid Guimaraes
-- **Letter:** `i`, **Position:** `2`, **Words:** Vinicius de Oliveira, Giulia Costa, Simaria, Giovanna Ewbank, Simone
-- **Letter:** `i`, **Position:** `3`, **Words:** Eliana, Thiaguinho, Thiago Silva, Caio Blat, Emicida
-- **Letter:** `i`, **Position:** `4`, **Words:** Lucio Mauro, Marisa Monte, Chris Hemsworth, Maria Bethania, Fabio Porchat
-- **Letter:** `i`, **Position:** `5`, **Words:** Gabriela Pugliese, Alanis Morissette, Sergio Malheiros, Yasmin Brunet, Silvio Santos
-- **Letter:** `i`, **Position:** `6`, **Words:** Vera Fischer, Claudia Leitte, Carolina Dieckmann, Claudia Raia, Angelica
-- **Letter:** `j`, **Position:** `1`, **Words:** Joao Gomes, Jayme Matarazzo, Juliana Paes, Jussara Freire, Juliette Freire
-- **Letter:** `j`, **Position:** `3`, **Words:** Rajon Rondo, Anja Rubik
-- **Letter:** `j`, **Position:** `6`, **Words:** Fabio Junior, Erika Januza, Maria Joao Pires
-- **Letter:** `k`, **Position:** `1`, **Words:** Keanu Reeves, Karol Conka, Karina Bacchi, Katy Perry, Klebber Toledo
-- **Letter:** `k`, **Position:** `4`, **Words:** Shakira, Alok, Vicky, Erika Januza
-- **Letter:** `k`, **Position:** `6`, **Words:** Tania Khalill, Vitor Kley
-- **Letter:** `l`, **Position:** `1`, **Words:** Luisa Sonza, Lucio Mauro Filho, Luan Santana, Leo Lins, Leticia Colin
-- **Letter:** `l`, **Position:** `2`, **Words:** Alice Wegmann, Eliana, Elen Santos, Alinne Moraes, Claudia Ohana
-- **Letter:** `l`, **Position:** `3`, **Words:** Ellen Roche, Gilberto Gil, Celso Portiolli, Malu Mader, Gal Costa
-- **Letter:** `l`, **Position:** `4`, **Words:** Paulo Vilhena, Abilio Diniz, Thalia, Carla Diaz, Paulo Ricardo
-- **Letter:** `l`, **Position:** `5`, **Words:** Carolina Dieckmann, Carol Biazin, Daryl Sabara, Gisele Bundchen, Penelope Cruz
-- **Letter:** `l`, **Position:** `6`, **Words:** Lucas Lucco, Rafael Almeida, Daniel Boaventura, Rafael Cortez, Raquel Silveira
-- **Letter:** `m`, **Position:** `1`, **Words:** Mariana Rios, Maria Casadevall, Matheus Lustosa, Mel Maia, Marilia Mendonca
-- **Letter:** `m`, **Position:** `2`, **Words:** Amanda Wanessa, Emicida, Emilly Araujo, Amanda Meirelles
-- **Letter:** `m`, **Position:** `3`, **Words:** Camila Queiroz, Edmilson, Simaria, Camila Pitanga, Simone
-- **Letter:** `m`, **Position:** `4`, **Words:** Jayme Matarazzo, Mel Maia, Val Marchiori, Neymar, Ludmilla
-- **Letter:** `m`, **Position:** `5`, **Words:** Xuxa Meneghel, Paloma Bernardi, Hugo Moura, Fatima Bernardes, Malu Mader
-- **Letter:** `m`, **Position:** `6`, **Words:** Gaby Amarantos, Janda Montenegro, Lucio Mauro, Milhem Cortaz, Andre Marques
-- **Letter:** `n`, **Position:** `1`, **Words:** Natalia do Vale, Nando Reis, Naldo Benny, Nicole Bahls, Nany People
-- **Letter:** `n`, **Position:** `2`, **Words:** Anja Rubik, Angelina Jolie, Ingrid Guimaraes, Anitta, Antonella Rios
-- **Letter:** `n`, **Position:** `3`, **Words:** Janda Montenegro, Junior, Rony Seixas, Ronaldo Fenomeno, Renato Aragao
-- **Letter:** `n`, **Position:** `4`, **Words:** Aninha, Aline Barros, Amanda Meirelles, Alinne Moraes, Fernanda Souza
-- **Letter:** `n`, **Position:** `5`, **Words:** Antonella Rios, Simone e Simaria, Helena Ranaldi, Beyonce, Rajon Rondo
-- **Letter:** `n`, **Position:** `6`, **Words:** Darlene, Edson Nascimento, Yasmin Brunet, Luciana Gimenez, Mariana Ximenes
+- **Letter:** `f`, **Position:** `6`, **Words:** Jennifer Aniston, Jennifer Lawrence, Chris Flores, Thais Fersoza
+- **Letter:** `g`, **Position:** `1`, **Words:** Gabi Lopes, Gabriel Louchard, Giovana Ewbank, Gusttavo Lima, Gabriel Medina
+- **Letter:** `g`, **Position:** `3`, **Words:** Wagner Moura, Angelina Jolie, Hugo Moura, Angela Bismarchi, Hugo Gloss
+- **Letter:** `g`, **Position:** `4`, **Words:** Tiago Silva, Sergio Mendes, Ruy Gaeto, Sergio Santos, Tiago Iorc
+- **Letter:** `g`, **Position:** `5`, **Words:** Joao Guilherme, Thiago Silva, Bela Gil, Thiaguinho, Joao Gomes
+- **Letter:** `g`, **Position:** `6`, **Words:** Rodrigo Faro, Rodrigo Santoro, Bruno Gissoni, Bruno Gagliasso, Paulo Gustavo
+- **Letter:** `h`, **Position:** `1`, **Words:** Hugo Gloss, Hugo Moura, Helena Ranaldi
+- **Letter:** `h`, **Position:** `2`, **Words:** Thiago Silva, Chris Flores, Chris Hemsworth, Chay Suede, Thais Araujo
+- **Letter:** `h`, **Position:** `3`, **Words:** Johnny Hooker, Rihanna, Johnny Depp
+- **Letter:** `h`, **Position:** `4`, **Words:** Michel Telo, Anahi, Sophie Charlotte, Ana Hickmann, Milhem Cortaz
+- **Letter:** `h`, **Position:** `5`, **Words:** Agatha Moreira, Matthew McConaughey, Aninha, Oprah Winfrey
+- **Letter:** `h`, **Position:** `6`, **Words:** Yara Shahidi, Chris Hemsworth, Vitor Hugo, Jonathan Azevedo
+- **Letter:** `i`, **Position:** `1`, **Words:** Isabelle Drummond, Ivete Sangalo, Icaro Silva, Ivo Meirelles, Isabela Garcia
+- **Letter:** `i`, **Position:** `2`, **Words:** Giulia Gam, Simaria, Giulia Costa, Simone, Ciro Gomes
+- **Letter:** `i`, **Position:** `3`, **Words:** Eliane Giardini, Aline Wirley, Thiaguinho, Caio Castro, Jairo Bouer
+- **Letter:** `i`, **Position:** `4`, **Words:** Maria Ribeiro, Leticia Lima, Marisa Orth, Adriana Alves, Fabio de Melo
+- **Letter:** `i`, **Position:** `5`, **Words:** Gabriel Louchard, Patrick Dempsey, Toquio, Rodrigo Santoro, Cassia Kiss
+- **Letter:** `i`, **Position:** `6`, **Words:** Claudia Raia, Rogerio Flausino, Carolina Dieckmann, Vera Fischer, Ivo Meirelles
+- **Letter:** `j`, **Position:** `1`, **Words:** Juliana Alves, Janda Montenegro, Jennifer Lawrence, Joao Miguel, Joao Kleber
+- **Letter:** `j`, **Position:** `3`, **Words:** Anja Rubik, Rajon Rondo
+- **Letter:** `j`, **Position:** `6`, **Words:** Maria Joao Pires, Fabio Junior, Erika Januza
+- **Letter:** `k`, **Position:** `1`, **Words:** Kefera Buchmann, Karol Conka, Keanu Reeves, Katy Perry, Karina Bacchi
+- **Letter:** `k`, **Position:** `4`, **Words:** Vicky, Shakira, Erika Januza, Alok
+- **Letter:** `k`, **Position:** `6`, **Words:** Vitor Kley, Tania Khalill
+- **Letter:** `l`, **Position:** `1`, **Words:** Leticia Spiller, Ludacris, Luciano Huck, Ludmilla, Leticia Lima
+- **Letter:** `l`, **Position:** `2`, **Words:** Alexandra Daddario, Alexandre Nero, Florence Pugh, Alice Wegmann, Claudia Leitte
+- **Letter:** `l`, **Position:** `3`, **Words:** Valentina, Juliette Freire, Helena Ranaldi, Arlindo Cruz, Pele
+- **Letter:** `l`, **Position:** `4`, **Words:** Thalia, Emilly Araujo, Carla Perez, Milly Lacombe, Paolla Oliveira
+- **Letter:** `l`, **Position:** `5`, **Words:** Carolina Dieckmann, Ronaldo Fenomeno, Camila Pitanga, Carol Biazin, Rita Lee
+- **Letter:** `l`, **Position:** `6`, **Words:** Daniel Boaventura, Rafael Cortez, Hugo Gloss, Rafael Almeida, Fiorella Mattheis
+- **Letter:** `m`, **Position:** `1`, **Words:** Mel Maia, Maria Bethania, Marilia Mendonca, Marisa Orth, Marcelo Adnet
+- **Letter:** `m`, **Position:** `2`, **Words:** Emilly Araujo, Amanda Meirelles, Amanda Wanessa, Emicida
+- **Letter:** `m`, **Position:** `3`, **Words:** Simaria, Camila Queiroz, Edmilson, Camila Pitanga, Simone e Simaria
+- **Letter:** `m`, **Position:** `4`, **Words:** Ana Maria Braga, Mel Maia, Neymar, Val Marchiori, Ana Maria
+- **Letter:** `m`, **Position:** `5`, **Words:** Malu Mader, Xuxa Meneghel, Paloma Bernardi, Fatima Bernardes, Hugo Moura
+- **Letter:** `m`, **Position:** `6`, **Words:** Gaby Amarantos, Bruna Marquezine, Grazi Massafera, Bruno Mars, Tania Mara
+- **Letter:** `n`, **Position:** `1`, **Words:** Nicole Bahls, Naldo Benny, Neymar, Nego do Borel, Nanda Costa
+- **Letter:** `n`, **Position:** `2`, **Words:** Ana Maria, Andre Santos, Antonella Rios, Ana Clara, Andre Rieu
+- **Letter:** `n`, **Position:** `3`, **Words:** Daniel Dantas, Vinicius de Oliveira, Junior, Jennifer Aniston, Sonia Braga
+- **Letter:** `n`, **Position:** `4`, **Words:** Elen Santos, Wagner Moura, Nanny People, Bruno Cardoso, Fernanda Montenegro
+- **Letter:** `n`, **Position:** `5`, **Words:** Ellen Roche, Eliana, Edson e Hudson, Ariano Suassuna, Valentina
+- **Letter:** `n`, **Position:** `6`, **Words:** Caetano Veloso, Fernanda Vasconcellos, Mariana Rios, Edson Nascimento, Rihanna
 - **Letter:** `o`, **Position:** `1`, **Words:** Otaviano Costa, Oprah Winfrey
-- **Letter:** `o`, **Position:** `2`, **Words:** Johnny Hooker, Monica Martelli, Rodrigo Faro, Joao Pedro, Rodrigo Santoro
-- **Letter:** `o`, **Position:** `3`, **Words:** Giovana Ewbank, Gloria Maria, Giovanna Antonelli, Fiorella Mattheis, Paolla Oliveira
-- **Letter:** `o`, **Position:** `4`, **Words:** Ciro Gomes, Rajon Rondo, Edson Cordeiro, Vitor Hugo, Carol Castro
-- **Letter:** `o`, **Position:** `5`, **Words:** Marjorie Estiano, Lucio Mauro Filho, Paulo Gustavo, Bruno Mars, Fabiola Nascimento
-- **Letter:** `o`, **Position:** `6`, **Words:** Charlotte Church, Cassio Ramos, Sergio Malheiros, Marcio Garcia, Nego do Borel
-- **Letter:** `p`, **Position:** `1`, **Words:** Pele, Paloma Bernardi, Paolla Oliveira, Patricia Pillar, Penelope Cruz
-- **Letter:** `p`, **Position:** `3`, **Words:** Pepita, Sophie Charlotte
-- **Letter:** `p`, **Position:** `4`, **Words:** Ana Paula Padrao, Ana Paula Arosio
-- **Letter:** `p`, **Position:** `5`, **Words:** Joao Pedro, Jade Picon, Nany People, Zizi Possi, Guto Pacheco
-- **Letter:** `p`, **Position:** `6`, **Words:** Luana Piovani, Nanny People, Fabio Porchat, Luiza Possi, Celso Portiolli
+- **Letter:** `o`, **Position:** `2`, **Words:** Joao Pedro, Joao Gordo, Tom Cruise, Toquio, Joao Vicente de Castro
+- **Letter:** `o`, **Position:** `3`, **Words:** Gloria Maria, Leo Lins, Paolla Oliveira, Giovanna Lancellotti, Djonga
+- **Letter:** `o`, **Position:** `4`, **Words:** Karol Conka, Vitor Kley, Debora Bloch, Guto Nascimento, Joao Vicente de Castro
+- **Letter:** `o`, **Position:** `5`, **Words:** Bruno Cardoso, Fabio de Melo, Bruno Gagliasso, Fabio Porchat, Paulo Vilhena
+- **Letter:** `o`, **Position:** `6`, **Words:** Thiago Silva, Flavio Canto, Renato Aragao, Nego do Borel, Silvio Santos
+- **Letter:** `p`, **Position:** `1`, **Words:** Patricia Pillar, Paulo Vilhena, Pitty, Paloma Bernardi, Paulo Ricardo
+- **Letter:** `p`, **Position:** `3`, **Words:** Sophie Charlotte, Pepita
+- **Letter:** `p`, **Position:** `4`, **Words:** Ana Paula Arosio, Ana Paula Padrao
+- **Letter:** `p`, **Position:** `5`, **Words:** Jade Picon, Katy Perry, Felipe Neto, Cleo Pires, Zizi Possi
+- **Letter:** `p`, **Position:** `6`, **Words:** Luana Piovani, Nanny People, Fabio Porchat, Carla Perez, Luiza Possi
 - **Letter:** `q`, **Position:** `3`, **Words:** Toquio, Raquel Silveira
-- **Letter:** `r`, **Position:** `1`, **Words:** Rihanna, Rony Seixas, Roberta Campos, Ruy Gaeto, Rafael Almeida
-- **Letter:** `r`, **Position:** `2`, **Words:** Arlindo Cruz, Bruno Mars, Bruno Mazzeo, Cristina Ferreira, Grazi Massafera
-- **Letter:** `r`, **Position:** `3`, **Words:** Fernanda Lima, Chris Flores, Larissa Manoela, Carol Castro, Maria Ribeiro
-- **Letter:** `r`, **Position:** `4`, **Words:** Andre Marques, Rodrigo Faro, Patricia Pillar, Jairo Bouer, Charlotte Church
-- **Letter:** `r`, **Position:** `5`, **Words:** Debora Bloch, Roberta Miranda, Simaria, Anja Rubik, Beatriz Flor
-- **Letter:** `r`, **Position:** `6`, **Words:** Neymar, Rajon Rondo, Paulo Ricardo, Maria Ribeiro, Dandara Mariana
-- **Letter:** `s`, **Position:** `1`, **Words:** Sergio Santos, Sara Sampaio, Sergio Marone, Silvio Santos, Sergio Mendes
+- **Letter:** `r`, **Position:** `1`, **Words:** Ronaldo Fenomeno, Rogerio Flausino, Rafael Cortez, Rajon Rondo, Rihanna
+- **Letter:** `r`, **Position:** `2`, **Words:** Erika Januza, Bruna Marquezine, Ariane, Grazi Massafera, Bruno Gissoni
+- **Letter:** `r`, **Position:** `3`, **Words:** Sergio Mendes, Chris Hemsworth, Karina Bacchi, Maria Bethania, Fernanda Lima
+- **Letter:** `r`, **Position:** `4`, **Words:** Sabrina Sato, Andre Santos, Andrea Nobrega, Charlotte Church, Rodrigo Faro
+- **Letter:** `r`, **Position:** `5`, **Words:** Rogerio Flausino, Samara Felippo, Roberta Rodrigues, Sandra Annenberg, Lazaro Ramos
+- **Letter:** `r`, **Position:** `6`, **Words:** Leandra Leal, Bia Ferreira, Jefferson D, Ana Maria Braga, Shakira
+- **Letter:** `s`, **Position:** `1`, **Words:** Sidney Magal, Sonia Braga, Sergio Santos, Sheila Carvalho, Simaria
 - **Letter:** `s`, **Position:** `2`, **Words:** Isabela Garcia, Isabelle Drummond
-- **Letter:** `s`, **Position:** `3`, **Words:** Cassia Eller, Gustavo Mioto, Jussara Freire, Gusttavo Lima, Cassio Gabus Mendes
-- **Letter:** `s`, **Position:** `4`, **Words:** Tais Araujo, Celso Portiolli, Cassia Eller, Priscila Fantin, Jessica Ellen
-- **Letter:** `s`, **Position:** `5`, **Words:** Thais Fersoza, Chris Flores, Rony Seixas, Sara Sampaio, Lucas Lucco
-- **Letter:** `s`, **Position:** `6`, **Words:** Andre Santos, Wanessa, Edmilson, Ivete Sangalo, Vanessa da Mata
-- **Letter:** `t`, **Position:** `1`, **Words:** Tiago Iorc, Tania Khalill, Thiago Silva, Thais Araujo, Tico Santacruz
-- **Letter:** `t`, **Position:** `3`, **Words:** Guto Nascimento, Katy Perry, Fatima Bernardes, Matheus Lustosa, Pato Fu
-- **Letter:** `t`, **Position:** `4`, **Words:** Beatriz Flor, Pitty, Selton Mello, Agatha Moreira, Caetano Veloso
-- **Letter:** `t`, **Position:** `5`, **Words:** Pepita, Jonathan Azevedo, Adnet, Gusttavo Lima, Cristina Ferreira
-- **Letter:** `t`, **Position:** `6`, **Words:** Juliette Freire, Roberta Rodrigues, Valentina, Roberta Campos, Roberta Miranda
-- **Letter:** `u`, **Position:** `2`, **Words:** Juliana Paes, Luiza Possi, Duda Nagle, Luisa Sonza, Juliana Alves
-- **Letter:** `u`, **Position:** `3`, **Words:** Paulo Gustavo, Bruno Gissoni, Paulo Vilhena, Bruno Cardoso, Giulia Costa
-- **Letter:** `u`, **Position:** `4`, **Words:** Claudia Ohana, Claudia Abreu, Toquio, Raquel Silveira, Malu Mader
-- **Letter:** `u`, **Position:** `5`, **Words:** Keanu Reeves, Ana Furtado
-- **Letter:** `u`, **Position:** `6`, **Words:** Matheus Lustosa, Anja Rubik, Matheus Nachtergaele, Thiaguinho, Tom Cruise
-- **Letter:** `v`, **Position:** `1`, **Words:** Vinicius de Oliveira, Vera Viel, Vanessa Giacomo, Vanessa da Mata, Val Marchiori
+- **Letter:** `s`, **Position:** `3`, **Words:** Jessica Senra, Gusttavo Lima, Cassio Ramos, Edson Cordeiro, Gisele Bundchen
+- **Letter:** `s`, **Position:** `4`, **Words:** Jessica Senra, Jessica Ellen, Cassia Kiss, Cassia Eller, Jussara Freire
+- **Letter:** `s`, **Position:** `5`, **Words:** Wanessa, Yara Shahidi, Babu Santana, Rony Seixas, Chris Hemsworth
+- **Letter:** `s`, **Position:** `6`, **Words:** Anderson Silva, Wanessa, Vanessa Giacomo, Gal Costa, Alanis Morissette
+- **Letter:** `t`, **Position:** `1`, **Words:** Thalia, Tiago Silva, Tico Santacruz, Thais Fersoza, Thiaguinho
+- **Letter:** `t`, **Position:** `3`, **Words:** Matheus Lustosa, Fatima Bernardes, Guto Nascimento, Antonella Rios, Guto Pacheco
+- **Letter:** `t`, **Position:** `4`, **Words:** Gusttavo Lima, Beatriz Flor, Caetano Veloso, Ivete Sangalo, Agatha Moreira
+- **Letter:** `t`, **Position:** `5`, **Words:** Cristina Ferreira, Adnet, Renata Vasconcellos, Jonathan Azevedo, Ze Neto
+- **Letter:** `t`, **Position:** `6`, **Words:** Roberta Rodrigues, Roberta Miranda, Juliette Freire, Valentina, Roberta Campos
+- **Letter:** `u`, **Position:** `2`, **Words:** Juliana Paes, Lucio Mauro Filho, Juliette Freire, Gusttavo Lima, Ludacris
+- **Letter:** `u`, **Position:** `3`, **Words:** Bruna Linzmeyer, Bruno Mazzeo, Paulo Vilhena, Paulo Ricardo, Bruno Gissoni
+- **Letter:** `u`, **Position:** `4`, **Words:** Claudia Abreu, Toquio, Claudia Ohana, Malu Mader, Claudia Leitte
+- **Letter:** `u`, **Position:** `5`, **Words:** Ana Furtado, Keanu Reeves
+- **Letter:** `u`, **Position:** `6`, **Words:** Dani Suzuki, Pato Fu, Tom Cruise, Thiaguinho, Joao Guilherme
+- **Letter:** `v`, **Position:** `1`, **Words:** Vanessa Giacomo, Valentina, Vitor Kley, Vanessa da Mata, Vitor Belfort
 - **Letter:** `v`, **Position:** `2`, **Words:** Ivo Meirelles, Ivete Sangalo
-- **Letter:** `v`, **Position:** `3`, **Words:** David Brazil, Kevin O Chris, Xavier Dolan, Nivea Stelmann
-- **Letter:** `v`, **Position:** `4`, **Words:** Flavio Canto, Silvio Santos, Giovanna Antonelli, Giovanna Ewbank, Giovana Ewbank
-- **Letter:** `v`, **Position:** `5`, **Words:** Cris Vianna, Joao Vicente de Castro, Vera Viel
-- **Letter:** `v`, **Position:** `6`, **Words:** Gustavo Mioto, Paulo Vilhena, Max Cavalera
-- **Letter:** `w`, **Position:** `1`, **Words:** Wesley Safadao, Walcyr Carrasco, Wanessa Camargo, Wagner Moura, Wilmar Silva
-- **Letter:** `w`, **Position:** `6`, **Words:** Oprah Winfrey, Alice Wegmann, Aline Wirley
+- **Letter:** `v`, **Position:** `3`, **Words:** Kevin O Chris, Nivea Stelmann, David Brazil, Xavier Dolan
+- **Letter:** `v`, **Position:** `4`, **Words:** Giovanna Antonelli, Flavio Canto, Otaviano Costa, Silvio Santos, Giovanna Lancellotti
+- **Letter:** `v`, **Position:** `5`, **Words:** Cris Vianna, Vera Viel, Joao Vicente de Castro
+- **Letter:** `v`, **Position:** `6`, **Words:** Paulo Vilhena, Gustavo Mioto, Max Cavalera
+- **Letter:** `w`, **Position:** `1`, **Words:** Walcyr Carrasco, Wagner de Assis, Wanessa Camargo, Wagner Moura, Wanessa
+- **Letter:** `w`, **Position:** `6`, **Words:** Aline Wirley, Oprah Winfrey, Alice Wegmann
 - **Letter:** `x`, **Position:** `1`, **Words:** Xavier Dolan, Xuxa Meneghel
-- **Letter:** `x`, **Position:** `3`, **Words:** Max Cavalera, Xuxa Meneghel
-- **Letter:** `x`, **Position:** `4`, **Words:** Alexandra Daddario, Alexandre Nero
-- **Letter:** `y`, **Position:** `1`, **Words:** Yasmin Brunet, Yara Shahidi
-- **Letter:** `y`, **Position:** `3`, **Words:** Ruy Gaeto, Neymar, Jayme Matarazzo, Beyonce
-- **Letter:** `y`, **Position:** `4`, **Words:** Daryl Sabara, Dany Bananinha, Nany People, Katy Perry, Rony Seixas
-- **Letter:** `y`, **Position:** `5`, **Words:** Nanny People, Sandy, Milly Lacombe, Walcyr Carrasco, Pitty
-- **Letter:** `y`, **Position:** `6`, **Words:** Johnny Hooker, Emilly Araujo, Sidney Magal, Johnny Depp, Wesley Safadao
-- **Letter:** `z`, **Position:** `1`, **Words:** Zizi Possi, Zeze Di Camargo, Ze Ramalho, Zelia Duncan, Ze Neto
-- **Letter:** `z`, **Position:** `3`, **Words:** Zeze Di Camargo, Lazaro Ramos, Zizi Possi
+- **Letter:** `x`, **Position:** `3`, **Words:** Xuxa Meneghel, Max Cavalera
+- **Letter:** `x`, **Position:** `4`, **Words:** Alexandre Nero, Alexandra Daddario
+- **Letter:** `y`, **Position:** `1`, **Words:** Yara Shahidi, Yasmin Brunet
+- **Letter:** `y`, **Position:** `3`, **Words:** Beyonce, Neymar, Ruy Gaeto, Jayme Matarazzo
+- **Letter:** `y`, **Position:** `4`, **Words:** Nany People, Daryl Sabara, Gaby Amarantos, Katy Perry, Rony Seixas
+- **Letter:** `y`, **Position:** `5`, **Words:** Sandy, Walcyr Carrasco, Pitty, Nanny People, Milly Lacombe
+- **Letter:** `y`, **Position:** `6`, **Words:** Wesley Safadao, Emilly Araujo, Johnny Depp, Johnny Hooker, Sidney Magal
+- **Letter:** `z`, **Position:** `1`, **Words:** Zizi Possi, Zelia Duncan, Zeze Di Camargo, Ze Neto, Ze Ramalho
+- **Letter:** `z`, **Position:** `3`, **Words:** Zizi Possi, Zeze Di Camargo, Lazaro Ramos
 - **Letter:** `z`, **Position:** `4`, **Words:** Grazi Massafera, Luiza Possi
 
 </details>
@@ -4742,118 +4742,118 @@ Total missing words: `45`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** anchova, antelope, aranha, andorinha, avestruz
-- **Letter:** `a`, **Position:** `2`, **Words:** garca, zangao, gafanhoto, pavao, tatu
-- **Letter:** `a`, **Position:** `3`, **Words:** lhama, acaro, ema, aranha, viado
-- **Letter:** `a`, **Position:** `4`, **Words:** gafanhoto, jacana, lula, camarao, tucano
-- **Letter:** `a`, **Position:** `5`, **Words:** lacraia, glutao, chacal, guara, koala
-- **Letter:** `a`, **Position:** `6`, **Words:** coruja, tubarao, urso panda, chimpanze, enguia
-- **Letter:** `b`, **Position:** `1`, **Words:** bichodaseda, bulldogue, bisonte, bacuri, barata
+- **Letter:** `a`, **Position:** `1`, **Words:** aguia, abutre, antelope, arara, atum
+- **Letter:** `a`, **Position:** `2`, **Words:** pavao, tarantula, ratazana, marisco, baiacu
+- **Letter:** `a`, **Position:** `3`, **Words:** leao, coala, flamingo, guaxinim, itapema
+- **Letter:** `a`, **Position:** `4`, **Words:** canario, papagaio, escarabajo, ratazana, lagarta
+- **Letter:** `a`, **Position:** `5`, **Words:** chita, morsa, cabra, chacal, ostra
+- **Letter:** `a`, **Position:** `6`, **Words:** moreia, jacupara, pica pau, gorila, urso panda
+- **Letter:** `b`, **Position:** `1`, **Words:** bacuri, boi, barata, bulldogue, bode
 - **Letter:** `b`, **Position:** `2`, **Words:** abelha, abutre, abelhao
-- **Letter:** `b`, **Position:** `3`, **Words:** jiboia, libelula, babuino, zebu, gibao
-- **Letter:** `b`, **Position:** `4`, **Words:** gamba, barbo, pitbull, lombriga, borboleta
-- **Letter:** `b`, **Position:** `6`, **Words:** marimbondo, peixe boi
-- **Letter:** `c`, **Position:** `1`, **Words:** castor, cutia, camarao, caranguejo, coiote
-- **Letter:** `c`, **Position:** `3`, **Words:** escarabajo, tucano, jacana, jacu, escaravelho
-- **Letter:** `c`, **Position:** `4`, **Words:** porco da india, traca, chacal, morcego, anaconda
-- **Letter:** `c`, **Position:** `5`, **Words:** caracol, baiacu, pelicano, suricate, surucucu
-- **Letter:** `c`, **Position:** `6`, **Words:** salsicha, minhoca, marisco, barracuda, marreco
-- **Letter:** `d`, **Position:** `1`, **Words:** doberman, dragao, dalmata, doninha, dourado
-- **Letter:** `d`, **Position:** `3`, **Words:** badejo, gado, codorna, medusa, andorinha
-- **Letter:** `d`, **Position:** `4`, **Words:** sardinha, viado, panda, poodle, goldenretriever
+- **Letter:** `b`, **Position:** `3`, **Words:** loboguara, albatroz, tubarao, zebu, gibao
+- **Letter:** `b`, **Position:** `4`, **Words:** borboleta, pitbull, barbo, pombo, lombriga
+- **Letter:** `b`, **Position:** `6`, **Words:** peixe boi, marimbondo
+- **Letter:** `c`, **Position:** `1`, **Words:** caranguejo, corvo, cachorro, codorna, cavalo
+- **Letter:** `c`, **Position:** `3`, **Words:** lacraia, onca, tico tico, cuco, mucurana
+- **Letter:** `c`, **Position:** `4`, **Words:** garca, falcao, porco da india, cascavel, unicornio
+- **Letter:** `c`, **Position:** `5`, **Words:** surucucu, chinchila, baiacu, ourico do mar, pelicano
+- **Letter:** `c`, **Position:** `6`, **Words:** barracuda, marreco, salsicha, minhoca, marisco
+- **Letter:** `d`, **Position:** `1`, **Words:** dromedario, doninha, dragao, dinossauro, dalmata
+- **Letter:** `d`, **Position:** `3`, **Words:** codorna, medusa, gado, badejo, bode
+- **Letter:** `d`, **Position:** `4`, **Words:** bordercollie, cordeiro, sardinha, viado, veado
 - **Letter:** `d`, **Position:** `5`, **Words:** bulldogue, espadarte, joaodebarro
-- **Letter:** `d`, **Position:** `6`, **Words:** peixe dourado, dourado, tamandua, bichodaseda, porco da india
-- **Letter:** `e`, **Position:** `1`, **Words:** enguia, elefante, esquilo, escaravelho, escarabajo
-- **Letter:** `e`, **Position:** `2`, **Words:** beijaflor, serpente, merluza, beagle, rena
-- **Letter:** `e`, **Position:** `3`, **Words:** avestruz, prea, preguica, abelha, elefante
-- **Letter:** `e`, **Position:** `4`, **Words:** perereca, bezerro, esmerilhao, doberman, moreia
-- **Letter:** `e`, **Position:** `5`, **Words:** tigre, itapema, peixe dourado, bemtevi, serpente
-- **Letter:** `e`, **Position:** `6`, **Words:** rinoceronte, mamute, bullterrier, poodle, perereca
-- **Letter:** `f`, **Position:** `1`, **Words:** faisao, formiga, foca, fuinho, furao
+- **Letter:** `d`, **Position:** `6`, **Words:** dourado, peixe dourado, porco da india, tamandua, dromedario
+- **Letter:** `e`, **Position:** `1`, **Words:** esmerilhao, escarabajo, esquilo, escorpiao, espadarte
+- **Letter:** `e`, **Position:** `2`, **Words:** vespa, merluza, leopardo, bemtevi, besouro
+- **Letter:** `e`, **Position:** `3`, **Words:** prea, avestruz, coelho, vieira, ovelha
+- **Letter:** `e`, **Position:** `4`, **Words:** alce, inseto, jumento, doberman, esmerilhao
+- **Letter:** `e`, **Position:** `5`, **Words:** lebre, peixe dourado, jegue, morcego, cisne
+- **Letter:** `e`, **Position:** `6`, **Words:** camaleao, coiote, rinoceronte, rottweiler, beagle
+- **Letter:** `f`, **Position:** `1`, **Words:** fuinha, formiga, foca, flamingo, fuinho
 - **Letter:** `f`, **Position:** `3`, **Words:** gafanhoto, bufalo
-- **Letter:** `f`, **Position:** `4`, **Words:** elefante, golfinho
-- **Letter:** `g`, **Position:** `1`, **Words:** goldenretriever, gaivota, gazela, grilo, garoupa
-- **Letter:** `g`, **Position:** `2`, **Words:** aguaviva, egua, iguana, aguia
-- **Letter:** `g`, **Position:** `3`, **Words:** lagartixa, enguilha, bagre, cegonha, jegue
-- **Letter:** `g`, **Position:** `4`, **Words:** galgo, linguado, preguica, pulga, sanguessuga
-- **Letter:** `g`, **Position:** `5`, **Words:** texugo, orangotango, loboguara, papagaio
-- **Letter:** `g`, **Position:** `6`, **Words:** morcego, caranguejo, formiga
-- **Letter:** `h`, **Position:** `1`, **Words:** husky, hiena, hamster, humano, harpia
-- **Letter:** `h`, **Position:** `2`, **Words:** chacal, chihuahua, lhama, chinchila, chita
-- **Letter:** `h`, **Position:** `4`, **Words:** anchova, bichodaseda, minhoca, chihuahua, cachorro
-- **Letter:** `h`, **Position:** `5`, **Words:** fuinho, piolho, coelho, fuinha, abelhao
-- **Letter:** `h`, **Position:** `6`, **Words:** mexilhao, gafanhoto, cegonha, piranha, doninha
-- **Letter:** `i`, **Position:** `1`, **Words:** inseto, itapema, iguana
-- **Letter:** `i`, **Position:** `2`, **Words:** vitela, pinguim, bichodaseda, tigre, bisonte
-- **Letter:** `i`, **Position:** `3`, **Words:** fuinho, suiriri, raia, peixe, chita
-- **Letter:** `i`, **Position:** `4`, **Words:** marisco, pirilampo, doninha, ornitorrinco, mexilhao
-- **Letter:** `i`, **Position:** `5`, **Words:** jiboia, moreia, guaxinim, sagui, sardinha
-- **Letter:** `i`, **Position:** `6`, **Words:** cordeiro, tilapia, preguica, andorinha, lacraia
-- **Letter:** `j`, **Position:** `1`, **Words:** joaodebarro, jegue, jaguar, jacupara, jararaca
-- **Letter:** `j`, **Position:** `5`, **Words:** coruja, badejo
+- **Letter:** `f`, **Position:** `4`, **Words:** golfinho, elefante
+- **Letter:** `g`, **Position:** `1`, **Words:** guaxinim, ganso, galgo, gaivota, guara
+- **Letter:** `g`, **Position:** `2`, **Words:** aguaviva, iguana, egua, aguia
+- **Letter:** `g`, **Position:** `3`, **Words:** vagalume, tigre, lagosta, jaguar, bagre
+- **Letter:** `g`, **Position:** `4`, **Words:** canguru, preguica, pulga, pinguim, linguado
+- **Letter:** `g`, **Position:** `5`, **Words:** texugo, loboguara, orangotango, papagaio
+- **Letter:** `g`, **Position:** `6`, **Words:** caranguejo, morcego, formiga
+- **Letter:** `h`, **Position:** `1`, **Words:** hipopotamo, husky, harpia, humano, hamster
+- **Letter:** `h`, **Position:** `2`, **Words:** chita, chacal, chinchila, lhama, chihuahua
+- **Letter:** `h`, **Position:** `4`, **Words:** cachorro, chihuahua, bichodaseda, anchova, minhoca
+- **Letter:** `h`, **Position:** `5`, **Words:** fuinha, coelho, abelha, fuinho, abelhao
+- **Letter:** `h`, **Position:** `6`, **Words:** chinchila, yorkshire, galinha, piranha, cegonha
+- **Letter:** `i`, **Position:** `1`, **Words:** itapema, inseto, iguana
+- **Letter:** `i`, **Position:** `2`, **Words:** minhoca, piranha, jiboia, pirilampo, vison
+- **Letter:** `i`, **Position:** `3`, **Words:** chimpanze, weimaraner, baiacu, suiriri, coiote
+- **Letter:** `i`, **Position:** `4`, **Words:** mexilhao, cupim, girino, ourico do mar, gaviao
+- **Letter:** `i`, **Position:** `5`, **Words:** sardinha, guaxinim, pernilongo, tatui, quati
+- **Letter:** `i`, **Position:** `6`, **Words:** aguaviva, preguica, pinguim, javali, canario
+- **Letter:** `j`, **Position:** `1`, **Words:** jacu, jumento, jabuti, jacare, jacana
+- **Letter:** `j`, **Position:** `5`, **Words:** badejo, coruja
 - **Letter:** `k`, **Position:** `4`, **Words:** yorkshire, husky
-- **Letter:** `l`, **Position:** `1`, **Words:** lebre, lagartixa, lagarto, lombriga, lobo
-- **Letter:** `l`, **Position:** `2`, **Words:** albatroz, flamingo, glutao, alce, elefante
-- **Letter:** `l`, **Position:** `3`, **Words:** mula, goldenretriever, golfinho, galgo, dalmata
-- **Letter:** `l`, **Position:** `4`, **Words:** coelho, coala, ovelha, bulldogue, grilo
-- **Letter:** `l`, **Position:** `5`, **Words:** camelo, bufalo, antelope, vitela, pirilampo
-- **Letter:** `l`, **Position:** `6`, **Words:** estreladomar, pardal, borboleta, pitbull, enguilha
-- **Letter:** `m`, **Position:** `1`, **Words:** marisco, medusa, mamute, marimbondo, mosquito
-- **Letter:** `m`, **Position:** `3`, **Words:** jamanta, camaleao, esmerilhao, camundongo, tamandua
-- **Letter:** `m`, **Position:** `4`, **Words:** dalmata, verme, chimpanze, formiga, lesma
-- **Letter:** `m`, **Position:** `5`, **Words:** leaomarinho, marimbondo, salamandra, cupim
-- **Letter:** `m`, **Position:** `6`, **Words:** itapema, seriema, mastim, doberman
-- **Letter:** `n`, **Position:** `2`, **Words:** unicornio, gnu, enguia, anchova, onca
-- **Letter:** `n`, **Position:** `3`, **Words:** rinoceronte, zangao, doninha, pantera, asno
-- **Letter:** `n`, **Position:** `4`, **Words:** joaninha, pernilongo, fuinho, tainha, hiena
-- **Letter:** `n`, **Position:** `5`, **Words:** bisonte, gafanhoto, vison, jamanta, camundongo
-- **Letter:** `n`, **Position:** `6`, **Words:** viuva negra, estorninho, guaxinim, babuino, joaninha
-- **Letter:** `o`, **Position:** `1`, **Words:** ostra, ourico do mar, orca, onca, ovelha
-- **Letter:** `o`, **Position:** `2`, **Words:** foca, cordeiro, borboleta, morcego, golfinho
-- **Letter:** `o`, **Position:** `3`, **Words:** dromedario, crocodilo, leopardo, cao, piolho
-- **Letter:** `o`, **Position:** `4`, **Words:** sapo, lagosta, escorpiao, dinossauro, coiote
-- **Letter:** `o`, **Position:** `5`, **Words:** quero quero, marmota, acaro, castor, veado
-- **Letter:** `o`, **Position:** `6`, **Words:** hipopotamo, ornitorrinco, camelo, gaviao, badejo
-- **Letter:** `p`, **Position:** `1`, **Words:** poodle, perereca, polvo, papagaio, pirilampo
-- **Letter:** `p`, **Position:** `3`, **Words:** cupim, papagaio, sapo, raposa, capivara
-- **Letter:** `p`, **Position:** `4`, **Words:** harpia, leopardo, itapema, serpente, toupeira
-- **Letter:** `p`, **Position:** `5`, **Words:** jacupara, chimpanze, tilapia, hipopotamo, mariposa
-- **Letter:** `p`, **Position:** `6`, **Words:** escorpiao, centopeia, garoupa, carrapato
-- **Letter:** `q`, **Position:** `1`, **Words:** quati, quero quero
-- **Letter:** `r`, **Position:** `1`, **Words:** retriever, ratazana, rinoceronte, rato, rottweiler
-- **Letter:** `r`, **Position:** `2`, **Words:** urubu, ornitorrinco, traca, orangotango, crocodilo
-- **Letter:** `r`, **Position:** `3`, **Words:** marisco, porco espinho, pardal, coruja, pernilongo
-- **Letter:** `r`, **Position:** `4`, **Words:** touro, cabra, arara, burro, zebra
-- **Letter:** `r`, **Position:** `5`, **Words:** esturjao, jararaca, lagartixa, andorinha, jacare
-- **Letter:** `r`, **Position:** `6`, **Words:** canguru, leopardo, jaguar, guepardo, cigarra
-- **Letter:** `s`, **Position:** `1`, **Words:** salsicha, siri, sucuarana, serpente, sauva
-- **Letter:** `s`, **Position:** `2`, **Words:** escarabajo, escaravelho, ostra, esmerilhao, escorpiao
-- **Letter:** `s`, **Position:** `3`, **Words:** inseto, urso, mosca, mastim, mosquito
-- **Letter:** `s`, **Position:** `4`, **Words:** avestruz, ganso, passaro, hamster, morsa
-- **Letter:** `s`, **Position:** `5`, **Words:** raposa, renas, marisco, yorkshire, lagosta
+- **Letter:** `l`, **Position:** `1`, **Words:** libelula, lesma, lacraia, lagarto, lagosta
+- **Letter:** `l`, **Position:** `2`, **Words:** alce, flamingo, albatroz, elefante, glutao
+- **Letter:** `l`, **Position:** `3`, **Words:** bulldogue, pulga, salsicha, falcao, tilapia
+- **Letter:** `l`, **Position:** `4`, **Words:** ovelha, merluza, coelho, abelha, koala
+- **Letter:** `l`, **Position:** `5`, **Words:** libelula, pirilampo, cavalo, mexilhao, gorila
+- **Letter:** `l`, **Position:** `6`, **Words:** esquilo, borboleta, enguilha, pardal, pernilongo
+- **Letter:** `m`, **Position:** `1`, **Words:** mula, morsa, mastim, marreco, mosquito
+- **Letter:** `m`, **Position:** `3`, **Words:** pombo, gamba, bemtevi, camarao, camundongo
+- **Letter:** `m`, **Position:** `4`, **Words:** atum, lhama, formiga, marmota, dalmata
+- **Letter:** `m`, **Position:** `5`, **Words:** salamandra, marimbondo, leaomarinho, cupim
+- **Letter:** `m`, **Position:** `6`, **Words:** mastim, doberman, seriema, itapema
+- **Letter:** `n`, **Position:** `2`, **Words:** andorinha, gnu, anta, enguia, anchova
+- **Letter:** `n`, **Position:** `3`, **Words:** lince, rena, pantera, panda, minhoca
+- **Letter:** `n`, **Position:** `4`, **Words:** orangotango, pernilongo, fuinho, joaninha, tainha
+- **Letter:** `n`, **Position:** `5`, **Words:** tarantula, girino, jamanta, galinha, jacana
+- **Letter:** `n`, **Position:** `6`, **Words:** elefante, sardinha, anaconda, viuva negra, guaxinim
+- **Letter:** `o`, **Position:** `1`, **Words:** ourico, ostras, orangotango, ourico do mar, ornitorrinco
+- **Letter:** `o`, **Position:** `2`, **Words:** cordeiro, rouxinol, dourado, lombriga, porco espinho
+- **Letter:** `o`, **Position:** `3`, **Words:** poodle, piolho, leopardo, dromedario, crocodilo
+- **Letter:** `o`, **Position:** `4`, **Words:** vibora, gado, cegonha, cuco, loboguara
+- **Letter:** `o`, **Position:** `5`, **Words:** polvo, touro, barbo, quero quero, burro
+- **Letter:** `o`, **Position:** `6`, **Words:** ourico do mar, cavalo, bufalo, antilope, inseto
+- **Letter:** `p`, **Position:** `1`, **Words:** pulga, periquito, pato, pantera, pavao
+- **Letter:** `p`, **Position:** `3`, **Words:** hipopotamo, cupim, papagaio, sapo, raposa
+- **Letter:** `p`, **Position:** `4`, **Words:** serpente, guepardo, itapema, vespa, leopardo
+- **Letter:** `p`, **Position:** `5`, **Words:** pica pau, mariposa, urso panda, tilapia, hipopotamo
+- **Letter:** `p`, **Position:** `6`, **Words:** centopeia, garoupa, carrapato, escorpiao
+- **Letter:** `q`, **Position:** `1`, **Words:** quero quero, quati
+- **Letter:** `r`, **Position:** `1`, **Words:** retriever, rottweiler, robalo, rato, ratazana
+- **Letter:** `r`, **Position:** `2`, **Words:** ornitorrinco, traca, arara, crocodilo, urso panda
+- **Letter:** `r`, **Position:** `3`, **Words:** girino, barata, carpa, merluza, perereca
+- **Letter:** `r`, **Position:** `4`, **Words:** touro, cobra, burro, lebre, quero quero
+- **Letter:** `r`, **Position:** `5`, **Words:** cigarra, jacare, vibora, bacuri, codorna
+- **Letter:** `r`, **Position:** `6`, **Words:** unicornio, bezerro, tartaruga, besouro, bordercollie
+- **Letter:** `s`, **Position:** `1`, **Words:** sucuri, salamandra, salmao, sagui, sucuarana
+- **Letter:** `s`, **Position:** `2`, **Words:** esmerilhao, escarabajo, estorninho, escorpiao, ostra
+- **Letter:** `s`, **Position:** `3`, **Words:** vison, lesma, urso panda, cascavel, inseto
+- **Letter:** `s`, **Position:** `4`, **Words:** avestruz, morsa, faisao, ganso, salsicha
+- **Letter:** `s`, **Position:** `5`, **Words:** dinossauro, yorkshire, renas, medusa, lagosta
 - **Letter:** `s`, **Position:** `6`, **Words:** ostras, dinossauro
-- **Letter:** `t`, **Position:** `1`, **Words:** tartaruga, toupeira, tainha, tilapia, tico tico
-- **Letter:** `t`, **Position:** `2`, **Words:** itapema, atum
-- **Letter:** `t`, **Position:** `3`, **Words:** gato, vitela, estreladomar, ostra, retriever
-- **Letter:** `t`, **Position:** `4`, **Words:** lontra, pantera, mastim, quati, abutre
-- **Letter:** `t`, **Position:** `5`, **Words:** jabuti, inseto, ornitorrinco, tico tico, mamute
-- **Letter:** `t`, **Position:** `6`, **Words:** marmota, lagartixa, lagarto, gaivota, lagarta
+- **Letter:** `t`, **Position:** `1`, **Words:** tamandua, tico tico, texugo, tucano, terrier
+- **Letter:** `t`, **Position:** `2`, **Words:** atum, itapema
+- **Letter:** `t`, **Position:** `3`, **Words:** ostras, cutia, pitbull, ostra, vitela
+- **Letter:** `t`, **Position:** `4`, **Words:** bemtevi, centopeia, rottweiler, castor, quati
+- **Letter:** `t`, **Position:** `5`, **Words:** mamute, inseto, albatroz, hamster, avestruz
+- **Letter:** `t`, **Position:** `6`, **Words:** lagarto, lagarta, tarantula, bisonte, jumento
 - **Letter:** `u`, **Position:** `1`, **Words:** urubu, unicornio, urso, urso panda
-- **Letter:** `u`, **Position:** `2`, **Words:** mucurana, fuinha, sucuarana, muar, humano
-- **Letter:** `u`, **Position:** `3`, **Words:** atum, dourado, iguana, urubu, sauva
-- **Letter:** `u`, **Position:** `4`, **Words:** jacu, medusa, babuino, jacupara, jabuti
-- **Letter:** `u`, **Position:** `5`, **Words:** linguado, sanguessuga, preguica, urubu, canguru
-- **Letter:** `u`, **Position:** `6`, **Words:** cacatua, vagalume, loboguara, pirarucu, libelula
-- **Letter:** `v`, **Position:** `1`, **Words:** verme, viado, vison, veado, viuva negra
-- **Letter:** `v`, **Position:** `2`, **Words:** ovelha, avestruz
-- **Letter:** `v`, **Position:** `3`, **Words:** cavalomarinho, javali, cavalo, pavao, gaviao
-- **Letter:** `v`, **Position:** `4`, **Words:** corvo, viuva negra, polvo, gaivota, sauva
-- **Letter:** `v`, **Position:** `5`, **Words:** capivara, aguaviva
-- **Letter:** `v`, **Position:** `6`, **Words:** percevejo, bemtevi, cascavel, anchova
-- **Letter:** `x`, **Position:** `3`, **Words:** mexilhao, texugo, boxer
-- **Letter:** `x`, **Position:** `4`, **Words:** peixe boi, guaxinim, peixe, rouxinol, peixe dourado
-- **Letter:** `z`, **Position:** `1`, **Words:** zebra, zebu, zangao
-- **Letter:** `z`, **Position:** `3`, **Words:** bezerro, gazela
+- **Letter:** `u`, **Position:** `2`, **Words:** ourico, guaxinim, fuinha, puma, burro
+- **Letter:** `u`, **Position:** `3`, **Words:** viuva negra, atum, urubu, egua, touro
+- **Letter:** `u`, **Position:** `4`, **Words:** peru, surucucu, babuino, camundongo, coruja
+- **Letter:** `u`, **Position:** `5`, **Words:** pinguim, besouro, pitbull, urubu, mosquito
+- **Letter:** `u`, **Position:** `6`, **Words:** periquito, libelula, surucucu, pirarucu, baiacu
+- **Letter:** `v`, **Position:** `1`, **Words:** verme, vespa, vieira, viado, viuva negra
+- **Letter:** `v`, **Position:** `2`, **Words:** avestruz, ovelha
+- **Letter:** `v`, **Position:** `3`, **Words:** cavalo, pavao, javali, gaviao, cavalomarinho
+- **Letter:** `v`, **Position:** `4`, **Words:** corvo, polvo, gaivota, sauva, viuva negra
+- **Letter:** `v`, **Position:** `5`, **Words:** aguaviva, capivara
+- **Letter:** `v`, **Position:** `6`, **Words:** anchova, percevejo, cascavel, bemtevi
+- **Letter:** `x`, **Position:** `3`, **Words:** texugo, boxer, mexilhao
+- **Letter:** `x`, **Position:** `4`, **Words:** peixe boi, guaxinim, rouxinol, peixe dourado, peixe
+- **Letter:** `z`, **Position:** `1`, **Words:** zebu, zebra, zangao
+- **Letter:** `z`, **Position:** `3`, **Words:** gazela, bezerro
 
 </details>
 
@@ -4918,129 +4918,129 @@ Total missing words: `69`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Ariel, Alcides, Aline, Arlete, Anita
-- **Letter:** `a`, **Position:** `2`, **Words:** Patricia, Mateus, Kailane, Daiane, Tatiane
-- **Letter:** `a`, **Position:** `3`, **Words:** Otacilio, Franciele, Izabel, Graziele, Luan
-- **Letter:** `a`, **Position:** `4`, **Words:** Geralda, Vera, Israel, Daiane, Cauan
-- **Letter:** `a`, **Position:** `5`, **Words:** Edina, Regiane, Isaias, Giovane, Anita
-- **Letter:** `a`, **Position:** `6`, **Words:** Mercia, Kamila, Alzira, Divina, Josivaldo
-- **Letter:** `b`, **Position:** `1`, **Words:** Bernardo, Brenda, Bruna, Benedita, Bianca
+- **Letter:** `a`, **Position:** `1`, **Words:** Aldo, Adelaide, Alexsandro, Aroldo, Antenor
+- **Letter:** `a`, **Position:** `2`, **Words:** Mateus, Vanilda, Valdivino, Vanusa, Vanderlei
+- **Letter:** `a`, **Position:** `3`, **Words:** Luana, Claudinei, Charles, Amanda, Juarez
+- **Letter:** `a`, **Position:** `4`, **Words:** Givanildo, Lucas, Caua, Edvania, Altair
+- **Letter:** `a`, **Position:** `5`, **Words:** Agata, Edivan, Margarida, Poliana, Darlan
+- **Letter:** `a`, **Position:** `6`, **Words:** Leidiane, Ariana, Cicera, Vanuza, Genival
+- **Letter:** `b`, **Position:** `1`, **Words:** Bianca, Bernadete, Beatris, Bruna, Beatriz
 - **Letter:** `b`, **Position:** `2`, **Words:** Abraao, Abel
-- **Letter:** `b`, **Position:** `3`, **Words:** Rubens, Debora, Alberto, Albertina, Fabiane
-- **Letter:** `b`, **Position:** `4`, **Words:** Kleber, Isabela, Izabel, Barbara, Isabeli
-- **Letter:** `b`, **Position:** `6`, **Words:** Elisabete, Elizabeth, Elizabete, Elisabeth
-- **Letter:** `c`, **Position:** `1`, **Words:** Catia, Claudete, Cleidiane, Cleber, Carmen
-- **Letter:** `c`, **Position:** `3`, **Words:** Lucilene, Oscar, Euclides, Michele, Alcione
-- **Letter:** `c`, **Position:** `4`, **Words:** Dirceu, Maicon, Tarcisio, Inacio, Conceicao
-- **Letter:** `c`, **Position:** `5`, **Words:** Francine, Monica, Jesica, Glaucia, Gleice
-- **Letter:** `c`, **Position:** `6`, **Words:** Patricia, Patrick, Valdeci, Aparecido, Fabricia
-- **Letter:** `d`, **Position:** `1`, **Words:** Dirceu, Danieli, Daniela, Daniel, Dalva
-- **Letter:** `d`, **Position:** `2`, **Words:** Edna, Adenilson, Edite, Edimilson, Adalto
-- **Letter:** `d`, **Position:** `3`, **Words:** Nadia, Madalena, Ieda, Aldair, Judite
-- **Letter:** `d`, **Position:** `4`, **Words:** Isadora, Magda, Sandra, Leidiane, Lindinalva
-- **Letter:** `d`, **Position:** `5`, **Words:** Benedito, Eraldo, Evaldo, Alaide, Claudiana
-- **Letter:** `d`, **Position:** `6`, **Words:** Oswaldo, Ednaldo, Geraldo, Zuleide, Ricardo
-- **Letter:** `e`, **Position:** `1`, **Words:** Emanuel, Edilaine, Elizangela, Expedito, Elder
-- **Letter:** `e`, **Position:** `2`, **Words:** Mercia, Wendel, Kenia, Benedita, Rebeca
-- **Letter:** `e`, **Position:** `3`, **Words:** Everaldo, Elenice, Amelia, Odete, Joelma
-- **Letter:** `e`, **Position:** `4`, **Words:** Zuleide, Eugenio, Severino, Juvenal, Teresinha
-- **Letter:** `e`, **Position:** `5`, **Words:** Valdemir, Wesley, Valdelice, Wendel, Daniele
-- **Letter:** `e`, **Position:** `6`, **Words:** Nicole, Caique, Rosineide, Alaide, Denise
-- **Letter:** `f`, **Position:** `1`, **Words:** Francisco, Fatima, Frederico, Fernando, Fabiane
-- **Letter:** `f`, **Position:** `3`, **Words:** Jeferson, Jefferson, Rafaela, Rafael, Sofia
-- **Letter:** `f`, **Position:** `4`, **Words:** Stefani, Stefany, Jefferson
-- **Letter:** `f`, **Position:** `5`, **Words:** Estefani, Josefa, Josefina, Jenifer, Estefane
-- **Letter:** `f`, **Position:** `6`, **Words:** Jennifer, Rodolfo
-- **Letter:** `g`, **Position:** `1`, **Words:** Graziele, George, Gilberto, Gislaine, Genilson
-- **Letter:** `g`, **Position:** `2`, **Words:** Agata, Igor, Agnaldo, Aguinaldo, Agenor
-- **Letter:** `g`, **Position:** `3`, **Words:** Hugo, Regiane, Roger, Eugenio, Magno
-- **Letter:** `g`, **Position:** `4`, **Words:** Jorge, Diego, Tiago, Virginia, Margarete
-- **Letter:** `g`, **Position:** `5`, **Words:** George, Thiago
-- **Letter:** `g`, **Position:** `6`, **Words:** Domingos, Rosangela, Rodrigo, Solange, Welington
-- **Letter:** `h`, **Position:** `1`, **Words:** Heitor, Hilda, Hudson, Helena, Higor
-- **Letter:** `h`, **Position:** `2`, **Words:** Thais, Thaina, Thiago, Charles, Sheila
-- **Letter:** `h`, **Position:** `4`, **Words:** Arthur, Richard, Matheus, Raphael, Nathalia
-- **Letter:** `h`, **Position:** `5`, **Words:** Guilherme, Sarah
-- **Letter:** `i`, **Position:** `1`, **Words:** Ivanir, Ivonete, Ivanildo, Ione, Ivan
-- **Letter:** `i`, **Position:** `2`, **Words:** Vilmar, Lindomar, Ligia, Diego, Dilma
-- **Letter:** `i`, **Position:** `3`, **Words:** Emile, Naiara, Naiane, Joice, Deivid
-- **Letter:** `i`, **Position:** `4`, **Words:** Josiel, Lenir, Luciana, Larissa, Dario
-- **Letter:** `i`, **Position:** `5`, **Words:** Marcio, Clarice, Moacir, Noemia, Valdinei
-- **Letter:** `i`, **Position:** `6`, **Words:** Claudio, Juraci, Cristiana, Francilene, Severina
-- **Letter:** `j`, **Position:** `1`, **Words:** Jeane, Jairo, Janio, Judite, Janete
-- **Letter:** `k`, **Position:** `1`, **Words:** Kevin, Kesia, Karoline, Keli, Kauane
-- **Letter:** `k`, **Position:** `4`, **Words:** Erik, Erika, Jackson
-- **Letter:** `l`, **Position:** `1`, **Words:** Luana, Lais, Leonilda, Lucilene, Luiz
-- **Letter:** `l`, **Position:** `2`, **Words:** Alison, Elisa, Eliene, Elcio, Elvis
-- **Letter:** `l`, **Position:** `3`, **Words:** Gilda, Wellington, Vilma, Walter, Wilton
-- **Letter:** `l`, **Position:** `4`, **Words:** Evelyn, Edilene, Djalma, Adelino, Sueli
-- **Letter:** `l`, **Position:** `5`, **Words:** Danilo, Cecilia, Camile, Angelina, Nicole
-- **Letter:** `l`, **Position:** `6`, **Words:** Marcilene, Isabele, Fabiola, Carmelita, Ludmila
-- **Letter:** `m`, **Position:** `1`, **Words:** Marinalva, Marinete, Marcelo, Meire, Marizete
-- **Letter:** `m`, **Position:** `2`, **Words:** Amauri, Amaro, Emanuel, Emilly, Emily
-- **Letter:** `m`, **Position:** `3`, **Words:** Humberto, Domingas, Armando, Samuel, Samira
-- **Letter:** `m`, **Position:** `4`, **Words:** Zilma, Edimilson, Raimunda, Wilma, Selma
-- **Letter:** `m`, **Position:** `5`, **Words:** Rosimar, Paloma, Guiomar, Joelma, Josimar
-- **Letter:** `m`, **Position:** `6`, **Words:** Valdomiro, Carmem, Miriam, Lindomar, Iasmim
-- **Letter:** `n`, **Position:** `1`, **Words:** Nilson, Natalina, Nicole, Nubia, Nilva
-- **Letter:** `n`, **Position:** `2`, **Words:** Angelica, Ane, Inacio, Antenor, Andressa
-- **Letter:** `n`, **Position:** `3`, **Words:** Rene, Renato, Janete, Wanderson, Santa
-- **Letter:** `n`, **Position:** `4`, **Words:** Bernadete, Afonso, Francinete, Bruna, Joana
-- **Letter:** `n`, **Position:** `5`, **Words:** Ariane, Renan, Marinalva, Berenice, Jurandir
-- **Letter:** `n`, **Position:** `6`, **Words:** Elizangela, Gislene, Jadson, Nelson, Gelson
-- **Letter:** `o`, **Position:** `1`, **Words:** Oscar, Olinda, Olivia, Oswaldo, Olga
-- **Letter:** `o`, **Position:** `2`, **Words:** Rosilene, Rosimeire, Sofia, Rosalia, Joel
-- **Letter:** `o`, **Position:** `3`, **Words:** Aroldo, Leonice, Leonilda, Clodoaldo, Eloisa
-- **Letter:** `o`, **Position:** `4`, **Words:** Caio, Elton, Guiomar, Carol, Rodolfo
-- **Letter:** `o`, **Position:** `5`, **Words:** Robson, Gilson, Breno, Victoria, Celso
-- **Letter:** `o`, **Position:** `6`, **Words:** Adalto, Ederson, Jailton, Pietro, Murilo
-- **Letter:** `p`, **Position:** `1`, **Words:** Patrick, Paula, Poliana, Paola, Pricila
-- **Letter:** `p`, **Position:** `2`, **Words:** Aparecida, Aparecido
-- **Letter:** `p`, **Position:** `3`, **Words:** Raphael, Expedito, Sophia
+- **Letter:** `b`, **Position:** `3`, **Words:** Fabiana, Fabiano, Nubia, Alberto, Robert
+- **Letter:** `b`, **Position:** `4`, **Words:** Isabele, Izabel, Barbara, Isabella, Kleber
+- **Letter:** `b`, **Position:** `6`, **Words:** Elisabeth, Elizabeth, Elizabete, Elisabete
+- **Letter:** `c`, **Position:** `1`, **Words:** Claudete, Claudineia, Cassio, Cleuza, Carina
+- **Letter:** `c`, **Position:** `3`, **Words:** Ricardo, Michael, Luci, Maciel, Michelle
+- **Letter:** `c`, **Position:** `4`, **Words:** Erica, Marcio, Marcus, Marcilene, Isac
+- **Letter:** `c`, **Position:** `5`, **Words:** Monica, Franciele, Francisco, Francinete, Jesica
+- **Letter:** `c`, **Position:** `6`, **Words:** Patricia, Wallace, Valdecir, Valdeci, Aparecida
+- **Letter:** `d`, **Position:** `1`, **Words:** Dilma, Daniel, Diego, Doralice, Divina
+- **Letter:** `d`, **Position:** `2`, **Words:** Edivaldo, Edvaldo, Edna, Ademir, Adair
+- **Letter:** `d`, **Position:** `3`, **Words:** Leda, Nadia, Andresa, Tadeu, Judite
+- **Letter:** `d`, **Position:** `4`, **Words:** Valdenir, Valdir, Wendel, Vanderlei, Valdete
+- **Letter:** `d`, **Position:** `5`, **Words:** Leandra, Olinda, Cleidiane, Claudinei, Amanda
+- **Letter:** `d`, **Position:** `6`, **Words:** Deivid, Geraldo, Geralda, Ronald, Rivaldo
+- **Letter:** `e`, **Position:** `1`, **Words:** Edineia, Enzo, Edilaine, Ellen, Elisabete
+- **Letter:** `e`, **Position:** `2`, **Words:** Celma, Nelson, Getulio, Debora, Bernadete
+- **Letter:** `e`, **Position:** `3`, **Words:** Frederico, Adelina, Creusa, Gleison, Evelyn
+- **Letter:** `e`, **Position:** `4`, **Words:** Angela, Roseli, Cicero, Caue, Kaue
+- **Letter:** `e`, **Position:** `5`, **Words:** Valdelice, Jeane, Edileuza, Valdeci, Danieli
+- **Letter:** `e`, **Position:** `6`, **Words:** Karine, Cleide, Nazare, Laiane, Emanuel
+- **Letter:** `f`, **Position:** `1`, **Words:** Franciele, Fernando, Francisco, Filipe, Fabiano
+- **Letter:** `f`, **Position:** `3`, **Words:** Rafaela, Sofia, Jeferson, Alfredo, Rafael
+- **Letter:** `f`, **Position:** `4`, **Words:** Jefferson, Stefani, Stefany
+- **Letter:** `f`, **Position:** `5`, **Words:** Estefani, Jenifer, Estefane, Josefina, Josefa
+- **Letter:** `f`, **Position:** `6`, **Words:** Rodolfo, Jennifer
+- **Letter:** `g`, **Position:** `1`, **Words:** Genival, Geraldo, Gilmar, Graziela, Gloria
+- **Letter:** `g`, **Position:** `2`, **Words:** Agata, Agnaldo, Aguinaldo, Agenor, Igor
+- **Letter:** `g`, **Position:** `3`, **Words:** Higor, Angelo, Augusto, Reginaldo, Angelica
+- **Letter:** `g`, **Position:** `4`, **Words:** Diego, Sergio, Virginia, Margarete, Margarida
+- **Letter:** `g`, **Position:** `5`, **Words:** Thiago, George
+- **Letter:** `g`, **Position:** `6`, **Words:** Rodrigo, Domingos, Welington, Rosangela, Domingas
+- **Letter:** `h`, **Position:** `1`, **Words:** Humberto, Hellen, Helena, Hudson, Henrique
+- **Letter:** `h`, **Position:** `2`, **Words:** Thaina, Jhonata, Shirley, Thiago, Charles
+- **Letter:** `h`, **Position:** `4`, **Words:** Raphael, Michelle, Michele, Sophia, Nathalia
+- **Letter:** `h`, **Position:** `5`, **Words:** Sarah, Guilherme
+- **Letter:** `i`, **Position:** `1`, **Words:** Iuri, Ione, Iasmin, Ivete, Ilda
+- **Letter:** `i`, **Position:** `2`, **Words:** Simone, Vilma, Airton, Cintia, Gislene
+- **Letter:** `i`, **Position:** `3`, **Words:** Edineia, Cristina, Elizangela, Eliana, Rai
+- **Letter:** `i`, **Position:** `4`, **Words:** Fabiana, Helio, Vinicius, Marisa, Genivaldo
+- **Letter:** `i`, **Position:** `5`, **Words:** Otavio, Emili, Ademir, Mercia, Edimilson
+- **Letter:** `i`, **Position:** `6`, **Words:** Josenildo, Catarina, Laercio, Rosalia, Doralice
+- **Letter:** `j`, **Position:** `1`, **Words:** Josias, Juarez, Janice, Jonata, Jair
+- **Letter:** `k`, **Position:** `1`, **Words:** Kaique, Kamila, Kaua, Kesia, Kailane
+- **Letter:** `k`, **Position:** `4`, **Words:** Jackson, Erika, Erik
+- **Letter:** `l`, **Position:** `1`, **Words:** Luzia, Luis, Lenir, Lucimara, Leila
+- **Letter:** `l`, **Position:** `2`, **Words:** Clarice, Elisa, Elizabete, Alcides, Elza
+- **Letter:** `l`, **Position:** `3`, **Words:** Silas, Welington, Melissa, Valdenir, Gelson
+- **Letter:** `l`, **Position:** `4`, **Words:** Pablo, Emilly, Gislaine, William, Amilton
+- **Letter:** `l`, **Position:** `5`, **Words:** Ednaldo, Angelica, Edmilson, Marilene, Ariel
+- **Letter:** `l`, **Position:** `6`, **Words:** Reinaldo, Manuel, Edinalva, Miguel, Fabiola
+- **Letter:** `m`, **Position:** `1`, **Words:** Mayara, Maisa, Marilia, Mariane, Maiara
+- **Letter:** `m`, **Position:** `2`, **Words:** Emanoel, Emile, Amarildo, Emilia, Emily
+- **Letter:** `m`, **Position:** `3`, **Words:** Jamile, Romulo, Domingas, Domingos, Camila
+- **Letter:** `m`, **Position:** `4`, **Words:** Norma, Valmir, Yasmim, Iasmim, Jaime
+- **Letter:** `m`, **Position:** `5`, **Words:** Josimar, Joelma, Josemar, Rosimere, Rosimeire
+- **Letter:** `m`, **Position:** `6`, **Words:** Yasmim, Suelem, Miriam, Iasmim, Iracema
+- **Letter:** `n`, **Position:** `1`, **Words:** Neusa, Nadir, Noeli, Nilza, Nayara
+- **Letter:** `n`, **Position:** `2`, **Words:** Inacio, Anne, Ingrid, Antenor, Eni
+- **Letter:** `n`, **Position:** `3`, **Words:** Yan, Janete, Edna, Agnaldo, Jonas
+- **Letter:** `n`, **Position:** `4`, **Words:** Ivone, Emanuel, Joana, Francisca, Ivani
+- **Letter:** `n`, **Position:** `5`, **Words:** Samanta, Raiane, Naiane, Iolanda, Rosenilda
+- **Letter:** `n`, **Position:** `6`, **Words:** Elizangela, Viviane, Fernanda, Marlon, Liliane
+- **Letter:** `o`, **Position:** `1`, **Words:** Orlando, Osvaldo, Osmar, Otavio, Olivia
+- **Letter:** `o`, **Position:** `2`, **Words:** Ione, Roni, Rosilene, Soraia, Socorro
+- **Letter:** `o`, **Position:** `3`, **Words:** Afonso, Aloisio, Ivonete, Giovana, Leonor
+- **Letter:** `o`, **Position:** `4`, **Words:** Higor, Antonio, Adao, Vitoria, Vitor
+- **Letter:** `o`, **Position:** `5`, **Words:** Isadora, Robson, Pablo, Jacson, Fabiola
+- **Letter:** `o`, **Position:** `6`, **Words:** Renato, Everton, Afonso, Flavio, Danilo
+- **Letter:** `p`, **Position:** `1`, **Words:** Pablo, Patrick, Paula, Pricila, Pedro
+- **Letter:** `p`, **Position:** `2`, **Words:** Aparecido, Aparecida
+- **Letter:** `p`, **Position:** `3`, **Words:** Expedito, Raphael, Sophia
 - **Letter:** `p`, **Position:** `5`, **Words:** Felipe, Filipe
-- **Letter:** `q`, **Position:** `3`, **Words:** Jaqueline, Raquel, Roque
-- **Letter:** `q`, **Position:** `4`, **Words:** Kaique, Valquiria, Isaque, Caique, Ezequiel
-- **Letter:** `r`, **Position:** `1`, **Words:** Ryan, Regina, Roque, Raimunda, Rosa
-- **Letter:** `r`, **Position:** `2`, **Words:** Irene, Frederico, Ari, Arnaldo, Erik
-- **Letter:** `r`, **Position:** `3`, **Words:** Teresinha, Mercia, Mercedes, Maristela, Sergio
-- **Letter:** `r`, **Position:** `4`, **Words:** Gloria, Gabriela, Fabricio, Gabrieli, Mauricio
-- **Letter:** `r`, **Position:** `5`, **Words:** Anderson, Samira, Pietro, Adair, Cezar
-- **Letter:** `r`, **Position:** `6`, **Words:** Frederico, Moacir, Silmara, Tainara, Ademir
-- **Letter:** `s`, **Position:** `1`, **Words:** Suely, Samuel, Sofia, Silvania, Solange
-- **Letter:** `s`, **Position:** `2`, **Words:** Estefane, Ismael, Isadora, Osmar, Estefani
-- **Letter:** `s`, **Position:** `3`, **Words:** Rosimeire, Rose, Kesia, Yasmin, Rosilda
-- **Letter:** `s`, **Position:** `4`, **Words:** Cristina, Maisa, Celso, Luisa, Cristiane
-- **Letter:** `s`, **Position:** `5`, **Words:** Raissa, Augusto, Creusa, Sebastiao, Gleison
-- **Letter:** `s`, **Position:** `6`, **Words:** Clarisse, Marcos, Edmilson, Jeferson, Vanessa
-- **Letter:** `t`, **Position:** `1`, **Words:** Taisa, Tatiane, Tarcisio, Taina, Thais
-- **Letter:** `t`, **Position:** `2`, **Words:** Italo, Otavio, Otacilio, Stefany, Stefani
-- **Letter:** `t`, **Position:** `3`, **Words:** Altair, Estefani, Antenor, Tatiana, Getulio
-- **Letter:** `t`, **Position:** `4`, **Words:** Heitor, Quiteria, Victoria, Agata, Victor
-- **Letter:** `t`, **Position:** `5`, **Words:** Everton, Adalto, Jonatan, Jonathan, Cristiane
-- **Letter:** `t`, **Position:** `6`, **Words:** Ernesto, Sebastiao, Ivonete, Valdete, Augusto
-- **Letter:** `u`, **Position:** `2`, **Words:** Luis, Suzana, Luisa, Jucilene, Juarez
-- **Letter:** `u`, **Position:** `3`, **Words:** Bruno, Douglas, Cauan, Eduarda, Kauan
-- **Letter:** `u`, **Position:** `4`, **Words:** Glaucia, Claudiana, Roque, Creusa, Claudineia
-- **Letter:** `u`, **Position:** `5`, **Words:** Tadeu, Caique, Kaique, Raimundo, Joaquim
-- **Letter:** `u`, **Position:** `6`, **Words:** Matheus, Dirceu, Elizeu, Irineu, Eliseu
-- **Letter:** `v`, **Position:** `1`, **Words:** Vanusa, Valeria, Valdir, Valdelice, Vanilda
-- **Letter:** `v`, **Position:** `2`, **Words:** Ivani, Ivone, Ivan, Ivanete, Evaldo
-- **Letter:** `v`, **Position:** `3`, **Words:** David, Livia, Edvan, Elvira, Severina
-- **Letter:** `v`, **Position:** `4`, **Words:** Deivid, Edivania, Salvador, Geovana, Edivaldo
-- **Letter:** `v`, **Position:** `5`, **Words:** Genival, Marivaldo, Genivaldo, Josivaldo, Lorival
-- **Letter:** `v`, **Position:** `6`, **Words:** Gustavo, Ednalva, Valdivino, Lourival
-- **Letter:** `w`, **Position:** `1`, **Words:** Walace, Wallace, Wilson, Willian, Wanderson
-- **Letter:** `x`, **Position:** `4`, **Words:** Alexsandro, Alex, Alexandro, Alexandre, Alexandra
-- **Letter:** `y`, **Position:** `1`, **Words:** Yara, Yan, Yuri, Yasmin, Yago
-- **Letter:** `y`, **Position:** `3`, **Words:** Joyce, Dayane, Maycon, Mayara, Nayara
-- **Letter:** `y`, **Position:** `5`, **Words:** Evelyn, Suely, Marly, Kelly, Emily
+- **Letter:** `q`, **Position:** `3`, **Words:** Raquel, Roque, Jaqueline
+- **Letter:** `q`, **Position:** `4`, **Words:** Ezequiel, Joaquim, Kaique, Isaque, Valquiria
+- **Letter:** `r`, **Position:** `1`, **Words:** Rejane, Romilda, Roseane, Raimunda, Roseli
+- **Letter:** `r`, **Position:** `2`, **Words:** Brenda, Cristiana, Francinete, Arlindo, Eraldo
+- **Letter:** `r`, **Position:** `3`, **Words:** Mario, Marcela, Mercedes, Geralda, Adriana
+- **Letter:** `r`, **Position:** `4`, **Words:** Laercio, Pedro, Eder, Ederson, Andreia
+- **Letter:** `r`, **Position:** `5`, **Words:** Oscar, Severina, Debora, Alzira, Alberto
+- **Letter:** `r`, **Position:** `6`, **Words:** Frederico, Tainara, Itamar, Arthur, Evandro
+- **Letter:** `s`, **Position:** `1`, **Words:** Severino, Sophia, Sandra, Sirlene, Silvana
+- **Letter:** `s`, **Position:** `2`, **Words:** Ester, Estefane, Osmar, Isabella, Isadora
+- **Letter:** `s`, **Position:** `3`, **Words:** Rosenilda, Washington, Messias, Gisele, Josue
+- **Letter:** `s`, **Position:** `4`, **Words:** Rayssa, Hudson, Jesse, Elisete, Eliseu
+- **Letter:** `s`, **Position:** `5`, **Words:** Ernesto, Denis, Adelson, Ederson, Jackson
+- **Letter:** `s`, **Position:** `6`, **Words:** Josias, Carlos, Edmilson, Clarisse, Andresa
+- **Letter:** `t`, **Position:** `1`, **Words:** Tales, Tatiana, Thiago, Talita, Taisa
+- **Letter:** `t`, **Position:** `2`, **Words:** Stefani, Otavio, Italo, Stefany, Itamar
+- **Letter:** `t`, **Position:** `3`, **Words:** Tatiana, Antonio, Getulio, Patrick, Altair
+- **Letter:** `t`, **Position:** `4`, **Words:** Victor, Heitor, Walter, Ivete, Marta
+- **Letter:** `t`, **Position:** `5`, **Words:** Salete, Talita, Adalto, Jonatan, Renato
+- **Letter:** `t`, **Position:** `6`, **Words:** Adailton, Ernesto, Jhonata, Elizete, Sebastiana
+- **Letter:** `u`, **Position:** `2`, **Words:** Lucineia, Suzana, Zuleide, Juan, Julieta
+- **Letter:** `u`, **Position:** `3`, **Words:** Saulo, Maurilio, Kaua, Lauro, Bruna
+- **Letter:** `u`, **Position:** `4`, **Words:** Claudiane, Claudineia, Claudiana, Isaura, Claudio
+- **Letter:** `u`, **Position:** `5`, **Words:** Marcus, Tadeu, Isaque, Arthur, Caique
+- **Letter:** `u`, **Position:** `6`, **Words:** Matheus, Monique, Eliseu, Edileuza, Dirceu
+- **Letter:** `v`, **Position:** `1`, **Words:** Valter, Valquiria, Valdeir, Valdomiro, Veronica
+- **Letter:** `v`, **Position:** `2`, **Words:** Ivani, Ivone, Evelyn, Ivanilda, Evandro
+- **Letter:** `v`, **Position:** `3`, **Words:** Givanildo, David, Viviane, Juvenal, Edvan
+- **Letter:** `v`, **Position:** `4`, **Words:** Edivan, Kelvin, Giovane, Gilvan, Geovana
+- **Letter:** `v`, **Position:** `5`, **Words:** Genivaldo, Lorival, Genival, Josivaldo, Marivaldo
+- **Letter:** `v`, **Position:** `6`, **Words:** Valdivino, Gustavo, Ednalva, Lourival
+- **Letter:** `w`, **Position:** `1`, **Words:** Welington, Wilton, Walter, Willian, Walace
+- **Letter:** `x`, **Position:** `4`, **Words:** Alexandro, Alex, Alexandre, Alexandra, Alexsandro
+- **Letter:** `y`, **Position:** `1`, **Words:** Yasmin, Yara, Yan, Yago, Yasmim
+- **Letter:** `y`, **Position:** `3`, **Words:** Nayara, Joyce, Rayane, Mayara, Maycon
+- **Letter:** `y`, **Position:** `5`, **Words:** Suely, Marly, Kelly, Emily, Evelyn
 - **Letter:** `y`, **Position:** `6`, **Words:** Emilly, Wesley, Sidney
-- **Letter:** `z`, **Position:** `1`, **Words:** Zenaide, Zelia, Zenilda, Zilma, Zilda
-- **Letter:** `z`, **Position:** `2`, **Words:** Ezequiel, Izabel, Izabela
-- **Letter:** `z`, **Position:** `3`, **Words:** Luzia, Ilza, Luzinete, Alzira, Lazaro
-- **Letter:** `z`, **Position:** `4`, **Words:** Graziela, Elizabete, Elizeu, Neuza, Elizete
-- **Letter:** `z`, **Position:** `5`, **Words:** Donizete, Vanuza, Marizete, Tereza, Mariza
-- **Letter:** `z`, **Position:** `6`, **Words:** Marilza, Andreza, Juarez
+- **Letter:** `z`, **Position:** `1`, **Words:** Zilma, Zuleide, Zilda, Zenaide, Zelia
+- **Letter:** `z`, **Position:** `2`, **Words:** Izabela, Ezequiel, Izabel
+- **Letter:** `z`, **Position:** `3`, **Words:** Lazaro, Alzira, Cezar, Suzana, Ilza
+- **Letter:** `z`, **Position:** `4`, **Words:** Elizabeth, Graziela, Luiza, Elizeu, Graziele
+- **Letter:** `z`, **Position:** `5`, **Words:** Tereza, Creuza, Cleuza, Vanuza, Mariza
+- **Letter:** `z`, **Position:** `6`, **Words:** Marilza, Juarez, Andreza
 
 </details>
 
@@ -5094,111 +5094,111 @@ Total missing words: `51`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Austria, Azerbaijao, Africa do sul, Arabia saudita, Argentina
-- **Letter:** `a`, **Position:** `2`, **Words:** Vaticano, Palestina, Malta, Barbados, Jamaica
-- **Letter:** `a`, **Position:** `3`, **Words:** Ruanda, Granada, Arabia saudita, Mianmar, Italia
-- **Letter:** `a`, **Position:** `4`, **Words:** Gana, Cazaquistao, Sudao do sul, Islandia, Bahamas
-- **Letter:** `a`, **Position:** `5`, **Words:** Taiwan, Malta, China, Jordania, Barbados
-- **Letter:** `a`, **Position:** `6`, **Words:** Nicaragua, Australia, Coreia do Sul, Africa do sul, Arabia saudita
-- **Letter:** `b`, **Position:** `1`, **Words:** Benim, Bulgaria, Brunei, Botswana, Bahamas
-- **Letter:** `b`, **Position:** `3`, **Words:** Uzbequistao, Cuba, Albania, Libano, Libia
-- **Letter:** `b`, **Position:** `4`, **Words:** Camboja, Barbados, Zimbabue, ZAmbia, Arabia saudita
-- **Letter:** `b`, **Position:** `5`, **Words:** Azerbaijao, Republica Dominicana, Republica Centro Africana, Republica Tcheca, Namibia
-- **Letter:** `b`, **Position:** `6`, **Words:** Colombia, Mocambique, Luxemburgo, Guine Bissau, Zimbabue
-- **Letter:** `c`, **Position:** `1`, **Words:** Cuba, Catar, Croacia, Curquina Fasso, Coreia do Norte
-- **Letter:** `c`, **Position:** `3`, **Words:** Nicaragua, Mocambique, Escocia, Macedonia do norte
-- **Letter:** `c`, **Position:** `4`, **Words:** Grecia, Liechtenstein, Suecia, Sao Cristovao e Neves, Seicheles
-- **Letter:** `c`, **Position:** `5`, **Words:** Africa do sul, Mexico, Escocia, Vaticano, Monaco
-- **Letter:** `c`, **Position:** `6`, **Words:** Marrocos, Jamaica, Belgica, Sao Vicente e Granadinas, Mauricia
-- **Letter:** `d`, **Position:** `3`, **Words:** Sudao do sul, Sudao, Andorra, Indonesia, India
-- **Letter:** `d`, **Position:** `4`, **Words:** Honduras, Jordania, Maldivas
-- **Letter:** `d`, **Position:** `5`, **Words:** Equador, Canada, Trindade e Tobago, Estados unidos, Uganda
-- **Letter:** `d`, **Position:** `6`, **Words:** Barbados, Irlanda do norte, Holanda, Emirados arabes, Irlanda
-- **Letter:** `e`, **Position:** `1`, **Words:** Eslovaquia, Espanha, Estonia, Eslovenia, Etiopia
-- **Letter:** `e`, **Position:** `2`, **Words:** Belgica, Venezuela, Peru, Mexico, Reino unido
-- **Letter:** `e`, **Position:** `3`, **Words:** Quenia, Vietnan, Azerbaijao, Suecia, Grecia
-- **Letter:** `e`, **Position:** `4`, **Words:** Armenia, Senegal, Venezuela, Iemen, Uzbequistao
-- **Letter:** `e`, **Position:** `5`, **Words:** Bahrein, Guine Bissau, Brunei, Guine equatorial, Paises Baixos
-- **Letter:** `e`, **Position:** `6`, **Words:** Pais de Gales, Turquemenistao, Eslovenia, Chipre, Seicheles
-- **Letter:** `f`, **Position:** `1`, **Words:** Fiji, Finlandia, Filipinas
+- **Letter:** `a`, **Position:** `1`, **Words:** Argelia, Alemanha, Antigua e barbuda, Andorra, Austria
+- **Letter:** `a`, **Position:** `2`, **Words:** Cazaquistao, Camaroes, Malasia, Madagascar, Panama
+- **Letter:** `a`, **Position:** `3`, **Words:** Iran, Italia, Granada, Arabia saudita, Oma
+- **Letter:** `a`, **Position:** `4`, **Words:** Sudao do sul, Malasia, Nova Guine, Equador, Nepal
+- **Letter:** `a`, **Position:** `5`, **Words:** Santa Lucia, India, Singapura, Afeganistao, Costa rica
+- **Letter:** `a`, **Position:** `6`, **Words:** Mianmar, Uruguai, Australia, Guiana, Italia
+- **Letter:** `b`, **Position:** `1`, **Words:** Brunei, Bosnia, Belize, Bolivia, Belgica
+- **Letter:** `b`, **Position:** `3`, **Words:** Albania, Uzbequistao, Libano, Libia, Cuba
+- **Letter:** `b`, **Position:** `4`, **Words:** Barbados, Zimbabue, Arabia saudita, ZAmbia, Camboja
+- **Letter:** `b`, **Position:** `5`, **Words:** Azerbaijao, Namibia, Republica Centro Africana, Republica Dominicana, Republica Tcheca
+- **Letter:** `b`, **Position:** `6`, **Words:** Guine Bissau, Colombia, Zimbabue, Mocambique, Luxemburgo
+- **Letter:** `c`, **Position:** `1`, **Words:** Croacia, Chile, Colombia, Chipre, Coreia do Norte
+- **Letter:** `c`, **Position:** `3`, **Words:** Macedonia do norte, Mocambique, Escocia, Nicaragua
+- **Letter:** `c`, **Position:** `4`, **Words:** Liechtenstein, Sao Cristovao e Neves, Suecia, Seicheles, Grecia
+- **Letter:** `c`, **Position:** `5`, **Words:** Croacia, Vaticano, Escocia, Mexico, Africa do sul
+- **Letter:** `c`, **Position:** `6`, **Words:** Belgica, Mauricia, Sao Vicente e Granadinas, Marrocos, Jamaica
+- **Letter:** `d`, **Position:** `3`, **Words:** Andorra, Indonesia, Madagascar, India, Sudao
+- **Letter:** `d`, **Position:** `4`, **Words:** Jordania, Honduras, Maldivas
+- **Letter:** `d`, **Position:** `5`, **Words:** Canada, Equador, Trindade e Tobago, Estados unidos, Ruanda
+- **Letter:** `d`, **Position:** `6`, **Words:** Costa do marfim, Irlanda, Holanda, Sudao do sul, Islandia
+- **Letter:** `e`, **Position:** `1`, **Words:** Eritreia, Estonia, Eslovenia, Etiopia, Escocia
+- **Letter:** `e`, **Position:** `2`, **Words:** Republica Dominicana, Nepal, Republica Centro Africana, Mexico, Letonia
+- **Letter:** `e`, **Position:** `3`, **Words:** Afeganistao, Suecia, Alemanha, Azerbaijao, Quenia
+- **Letter:** `e`, **Position:** `4`, **Words:** Armenia, Palestina, Romenia, Coreia do Sul, Coreia do Norte
+- **Letter:** `e`, **Position:** `5`, **Words:** Guine equatorial, Montenegro, Guine, Guine Bissau, Guatemala
+- **Letter:** `e`, **Position:** `6`, **Words:** Eslovenia, Seicheles, Pais de Gales, Nova Zelandia, Iraque
+- **Letter:** `f`, **Position:** `1`, **Words:** Filipinas, Finlandia, Fiji
 - **Letter:** `f`, **Position:** `2`, **Words:** Africa do sul, Afeganistao
-- **Letter:** `g`, **Position:** `1`, **Words:** Guine equatorial, Georgia, Gana, Guiana, Grecia
+- **Letter:** `g`, **Position:** `1`, **Words:** Guine Bissau, Guine equatorial, Granada, Gana, Guatemala
 - **Letter:** `g`, **Position:** `2`, **Words:** Uganda, Egito
-- **Letter:** `g`, **Position:** `3`, **Words:** Togo, Angola, Argentina, Inglaterra, Nigeria
-- **Letter:** `g`, **Position:** `4`, **Words:** Hungria, Singapura, Congo, Mongolia, Afeganistao
-- **Letter:** `g`, **Position:** `5`, **Words:** Paraguai, Georgia, Senegal, Antigua e barbuda, Madagascar
+- **Letter:** `g`, **Position:** `3`, **Words:** Nigeria, Togo, Argelia, Angola, Argentina
+- **Letter:** `g`, **Position:** `4`, **Words:** Mongolia, Singapura, Uruguai, Afeganistao, Hungria
+- **Letter:** `g`, **Position:** `5`, **Words:** Madagascar, Senegal, Georgia, Quirguistao, Antigua e barbuda
 - **Letter:** `g`, **Position:** `6`, **Words:** Portugal, Noruega
-- **Letter:** `h`, **Position:** `1`, **Words:** Hungria, Honduras, Holanda, Haiti
-- **Letter:** `h`, **Position:** `2`, **Words:** China, Chile, Chipre
-- **Letter:** `h`, **Position:** `3`, **Words:** Bahamas, Bahrein, Ilhas Marshal, Ilhas Maldivas
+- **Letter:** `h`, **Position:** `1`, **Words:** Honduras, Holanda, Hungria, Haiti
+- **Letter:** `h`, **Position:** `2`, **Words:** Chile, Chipre, China
+- **Letter:** `h`, **Position:** `3`, **Words:** Ilhas Marshal, Ilhas Maldivas, Bahrein, Bahamas
 - **Letter:** `h`, **Position:** `5`, **Words:** Liechtenstein, Seicheles
-- **Letter:** `i`, **Position:** `1`, **Words:** Irlanda, Iran, Iemen, Islandia, Irlanda do norte
-- **Letter:** `i`, **Position:** `2`, **Words:** Bielorrussia, Liechtenstein, Vietnan, Timor leste, Singapura
-- **Letter:** `i`, **Position:** `3`, **Words:** Etiopia, Sri Lanka, Eritreia, Chile, Chipre
-- **Letter:** `i`, **Position:** `4`, **Words:** Belize, Mexico, Siria, Vaticano, Tunisia
-- **Letter:** `i`, **Position:** `5`, **Words:** Crasil, Italia, Coreia do Norte, Paquistao, Coreia do Sul
-- **Letter:** `i`, **Position:** `6`, **Words:** Armenia, Estonia, Brunei, Polonia, Ucrania
-- **Letter:** `j`, **Position:** `1`, **Words:** Japao, Jamaica, Jordania
-- **Letter:** `l`, **Position:** `1`, **Words:** Letonia, Libano, Lituania, Libia, Luxemburgo
-- **Letter:** `l`, **Position:** `2`, **Words:** Albania, Ilhas Maldivas, Alemanha, Ilhas Marshal
-- **Letter:** `l`, **Position:** `3`, **Words:** Filipinas, Malaui, Belgica, Irlanda, Mali
-- **Letter:** `l`, **Position:** `4`, **Words:** Finlandia, Inglaterra, Sri Lanka, Tailandia, Italia
-- **Letter:** `l`, **Position:** `5`, **Words:** Argelia, Somalia, Angola, Bangladesh, Nepal
-- **Letter:** `l`, **Position:** `6`, **Words:** Mongolia, Israel, Santa Lucia, Republica Dominicana, Timor leste
-- **Letter:** `m`, **Position:** `1`, **Words:** Marrocos, Mocambique, Malaui, Malta, Mauritania
+- **Letter:** `i`, **Position:** `1`, **Words:** Ilhas Marshal, Inglaterra, Iraque, Irlanda do norte, Indonesia
+- **Letter:** `i`, **Position:** `2`, **Words:** Singapura, Nigeria, Libano, Vietnan, Liechtenstein
+- **Letter:** `i`, **Position:** `3`, **Words:** Egito, Pais de Gales, Quirguistao, China, Chile
+- **Letter:** `i`, **Position:** `4`, **Words:** Siria, Suriname, Filipinas, Benim, Antigua e barbuda
+- **Letter:** `i`, **Position:** `5`, **Words:** Coreia do Sul, Quenia, Grecia, Russia, Arabia saudita
+- **Letter:** `i`, **Position:** `6`, **Words:** Nigeria, Somalia, Tunisia, Malaui, Namibia
+- **Letter:** `j`, **Position:** `1`, **Words:** Japao, Jordania, Jamaica
+- **Letter:** `l`, **Position:** `1`, **Words:** Letonia, Libia, Laus, Liechtenstein, Libano
+- **Letter:** `l`, **Position:** `2`, **Words:** Ilhas Marshal, Ilhas Maldivas, Albania, Alemanha
+- **Letter:** `l`, **Position:** `3`, **Words:** Eslovenia, Islandia, Filipinas, Eslovaquia, Irlanda do norte
+- **Letter:** `l`, **Position:** `4`, **Words:** Tailandia, Finlandia, Chile, Italia, Bielorrussia
+- **Letter:** `l`, **Position:** `5`, **Words:** Angola, Somalia, Bangladesh, Nepal, Argelia
+- **Letter:** `l`, **Position:** `6`, **Words:** Santa Lucia, Mongolia, Crasil, Republica Centro Africana, Israel
+- **Letter:** `m`, **Position:** `1`, **Words:** Mexico, Macedonia do norte, Mocambique, Monaco, Malta
 - **Letter:** `m`, **Position:** `2`, **Words:** Oma, Emirados arabes
-- **Letter:** `m`, **Position:** `3`, **Words:** Namibia, Iemen, Camboja, Jamaica, Romenia
+- **Letter:** `m`, **Position:** `3`, **Words:** Camboja, Armenia, Jamaica, Somalia, Namibia
 - **Letter:** `m`, **Position:** `4`, **Words:** San Marino, Alemanha
-- **Letter:** `m`, **Position:** `5`, **Words:** Mianmar, Bahamas, Benim, Dinamarca, Luxemburgo
-- **Letter:** `m`, **Position:** `6`, **Words:** Sao Tome e Principe, Guatemala, Ilhas Maldivas, Ilhas Marshal
-- **Letter:** `n`, **Position:** `1`, **Words:** Namibia, Nepal, Nova Zelandia, Nicaragua, Nova Guine
-- **Letter:** `n`, **Position:** `2`, **Words:** Inglaterra, Indonesia, Andorra, India, Antigua e barbuda
-- **Letter:** `n`, **Position:** `3`, **Words:** Tanzania, Mongolia, Gana, Santa Lucia, Venezuela
-- **Letter:** `n`, **Position:** `4`, **Words:** Mianmar, Bosnia, Guine equatorial, Uganda, China
-- **Letter:** `n`, **Position:** `5`, **Words:** Argentina, Iemen, Polonia, Ucrania, Irlanda do norte
-- **Letter:** `n`, **Position:** `6`, **Words:** Montenegro, Taiwan, Lituania, Alemanha, Jordania
-- **Letter:** `o`, **Position:** `2`, **Words:** Somalia, Jordania, Nova Guine, Honduras, Kosovo
-- **Letter:** `o`, **Position:** `3`, **Words:** Sao Tome e Principe, Croacia, Sao Cristovao e Neves, Sao Vicente e Granadinas, Georgia
-- **Letter:** `o`, **Position:** `4`, **Words:** Timor leste, Letonia, Indonesia, Togo, Escocia
-- **Letter:** `o`, **Position:** `5`, **Words:** Egito, Sudao, Marrocos, Bielorrussia, Camboja
-- **Letter:** `o`, **Position:** `6`, **Words:** Macedonia do norte, Mexico, Kosovo, Monaco, Equador
-- **Letter:** `p`, **Position:** `1`, **Words:** Peru, Palestina, Paraguai, Pais de Gales, Portugal
-- **Letter:** `p`, **Position:** `3`, **Words:** Espanha, Republica Tcheca, Republica Dominicana, Republica Centro Africana, Nepal
+- **Letter:** `m`, **Position:** `5`, **Words:** Benim, Luxemburgo, Mianmar, Colombia, Mocambique
+- **Letter:** `m`, **Position:** `6`, **Words:** Ilhas Maldivas, Ilhas Marshal, Sao Tome e Principe, Guatemala
+- **Letter:** `n`, **Position:** `1`, **Words:** Nigeria, Nepal, Nova Guine, Nova Zelandia, Noruega
+- **Letter:** `n`, **Position:** `2`, **Words:** Antigua e barbuda, Inglaterra, Andorra, Indonesia, India
+- **Letter:** `n`, **Position:** `3`, **Words:** Singapura, Finlandia, Mongolia, Monaco, Hungria
+- **Letter:** `n`, **Position:** `4`, **Words:** Trindade e Tobago, Guine Bissau, Guine equatorial, Guine, China
+- **Letter:** `n`, **Position:** `5`, **Words:** Argentina, Iemen, Polonia, Vietna, Ucrania
+- **Letter:** `n`, **Position:** `6`, **Words:** Finlandia, Afeganistao, Lituania, Tanzania, Tailandia
+- **Letter:** `o`, **Position:** `2`, **Words:** Coreia do Norte, Costa do marfim, Nova Zelandia, Coreia do Sul, Congo
+- **Letter:** `o`, **Position:** `3`, **Words:** Georgia, Croacia, Sao Cristovao e Neves, Sao Tome e Principe, Sao Vicente e Granadinas
+- **Letter:** `o`, **Position:** `4`, **Words:** Indonesia, Polonia, Eslovenia, Eslovaquia, Escocia
+- **Letter:** `o`, **Position:** `5`, **Words:** Bielorrussia, Mongolia, Marrocos, Japao, Sudao
+- **Letter:** `o`, **Position:** `6`, **Words:** Estados unidos, Libano, Kosovo, Macedonia do norte, Monaco
+- **Letter:** `p`, **Position:** `1`, **Words:** Pais de Gales, Paises Baixos, Peru, Portugal, Paquistao
+- **Letter:** `p`, **Position:** `3`, **Words:** Republica Dominicana, Japao, Republica Tcheca, Espanha, Republica Centro Africana
 - **Letter:** `p`, **Position:** `5`, **Words:** Filipinas, Etiopia
-- **Letter:** `q`, **Position:** `1`, **Words:** Quirguistao, Quenia
-- **Letter:** `q`, **Position:** `4`, **Words:** Turquemenistao, Turquia, Iraque, Curquina Fasso
-- **Letter:** `q`, **Position:** `5`, **Words:** Cazaquistao, Uzbequistao
-- **Letter:** `r`, **Position:** `1`, **Words:** Ruanda, Reino unido, Russia, Romenia, Republica Centro Africana
-- **Letter:** `r`, **Position:** `2`, **Words:** Iran, Croacia, Crasil, Arabia saudita, Granada
-- **Letter:** `r`, **Position:** `3`, **Words:** Africa do sul, Coreia do Norte, Marrocos, Israel, Turquemenistao
-- **Letter:** `r`, **Position:** `4`, **Words:** Bahrein, Quirguistao, Azerbaijao, Marrocos, Serra Leoa
-- **Letter:** `r`, **Position:** `5`, **Words:** Camaroes, Catar, Eritreia, Austria, Hungria
-- **Letter:** `r`, **Position:** `6`, **Words:** San Marino, Honduras, Bulgaria, Andorra, Bielorrussia
-- **Letter:** `s`, **Position:** `1`, **Words:** Sri Lanka, Suriname, Siria, Sao Tome e Principe, Somalia
-- **Letter:** `s`, **Position:** `2`, **Words:** Espanha, Islandia, Escocia, Israel, Eslovenia
-- **Letter:** `s`, **Position:** `3`, **Words:** Bosnia, Austria, Essuatini, Australia, Kosovo
-- **Letter:** `s`, **Position:** `4`, **Words:** Paises Baixos, Laus, Russia, Pais de Gales, Botswana
-- **Letter:** `s`, **Position:** `5`, **Words:** Ilhas Maldivas, Ilhas Marshal, Palestina, Malasia, Tunisia
-- **Letter:** `s`, **Position:** `6`, **Words:** Paises Baixos, Paquistao
-- **Letter:** `t`, **Position:** `1`, **Words:** Tailandia, Trindade e Tobago, Togo, Turquemenistao, Tunisia
+- **Letter:** `q`, **Position:** `1`, **Words:** Quenia, Quirguistao
+- **Letter:** `q`, **Position:** `4`, **Words:** Turquia, Curquina Fasso, Turquemenistao, Iraque
+- **Letter:** `q`, **Position:** `5`, **Words:** Uzbequistao, Cazaquistao
+- **Letter:** `r`, **Position:** `1`, **Words:** Republica Tcheca, Ruanda, Russia, Romenia, Republica Centro Africana
+- **Letter:** `r`, **Position:** `2`, **Words:** Trindade e Tobago, Argentina, Armenia, Arabia saudita, Grecia
+- **Letter:** `r`, **Position:** `3`, **Words:** Peru, Paraguai, Africa do sul, Siria, Noruega
+- **Letter:** `r`, **Position:** `4`, **Words:** Quirguistao, Bahrein, Serra Leoa, Mauritania, Marrocos
+- **Letter:** `r`, **Position:** `5`, **Words:** Catar, Sao Cristovao e Neves, Chipre, Hungria, Nigeria
+- **Letter:** `r`, **Position:** `6`, **Words:** Honduras, San Marino, Costa rica, Bielorrussia, Bulgaria
+- **Letter:** `s`, **Position:** `1`, **Words:** Suriname, Sri Lanka, Seicheles, Sao Cristovao e Neves, Sao Vicente e Granadinas
+- **Letter:** `s`, **Position:** `2`, **Words:** Eslovaquia, Eslovenia, Islandia, Essuatini, Escocia
+- **Letter:** `s`, **Position:** `3`, **Words:** Austria, Costa do marfim, Australia, Kosovo, Costa rica
+- **Letter:** `s`, **Position:** `4`, **Words:** Paises Baixos, Crasil, Botswana, Laus, Pais de Gales
+- **Letter:** `s`, **Position:** `5`, **Words:** Ilhas Marshal, Ilhas Maldivas, Malasia, Tunisia, Palestina
+- **Letter:** `s`, **Position:** `6`, **Words:** Paquistao, Paises Baixos
+- **Letter:** `t`, **Position:** `1`, **Words:** Taiwan, Timor leste, Tunisia, Togo, Trindade e Tobago
 - **Letter:** `t`, **Position:** `2`, **Words:** Etiopia, Italia
-- **Letter:** `t`, **Position:** `3`, **Words:** Lituania, Botswana, Catar, Letonia, Estonia
-- **Letter:** `t`, **Position:** `4`, **Words:** Costa do marfim, Egito, Vietna, Guatemala, Vietnan
-- **Letter:** `t`, **Position:** `6`, **Words:** Argentina, Inglaterra, Liechtenstein, Palestina, Essuatini
-- **Letter:** `u`, **Position:** `1`, **Words:** Uruguai, Uganda, Uzbequistao, Ucrania
-- **Letter:** `u`, **Position:** `2`, **Words:** Cuba, Suecia, Quirguistao, Australia, Guatemala
-- **Letter:** `u`, **Position:** `3`, **Words:** Equador, Uruguai, Mauritania, Brunei, Mauricia
-- **Letter:** `u`, **Position:** `4`, **Words:** Noruega, Lituania, Republica Dominicana, Essuatini, Republica Centro Africana
-- **Letter:** `u`, **Position:** `5`, **Words:** Uruguai, Turquia, Portugal, Honduras, Curquina Fasso
-- **Letter:** `u`, **Position:** `6`, **Words:** Quirguistao, Paraguai, Nova Guine, Antigua e barbuda, Venezuela
-- **Letter:** `v`, **Position:** `1`, **Words:** Vietnan, Vaticano, Vietna, Venezuela
-- **Letter:** `v`, **Position:** `3`, **Words:** Nova Zelandia, Nova Guine
+- **Letter:** `t`, **Position:** `3`, **Words:** Letonia, Estonia, Lituania, Antigua e barbuda, Catar
+- **Letter:** `t`, **Position:** `4`, **Words:** Santa Lucia, Austria, Malta, Haiti, Vietnan
+- **Letter:** `t`, **Position:** `6`, **Words:** Argentina, Mauritania, Inglaterra, Essuatini, Palestina
+- **Letter:** `u`, **Position:** `1`, **Words:** Uzbequistao, Uganda, Ucrania, Uruguai
+- **Letter:** `u`, **Position:** `2`, **Words:** Sudao do sul, Ruanda, Bulgaria, Curquina Fasso, Australia
+- **Letter:** `u`, **Position:** `3`, **Words:** Laus, Uruguai, Mauricia, Brunei, Mauritania
+- **Letter:** `u`, **Position:** `4`, **Words:** Noruega, Peru, Republica Tcheca, Burundi, Paquistao
+- **Letter:** `u`, **Position:** `5`, **Words:** Honduras, Iraque, Malaui, Turquia, Curquina Fasso
+- **Letter:** `u`, **Position:** `6`, **Words:** Nova Guine, Venezuela, Quirguistao, Reino unido, Antigua e barbuda
+- **Letter:** `v`, **Position:** `1`, **Words:** Vietna, Venezuela, Vaticano, Vietnan
+- **Letter:** `v`, **Position:** `3`, **Words:** Nova Guine, Nova Zelandia
 - **Letter:** `v`, **Position:** `4`, **Words:** Sao Vicente e Granadinas, Servia
-- **Letter:** `v`, **Position:** `5`, **Words:** Eslovenia, Eslovaquia, Bolivia, Kosovo
-- **Letter:** `x`, **Position:** `3`, **Words:** Luxemburgo, Mexico
-- **Letter:** `z`, **Position:** `1`, **Words:** Zimbabue, ZAmbia
-- **Letter:** `z`, **Position:** `2`, **Words:** Azerbaijao, Uzbequistao
-- **Letter:** `z`, **Position:** `5`, **Words:** Nova Zelandia, Venezuela, Belize
+- **Letter:** `v`, **Position:** `5`, **Words:** Kosovo, Bolivia, Eslovaquia, Eslovenia
+- **Letter:** `x`, **Position:** `3`, **Words:** Mexico, Luxemburgo
+- **Letter:** `z`, **Position:** `1`, **Words:** ZAmbia, Zimbabue
+- **Letter:** `z`, **Position:** `2`, **Words:** Uzbequistao, Azerbaijao
+- **Letter:** `z`, **Position:** `5`, **Words:** Belize, Nova Zelandia, Venezuela
 
 </details>
 
@@ -5270,136 +5270,136 @@ Total missing words: `86`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** alvejante, adaptador, amassador, antena, alvo
-- **Letter:** `a`, **Position:** `2`, **Words:** barra, banjo, barometro, bandeirinha, capa
-- **Letter:** `a`, **Position:** `3`, **Words:** gramofone, aparelho, adaptador, frasco, flanela
-- **Letter:** `a`, **Position:** `4`, **Words:** alca, mola, botao, furador, urna
-- **Letter:** `a`, **Position:** `5`, **Words:** bastao, mascara, diamante, trena, filmadora
-- **Letter:** `a`, **Position:** `6`, **Words:** champanhe, alcorao, barbeador, aspirador, espanador
-- **Letter:** `b`, **Position:** `1`, **Words:** bateria, bandaid, blush, binoculo, bau
-- **Letter:** `b`, **Position:** `2`, **Words:** ob, abotoadura, abridor, abajur, xbox
-- **Letter:** `b`, **Position:** `3`, **Words:** tuba, biblia, embrulho, bobes, tabuleiro
-- **Letter:** `b`, **Position:** `4`, **Words:** globo, barbeador, abobora, Barbie, hamburguer
-- **Letter:** `b`, **Position:** `5`, **Words:** trombone, chumbo, recibo, gameboy, pogobol
+- **Letter:** `a`, **Position:** `1`, **Words:** algodao, alexia, aspirador, adaga, airarei
+- **Letter:** `a`, **Position:** `2`, **Words:** canoa, raspadinha, bagagem, parafuso, cano
+- **Letter:** `a`, **Position:** `3`, **Words:** grampeador, quadro, grampo, ipad, aparador
+- **Letter:** `a`, **Position:** `4`, **Words:** lixadeira, talao, lasanha, airarei, furadeira
+- **Letter:** `a`, **Position:** `5`, **Words:** touca, manual, blusa, roupa, harpa
+- **Letter:** `a`, **Position:** `6`, **Words:** apontador, concha, persianas, espanador, caneca
+- **Letter:** `b`, **Position:** `1`, **Words:** bastao, buque, bolsa, barra, batedor
+- **Letter:** `b`, **Position:** `2`, **Words:** abridor, abajour, absorvente, xbox, abajur
+- **Letter:** `b`, **Position:** `3`, **Words:** cabo, sabao, sobretudo, cubo, tubo
+- **Letter:** `b`, **Position:** `4`, **Words:** abobora, globo, bambolim, Barbie, barbeador
+- **Letter:** `b`, **Position:** `5`, **Words:** recibo, chumbo, gameboy, pogobol, trombone
 - **Letter:** `b`, **Position:** `6`, **Words:** powerbank, beisebol, superbonder, carimbo
-- **Letter:** `c`, **Position:** `1`, **Words:** cartao, correio, conversor, chaveiro, cabo
-- **Letter:** `c`, **Position:** `2`, **Words:** oculos, scanner, acucareiro, acucar
-- **Letter:** `c`, **Position:** `3`, **Words:** microondas, maca, arco, cachecol, alcapao
-- **Letter:** `c`, **Position:** `4`, **Words:** calcinha, gancho, barco, acucar, disco
-- **Letter:** `c`, **Position:** `5`, **Words:** flipchart, bolacha, prancha, capacho, peteca
-- **Letter:** `c`, **Position:** `6`, **Words:** portacopos, cartucho, microchip, barraca, supercola
-- **Letter:** `d`, **Position:** `1`, **Words:** dado, dente, dardos, diario, dentadura
-- **Letter:** `d`, **Position:** `2`, **Words:** hd, adesivos, adaptador, adesivo, adaga
-- **Letter:** `d`, **Position:** `3`, **Words:** videogame, rede, dedal, cadeira, dedeira
-- **Letter:** `d`, **Position:** `4`, **Words:** moedor, condicionador, cardapio, moldura, kindle
-- **Letter:** `d`, **Position:** `5`, **Words:** nadadeira, secador, tomada, gerador, lavadora
-- **Letter:** `d`, **Position:** `6`, **Words:** marcador, filmadora, liquidificador, fritadeira, granada
-- **Letter:** `e`, **Position:** `1`, **Words:** estatueta, enxague, estatua, elastico, espaguete
-- **Letter:** `e`, **Position:** `2`, **Words:** mesinha, recompensa, termometro, berco, aerografo
-- **Letter:** `e`, **Position:** `3`, **Words:** preservativos, alexia, moeda, preservativo, freios
-- **Letter:** `e`, **Position:** `4`, **Words:** papel, madeira, colete, antena, coberta
-- **Letter:** `e`, **Position:** `5`, **Words:** isqueiro, carteira, travesseiro, preservativo, mouse
-- **Letter:** `e`, **Position:** `6`, **Words:** aquecedor, picole, kindle, manivela, iphone
-- **Letter:** `f`, **Position:** `1`, **Words:** forma, fechadura, frasco, fantoche, ficha
-- **Letter:** `f`, **Position:** `3`, **Words:** enfeite, rifle, alfinete, cofre, sofa
-- **Letter:** `f`, **Position:** `4`, **Words:** fosforo, perfume, elefante, trofeu, uniforme
-- **Letter:** `f`, **Position:** `5`, **Words:** almofada, purificador, parafuso, saxofone, telefone
-- **Letter:** `f`, **Position:** `6`, **Words:** lubrificante, desinfetante, portifolio, gramofone, crucifixo
-- **Letter:** `g`, **Position:** `1`, **Words:** gravata, grampeador, grampos, garrafa, guardanapo
-- **Letter:** `g`, **Position:** `3`, **Words:** regua, orgao, jogo, cigarro, argila
-- **Letter:** `g`, **Position:** `4`, **Words:** pergaminho, pingente, adaga, prego, linguica
-- **Letter:** `g`, **Position:** `5`, **Words:** relogio, tamagochi, bagagem, aerografo, fotografia
-- **Letter:** `g`, **Position:** `6`, **Words:** airtag, triangulo, espingarda, esfregao, tatuagem
-- **Letter:** `h`, **Position:** `1`, **Words:** heranca, haltere, hidrante, helicoptero, hd
-- **Letter:** `h`, **Position:** `2`, **Words:** chapeu, churrasco, chuveiro, chave, chiclete
-- **Letter:** `h`, **Position:** `4`, **Words:** talheres, ficha, machado, pochete, mochila
-- **Letter:** `h`, **Position:** `5`, **Words:** blush, lancheira, broche, flecha, agulha
-- **Letter:** `h`, **Position:** `6`, **Words:** desenho, mesinha, xuxinhas, xuxinha, bolinha
-- **Letter:** `i`, **Position:** `1`, **Words:** impressora, ipad, ipod, interruptor, iphone
-- **Letter:** `i`, **Position:** `2`, **Words:** rifle, binoculos, cinto, vinho, difusor
-- **Letter:** `i`, **Position:** `3`, **Words:** flipchart, chicote, etiqueta, clipe, brinco
-- **Letter:** `i`, **Position:** `4`, **Words:** velinha, enciclopedia, xuxinhas, sutia, helicoptero
-- **Letter:** `i`, **Position:** `5`, **Words:** esteira, lubrificante, frigideira, lixeira, cortina
-- **Letter:** `i`, **Position:** `6`, **Words:** plastico, aquario, pendrive, bandeirinha, televisao
-- **Letter:** `j`, **Position:** `1`, **Words:** jarra, jornal, jogo, janela, jaqueta
-- **Letter:** `j`, **Position:** `3`, **Words:** pijama, tijolo, cajado
-- **Letter:** `j`, **Position:** `4`, **Words:** projetor, abajour, abajur, banjo
-- **Letter:** `j`, **Position:** `5`, **Words:** queijo, estojo, alvejante
-- **Letter:** `j`, **Position:** `6`, **Words:** bandeja, azulejo, cerveja, esponja
-- **Letter:** `k`, **Position:** `5`, **Words:** rubik, snorkel
-- **Letter:** `l`, **Position:** `1`, **Words:** lencois, liga, lavadora, luminaria, lubrificante
-- **Letter:** `l`, **Position:** `2`, **Words:** flanela, blush, alarme, elefante, playstation
-- **Letter:** `l`, **Position:** `3`, **Words:** colar, selim, atlas, calculadora, moldura
-- **Letter:** `l`, **Position:** `4`, **Words:** fraldas, anel, amplificador, toalha, teclado
-- **Letter:** `l`, **Position:** `5`, **Words:** papelao, vinil, tigela, impulso, cavalete
-- **Letter:** `l`, **Position:** `6`, **Words:** sandalia, bambolim, pistola, chinelo, bracelete
-- **Letter:** `m`, **Position:** `1`, **Words:** mochila, marcador, mola, mouse, morteiro
-- **Letter:** `m`, **Position:** `2`, **Words:** impressora, smartphone, embreagem, ima, impulso
-- **Letter:** `m`, **Position:** `3`, **Words:** domino, tambor, camiseta, almoco, compasso
-- **Letter:** `m`, **Position:** `4`, **Words:** chumbo, aromatizante, diamante, grampos, champanhe
-- **Letter:** `m`, **Position:** `5`, **Words:** cupom, carimbo, recompensa, dinamite, alarme
-- **Letter:** `m`, **Position:** `6`, **Words:** pergaminho, corrimao, paquimetro, perfume, espremedor
-- **Letter:** `n`, **Position:** `1`, **Words:** nota, nadadeira, nintendo
-- **Letter:** `n`, **Position:** `2`, **Words:** interruptor, engrenagem, enciclopedia, incenso, pneu
-- **Letter:** `n`, **Position:** `3`, **Words:** controle, lente, bancada, pano, pendrive
-- **Letter:** `n`, **Position:** `4`, **Words:** torno, treno, prancha, trena, chinelo
-- **Letter:** `n`, **Position:** `5`, **Words:** espanador, ursinho, limonada, domino, calendario
-- **Letter:** `n`, **Position:** `6`, **Words:** tachinha, dicionario, corrente, caderno, sutien
-- **Letter:** `o`, **Position:** `1`, **Words:** ob, ovo, orgao, oculos, ouro
-- **Letter:** `o`, **Position:** `2`, **Words:** lousa, mola, soprador, ioio, copiadora
-- **Letter:** `o`, **Position:** `3`, **Words:** broche, aromatizador, violao, trombone, apoio
-- **Letter:** `o`, **Position:** `4`, **Words:** cego, cabo, cano, iphone, cubo
-- **Letter:** `o`, **Position:** `5`, **Words:** dicionario, console, petroleo, airpod, vinho
-- **Letter:** `o`, **Position:** `6`, **Words:** chumbo, espeto, furador, caixao, frasco
-- **Letter:** `p`, **Position:** `1`, **Words:** persiana, polidor, plastico, perola, pano
-- **Letter:** `p`, **Position:** `2`, **Words:** apito, apontador, aparador, spray, ipad
-- **Letter:** `p`, **Position:** `3`, **Words:** copiadora, copo, supercola, sapato, impressora
-- **Letter:** `p`, **Position:** `4`, **Words:** harpa, tampa, zippo, raspadinha, tampax
-- **Letter:** `p`, **Position:** `5`, **Words:** grampeador, trompete, trampolim, alcapao, grampo
-- **Letter:** `p`, **Position:** `6`, **Words:** laptop, passaporte, cardapio, mousepad, smartphone
+- **Letter:** `c`, **Position:** `1`, **Words:** ciclo, cabideiro, conta, capitao, caledoscopio
+- **Letter:** `c`, **Position:** `2`, **Words:** acucareiro, scanner, oculos, acucar
+- **Letter:** `c`, **Position:** `3`, **Words:** machado, alca, sucata, machadinha, recibo
+- **Letter:** `c`, **Position:** `4`, **Words:** calculadora, concreto, acucareiro, marcador, calcas
+- **Letter:** `c`, **Position:** `5`, **Words:** canecao, brinco, aplicativo, bolacha, peteca
+- **Letter:** `c`, **Position:** `6`, **Words:** microchip, barraca, tarracha, balanco, arapuca
+- **Letter:** `d`, **Position:** `1`, **Words:** disquete, dedal, dicionario, desinfetante, dinheiro
+- **Letter:** `d`, **Position:** `2`, **Words:** hd, edredom, adaptador, adesivo, cd
+- **Letter:** `d`, **Position:** `3`, **Words:** hidrante, radiador, cadarco, videogame, dedeira
+- **Letter:** `d`, **Position:** `4`, **Words:** corda, candelabro, sandalias, bandaid, coador
+- **Letter:** `d`, **Position:** `5`, **Words:** enxada, remedio, polidor, escada, canudo
+- **Letter:** `d`, **Position:** `6`, **Words:** privada, vestido, raspadinha, bermuda, cadeado
+- **Letter:** `e`, **Position:** `1`, **Words:** embrulho, espelho, edredom, esmalte, extintor
+- **Letter:** `e`, **Position:** `2`, **Words:** metal, recompensa, berco, gesso, pergaminho
+- **Letter:** `e`, **Position:** `3`, **Words:** adesivo, trena, prendedor, avental, cheesecake
+- **Letter:** `e`, **Position:** `4`, **Words:** aquecedor, papelao, fone, gaveta, moletom
+- **Letter:** `e`, **Position:** `5`, **Words:** candelabro, aparelho, trofeu, dente, mousepad
+- **Letter:** `e`, **Position:** `6`, **Words:** cacetete, Barbie, mangueira, disquete, trompete
+- **Letter:** `f`, **Position:** `1`, **Words:** flecha, fax, fantoche, faca, freios
+- **Letter:** `f`, **Position:** `3`, **Words:** enfeite, esfregao, cofre, cafe, sofa
+- **Letter:** `f`, **Position:** `4`, **Words:** uniforme, elefante, trofeu, fosforo, garfo
+- **Letter:** `f`, **Position:** `5`, **Words:** megafone, saxofone, parafuso, purificador, almofada
+- **Letter:** `f`, **Position:** `6`, **Words:** transformador, certificado, amplificador, desinfetante, crucifixo
+- **Letter:** `g`, **Position:** `1`, **Words:** granada, goma, gravata, gameboy, guardanapo
+- **Letter:** `g`, **Position:** `3`, **Words:** foguete, jogo, pogobol, megafone, algema
+- **Letter:** `g`, **Position:** `4`, **Words:** pergaminho, linguica, mangueira, adaga, prego
+- **Letter:** `g`, **Position:** `5`, **Words:** espaguete, enxague, tamagochi, aerografo, bagagem
+- **Letter:** `g`, **Position:** `6`, **Words:** seringa, esfregao, videogame, airtags, carregador
+- **Letter:** `h`, **Position:** `1`, **Words:** hidratante, heranca, hamburguer, hd, harpa
+- **Letter:** `h`, **Position:** `2`, **Words:** chaveiro, chapeu, chicote, chinelos, cheque
+- **Letter:** `h`, **Position:** `4`, **Words:** ficha, cachecol, rolha, dinheiro, machado
+- **Letter:** `h`, **Position:** `5`, **Words:** grelha, gancho, blush, broche, lancheira
+- **Letter:** `h`, **Position:** `6`, **Words:** xuxinha, caminhao, prancheta, xuxinhas, medalhao
+- **Letter:** `i`, **Position:** `1`, **Words:** ima, impulso, ipad, isopor, iphone
+- **Letter:** `i`, **Position:** `2`, **Words:** giz, limonada, filtro, airpod, pilula
+- **Letter:** `i`, **Position:** `3`, **Words:** trinco, gaita, frigideira, guitarra, frigorifico
+- **Letter:** `i`, **Position:** `4`, **Words:** bicicleta, lapis, luminaria, domino, argila
+- **Letter:** `i`, **Position:** `5`, **Words:** certificado, condicionador, ventilador, portifolio, enfeite
+- **Letter:** `i`, **Position:** `6`, **Words:** lencois, piercing, bateria, armarinho, satelite
+- **Letter:** `j`, **Position:** `1`, **Words:** jarra, joystick, jaqueta, jogo, joias
+- **Letter:** `j`, **Position:** `3`, **Words:** pijamas, pijama, cajado, tijolo
+- **Letter:** `j`, **Position:** `4`, **Words:** abajour, abajur, projetor, banjo
+- **Letter:** `j`, **Position:** `5`, **Words:** queijo, alvejante, estojo
+- **Letter:** `j`, **Position:** `6`, **Words:** cerveja, esponja, bandeja, azulejo
+- **Letter:** `k`, **Position:** `5`, **Words:** snorkel, rubik
+- **Letter:** `l`, **Position:** `1`, **Words:** lanca, livro, lavadora, lista, luneta
+- **Letter:** `l`, **Position:** `2`, **Words:** plastico, almofada, clipe, alfinete, flecha
+- **Letter:** `l`, **Position:** `3`, **Words:** mala, bola, folheto, palito, bolo
+- **Letter:** `l`, **Position:** `4`, **Words:** tablet, inalador, agulha, grelha, rifle
+- **Letter:** `l`, **Position:** `5`, **Words:** cavalete, funil, janela, vinil, pilula
+- **Letter:** `l`, **Position:** `6`, **Words:** pistola, bicicleta, consolo, embrulho, sandalias
+- **Letter:** `m`, **Position:** `1`, **Words:** manual, mascara, molas, maquina, modem
+- **Letter:** `m`, **Position:** `2`, **Words:** impulso, embrulho, amplificador, ima, impressora
+- **Letter:** `m`, **Position:** `3`, **Words:** tamagochi, tampinha, tambor, camiseta, xampu
+- **Letter:** `m`, **Position:** `4`, **Words:** diamante, champanhe, filmadora, aromatizante, trombone
+- **Letter:** `m`, **Position:** `5`, **Words:** barometro, documento, cupom, vitamina, modem
+- **Letter:** `m`, **Position:** `6`, **Words:** espremedor, termometro, pergaminho, perfume, paquimetro
+- **Letter:** `n`, **Position:** `1`, **Words:** nota, nadadeiras, nintendo, nadadeira
+- **Letter:** `n`, **Position:** `2`, **Words:** interruptor, inalador, anel, enroladinho, enciclopedia
+- **Letter:** `n`, **Position:** `3`, **Words:** gancho, candelabro, pingente, manta, sanduiche
+- **Letter:** `n`, **Position:** `4`, **Words:** transistor, brinco, chinelos, fronha, treno
+- **Letter:** `n`, **Position:** `5`, **Words:** colonia, scanner, ursinho, lamina, domino
+- **Letter:** `n`, **Position:** `6`, **Words:** sutien, bolsinha, elefante, bastonete, clarinete
+- **Letter:** `o`, **Position:** `1`, **Words:** orgao, ob, ouro, oculos, ovo
+- **Letter:** `o`, **Position:** `2`, **Words:** concreto, mochila, torradeira, moedor, correio
+- **Letter:** `o`, **Position:** `3`, **Words:** cooler, flor, projetor, trombone, ovo
+- **Letter:** `o`, **Position:** `4`, **Words:** iphone, tubo, sino, perola, algodao
+- **Letter:** `o`, **Position:** `5`, **Words:** vinho, microchip, videogame, abajour, apito
+- **Letter:** `o`, **Position:** `6`, **Words:** pogobol, tattoo, envelope, monitor, trinco
+- **Letter:** `p`, **Position:** `1`, **Words:** projetor, peruca, panela, playstation, porta
+- **Letter:** `p`, **Position:** `2`, **Words:** apito, apontador, ipad, aplicativo, spray
+- **Letter:** `p`, **Position:** `3`, **Words:** espremedor, lapis, espelho, esponja, papel
+- **Letter:** `p`, **Position:** `4`, **Words:** tupperware, xampu, airpods, clips, tampa
+- **Letter:** `p`, **Position:** `5`, **Words:** trompete, champanhe, trampolim, grampeador, grampo
+- **Letter:** `p`, **Position:** `6`, **Words:** recompensa, cardapio, laptop, passaporte, mousepad
 - **Letter:** `q`, **Position:** `1`, **Words:** quadro, queijo
-- **Letter:** `q`, **Position:** `2`, **Words:** aquecedor, aquario
-- **Letter:** `q`, **Position:** `3`, **Words:** jaqueta, esquadro, isqueiro, esqui, raquete
-- **Letter:** `q`, **Position:** `4`, **Words:** basquete, etiqueta, cheque, disquete
-- **Letter:** `q`, **Position:** `5`, **Words:** paraquedas, cavaquinho, caiaque
-- **Letter:** `r`, **Position:** `1`, **Words:** recipiente, remedio, roupa, recompensa, rimel
-- **Letter:** `r`, **Position:** `2`, **Words:** cruz, urna, grampo, creme, trena
-- **Letter:** `r`, **Position:** `3`, **Words:** marmita, certificado, cartola, corretivo, cartucho
-- **Letter:** `r`, **Position:** `4`, **Words:** clarinete, microondas, microfone, barraca, hidrante
-- **Letter:** `r`, **Position:** `5`, **Words:** bumerangue, lustre, ancora, poltrona, cigarro
-- **Letter:** `r`, **Position:** `6`, **Words:** cooler, coador, cigarrilha, mascara, isopor
-- **Letter:** `s`, **Position:** `1`, **Words:** suspensiorio, saia, sacola, sutien, seda
-- **Letter:** `s`, **Position:** `2`, **Words:** escultura, esmalte, isopor, esponja, espada
-- **Letter:** `s`, **Position:** `3`, **Words:** desentupidor, disco, castical, distintivo, baseado
-- **Letter:** `s`, **Position:** `4`, **Words:** beisebol, console, plastico, capsula, massa
-- **Letter:** `s`, **Position:** `5`, **Words:** camisa, giroscopio, bobes, camisola, tenis
-- **Letter:** `s`, **Position:** `6`, **Words:** calcas, mocassim, impulso, croissant, esquis
-- **Letter:** `t`, **Position:** `1`, **Words:** termostato, trompete, talher, transformador, treno
+- **Letter:** `q`, **Position:** `2`, **Words:** aquario, aquecedor
+- **Letter:** `q`, **Position:** `3`, **Words:** maquina, tequila, paquimetro, liquidificador, esquis
+- **Letter:** `q`, **Position:** `4`, **Words:** basquete, cheque, etiqueta, disquete
+- **Letter:** `q`, **Position:** `5`, **Words:** caiaque, paraquedas, cavaquinho
+- **Letter:** `r`, **Position:** `1`, **Words:** rimel, rosca, radiador, raspadinha, rede
+- **Letter:** `r`, **Position:** `2`, **Words:** privada, prateleiras, aromatizante, preservativos, granada
+- **Letter:** `r`, **Position:** `3`, **Words:** paraquedas, airarei, barra, portao, cercado
+- **Letter:** `r`, **Position:** `4`, **Words:** carregador, snorkel, correio, corrente, gorro
+- **Letter:** `r`, **Position:** `5`, **Words:** interruptor, lustre, bumerangue, alcorao, armarinho
+- **Letter:** `r`, **Position:** `6`, **Words:** temporizador, interruptor, despertador, fotografia, preservativo
+- **Letter:** `s`, **Position:** `1`, **Words:** skate, saxofone, sueter, sache, sabao
+- **Letter:** `s`, **Position:** `2`, **Words:** escultura, esteira, espanador, espingarda, isopor
+- **Letter:** `s`, **Position:** `3`, **Words:** casaco, vaso, poste, distintivo, passaporte
+- **Letter:** `s`, **Position:** `4`, **Words:** passaporte, capsula, console, amassador, beisebol
+- **Letter:** `s`, **Position:** `5`, **Words:** lapis, motoserra, mocassim, bobes, clips
+- **Letter:** `s`, **Position:** `6`, **Words:** croissant, travesseiro, oculos, clipes, dentes
+- **Letter:** `t`, **Position:** `1`, **Words:** tampax, tesoura, trinco, tuba, talao
 - **Letter:** `t`, **Position:** `2`, **Words:** atlas, etiqueta
-- **Letter:** `t`, **Position:** `3`, **Words:** botao, estilingue, patinete, lata, batata
-- **Letter:** `t`, **Position:** `4`, **Words:** vestido, poste, cortador, abotoadura, castical
-- **Letter:** `t`, **Position:** `5`, **Words:** plastico, elastico, cristal, calota, colete
-- **Letter:** `t`, **Position:** `6`, **Words:** tablet, bilhete, desentupidor, hidratante, marmita
-- **Letter:** `u`, **Position:** `1`, **Words:** urna, ursinho, uniforme
-- **Letter:** `u`, **Position:** `2`, **Words:** suspensiorio, xuxinhas, funil, luz, furador
-- **Letter:** `u`, **Position:** `3`, **Words:** aquario, azulejo, touca, chuveiro, pau
-- **Letter:** `u`, **Position:** `4`, **Words:** paquimetro, esqui, flauta, cedula, liquidificador
-- **Letter:** `u`, **Position:** `5`, **Words:** misturador, computador, abajur, linguica, cartucho
-- **Letter:** `u`, **Position:** `6`, **Words:** trofeu, estatueta, espaguete, binoculo, armadura
-- **Letter:** `v`, **Position:** `1`, **Words:** violino, violoncelo, vestido, videogame, veu
-- **Letter:** `v`, **Position:** `2`, **Words:** avental, aviao, dvd, ovo
-- **Letter:** `v`, **Position:** `3`, **Words:** gaveta, livro, revista, cavaquinho, alvo
-- **Letter:** `v`, **Position:** `4`, **Words:** chuveiro, chaveiro, alavanca, gravata, cerveja
-- **Letter:** `v`, **Position:** `5`, **Words:** manivela, escova, televisao, canivete
-- **Letter:** `v`, **Position:** `6`, **Words:** revolver, absorvente, escrivaninha, adesivo, adesivos
-- **Letter:** `x`, **Position:** `1`, **Words:** xuxinhas, xampu, xadrez, xuxinha, xbox
-- **Letter:** `x`, **Position:** `3`, **Words:** lixadeira, xuxinhas, mexedor, enxague, lixa
-- **Letter:** `x`, **Position:** `4`, **Words:** caixote, xbox, baixo, alexia, caixao
+- **Letter:** `t`, **Position:** `3`, **Words:** ratoeira, cetro, foto, vitamina, motoserra
+- **Letter:** `t`, **Position:** `4`, **Words:** cartucho, haltere, lente, dente, apito
+- **Letter:** `t`, **Position:** `5`, **Words:** calota, luneta, cafeteira, monitor, batata
+- **Letter:** `t`, **Position:** `6`, **Words:** esmalte, desentupidor, chupeta, partitura, extintor
+- **Letter:** `u`, **Position:** `1`, **Words:** uniforme, ursinho, urna
+- **Letter:** `u`, **Position:** `2`, **Words:** cubo, tuperware, queijo, tubo, lupa
+- **Letter:** `u`, **Position:** `3`, **Words:** lousa, bau, pau, agulha, blusinha
+- **Letter:** `u`, **Position:** `4`, **Words:** flauta, liquidificador, tequila, biruta, canudo
+- **Letter:** `u`, **Position:** `5`, **Words:** disquete, bermuda, arapuca, etiqueta, misturador
+- **Letter:** `u`, **Position:** `6`, **Words:** caiaque, trofeu, enxague, cavaquinho, parafuso
+- **Letter:** `v`, **Position:** `1`, **Words:** veu, violao, vassoura, violino, violoncelo
+- **Letter:** `v`, **Position:** `2`, **Words:** ovo, aviao, avental, dvd
+- **Letter:** `v`, **Position:** `3`, **Words:** gaveta, livro, revolver, cavaquinho, envelope
+- **Letter:** `v`, **Position:** `4`, **Words:** alavanca, chave, conversor, gravador, chaveiro
+- **Letter:** `v`, **Position:** `5`, **Words:** televisao, escova, canivete, manivela
+- **Letter:** `v`, **Position:** `6`, **Words:** adesivo, revolver, absorvente, escrivaninha
+- **Letter:** `x`, **Position:** `1`, **Words:** xampu, xuxinhas, xadrez, xuxinha, xbox
+- **Letter:** `x`, **Position:** `3`, **Words:** saxofone, lixadeira, mexedor, lixa, enxada
+- **Letter:** `x`, **Position:** `4`, **Words:** caixote, caixao, baixo, xbox, alexia
 - **Letter:** `x`, **Position:** `5`, **Words:** rolex, durex
 - **Letter:** `y`, **Position:** `4`, **Words:** babyliss, playstation
 - **Letter:** `z`, **Position:** `1`, **Words:** zippo, ziper
-- **Letter:** `z`, **Position:** `3`, **Words:** giz, luz, pizza
-- **Letter:** `z`, **Position:** `4`, **Words:** cinzeiro, pizza, cruz
+- **Letter:** `z`, **Position:** `3`, **Words:** luz, giz, pizza
+- **Letter:** `z`, **Position:** `4`, **Words:** cruz, pizza, cinzeiro
 
 </details>
 
@@ -5622,134 +5622,134 @@ Total missing words: `312`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** ananas;2,99, avocats;2,50, abats;6,20, aubergines;1,99, abricots;3,89
-- **Letter:** `a`, **Position:** `2`, **Words:** balance;9,99, paprika;1,50, carottes;0,99, raisin;2,50, farine;0,89
-- **Letter:** `a`, **Position:** `3`, **Words:** scanner;49,99, fraises;2,99, seau;2,50, spaghettis;1,50, champagne;34,99
-- **Letter:** `a`, **Position:** `4`, **Words:** salade;1,50, cacahuetes;1,20, caramel;2,20, tisane;2,50, papaye;3,50
-- **Letter:** `a`, **Position:** `5`, **Words:** ananas;2,99, margarine;1,50, guimauves;1,99, mandarines;2,50, ciseaux;2,99
-- **Letter:** `a`, **Position:** `6`, **Words:** champagne;34,99, pinceaux;2,99, limonade;1,50, aspirateur;49,99, quinoa;3,99
-- **Letter:** `b`, **Position:** `1`, **Words:** brioches;3,50, brownie;1,50, brochettes;4,50, balance;9,99, balai;4,99
+- **Letter:** `a`, **Position:** `1`, **Words:** assouplissant;2,99, avocats;2,50, abats;6,20, aiguille;0,79, aluminium;2,99
+- **Letter:** `a`, **Position:** `2`, **Words:** lasagnes;5,99, gants;2,99, raviolis;3,50, margarine;1,50, farine;0,89
+- **Letter:** `a`, **Position:** `3`, **Words:** beaujolais;8,99, veau;9,99, charbon;4,99, ajax;3,49, elastiques;0,99
+- **Letter:** `a`, **Position:** `4`, **Words:** tomates;1,50, vinaigre;1,50, cacao;2,80, romarin;1,50, bananes;1,79
+- **Letter:** `a`, **Position:** `5`, **Words:** pizza;7,50, muscade;1,50, moutarde;1,50, epinards;1,50, margarine;1,50
+- **Letter:** `a`, **Position:** `6`, **Words:** drapeau;4,99, limonade;1,50, marteau;7,50, kumquats;3,50, poireaux;1,50
+- **Letter:** `b`, **Position:** `1`, **Words:** bonbons;1,99, bougeoir;5,50, balai;4,99, beaujolais;8,99, baguette;0,95
 - **Letter:** `b`, **Position:** `2`, **Words:** abats;6,20, xbox;299,99, abricots;3,89
-- **Letter:** `b`, **Position:** `3`, **Words:** reblochon;7,50, aubergines;1,99, gobelets;1,50, webcam;39,99
-- **Letter:** `b`, **Position:** `4`, **Words:** bonbons;1,99, jambon;4,50, crabe;9,99, barbie;14,99
-- **Letter:** `b`, **Position:** `5`, **Words:** framboises;3,50, trombonnes;1,50, charbon;4,99, snowboard;79,99
-- **Letter:** `c`, **Position:** `1`, **Words:** cadenas;3,50, curry;1,50, courgettes;1,29, couette;19,99, cuilleres;1,99
-- **Letter:** `c`, **Position:** `2`, **Words:** schweppes;2,50, scanner;49,99, scie;7,99, scotch;3,50, ecrous;1,99
-- **Letter:** `c`, **Position:** `3`, **Words:** anchois;2,50, dictionnaire;9,99, encre;3,50, cacahuetes;1,20, sucre;0,99
-- **Letter:** `c`, **Position:** `4`, **Words:** ketchup;2,20, pinceaux;2,99, couches;5,99, chocolat;1,50, louche;3,50
-- **Letter:** `c`, **Position:** `5`, **Words:** brioches;3,50, abricots;3,89, scotch;3,50, peluche;9,99, artichauts;2,79
-- **Letter:** `c`, **Position:** `6`, **Words:** reblochon;7,50, pistaches;4,50, balance;9,99, projecteur;49,99, cognac;24,99
-- **Letter:** `d`, **Position:** `1`, **Words:** dattes;3,50, drapeau;4,99, dictionnaire;9,99, dentifrice;2,50, duvet;29,99
-- **Letter:** `d`, **Position:** `3`, **Words:** cadenas;3,50, soda;1,50, radis;0,99, cidre;2,99, endives;1,99
-- **Letter:** `d`, **Position:** `4`, **Words:** corde;2,99, mandarines;2,50, sardines;2,50, sandwich;3,99, lardons;3,50
-- **Letter:** `d`, **Position:** `5`, **Words:** salade;1,50, amandes;4,20, agenda;4,99, clou de girofle;2,50, mikados;1,50
+- **Letter:** `b`, **Position:** `3`, **Words:** aubergines;1,99, reblochon;7,50, gobelets;1,50, webcam;39,99
+- **Letter:** `b`, **Position:** `4`, **Words:** jambon;4,50, bonbons;1,99, crabe;9,99, barbie;14,99
+- **Letter:** `b`, **Position:** `5`, **Words:** charbon;4,99, trombonnes;1,50, framboises;3,50, snowboard;79,99
+- **Letter:** `c`, **Position:** `1`, **Words:** cereales;3,99, champignons;1,99, chantilly;1,50, cahier;1,50, casserole;8,50
+- **Letter:** `c`, **Position:** `2`, **Words:** scie;7,99, scanner;49,99, schweppes;2,50, scotch;3,50, eclairage;19,99
+- **Letter:** `c`, **Position:** `3`, **Words:** anchois;2,50, cacahuetes;1,20, cacao;2,80, encre;3,50, dictionnaire;9,99
+- **Letter:** `c`, **Position:** `4`, **Words:** pinceaux;2,99, avocats;2,50, chocolat;1,50, couches;5,99, muscade;1,50
+- **Letter:** `c`, **Position:** `5`, **Words:** scotch;3,50, gnocchis;2,99, artichauts;2,79, haricots;2,50, brioches;3,50
+- **Letter:** `c`, **Position:** `6`, **Words:** pistaches;4,50, balance;9,99, reblochon;7,50, cognac;24,99, projecteur;49,99
+- **Letter:** `d`, **Position:** `1`, **Words:** dentifrice;2,50, drapeau;4,99, dictionnaire;9,99, dattes;3,50, deguisement;15,99
+- **Letter:** `d`, **Position:** `3`, **Words:** cadenas;3,50, radio;12,99, soda;1,50, cidre;2,99, cadre;7,99
+- **Letter:** `d`, **Position:** `4`, **Words:** lardons;3,50, sardines;2,50, corde;2,99, sandwich;3,99, mandarines;2,50
+- **Letter:** `d`, **Position:** `5`, **Words:** amandes;4,20, agenda;4,99, salade;1,50, clou de girofle;2,50, viande;7,99
 - **Letter:** `d`, **Position:** `6`, **Words:** muscade;1,50, canard;7,99
-- **Letter:** `e`, **Position:** `1`, **Words:** enveloppes;1,50, equerre;1,50, encre;3,50, epices;2,99, elastiques;0,99
-- **Letter:** `e`, **Position:** `2`, **Words:** metre;1,99, vernis;4,50, semelle;1,99, ketchup;2,20, peigne;1,50
-- **Letter:** `e`, **Position:** `3`, **Words:** miel;4,99, oseille;1,50, muesli;3,50, crepes;3,50, boeuf;8,99
-- **Letter:** `e`, **Position:** `4`, **Words:** vaseline;2,50, semelle;1,99, galettes;1,50, gobelets;1,50, bouee;4,50
-- **Letter:** `e`, **Position:** `5`, **Words:** noisettes;3,50, bougeoir;5,50, baguette;0,95, lingettes;2,50, carnet;1,99
-- **Letter:** `e`, **Position:** `6`, **Words:** allumettes;1,85, oranges;1,99, vaisselle;12,99, farine;0,89, quiche;4,50
-- **Letter:** `f`, **Position:** `1`, **Words:** fenouil;1,99, fleurs;4,99, farine;0,89, fenetre;14,99, fourchettes;2,50
-- **Letter:** `f`, **Position:** `3`, **Words:** safran;9,99, cafe;3,49, muffins;2,50, infusion;2,50, affligem;3,00
-- **Letter:** `f`, **Position:** `4`, **Words:** confettis;1,50, confiture;3,20, muffins;2,50, gaufres;2,50, oeufs;2,50
-- **Letter:** `f`, **Position:** `5`, **Words:** boeuf;8,99, agrafeuse;2,49, truffe;9,99
-- **Letter:** `g`, **Position:** `1`, **Words:** gobelets;1,50, galettes;1,50, guimauves;1,99, gants;2,99, gaufres;2,50
-- **Letter:** `g`, **Position:** `2`, **Words:** agenda;4,99, agrafeuse;2,49
-- **Letter:** `g`, **Position:** `3`, **Words:** baguette;0,95, pignons;4,50, aiguille;0,79, magazines;4,50, figues;3,50
-- **Letter:** `g`, **Position:** `4`, **Words:** lingettes;2,50, bougies;2,99, spaghettis;1,50, margarine;1,50, bougeoir;5,50
-- **Letter:** `g`, **Position:** `5`, **Words:** eponges;0,99, courgettes;1,29, oranges;1,99, chargeur;9,99, lasagnes;5,99
-- **Letter:** `g`, **Position:** `6`, **Words:** horloge;9,99, vinaigre;1,50, fromage;3,99, aubergines;1,99, harengs;3,50
-- **Letter:** `h`, **Position:** `1`, **Words:** huile;3,50, haricots;2,50, huitres;6,99, harengs;3,50, horloge;9,99
-- **Letter:** `h`, **Position:** `2`, **Words:** champignons;1,99, short;9,99, thon;3,50, shampoing;4,50, chips;1,99
-- **Letter:** `h`, **Position:** `3`, **Words:** cahier;1,50, tshirt;9,99, schweppes;2,50, echelle;24,99, schwarzkopf;6,99
-- **Letter:** `h`, **Position:** `5`, **Words:** torchon;1,50, brochettes;4,50, couches;5,99, ketchup;2,20, mouchoirs;1,50
-- **Letter:** `h`, **Position:** `6`, **Words:** peluche;9,99, brioches;3,50, artichauts;2,79, fourchettes;2,50, scotch;3,50
+- **Letter:** `e`, **Position:** `1`, **Words:** endives;1,99, encre;3,50, equerre;1,50, epices;2,99, enveloppes;1,50
+- **Letter:** `e`, **Position:** `2`, **Words:** lessive;4,50, peluche;9,99, ketchup;2,20, beaujolais;8,99, veau;9,99
+- **Letter:** `e`, **Position:** `3`, **Words:** fleurs;4,99, crepes;3,50, miel;4,99, boeuf;8,99, agenda;4,99
+- **Letter:** `e`, **Position:** `4`, **Words:** nutella;3,50, cereales;3,99, bouee;4,50, manette;15,99, fenetre;14,99
+- **Letter:** `e`, **Position:** `5`, **Words:** couverts;3,99, gomme;0,99, laque;2,99, bougeoir;5,50, cartes;2,50
+- **Letter:** `e`, **Position:** `6`, **Words:** laurier;0,99, feutres;3,99, gaufres;2,50, tomates;1,50, salade;1,50
+- **Letter:** `f`, **Position:** `1`, **Words:** fraises;2,99, fenouil;1,99, fromage;3,99, fenetre;14,99, fourchettes;2,50
+- **Letter:** `f`, **Position:** `3`, **Words:** safran;9,99, muffins;2,50, infusion;2,50, cafe;3,49, affligem;3,00
+- **Letter:** `f`, **Position:** `4`, **Words:** oeufs;2,50, gaufres;2,50, confettis;1,50, muffins;2,50, confiture;3,20
+- **Letter:** `f`, **Position:** `5`, **Words:** agrafeuse;2,49, boeuf;8,99, truffe;9,99
+- **Letter:** `g`, **Position:** `1`, **Words:** gnocchis;2,99, gants;2,99, guimauves;1,99, gaufres;2,50, gomme;0,99
+- **Letter:** `g`, **Position:** `2`, **Words:** agrafeuse;2,49, agenda;4,99
+- **Letter:** `g`, **Position:** `3`, **Words:** magazines;4,50, oignons;1,29, baguette;0,95, aiguille;0,79, pignons;4,50
+- **Letter:** `g`, **Position:** `4`, **Words:** peigne;1,50, spaghettis;1,50, bougeoir;5,50, mangues;2,99, brugnons;2,50
+- **Letter:** `g`, **Position:** `5`, **Words:** chargeur;9,99, eponges;0,99, oranges;1,99, courgettes;1,29, lasagnes;5,99
+- **Letter:** `g`, **Position:** `6`, **Words:** vinaigre;1,50, horloge;9,99, aubergines;1,99, harengs;3,50, fromage;3,99
+- **Letter:** `h`, **Position:** `1`, **Words:** haricots;2,50, huile;3,50, huitres;6,99, horloge;9,99, harengs;3,50
+- **Letter:** `h`, **Position:** `2`, **Words:** chocolat;1,50, chaussettes;4,50, chargeur;9,99, champignons;1,99, shampoing;4,50
+- **Letter:** `h`, **Position:** `3`, **Words:** cahier;1,50, tshirt;9,99, schweppes;2,50, schwarzkopf;6,99, echelle;24,99
+- **Letter:** `h`, **Position:** `5`, **Words:** torchon;1,50, couches;5,99, mouchoirs;1,50, brochettes;4,50, spaghettis;1,50
+- **Letter:** `h`, **Position:** `6`, **Words:** gnocchis;2,99, brioches;3,50, peluche;9,99, artichauts;2,79, scotch;3,50
 - **Letter:** `i`, **Position:** `1`, **Words:** infusion;2,50, icewatch;59,99
-- **Letter:** `i`, **Position:** `2`, **Words:** figues;3,50, ciseaux;2,99, limonade;1,50, miel;4,99, kiwis;2,50
-- **Letter:** `i`, **Position:** `3`, **Words:** briquet;0,89, noisettes;3,50, epices;2,99, peinture;6,99, scie;7,99
-- **Letter:** `i`, **Position:** `4`, **Words:** radis;0,99, endives;1,99, raviolis;3,50, kiwis;2,50, farine;0,89
-- **Letter:** `i`, **Position:** `5`, **Words:** muffins;2,50, balai;4,99, confiture;3,20, bougies;2,99, myrtilles;3,99
-- **Letter:** `i`, **Position:** `6`, **Words:** vaseline;2,50, romarin;1,50, magazines;4,50, muesli;3,50, fenouil;1,99
-- **Letter:** `j`, **Position:** `1`, **Words:** journal;1,00, javel;1,50, jambon;4,50
+- **Letter:** `i`, **Position:** `2`, **Words:** ciseaux;2,99, limonade;1,50, oignons;1,29, kiwis;2,50, pizza;7,50
+- **Letter:** `i`, **Position:** `3`, **Words:** guimauves;1,99, cuilleres;1,99, noisettes;3,50, pain;1,20, epinards;1,50
+- **Letter:** `i`, **Position:** `4`, **Words:** haricots;2,50, cumin;1,50, cahier;1,50, avoine;1,20, radis;0,99
+- **Letter:** `i`, **Position:** `5`, **Words:** serviettes;3,50, paprika;1,50, souris;9,99, ventilateur;24,99, lentilles;1,50
+- **Letter:** `i`, **Position:** `6`, **Words:** anchois;2,50, passoire;2,99, champignons;1,99, vaseline;2,50, romarin;1,50
+- **Letter:** `j`, **Position:** `1`, **Words:** javel;1,50, journal;1,00, jambon;4,50
 - **Letter:** `j`, **Position:** `4`, **Words:** banjo;39,99, projecteur;49,99
-- **Letter:** `k`, **Position:** `1`, **Words:** kumquats;3,50, ketchup;2,20, kiwis;2,50
+- **Letter:** `k`, **Position:** `1`, **Words:** kiwis;2,50, ketchup;2,20, kumquats;3,50
 - **Letter:** `k`, **Position:** `2`, **Words:** ukulele;29,99, skate;19,99
-- **Letter:** `k`, **Position:** `4`, **Words:** vodka;12,99, walkman;29,99
-- **Letter:** `k`, **Position:** `5`, **Words:** blackjack;9,99, crackers;2,20, whisky;24,99
+- **Letter:** `k`, **Position:** `4`, **Words:** walkman;29,99, vodka;12,99
+- **Letter:** `k`, **Position:** `5`, **Words:** blackjack;9,99, whisky;24,99, crackers;2,20
 - **Letter:** `k`, **Position:** `6`, **Words:** paprika;1,50, anorak;19,99
-- **Letter:** `l`, **Position:** `1`, **Words:** lessive;4,50, laque;2,99, levure;0,80, lasagnes;5,99, limonade;1,50
-- **Letter:** `l`, **Position:** `2`, **Words:** clous;1,50, allumettes;1,85, olives;2,50, flan;1,50, fleurs;4,99
-- **Letter:** `l`, **Position:** `3`, **Words:** balance;9,99, calculette;2,99, balai;4,99, talc;1,50, culottes;9,99
-- **Letter:** `l`, **Position:** `4`, **Words:** stylos;1,99, colle;1,99, miel;4,99, ballon;0,50, huile;3,50
-- **Letter:** `l`, **Position:** `5`, **Words:** semelle;1,99, enveloppes;1,50, cuilleres;1,99, bouillon;0,99, muesli;3,50
-- **Letter:** `l`, **Position:** `6`, **Words:** oseille;1,50, nouilles;1,50, vanille;2,50, cannelle;1,99, myrtilles;3,99
-- **Letter:** `m`, **Position:** `1`, **Words:** muffins;2,50, miel;4,99, mouchoirs;1,50, muesli;3,50, mangues;2,99
-- **Letter:** `m`, **Position:** `2`, **Words:** amandes;4,20, ampoules;3,99
-- **Letter:** `m`, **Position:** `3`, **Words:** cumin;1,50, semoule;1,50, jambon;4,50, limonade;1,50, tomates;1,50
-- **Letter:** `m`, **Position:** `4`, **Words:** framboises;3,50, marmite;12,99, shampoing;4,50, champignons;1,99, champagne;34,99
-- **Letter:** `m`, **Position:** `5`, **Words:** allumettes;1,85, caramel;2,20, camomille;2,50, salami;4,50, walkman;29,99
-- **Letter:** `m`, **Position:** `6`, **Words:** concombres;1,29, gingembre;1,99, webcam;39,99, chalumeau;6,50
-- **Letter:** `n`, **Position:** `1`, **Words:** noisettes;3,50, nutella;3,50, navets;0,99, nouilles;1,50, noix;4,50
-- **Letter:** `n`, **Position:** `2`, **Words:** enveloppes;1,50, anchois;2,50, ananas;2,99, infusion;2,50, gnocchis;2,99
-- **Letter:** `n`, **Position:** `3`, **Words:** mangues;2,99, panier;7,50, mandarines;2,50, genoise;3,00, menthe;1,50
-- **Letter:** `n`, **Position:** `4`, **Words:** pain;1,20, pignons;4,50, thon;3,50, eponges;0,99, prune;1,50
-- **Letter:** `n`, **Position:** `5`, **Words:** brownie;1,50, balance;9,99, harengs;3,50, cadenas;3,50, chronometre;5,99
-- **Letter:** `n`, **Position:** `6`, **Words:** citrons;1,79, lardons;3,50, muffins;2,50, sardines;2,50, ballon;0,50
-- **Letter:** `o`, **Position:** `1`, **Words:** oseille;1,50, oranges;1,99, olives;2,50, oignons;1,29, oeufs;2,50
-- **Letter:** `o`, **Position:** `2`, **Words:** horloge;9,99, corde;2,99, noisettes;3,50, confiture;3,20, bougeoir;5,50
-- **Letter:** `o`, **Position:** `3`, **Words:** short;9,99, choux;1,99, brochettes;4,50, fromage;3,99, avocats;2,50
-- **Letter:** `o`, **Position:** `4`, **Words:** brioches;3,50, rasoir;2,50, culottes;9,99, semoule;1,50, assouplissant;2,99
-- **Letter:** `o`, **Position:** `5`, **Words:** anchois;2,50, passoire;2,99, banjo;39,99, stylos;1,99, compotes;2,20
-- **Letter:** `o`, **Position:** `6`, **Words:** shampoing;4,50, torchon;1,50, mouchoirs;1,50, poivrons;1,99, brugnons;2,50
-- **Letter:** `p`, **Position:** `1`, **Words:** papaye;3,50, pignons;4,50, peluche;9,99, pommes;2,50, puzzle;9,99
-- **Letter:** `p`, **Position:** `2`, **Words:** spaghettis;1,50, eponges;0,99, epices;2,99, epinards;1,50, sprite;1,50
-- **Letter:** `p`, **Position:** `3`, **Words:** ampoules;3,99, aspirateur;49,99, tapis;12,99, paprika;1,50, papaye;3,50
-- **Letter:** `p`, **Position:** `4`, **Words:** drapeau;4,99, compotes;2,20, chapeau;12,99, chips;1,99, soupe;2,50
+- **Letter:** `l`, **Position:** `1`, **Words:** limonade;1,50, lardons;3,50, lasagnes;5,99, louche;3,50, livre;7,50
+- **Letter:** `l`, **Position:** `2`, **Words:** glace;3,50, aluminium;2,99, clous;1,50, elastiques;0,99, flan;1,50
+- **Letter:** `l`, **Position:** `3`, **Words:** talc;1,50, salade;1,50, balance;9,99, galettes;1,50, calculette;2,99
+- **Letter:** `l`, **Position:** `4`, **Words:** miel;4,99, colle;1,99, reblochon;7,50, ballon;0,50, cuilleres;1,99
+- **Letter:** `l`, **Position:** `5`, **Words:** semelle;1,99, gobelets;1,50, bouillon;0,99, enveloppes;1,50, cuilleres;1,99
+- **Letter:** `l`, **Position:** `6`, **Words:** pantalon;19,99, brocolis;1,99, bouillon;0,99, nutella;3,50, cannelle;1,99
+- **Letter:** `m`, **Position:** `1`, **Words:** mandarines;2,50, muesli;3,50, miel;4,99, martinet;3,99, metre;1,99
+- **Letter:** `m`, **Position:** `2`, **Words:** ampoules;3,99, amandes;4,20
+- **Letter:** `m`, **Position:** `3`, **Words:** tomates;1,50, gomme;0,99, cumin;1,50, pommes;2,50, semelle;1,99
+- **Letter:** `m`, **Position:** `4`, **Words:** fromage;3,99, gomme;0,99, trombonnes;1,50, marmite;12,99, guimauves;1,99
+- **Letter:** `m`, **Position:** `5`, **Words:** caramel;2,20, allumettes;1,85, walkman;29,99, camomille;2,50, vitamines;3,99
+- **Letter:** `m`, **Position:** `6`, **Words:** concombres;1,29, chalumeau;6,50, webcam;39,99, gingembre;1,99
+- **Letter:** `n`, **Position:** `1`, **Words:** noix;4,50, navets;0,99, noisettes;3,50, nouilles;1,50, nutella;3,50
+- **Letter:** `n`, **Position:** `2`, **Words:** ananas;2,99, anchois;2,50, encre;3,50, enveloppes;1,50, gnocchis;2,99
+- **Letter:** `n`, **Position:** `3`, **Words:** ventilateur;24,99, sandwich;3,99, lingettes;2,50, manette;15,99, fenouil;1,99
+- **Letter:** `n`, **Position:** `4`, **Words:** pignons;4,50, cannelle;1,99, flan;1,50, thon;3,50, ceinture;7,50
+- **Letter:** `n`, **Position:** `5`, **Words:** journal;1,00, harengs;3,50, avoine;1,20, cadenas;3,50, balance;9,99
+- **Letter:** `n`, **Position:** `6`, **Words:** jambon;4,50, raisin;2,50, aluminium;2,99, sardines;2,50, pignons;4,50
+- **Letter:** `o`, **Position:** `1`, **Words:** oseille;1,50, oignons;1,29, olives;2,50, oeufs;2,50, oranges;1,99
+- **Letter:** `o`, **Position:** `2`, **Words:** pommes;2,50, bougies;2,99, morue;5,99, mouchoirs;1,50, gomme;0,99
+- **Letter:** `o`, **Position:** `3`, **Words:** eponges;0,99, brocolis;1,99, brochettes;4,50, brosse;2,99, croissants;0,95
+- **Letter:** `o`, **Position:** `4`, **Words:** limonade;1,50, chronometre;5,99, semoule;1,50, mayonnaise;2,20, genoise;3,00
+- **Letter:** `o`, **Position:** `5`, **Words:** stylos;1,99, horloge;9,99, brocolis;1,99, quinoa;3,99, bonbons;1,99
+- **Letter:** `o`, **Position:** `6`, **Words:** torchon;1,50, dictionnaire;9,99, abricots;3,89, charbon;4,99, trombonnes;1,50
+- **Letter:** `p`, **Position:** `1`, **Words:** peigne;1,50, paprika;1,50, passoire;2,99, papaye;3,50, pantoufles;9,99
+- **Letter:** `p`, **Position:** `2`, **Words:** sprite;1,50, epinards;1,50, epices;2,99, eponges;0,99, spaghettis;1,50
+- **Letter:** `p`, **Position:** `3`, **Words:** paprika;1,50, papaye;3,50, aspirateur;49,99, ampoules;3,99, tapis;12,99
+- **Letter:** `p`, **Position:** `4`, **Words:** compotes;2,20, soupe;2,50, chapeau;12,99, crepes;3,50, drapeau;4,99
 - **Letter:** `p`, **Position:** `5`, **Words:** champignons;1,99, shampoing;4,50, champagne;34,99, crampons;8,50
-- **Letter:** `p`, **Position:** `6`, **Words:** assouplissant;2,99, schweppes;2,50
+- **Letter:** `p`, **Position:** `6`, **Words:** schweppes;2,50, assouplissant;2,99
 - **Letter:** `q`, **Position:** `1`, **Words:** quiche;4,50, quinoa;3,99
-- **Letter:** `q`, **Position:** `3`, **Words:** laque;2,99, coquetier;2,50, liqueur;15,99
-- **Letter:** `q`, **Position:** `4`, **Words:** kumquats;3,50, briquet;0,89, croquettes;3,99, casquette;9,99
+- **Letter:** `q`, **Position:** `3`, **Words:** laque;2,99, liqueur;15,99, coquetier;2,50
+- **Letter:** `q`, **Position:** `4`, **Words:** briquet;0,89, kumquats;3,50, croquettes;3,99, casquette;9,99
 - **Letter:** `q`, **Position:** `6`, **Words:** applique;12,30, perruque;12,99
-- **Letter:** `r`, **Position:** `1`, **Words:** rasoir;2,50, radio;12,99, reblochon;7,50, romarin;1,50, raviolis;3,50
-- **Letter:** `r`, **Position:** `2`, **Words:** fromage;3,99, artichauts;2,79, brocolis;1,99, prune;1,50, trousse;3,50
-- **Letter:** `r`, **Position:** `3`, **Words:** horloge;9,99, margarine;1,50, myrtilles;3,99, caramel;2,20, sardines;2,50
-- **Letter:** `r`, **Position:** `4`, **Words:** charbon;4,99, verres;5,99, cadre;7,99, sucre;0,99, courgettes;1,29
-- **Letter:** `r`, **Position:** `5`, **Words:** beurre;1,50, aspirateur;49,99, equerre;1,50, levure;0,80, tshirt;9,99
-- **Letter:** `r`, **Position:** `6`, **Words:** equerre;1,50, moutarde;1,50, fenetre;14,99, margarine;1,50, mascara;8,50
-- **Letter:** `s`, **Position:** `1`, **Words:** sucre;0,99, seau;2,50, soda;1,50, scotch;3,50, scie;7,99
-- **Letter:** `s`, **Position:** `2`, **Words:** oseille;1,50, aspirateur;49,99, assiettes;3,49, assouplissant;2,99, tshirt;9,99
-- **Letter:** `s`, **Position:** `3`, **Words:** vase;7,50, rasoir;2,50, assiettes;3,49, muscade;1,50, pistaches;4,50
-- **Letter:** `s`, **Position:** `4`, **Words:** casserole;8,50, muesli;3,50, noisettes;3,50, elastiques;0,99, vaisselle;12,99
-- **Letter:** `s`, **Position:** `5`, **Words:** abats;6,20, vaisselle;12,99, infusion;2,50, chaussettes;4,50, kiwis;2,50
-- **Letter:** `s`, **Position:** `6`, **Words:** figues;3,50, souris;9,99, pommes;2,50, verres;5,99, stylos;1,99
-- **Letter:** `t`, **Position:** `1`, **Words:** tisane;2,50, thon;3,50, tissu;4,50, tapis;12,99, trousse;3,50
-- **Letter:** `t`, **Position:** `3`, **Words:** metre;1,99, dattes;3,50, coton;1,50, citrons;1,79, artichauts;2,79
-- **Letter:** `t`, **Position:** `4`, **Words:** pantoufles;9,99, lentilles;1,50, pistaches;4,50, cartes;2,50, abats;6,20
-- **Letter:** `t`, **Position:** `5`, **Words:** elastiques;0,99, couette;19,99, tomates;1,50, chantilly;1,50, sprite;1,50
-- **Letter:** `t`, **Position:** `6`, **Words:** confiture;3,20, couette;19,99, culottes;9,99, poulet;5,99, yaourt;0,99
-- **Letter:** `u`, **Position:** `1`, **Words:** ukulele;29,99, ustensile;2,50, uniforme;19,99
-- **Letter:** `u`, **Position:** `2`, **Words:** quiche;4,50, culottes;9,99, huile;3,50, sucre;0,99, aubergines;1,99
-- **Letter:** `u`, **Position:** `3`, **Words:** feutres;3,99, couverts;3,99, bougeoir;5,50, mouchoirs;1,50, bouillon;0,99
-- **Letter:** `u`, **Position:** `4`, **Words:** peluche;9,99, yaourt;0,99, veau;9,99, baguette;0,95, figues;3,50
-- **Letter:** `u`, **Position:** `5`, **Words:** assouplissant;2,99, ampoules;3,99, semoule;1,50, fenouil;1,99, tuyau;4,50
-- **Letter:** `u`, **Position:** `6`, **Words:** ketchup;2,20, ceinture;7,50, guimauves;1,99, cacahuetes;1,20, ciseaux;2,99
-- **Letter:** `v`, **Position:** `1`, **Words:** vernis;4,50, veste;29,99, ventilateur;24,99, vaisselle;12,99, vaseline;2,50
-- **Letter:** `v`, **Position:** `2`, **Words:** avocats;2,50, avoine;1,20
-- **Letter:** `v`, **Position:** `3`, **Words:** levure;0,80, livre;7,50, savon;1,50, caviar;29,99, raviolis;3,50
-- **Letter:** `v`, **Position:** `4`, **Words:** couverts;3,99, poivre;1,50, olives;2,50, serviettes;3,50, poivrons;1,99
-- **Letter:** `w`, **Position:** `1`, **Words:** webcam;39,99, whisky;24,99, walkman;29,99
-- **Letter:** `w`, **Position:** `2`, **Words:** twister;14,99, swatch;49,99
+- **Letter:** `r`, **Position:** `1`, **Words:** raisin;2,50, reblochon;7,50, raviolis;3,50, radio;12,99, radis;0,99
+- **Letter:** `r`, **Position:** `2`, **Words:** drapeau;4,99, artichauts;2,79, trombonnes;1,50, prune;1,50, brioches;3,50
+- **Letter:** `r`, **Position:** `3`, **Words:** sardines;2,50, torchon;1,50, horloge;9,99, farine;0,89, carnet;1,99
+- **Letter:** `r`, **Position:** `4`, **Words:** courgettes;1,29, beurre;1,50, sucre;0,99, cadre;7,99, safran;9,99
+- **Letter:** `r`, **Position:** `5`, **Words:** aubergines;1,99, aspirateur;49,99, fleurs;4,99, tshirt;9,99, poivrons;1,99
+- **Letter:** `r`, **Position:** `6`, **Words:** mascara;8,50, moutarde;1,50, rasoir;2,50, fenetre;14,99, epinards;1,50
+- **Letter:** `s`, **Position:** `1`, **Words:** semelle;1,99, serviettes;3,50, scotch;3,50, sandwich;3,99, stylos;1,99
+- **Letter:** `s`, **Position:** `2`, **Words:** assiettes;3,49, tshirt;9,99, assouplissant;2,99, oseille;1,50, aspirateur;49,99
+- **Letter:** `s`, **Position:** `3`, **Words:** rasoir;2,50, assouplissant;2,99, lasagnes;5,99, muscade;1,50, tisane;2,50
+- **Letter:** `s`, **Position:** `4`, **Words:** noisettes;3,50, elastiques;0,99, muesli;3,50, vaisselle;12,99, casserole;8,50
+- **Letter:** `s`, **Position:** `5`, **Words:** brosse;2,99, chaussettes;4,50, vaisselle;12,99, infusion;2,50, abats;6,20
+- **Letter:** `s`, **Position:** `6`, **Words:** pommes;2,50, stylos;1,99, vernis;4,50, verres;5,99, dattes;3,50
+- **Letter:** `t`, **Position:** `1`, **Words:** tortillas;2,50, thon;3,50, trousse;3,50, torchon;1,50, tshirt;9,99
+- **Letter:** `t`, **Position:** `3`, **Words:** ketchup;2,20, coton;1,50, nutella;3,50, metre;1,99, artichauts;2,79
+- **Letter:** `t`, **Position:** `4`, **Words:** martinet;3,99, lentilles;1,50, ventilateur;24,99, pistaches;4,50, menthe;1,50
+- **Letter:** `t`, **Position:** `5`, **Words:** short;9,99, navets;0,99, ceinture;7,50, chantilly;1,50, couette;19,99
+- **Letter:** `t`, **Position:** `6`, **Words:** lingettes;2,50, carottes;0,99, avocats;2,50, noisettes;3,50, compotes;2,20
+- **Letter:** `u`, **Position:** `1`, **Words:** ukulele;29,99, uniforme;19,99, ustensile;2,50
+- **Letter:** `u`, **Position:** `2`, **Words:** huitres;6,99, quinoa;3,99, culottes;9,99, cumin;1,50, huile;3,50
+- **Letter:** `u`, **Position:** `3`, **Words:** aluminium;2,99, brugnons;2,50, poulet;5,99, couverts;3,99, moutarde;1,50
+- **Letter:** `u`, **Position:** `4`, **Words:** aiguille;0,79, baguette;0,95, figues;3,50, yaourt;0,99, peluche;9,99
+- **Letter:** `u`, **Position:** `5`, **Words:** mangues;2,99, fenouil;1,99, assouplissant;2,99, ampoules;3,99, calculette;2,99
+- **Letter:** `u`, **Position:** `6`, **Words:** guimauves;1,99, pantoufles;9,99, ciseaux;2,99, peinture;6,99, ketchup;2,20
+- **Letter:** `v`, **Position:** `1`, **Words:** vaisselle;12,99, vaseline;2,50, ventilateur;24,99, veau;9,99, verres;5,99
+- **Letter:** `v`, **Position:** `2`, **Words:** avoine;1,20, avocats;2,50
+- **Letter:** `v`, **Position:** `3`, **Words:** enveloppes;1,50, caviar;29,99, raviolis;3,50, navets;0,99, javel;1,50
+- **Letter:** `v`, **Position:** `4`, **Words:** poivrons;1,99, serviettes;3,50, poivre;1,50, couverts;3,99, olives;2,50
+- **Letter:** `w`, **Position:** `1`, **Words:** webcam;39,99, walkman;29,99, whisky;24,99
+- **Letter:** `w`, **Position:** `2`, **Words:** swatch;49,99, twister;14,99
 - **Letter:** `w`, **Position:** `3`, **Words:** kiwis;2,50, gewurztraminer;12,99
-- **Letter:** `w`, **Position:** `4`, **Words:** schweppes;2,50, brownie;1,50, schwarzkopf;6,99, snowboard;79,99, icewatch;59,99
+- **Letter:** `w`, **Position:** `4`, **Words:** brownie;1,50, schweppes;2,50, icewatch;59,99, snowboard;79,99, schwarzkopf;6,99
 - **Letter:** `w`, **Position:** `5`, **Words:** sandwich;3,99, tomawak;5,99
-- **Letter:** `x`, **Position:** `4`, **Words:** ajax;3,49, noix;4,50, xbox;299,99
+- **Letter:** `x`, **Position:** `4`, **Words:** xbox;299,99, ajax;3,49, noix;4,50
 - **Letter:** `y`, **Position:** `1`, **Words:** yaourt;0,99, yoyo;2,50
-- **Letter:** `y`, **Position:** `3`, **Words:** tuyau;4,50, mayonnaise;2,20, stylos;1,99, yoyo;2,50
+- **Letter:** `y`, **Position:** `3`, **Words:** mayonnaise;2,20, stylos;1,99, tuyau;4,50, yoyo;2,50
 - **Letter:** `y`, **Position:** `5`, **Words:** papaye;3,50, curry;1,50, spray;2,50
 - **Letter:** `y`, **Position:** `6`, **Words:** eucalyptus;2,50, whisky;24,99
-- **Letter:** `z`, **Position:** `3`, **Words:** pizza;7,50, puzzle;9,99
+- **Letter:** `z`, **Position:** `3`, **Words:** puzzle;9,99, pizza;7,50
 - **Letter:** `z`, **Position:** `4`, **Words:** puzzle;9,99, pizza;7,50
 
 </details>
@@ -5798,152 +5798,152 @@ Total missing words: `27`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Acapulco, Andorre, Angola, Arpajon, Abu Dhabi
-- **Letter:** `a`, **Position:** `2`, **Words:** Japon, Canada, Kazakhstan, Waterloo, Mali
-- **Letter:** `a`, **Position:** `3`, **Words:** Rwanda, Ghana, Thailande, Meaux, Oman
-- **Letter:** `a`, **Position:** `4`, **Words:** Royaume-Uni, Arpajon, Islande, Evian, Monaco
-- **Letter:** `a`, **Position:** `5`, **Words:** Soudan, Roumanie, Sri Lanka, Kenya, Tijuana
-- **Letter:** `a`, **Position:** `6`, **Words:** Danemark, Rwanda, Uruguay, Vatican, Nicaragua
-- **Letter:** `b`, **Position:** `1`, **Words:** Bielorussie, Belgique, Bahamas, Bahrein, Budapest
-- **Letter:** `b`, **Position:** `2`, **Words:** Abu Dhabi, Abbeville, Abidjan
-- **Letter:** `b`, **Position:** `3`, **Words:** Cuba, Gabon, Liberia, Liban, Libye
-- **Letter:** `b`, **Position:** `4`, **Words:** Gambie, Zimbabwe, Cambodge, Djibouti, Serbie
-- **Letter:** `b`, **Position:** `5`, **Words:** Edimbourg, Pays-Bas, Namibie, Republique Tcheque, Azerbaidjan
-- **Letter:** `b`, **Position:** `6`, **Words:** Luxembourg, Mozambique, Zimbabwe, Colombie
-- **Letter:** `c`, **Position:** `1`, **Words:** Croatie, Cameroun, Chine, Congo, Chili
+- **Letter:** `a`, **Position:** `1`, **Words:** Argentine, Ajaccio, Albanie, Annecy, Arpajon
+- **Letter:** `a`, **Position:** `2`, **Words:** Laos, Pakistan, Paraguay, Kazakhstan, Japon
+- **Letter:** `a`, **Position:** `3`, **Words:** Agadir, Rwanda, Guatemala, Shanghai, Etats-Unis
+- **Letter:** `a`, **Position:** `4`, **Words:** Ukraine, Ouganda, Paraguay, Jamaique, Nepal
+- **Letter:** `a`, **Position:** `5`, **Words:** Slovaquie, Grenade, Soudan, Salvador, Epinal
+- **Letter:** `a`, **Position:** `6`, **Words:** Nicaragua, Bahamas, Australie, Thailande, Rwanda
+- **Letter:** `b`, **Position:** `1`, **Words:** Birmanie, Budapest, Bahamas, Bolivie, Burundi
+- **Letter:** `b`, **Position:** `2`, **Words:** Abu Dhabi, Abidjan, Abbeville
+- **Letter:** `b`, **Position:** `3`, **Words:** Albanie, Gabon, Libye, Liban, Liberia
+- **Letter:** `b`, **Position:** `4`, **Words:** Quebec, Zimbabwe, Ouzbekistan, Gambie, Djibouti
+- **Letter:** `b`, **Position:** `5`, **Words:** Namibie, Pays-Bas, Edimbourg, Kiribati, Azerbaidjan
+- **Letter:** `b`, **Position:** `6`, **Words:** Mozambique, Colombie, Zimbabwe, Luxembourg
+- **Letter:** `c`, **Position:** `1`, **Words:** Comores, Costa Rica, Chine, Cuba, Chili
 - **Letter:** `c`, **Position:** `2`, **Words:** Acapulco, Tchad, Ecquevilly, Scariff
 - **Letter:** `c`, **Position:** `3`, **Words:** Rochefort, Vichy, Nicaragua
-- **Letter:** `c`, **Position:** `4`, **Words:** Grece, Nancy, Seychelles, Moscou, Ajaccio
-- **Letter:** `c`, **Position:** `5`, **Words:** Monaco, Ajaccio, Francfort, Vatican, Annecy
-- **Letter:** `c`, **Position:** `6`, **Words:** Norwich, Autriche, Quebec, Maurice
-- **Letter:** `d`, **Position:** `1`, **Words:** Dijon, Djibouti, Danemark, Dreux, Darwin
+- **Letter:** `c`, **Position:** `4`, **Words:** Moscou, Seychelles, Ajaccio, Grece, Nancy
+- **Letter:** `c`, **Position:** `5`, **Words:** Monaco, Ajaccio, Francfort, France, Maroc
+- **Letter:** `c`, **Position:** `6`, **Words:** Maurice, Quebec, Autriche, Norwich
+- **Letter:** `d`, **Position:** `1`, **Words:** Dreux, Djibouti, Dijon, Danemark, Dominique
 - **Letter:** `d`, **Position:** `2`, **Words:** Edimbourg, Odessa, Adelaide
-- **Letter:** `d`, **Position:** `3`, **Words:** Indonesie, Madagascar, Sydney, Fidji, Andorre
-- **Letter:** `d`, **Position:** `4`, **Words:** Suede, Moldavie, Jordanie, Soudan, Agadir
-- **Letter:** `d`, **Position:** `5`, **Words:** Tchad, Rwanda, Canada, Cote D'ivoire, Uganda
-- **Letter:** `d`, **Position:** `6`, **Words:** Grenade, Ouganda, Cambodge, Islande, Irlande
-- **Letter:** `e`, **Position:** `1`, **Words:** Egypte, Evreux, Edimbourg, Evry, Espagne
-- **Letter:** `e`, **Position:** `2`, **Words:** Kenya, Reykjavik, Belfort, Belfast, Serbie
-- **Letter:** `e`, **Position:** `3`, **Words:** Grece, Grenade, Suede, Alexandria, Dreux
-- **Letter:** `e`, **Position:** `4`, **Words:** Evreux, Luxembourg, Venezuela, Allemagne, Senegal
-- **Letter:** `e`, **Position:** `5`, **Words:** Quebec, Suede, Guinee, Ouzbekistan, Norvege
-- **Letter:** `e`, **Position:** `6`, **Words:** Guinee, Equateur, Gambie, Serbie, Budapest
-- **Letter:** `f`, **Position:** `1`, **Words:** Finlande, Fidji, France, Francfort
-- **Letter:** `f`, **Position:** `2`, **Words:** Afyon, Afrique Du Sud, Afghanistan
-- **Letter:** `f`, **Position:** `3`, **Words:** Alfortville, Sofia, Oxford
+- **Letter:** `d`, **Position:** `3`, **Words:** Sydney, Indonesie, Fidji, Budapest, Madagascar
+- **Letter:** `d`, **Position:** `4`, **Words:** Soudan, Jordanie, Abu Dhabi, Moldavie, Agadir
+- **Letter:** `d`, **Position:** `5`, **Words:** Rwanda, Tchad, Canada, Uganda, Cote D'ivoire
+- **Letter:** `d`, **Position:** `6`, **Words:** Cambodge, Salvador, Oxford, Ouganda, Islande
+- **Letter:** `e`, **Position:** `1`, **Words:** Equateur, Epinal, Evian, Edimbourg, Evry
+- **Letter:** `e`, **Position:** `2`, **Words:** Benin, Belgique, Beaufort, Senegal, Belfast
+- **Letter:** `e`, **Position:** `3`, **Words:** Grenade, Suede, Grece, Quebec, Vietnam
+- **Letter:** `e`, **Position:** `4`, **Words:** Argentine, Koweit, Armenie, Liberia, Yemen
+- **Letter:** `e`, **Position:** `5`, **Words:** Norvege, Montenegro, Quebec, Guinee, Grece
+- **Letter:** `e`, **Position:** `6`, **Words:** Seychelles, Gambie, Russie, Egypte, France
+- **Letter:** `f`, **Position:** `1`, **Words:** Finlande, France, Francfort, Fidji
+- **Letter:** `f`, **Position:** `2`, **Words:** Afghanistan, Afrique Du Sud, Afyon
+- **Letter:** `f`, **Position:** `3`, **Words:** Alfortville, Oxford, Sofia
 - **Letter:** `f`, **Position:** `4`, **Words:** Belfort, Belfast, Honfleur
-- **Letter:** `f`, **Position:** `5`, **Words:** Montfort, Beaufort, Hartford
-- **Letter:** `f`, **Position:** `6`, **Words:** Francfort, Rochefort, Radolfzell, Villefranche, Scariff
-- **Letter:** `g`, **Position:** `1`, **Words:** Grece, Gabon, Grenade, Geneve, Guinee
+- **Letter:** `f`, **Position:** `5`, **Words:** Beaufort, Montfort, Hartford
+- **Letter:** `f`, **Position:** `6`, **Words:** Rochefort, Francfort, Radolfzell, Villefranche, Scariff
+- **Letter:** `g`, **Position:** `1`, **Words:** Grenade, Grece, Guyana, Ghana, Guatemala
 - **Letter:** `g`, **Position:** `2`, **Words:** Egypte, Agadir, Ngorongoro, Uganda
-- **Letter:** `g`, **Position:** `3`, **Words:** Togo, Nigeria, Niger, Argentine, Angola
-- **Letter:** `g`, **Position:** `4`, **Words:** Hongrie, Mongolie, Avignon, Singapour, Uruguay
-- **Letter:** `g`, **Position:** `5`, **Words:** Shanghai, Espagne, Madagascar, Pologne, Georgie
-- **Letter:** `g`, **Position:** `6`, **Words:** Norvege, Portugal, Stuttgart
-- **Letter:** `h`, **Position:** `1`, **Words:** Hongrie, Honfleur, Haiti, Honduras, Hartford
-- **Letter:** `h`, **Position:** `2`, **Words:** Philippines, Chili, Thailande, Chine, Ghana
-- **Letter:** `h`, **Position:** `3`, **Words:** Ethiopie, Bahamas, Bahrein, Tchad
-- **Letter:** `h`, **Position:** `4`, **Words:** Vichy, Rochefort, Washington, Afghanistan
+- **Letter:** `g`, **Position:** `3`, **Words:** Togo, Niger, Angola, Nigeria, Ouganda
+- **Letter:** `g`, **Position:** `4`, **Words:** Uruguay, Bulgarie, Singapour, Mongolie, Congo
+- **Letter:** `g`, **Position:** `5`, **Words:** Georgie, Pologne, Madagascar, Paraguay, Senegal
+- **Letter:** `g`, **Position:** `6`, **Words:** Portugal, Norvege, Stuttgart
+- **Letter:** `h`, **Position:** `1`, **Words:** Honfleur, Hongrie, Haiti, Honduras, Hartford
+- **Letter:** `h`, **Position:** `2`, **Words:** Chili, Philippines, Chypre, Thailande, Ghana
+- **Letter:** `h`, **Position:** `3`, **Words:** Bahamas, Ethiopie, Bahrein, Tchad
+- **Letter:** `h`, **Position:** `4`, **Words:** Rochefort, Vichy, Washington, Afghanistan
 - **Letter:** `h`, **Position:** `5`, **Words:** Seychelles, Abu Dhabi, Liechtenstein, Kirghizistan
 - **Letter:** `h`, **Position:** `6`, **Words:** Kazakhstan, Shanghai, Lesotho
-- **Letter:** `i`, **Position:** `1`, **Words:** Israel, Inde, Italie, Indonesie, Irlande
-- **Letter:** `i`, **Position:** `2`, **Words:** Niger, Tijuana, Livry, Vichy, Lituanie
-- **Letter:** `i`, **Position:** `3`, **Words:** Djibouti, Suisse, Edimbourg, Sri Lanka, Epinal
-- **Letter:** `i`, **Position:** `4`, **Words:** Mali, Thailande, Mexique, Tunisie, Savigny
-- **Letter:** `i`, **Position:** `5`, **Words:** Mauritanie, Philippines, Autriche, Norwich, Agadir
-- **Letter:** `i`, **Position:** `6`, **Words:** Bahrein, Tunisie, Ajaccio, Albanie, Armenie
-- **Letter:** `j`, **Position:** `1`, **Words:** Jamaique, Japon, Jordanie, Juvisy
+- **Letter:** `i`, **Position:** `1`, **Words:** Inde, Irlande, Israel, Italie, Indonesie
+- **Letter:** `i`, **Position:** `2`, **Words:** Nicaragua, Dijon, Bielorussie, Singapour, Lituanie
+- **Letter:** `i`, **Position:** `3`, **Words:** Sri Lanka, Evian, Avignon, Chine, Chili
+- **Letter:** `i`, **Position:** `4`, **Words:** Thailande, Vatican, Tunisie, Mexique, Ethiopie
+- **Letter:** `i`, **Position:** `5`, **Words:** Haiti, Norwich, Philippines, Agadir, Malaisie
+- **Letter:** `i`, **Position:** `6`, **Words:** Nigeria, Namibie, Armenie, Georgie, Bolivie
+- **Letter:** `j`, **Position:** `1`, **Words:** Jordanie, Jamaique, Japon, Juvisy
 - **Letter:** `j`, **Position:** `2`, **Words:** Ajaccio, Djibouti, Ljubljana
 - **Letter:** `j`, **Position:** `3`, **Words:** Tijuana, Dijon, Rijeka
 - **Letter:** `j`, **Position:** `4`, **Words:** Fidji, Banja Luka, Tadjikistan
 - **Letter:** `j`, **Position:** `5`, **Words:** Arpajon, Reykjavik, Abidjan, Skopje
-- **Letter:** `j`, **Position:** `6`, **Words:** Ljubljana, Chongjin, Tabarja
-- **Letter:** `k`, **Position:** `1`, **Words:** Kazakhstan, Kenya, Koweit, Krakow, Kharkiv
-- **Letter:** `k`, **Position:** `2`, **Words:** Ukraine, Skopje, Okavango, Akita
-- **Letter:** `k`, **Position:** `3`, **Words:** Tokyo, Pakistan, Baku
-- **Letter:** `k`, **Position:** `4`, **Words:** Reykjavik, Turkmenistan, Burkina-Faso, Krakow
-- **Letter:** `k`, **Position:** `5`, **Words:** Kazakhstan, Rijeka, Bangkok, Kharkiv
+- **Letter:** `j`, **Position:** `6`, **Words:** Tabarja, Chongjin, Ljubljana
+- **Letter:** `k`, **Position:** `1`, **Words:** Kenya, Koweit, Kazakhstan, Kiribati, Kirghizistan
+- **Letter:** `k`, **Position:** `2`, **Words:** Ukraine, Akita, Skopje, Okavango
+- **Letter:** `k`, **Position:** `3`, **Words:** Pakistan, Tokyo, Baku
+- **Letter:** `k`, **Position:** `4`, **Words:** Reykjavik, Burkina-Faso, Krakow, Turkmenistan
+- **Letter:** `k`, **Position:** `5`, **Words:** Kazakhstan, Rijeka, Kharkiv, Bangkok
 - **Letter:** `k`, **Position:** `6`, **Words:** Ouzbekistan, Tadjikistan, Saint-Kitts-Et-Nevis
-- **Letter:** `l`, **Position:** `1`, **Words:** Laos, Libye, Liverpool, Lituanie, Lettonie
-- **Letter:** `l`, **Position:** `2`, **Words:** Allemagne, Albanie, Slovaquie, Alfortville, Alexandria
-- **Letter:** `l`, **Position:** `3`, **Words:** Islande, Irlande, Bulgarie, Allemagne, Salvador
-- **Letter:** `l`, **Position:** `4`, **Words:** Sri Lanka, Finlande, Italie, Bielorussie, Chili
-- **Letter:** `l`, **Position:** `5`, **Words:** Honfleur, Nepal, Angola, Thailande, Radolfzell
-- **Letter:** `l`, **Position:** `6`, **Words:** Bresil, Acapulco, Waterloo, Nouvelle-Zelande, Mongolie
-- **Letter:** `m`, **Position:** `1`, **Words:** Moldavie, Mexique, Monaco, Maroc, Montfort
+- **Letter:** `l`, **Position:** `1`, **Words:** Laos, Lituanie, Liban, Luxembourg, Liberia
+- **Letter:** `l`, **Position:** `2`, **Words:** Alfortville, Allemagne, Alexandria, Slovaquie, Albanie
+- **Letter:** `l`, **Position:** `3`, **Words:** Salvador, Pologne, Belgique, Islande, Mali
+- **Letter:** `l`, **Position:** `4`, **Words:** Bielorussie, Philippines, Chili, Italie, Sri Lanka
+- **Letter:** `l`, **Position:** `5`, **Words:** Angola, Thailande, Nepal, Honfleur, Ljubljana
+- **Letter:** `l`, **Position:** `6`, **Words:** Acapulco, Israel, Nouvelle-Zelande, Waterloo, Bresil
+- **Letter:** `m`, **Position:** `1`, **Words:** Maroc, Moldavie, Mozambique, Montenegro, Monaco
 - **Letter:** `m`, **Position:** `2`, **Words:** Oman, Amman, Emirats
-- **Letter:** `m`, **Position:** `3`, **Words:** Gambie, Zimbabwe, Namibie, Cambodge, Cameroun
-- **Letter:** `m`, **Position:** `4`, **Words:** Roumanie, Birmanie, Edimbourg, Xiamen, Quimper
-- **Letter:** `m`, **Position:** `5`, **Words:** Danemark, Allemagne, Panama, Luxembourg, Mozambique
-- **Letter:** `m`, **Position:** `6`, **Words:** Guatemala, Royaume-Uni, Saint-Marin
-- **Letter:** `n`, **Position:** `1`, **Words:** Nicaragua, Niger, Norvege, Nepal, Nigeria
-- **Letter:** `n`, **Position:** `2`, **Words:** Andorre, Indonesie, Annecy, Inde, Angola
-- **Letter:** `n`, **Position:** `3`, **Words:** Geneve, Singapour, Venezuela, Monaco, Hongrie
-- **Letter:** `n`, **Position:** `4`, **Words:** Ghana, Sydney, Grenade, Guinee, Chine
-- **Letter:** `n`, **Position:** `5`, **Words:** Liban, Argentine, Gabon, Yemen, Albanie
-- **Letter:** `n`, **Position:** `6`, **Words:** Soudan, Jordanie, Montenegro, Birmanie, Tijuana
-- **Letter:** `o`, **Position:** `1`, **Words:** Ouganda, Oxford, Oman, Ouzbekistan, Okavango
-- **Letter:** `o`, **Position:** `2`, **Words:** Moscou, Norvege, Honduras, Royaume-Uni, Mozambique
-- **Letter:** `o`, **Position:** `3`, **Words:** Sao, Georgie, Laos, Slovaquie, Slovenie
-- **Letter:** `o`, **Position:** `4`, **Words:** Pologne, Gabon, Andorre, Maroc, Oxford
-- **Letter:** `o`, **Position:** `5`, **Words:** Lettonie, Djibouti, Congo, Ethiopie, Moscou
-- **Letter:** `o`, **Position:** `6`, **Words:** Beaufort, Monaco, Montfort, Avignon, Cameroun
-- **Letter:** `p`, **Position:** `1`, **Words:** Philippines, Pologne, Portugal, Porto, Pays-Bas
-- **Letter:** `p`, **Position:** `2`, **Words:** Epinal, Epinay, Apt
-- **Letter:** `p`, **Position:** `3`, **Words:** Arpajon, Espagne, Japon, Cap-Vert, Nepal
-- **Letter:** `p`, **Position:** `4`, **Words:** Acapulco, Chypre, Egypte, Skopje
-- **Letter:** `p`, **Position:** `5`, **Words:** Budapest, Quimper, Chiapas
-- **Letter:** `p`, **Position:** `6`, **Words:** Singapour, Liverpool, Philippines, Ethiopie
-- **Letter:** `q`, **Position:** `1`, **Words:** Qatar, Quebec, Quimper
-- **Letter:** `q`, **Position:** `2`, **Words:** Equateur, Iquique, Aqaba
-- **Letter:** `q`, **Position:** `3`, **Words:** Ecquevilly, Arques, Roques
-- **Letter:** `q`, **Position:** `4`, **Words:** Turquie, Bosq, Iraq
+- **Letter:** `m`, **Position:** `3`, **Words:** Armenie, Namibie, Cambodge, Zimbabwe, Gambie
+- **Letter:** `m`, **Position:** `4`, **Words:** Roumanie, Birmanie, Edimbourg, Quimper, Xiamen
+- **Letter:** `m`, **Position:** `5`, **Words:** Mozambique, Danemark, Allemagne, Bahamas, Colombie
+- **Letter:** `m`, **Position:** `6`, **Words:** Royaume-Uni, Guatemala, Saint-Marin
+- **Letter:** `n`, **Position:** `1`, **Words:** Norwich, Nigeria, Norvege, Nancy, Nicaragua
+- **Letter:** `n`, **Position:** `2`, **Words:** Indonesie, Annecy, Angola, Inde, Andorre
+- **Letter:** `n`, **Position:** `3`, **Words:** Hongrie, Panama, Congo, Annecy, Senegal
+- **Letter:** `n`, **Position:** `4`, **Words:** Sydney, Shanghai, Chine, Guinee, Rwanda
+- **Letter:** `n`, **Position:** `5`, **Words:** Burundi, Albanie, Avignon, Evian, Indonesie
+- **Letter:** `n`, **Position:** `6`, **Words:** Soudan, Tijuana, Slovenie, Espagne, Sri Lanka
+- **Letter:** `o`, **Position:** `1`, **Words:** Ouganda, Ouzbekistan, Oman, Oxford, Okavango
+- **Letter:** `o`, **Position:** `2`, **Words:** Rochefort, Honduras, Hongrie, Portugal, Porto
+- **Letter:** `o`, **Position:** `3`, **Words:** Croatie, Slovaquie, Sao, Slovenie, Georgie
+- **Letter:** `o`, **Position:** `4`, **Words:** Indonesie, Andorre, Togo, Estonie, Colombie
+- **Letter:** `o`, **Position:** `5`, **Words:** Porto, Cambodge, Moscou, Djibouti, Palaos
+- **Letter:** `o`, **Position:** `6`, **Words:** Arpajon, Avignon, Montfort, Cameroun, Edimbourg
+- **Letter:** `p`, **Position:** `1`, **Words:** Palaos, Pologne, Panama, Paraguay, Portugal
+- **Letter:** `p`, **Position:** `2`, **Words:** Epinal, Apt, Epinay
+- **Letter:** `p`, **Position:** `3`, **Words:** Espagne, Cap-Vert, Arpajon, Japon, Nepal
+- **Letter:** `p`, **Position:** `4`, **Words:** Acapulco, Egypte, Chypre, Skopje
+- **Letter:** `p`, **Position:** `5`, **Words:** Budapest, Chiapas, Quimper
+- **Letter:** `p`, **Position:** `6`, **Words:** Singapour, Ethiopie, Liverpool, Philippines
+- **Letter:** `q`, **Position:** `1`, **Words:** Quebec, Qatar, Quimper
+- **Letter:** `q`, **Position:** `2`, **Words:** Equateur, Aqaba, Iquique
+- **Letter:** `q`, **Position:** `3`, **Words:** Arques, Roques, Ecquevilly
+- **Letter:** `q`, **Position:** `4`, **Words:** Turquie, Iraq, Bosq
 - **Letter:** `q`, **Position:** `5`, **Words:** Mexique, Iquique, Afrique Du Sud
-- **Letter:** `q`, **Position:** `6`, **Words:** Jamaique, Slovaquie, Belgique
-- **Letter:** `r`, **Position:** `1`, **Words:** Rwanda, Royaume-Uni, Roumanie, Rochefort, Russie
-- **Letter:** `r`, **Position:** `2`, **Words:** Bresil, Sri Lanka, Armenie, Argentine, Croatie
-- **Letter:** `r`, **Position:** `3`, **Words:** Syrie, Turquie, Norwich, Burundi, Birmanie
-- **Letter:** `r`, **Position:** `4`, **Words:** Georgie, Livry, Maurice, Bahrein, Mauritanie
-- **Letter:** `r`, **Position:** `5`, **Words:** Alfortville, Hongrie, Liverpool, Comores, Niger
-- **Letter:** `r`, **Position:** `6`, **Words:** Honduras, Bielorussie, Cap-Vert, Agadir, Belfort
-- **Letter:** `s`, **Position:** `1`, **Words:** Sao, Senegal, Shanghai, Sri Lanka, Slovenie
-- **Letter:** `s`, **Position:** `2`, **Words:** Islande, Estonie, Israel, Espagne, Eswatini
-- **Letter:** `s`, **Position:** `3`, **Words:** Costa Rica, Washington, Russie, Moscou, Australie
-- **Letter:** `s`, **Position:** `4`, **Words:** Suisse, Pays-Bas, Laos, Russie, Bresil
-- **Letter:** `s`, **Position:** `5`, **Words:** Etats-Unis, Suisse, Pakistan, Tunisie, Iles Salomon
-- **Letter:** `s`, **Position:** `6`, **Words:** Palaos, Malaisie, Belfast, Roques, Arques
-- **Letter:** `t`, **Position:** `1`, **Words:** Tchad, Thailande, Tijuana, Tokyo, Tanzanie
+- **Letter:** `q`, **Position:** `6`, **Words:** Slovaquie, Belgique, Jamaique
+- **Letter:** `r`, **Position:** `1`, **Words:** Rwanda, Rochefort, Roumanie, Reykjavik, Russie
+- **Letter:** `r`, **Position:** `2`, **Words:** Argentine, Bresil, Dreux, Croatie, Uruguay
+- **Letter:** `r`, **Position:** `3`, **Words:** Jordanie, Porto, Ukraine, Perou, Birmanie
+- **Letter:** `r`, **Position:** `4`, **Words:** Livry, Georgie, Autriche, Mauritanie, Bahrein
+- **Letter:** `r`, **Position:** `5`, **Words:** Niger, Andorre, Australie, Waterloo, Oxford
+- **Letter:** `r`, **Position:** `6`, **Words:** Costa Rica, Andorre, Cap-Vert, Bielorussie, Agadir
+- **Letter:** `s`, **Position:** `1`, **Words:** Shanghai, Syrie, Suisse, Suede, Senegal
+- **Letter:** `s`, **Position:** `2`, **Words:** Estonie, Islande, Espagne, Israel, Eswatini
+- **Letter:** `s`, **Position:** `3`, **Words:** Russie, Moscou, Australie, Costa Rica, Washington
+- **Letter:** `s`, **Position:** `4`, **Words:** Russie, Pays-Bas, Laos, Botswana, Bresil
+- **Letter:** `s`, **Position:** `5`, **Words:** Pakistan, Tunisie, Etats-Unis, Suisse, Palestine
+- **Letter:** `s`, **Position:** `6`, **Words:** Belfast, Malaisie, Palaos, Roques, Arques
+- **Letter:** `t`, **Position:** `1`, **Words:** Turquie, Tunisie, Tijuana, Togo, Thailande
 - **Letter:** `t`, **Position:** `2`, **Words:** Italie, Etats-Unis, Ethiopie, Stuttgart
-- **Letter:** `t`, **Position:** `3`, **Words:** Lituanie, Vatican, Waterloo, Lettonie, Botswana
-- **Letter:** `t`, **Position:** `4`, **Words:** Montenegro, Portugal, Lettonie, Guatemala, Etats-Unis
-- **Letter:** `t`, **Position:** `5`, **Words:** Croatie, Egypte, Equateur, Saint-Vincent-Et-Les-Grenadines, Sainte-Lucie
-- **Letter:** `t`, **Position:** `6`, **Words:** Argentine, Pakistan, Mauritanie, Koweit, Alfortville
+- **Letter:** `t`, **Position:** `3`, **Words:** Qatar, Lituanie, Lettonie, Botswana, Estonie
+- **Letter:** `t`, **Position:** `4`, **Words:** Guatemala, Etats-Unis, Haiti, Montfort, Costa Rica
+- **Letter:** `t`, **Position:** `5`, **Words:** Equateur, Egypte, Croatie, Lesotho, Saint-Kitts-Et-Nevis
+- **Letter:** `t`, **Position:** `6`, **Words:** Argentine, Alfortville, Pakistan, Vanuatu, Koweit
 - **Letter:** `u`, **Position:** `1`, **Words:** Uruguay, Ukraine, Uganda
-- **Letter:** `u`, **Position:** `2`, **Words:** Autriche, Burundi, Tunisie, Suisse, Cuba
-- **Letter:** `u`, **Position:** `3`, **Words:** Soudan, Equateur, Nouvelle-Zelande, Abu Dhabi, Roumanie
-- **Letter:** `u`, **Position:** `4`, **Words:** Tijuana, Beaufort, Vanuatu, Lituanie, Meaux
-- **Letter:** `u`, **Position:** `5`, **Words:** Uruguay, Acapulco, Portugal, Honduras, Royaume-Uni
-- **Letter:** `u`, **Position:** `6`, **Words:** Paraguay, Venezuela, Djibouti, Etats-Unis, Moscou
-- **Letter:** `v`, **Position:** `1`, **Words:** Vichy, Vanuatu, Vietnam, Venezuela, Vatican
-- **Letter:** `v`, **Position:** `2`, **Words:** Evian, Evreux, Avignon, Evry
-- **Letter:** `v`, **Position:** `3`, **Words:** Liverpool, Savigny, Livry, Juvisy
-- **Letter:** `v`, **Position:** `4`, **Words:** Norvege, Slovenie, Nouvelle-Zelande, Salvador, Cap-Vert
+- **Letter:** `u`, **Position:** `2`, **Words:** Guinee, Guyana, Cuba, Quebec, Australie
+- **Letter:** `u`, **Position:** `3`, **Words:** Uruguay, Nouvelle-Zelande, Maurice, Equateur, Mauritanie
+- **Letter:** `u`, **Position:** `4`, **Words:** Beaufort, Burundi, Tijuana, Meaux, Vanuatu
+- **Letter:** `u`, **Position:** `5`, **Words:** Honduras, Acapulco, Evreux, Uruguay, Perou
+- **Letter:** `u`, **Position:** `6`, **Words:** Djibouti, Mexique, Moscou, Etats-Unis, Paraguay
+- **Letter:** `v`, **Position:** `1`, **Words:** Vichy, Vietnam, Vatican, Vanuatu, Venezuela
+- **Letter:** `v`, **Position:** `2`, **Words:** Evian, Avignon, Evry, Evreux
+- **Letter:** `v`, **Position:** `3`, **Words:** Savigny, Livry, Liverpool, Juvisy
+- **Letter:** `v`, **Position:** `4`, **Words:** Nouvelle-Zelande, Salvador, Norvege, Cap-Vert, Slovenie
 - **Letter:** `v`, **Position:** `5`, **Words:** Bolivie, Geneve, Abbeville
-- **Letter:** `v`, **Position:** `6`, **Words:** Moldavie, Maldives, Saint-Vincent-Et-Les-Grenadines, Ecquevilly
+- **Letter:** `v`, **Position:** `6`, **Words:** Maldives, Moldavie, Ecquevilly, Saint-Vincent-Et-Les-Grenadines
 - **Letter:** `w`, **Position:** `1`, **Words:** Washington, Waterloo, Warsaw
 - **Letter:** `w`, **Position:** `3`, **Words:** Koweit, Eswatini
 - **Letter:** `w`, **Position:** `4`, **Words:** Norwich, Darwin
 - **Letter:** `w`, **Position:** `5`, **Words:** Botswana, Malawi
-- **Letter:** `w`, **Position:** `6`, **Words:** Krakow, Warsaw, Moscow
+- **Letter:** `w`, **Position:** `6`, **Words:** Warsaw, Krakow, Moscow
 - **Letter:** `x`, **Position:** `3`, **Words:** Mexique, Luxembourg
-- **Letter:** `x`, **Position:** `5`, **Words:** Dreux, Meaux
+- **Letter:** `x`, **Position:** `5`, **Words:** Meaux, Dreux
 - **Letter:** `y`, **Position:** `2`, **Words:** Syrie, Sydney
-- **Letter:** `y`, **Position:** `3`, **Words:** Pays-Bas, Royaume-Uni, Reykjavik, Egypte, Seychelles
-- **Letter:** `y`, **Position:** `4`, **Words:** Kenya, Tokyo, Libye, Evry
-- **Letter:** `y`, **Position:** `5`, **Words:** Livry, Vichy, Nancy
-- **Letter:** `y`, **Position:** `6`, **Words:** Sydney, Annecy, Grigny, Juvisy, Epinay
+- **Letter:** `y`, **Position:** `3`, **Words:** Pays-Bas, Reykjavik, Chypre, Egypte, Guyana
+- **Letter:** `y`, **Position:** `4`, **Words:** Kenya, Evry, Libye, Tokyo
+- **Letter:** `y`, **Position:** `5`, **Words:** Vichy, Livry, Nancy
+- **Letter:** `y`, **Position:** `6`, **Words:** Annecy, Sydney, Epinay, Juvisy, Grigny
 - **Letter:** `z`, **Position:** `1`, **Words:** Zimbabwe, Zambie
-- **Letter:** `z`, **Position:** `3`, **Words:** Mozambique, Kazakhstan, Ouzbekistan
+- **Letter:** `z`, **Position:** `3`, **Words:** Kazakhstan, Ouzbekistan, Mozambique
 
 </details>
 
@@ -5974,162 +5974,162 @@ Total missing words: `10`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** aspirateur, antivol, anorak, ampoule, ardoise
-- **Letter:** `a`, **Position:** `2`, **Words:** valise, fauteuil, raclette, latex, cafetiere
-- **Letter:** `a`, **Position:** `3`, **Words:** craie, chaussons, chapeau, clavier, plaid
-- **Letter:** `a`, **Position:** `4`, **Words:** parasol, balai, caramel, cisaille, ruban
-- **Letter:** `a`, **Position:** `5`, **Words:** anorak, radiateur, cartable, pancake, portable
-- **Letter:** `a`, **Position:** `6`, **Words:** ordinateur, cadenas, aspirateur, plumeau, eventail
-- **Letter:** `b`, **Position:** `1`, **Words:** ballon, bandeau, balayette, bocal, baskets
+- **Letter:** `a`, **Position:** `1`, **Words:** amplificateur, aerateur, ampoule, aiguille, aspirateur
+- **Letter:** `a`, **Position:** `2`, **Words:** raclette, latex, tasse, balai, canape
+- **Letter:** `a`, **Position:** `3`, **Words:** charniere, chaussettes, chaudron, chaussons, elastique
+- **Letter:** `a`, **Position:** `4`, **Words:** magazine, balai, aerateur, parasol, cisaille
+- **Letter:** `a`, **Position:** `5`, **Words:** portable, cartable, ciseaux, pancake, guitare
+- **Letter:** `a`, **Position:** `6`, **Words:** eventail, agenda, camera, aspirateur, ordinateur
+- **Letter:** `b`, **Position:** `1`, **Words:** ballon, bidon, bouteille, balayette, bottes
 - **Letter:** `b`, **Position:** `2`, **Words:** abri, objectif, abattant
-- **Letter:** `b`, **Position:** `3`, **Words:** ruban, cable, gobelets, biberon, tube
-- **Letter:** `b`, **Position:** `4`, **Words:** meuble, poubelle, timbre, aqaba, tambour
-- **Letter:** `b`, **Position:** `5`, **Words:** fusible, trombones, lavabo, carabine, djembe
-- **Letter:** `b`, **Position:** `6`, **Words:** portable, cartable, flexible
-- **Letter:** `c`, **Position:** `1`, **Words:** carnet, couverture, craie, charniere, cisaille
-- **Letter:** `c`, **Position:** `2`, **Words:** ecran, echelle, scotch, accordeon, scie
-- **Letter:** `c`, **Position:** `3`, **Words:** hachoir, bocal, hache, sacoche, ficelle
-- **Letter:** `c`, **Position:** `4`, **Words:** cerceau, banc, perceuse, pince, louche
-- **Letter:** `c`, **Position:** `5`, **Words:** scotch, affiche, effaceur, fourchette, sacoche
-- **Letter:** `c`, **Position:** `6`, **Words:** balance, projecteur, pellicule, massicot, barbecue
-- **Letter:** `d`, **Position:** `1`, **Words:** drap, duvet, deodorant, dictionnaire, damier
+- **Letter:** `b`, **Position:** `3`, **Words:** ruban, biberon, cable, gobelets, bibliotheque
+- **Letter:** `b`, **Position:** `4`, **Words:** poubelle, meuble, aqaba, timbre, tambour
+- **Letter:** `b`, **Position:** `5`, **Words:** trombones, fusible, notebook, escabeau, carabine
+- **Letter:** `b`, **Position:** `6`, **Words:** cartable, portable, flexible
+- **Letter:** `c`, **Position:** `1`, **Words:** chaussures, carafe, chemise, cadenas, coquille
+- **Letter:** `c`, **Position:** `2`, **Words:** echelle, scotch, ecran, accoudoir, scie
+- **Letter:** `c`, **Position:** `3`, **Words:** bocal, sacoche, ficelle, hache, raclette
+- **Letter:** `c`, **Position:** `4`, **Words:** couches, cerceau, bracelet, pince, boucle
+- **Letter:** `c`, **Position:** `5`, **Words:** scotch, effaceur, planche, fourchette, affiche
+- **Letter:** `c`, **Position:** `6`, **Words:** balance, pellicule, barbecue, balancier, projecteur
+- **Letter:** `d`, **Position:** `1`, **Words:** deodorant, duvet, drap, doudoune, damier
 - **Letter:** `d`, **Position:** `2`, **Words:** adhesif, additif, odometre
-- **Letter:** `d`, **Position:** `3`, **Words:** bidon, radiateur, rideau, additif, cadre
-- **Letter:** `d`, **Position:** `4`, **Words:** bandeau, tondeuse, cendrier, sandwich, deodorant
-- **Letter:** `d`, **Position:** `5`, **Words:** chaudron, plaid, agenda, etendoir, chandelle
-- **Letter:** `d`, **Position:** `6`, **Words:** calendrier, accordeon, accoudoir, commode, cylindre
-- **Letter:** `e`, **Position:** `1`, **Words:** eventail, eponge, elastique, equerre, enveloppe
-- **Letter:** `e`, **Position:** `2`, **Words:** ventilateur, serpilliere, reveil, beurrier, regle
-- **Letter:** `e`, **Position:** `3`, **Words:** thermos, agenda, oreiller, etendoir, eventail
-- **Letter:** `e`, **Position:** `4`, **Words:** piles, fouet, vase, lime, lame
-- **Letter:** `e`, **Position:** `5`, **Words:** metre, sonnette, survetement, bouteille, couteau
-- **Letter:** `e`, **Position:** `6`, **Words:** boucle, louche, effaceur, coudieres, serviette
-- **Letter:** `f`, **Position:** `1`, **Words:** fusain, flotteur, fourchette, fraise, filtre
-- **Letter:** `f`, **Position:** `2`, **Words:** effaceur, affiche, affuteur
-- **Letter:** `f`, **Position:** `3`, **Words:** cafetiere, effaceur, sifflet, affiche, buffet
-- **Letter:** `f`, **Position:** `4`, **Words:** chiffon, gaufrier, sifflet, moufle, buffet
-- **Letter:** `f`, **Position:** `5`, **Words:** agrafeuse, chiffon, carafe, soufflet
-- **Letter:** `f`, **Position:** `6`, **Words:** amplificateur, justificatif, certificat
-- **Letter:** `g`, **Position:** `1`, **Words:** guitare, gaufrier, gomme, gobelets, guirlande
+- **Letter:** `d`, **Position:** `3`, **Words:** ardoise, ordinateur, cadenas, rideau, bidon
+- **Letter:** `d`, **Position:** `4`, **Words:** cendrier, bandeau, tondeuse, pendule, sandwich
+- **Letter:** `d`, **Position:** `5`, **Words:** chandelle, plaid, chaudron, etendoir, agenda
+- **Letter:** `d`, **Position:** `6`, **Words:** calendrier, grenade, accordeon, cylindre, accoudoir
+- **Letter:** `e`, **Position:** `1`, **Words:** eventail, enveloppe, eponge, entonnoir, equerre
+- **Letter:** `e`, **Position:** `2`, **Words:** cerceau, ventilateur, perceuse, pendule, peluche
+- **Letter:** `e`, **Position:** `3`, **Words:** thermos, chemise, oreiller, agenda, etendoir
+- **Letter:** `e`, **Position:** `4`, **Words:** ficelle, jupe, camera, cafetiere, rideau
+- **Letter:** `e`, **Position:** `5`, **Words:** damier, baskets, survetement, bracelet, lampe
+- **Letter:** `e`, **Position:** `6`, **Words:** bougie, peigne, cuillere, pailles, louche
+- **Letter:** `f`, **Position:** `1`, **Words:** filtre, four, fusible, fraise, flute
+- **Letter:** `f`, **Position:** `2`, **Words:** affiche, effaceur, affuteur
+- **Letter:** `f`, **Position:** `3`, **Words:** affiche, sifflet, cafetiere, effaceur, buffet
+- **Letter:** `f`, **Position:** `4`, **Words:** chiffon, gaufrier, sifflet, coffre, moufle
+- **Letter:** `f`, **Position:** `5`, **Words:** agrafeuse, carafe, chiffon, soufflet
+- **Letter:** `f`, **Position:** `6`, **Words:** amplificateur, certificat, justificatif
+- **Letter:** `g`, **Position:** `1`, **Words:** gomme, guitare, gants, gobelets, gaufrier
 - **Letter:** `g`, **Position:** `2`, **Words:** agenda, igloo, agrafeuse
-- **Letter:** `g`, **Position:** `3`, **Words:** regle, cage, magazine, aiguille, tige
-- **Letter:** `g`, **Position:** `4`, **Words:** mangue, bougeoir, peigne, peignoir, bougie
-- **Letter:** `g`, **Position:** `5`, **Words:** eponge, epingle, chargeur, swing
-- **Letter:** `g`, **Position:** `6`, **Words:** horloge, triangle, phonographe, seringue
-- **Letter:** `h`, **Position:** `1`, **Words:** hachoir, horloge, housse, hache, handwheel
-- **Letter:** `h`, **Position:** `2`, **Words:** chaussures, chemise, chaussettes, thermos, chevilles
+- **Letter:** `g`, **Position:** `3`, **Words:** aiguille, regle, magazine, cage, magnet
+- **Letter:** `g`, **Position:** `4`, **Words:** mangue, bougie, peigne, bougeoir, lingette
+- **Letter:** `g`, **Position:** `5`, **Words:** chargeur, eponge, epingle, swing
+- **Letter:** `g`, **Position:** `6`, **Words:** horloge, phonographe, triangle, seringue
+- **Letter:** `h`, **Position:** `1`, **Words:** horloge, hachoir, hache, housse, helice
+- **Letter:** `h`, **Position:** `2`, **Words:** chargeur, charniere, chaudron, chevilles, chaise
 - **Letter:** `h`, **Position:** `3`, **Words:** cahier, echelle, adhesif
-- **Letter:** `h`, **Position:** `4`, **Words:** hache, hachoir, siphon, sachet, pochette
-- **Letter:** `h`, **Position:** `5`, **Words:** clochette, brochette, mouchoirs, couches, bouchon
-- **Letter:** `h`, **Position:** `6`, **Words:** planche, fourchette, peluche, sacoche, xylophone
+- **Letter:** `h`, **Position:** `4`, **Words:** hache, siphon, hachoir, pochette, yacht
+- **Letter:** `h`, **Position:** `5`, **Words:** cloche, torchon, bouchon, crochet, brochette
+- **Letter:** `h`, **Position:** `6`, **Words:** scotch, fourchette, sacoche, planche, affiche
 - **Letter:** `i`, **Position:** `1`, **Words:** imprimante, igloo, infuseur, index
-- **Letter:** `i`, **Position:** `2`, **Words:** minijack, rideau, minijupe, cintre, lime
-- **Letter:** `i`, **Position:** `3`, **Words:** maillot, slip, guitare, pailles, ceinture
-- **Letter:** `i`, **Position:** `4`, **Words:** cahier, minijupe, craie, papier, oreiller
-- **Letter:** `i`, **Position:** `5`, **Words:** coudieres, rasoir, bottines, reveil, serviette
-- **Letter:** `i`, **Position:** `6`, **Words:** cafetiere, coussin, bikini, additif, charniere
-- **Letter:** `j`, **Position:** `1`, **Words:** jupe, journal, jumelles, jarre, justificatif
-- **Letter:** `j`, **Position:** `2`, **Words:** djellaba, djembe, fjord
-- **Letter:** `j`, **Position:** `3`, **Words:** bijoux, soja, objectif
-- **Letter:** `j`, **Position:** `4`, **Words:** disjoncteur, projecteur, banjo
-- **Letter:** `j`, **Position:** `5`, **Words:** minijack, minijupe, antijeu
-- **Letter:** `j`, **Position:** `6`, **Words:** azulejos, amberjack, blackjack, applejack
-- **Letter:** `k`, **Position:** `1`, **Words:** kiwi, kakis, klaxon, kayak
-- **Letter:** `k`, **Position:** `2`, **Words:** okapi, ski, akene
-- **Letter:** `k`, **Position:** `3`, **Words:** kakis, bikini, poker, yak
-- **Letter:** `k`, **Position:** `4`, **Words:** walkman, baskets, cookies, loukoum, week-end
-- **Letter:** `k`, **Position:** `5`, **Words:** crack, clockwise, kayak, blackjack
+- **Letter:** `i`, **Position:** `2`, **Words:** cintre, bidon, pinceau, minijupe, sifflet
+- **Letter:** `i`, **Position:** `3`, **Words:** ceinture, peignoir, maillot, pailles, slip
+- **Letter:** `i`, **Position:** `4`, **Words:** kiwi, additif, chaise, aspirateur, antivol
+- **Letter:** `i`, **Position:** `5`, **Words:** fusain, miroir, bottines, serpilliere, maquillage
+- **Letter:** `i`, **Position:** `6`, **Words:** cendrier, coussin, charniere, magazine, additif
+- **Letter:** `j`, **Position:** `1`, **Words:** jupe, jumelles, journal, jarre, justificatif
+- **Letter:** `j`, **Position:** `2`, **Words:** fjord, djembe, djellaba
+- **Letter:** `j`, **Position:** `3`, **Words:** bijoux, objectif, soja
+- **Letter:** `j`, **Position:** `4`, **Words:** banjo, projecteur, disjoncteur
+- **Letter:** `j`, **Position:** `5`, **Words:** minijupe, minijack, antijeu
+- **Letter:** `j`, **Position:** `6`, **Words:** blackjack, amberjack, applejack, azulejos
+- **Letter:** `k`, **Position:** `1`, **Words:** kakis, kiwi, kayak, klaxon
+- **Letter:** `k`, **Position:** `2`, **Words:** ski, okapi, akene
+- **Letter:** `k`, **Position:** `3`, **Words:** bikini, kakis, yak, poker
+- **Letter:** `k`, **Position:** `4`, **Words:** walkman, cookies, loukoum, baskets, week-end
+- **Letter:** `k`, **Position:** `5`, **Words:** clockwise, blackjack, crack, kayak
 - **Letter:** `k`, **Position:** `6`, **Words:** pancake, anorak, bazooka
-- **Letter:** `l`, **Position:** `1`, **Words:** lame, lampe, louche, latex, lime
-- **Letter:** `l`, **Position:** `2`, **Words:** elastique, flute, clavier, planche, clou
-- **Letter:** `l`, **Position:** `3`, **Words:** multiprise, balayette, walkman, peluche, piles
-- **Letter:** `l`, **Position:** `4`, **Words:** boulon, amplificateur, rallonge, raclette, roulettes
-- **Letter:** `l`, **Position:** `5`, **Words:** oreiller, maillot, guirlande, puzzle, enveloppe
-- **Letter:** `l`, **Position:** `6`, **Words:** epingle, maquillage, chevilles, poubelle, spatule
-- **Letter:** `m`, **Position:** `1`, **Words:** montre, manteau, metre, marteau, mangue
-- **Letter:** `m`, **Position:** `2`, **Words:** amplificateur, imprimante, ampoule, embout, amberjack
-- **Letter:** `m`, **Position:** `3`, **Words:** camera, camion, lame, damier, armoire
-- **Letter:** `m`, **Position:** `4`, **Words:** gomme, trombones, chemise, plumeau, diamant
-- **Letter:** `m`, **Position:** `5`, **Words:** allumettes, walkman, caramel, thermos, album
+- **Letter:** `l`, **Position:** `1`, **Words:** lance, loukoum, latex, lampe, lustre
+- **Letter:** `l`, **Position:** `2`, **Words:** flotteur, clavier, planche, elastique, plaid
+- **Letter:** `l`, **Position:** `3`, **Words:** balayette, volant, balance, valise, piles
+- **Letter:** `l`, **Position:** `4`, **Words:** rallonge, horloge, boulon, balle, cable
+- **Letter:** `l`, **Position:** `5`, **Words:** enveloppe, gobelets, echelle, guirlande, matelas
+- **Letter:** `l`, **Position:** `6`, **Words:** pendule, ficelle, capsule, echelle, spatule
+- **Letter:** `m`, **Position:** `1`, **Words:** moule, meuble, matelas, mouchoirs, manette
+- **Letter:** `m`, **Position:** `2`, **Words:** amplificateur, imprimante, ampoule, amazone, embout
+- **Letter:** `m`, **Position:** `3`, **Words:** camera, damier, camion, aimant, gomme
+- **Letter:** `m`, **Position:** `4`, **Words:** gomme, trombones, plumeau, chemise, plume
+- **Letter:** `m`, **Position:** `5`, **Words:** thermos, caramel, allumettes, walkman, voltmetre
 - **Letter:** `m`, **Position:** `6`, **Words:** imprimante, costume, chalumeau
-- **Letter:** `n`, **Position:** `1`, **Words:** nappe, northwest, notice, napperon, niveau
-- **Letter:** `n`, **Position:** `2`, **Words:** enveloppe, antenne, anorak, entonnoir, antivol
-- **Letter:** `n`, **Position:** `3`, **Words:** tondeuse, minijack, bonnet, canne, lance
-- **Letter:** `n`, **Position:** `4`, **Words:** chandelle, agenda, etendoir, ceinture, eponge
-- **Letter:** `n`, **Position:** `5`, **Words:** brownie, cadenas, peignoir, volant, ecran
-- **Letter:** `n`, **Position:** `6`, **Words:** camion, fusain, couronne, boulon, antenne
-- **Letter:** `o`, **Position:** `1`, **Words:** oreiller, ordinateur, oeillet, ovale, odometre
-- **Letter:** `o`, **Position:** `2`, **Words:** bouchon, boite, poubelle, boucle, horloge
-- **Letter:** `o`, **Position:** `3`, **Words:** eponge, trombones, trousse, scotch, clou
-- **Letter:** `o`, **Position:** `4`, **Words:** bijoux, armoire, culotte, rasoir, ardoise
-- **Letter:** `o`, **Position:** `5`, **Words:** ballon, rallonge, camion, deodorant, bouton
-- **Letter:** `o`, **Position:** `6`, **Words:** chiffon, maillot, dictionnaire, antivol, torchon
-- **Letter:** `p`, **Position:** `1`, **Words:** puzzle, pinceau, poubelle, plumeau, poussette
-- **Letter:** `p`, **Position:** `2`, **Words:** epingle, eponge, spatule, applejack, eprouvette
-- **Letter:** `p`, **Position:** `3`, **Words:** pupitre, nappe, amplificateur, imprimante, aspirateur
-- **Letter:** `p`, **Position:** `4`, **Words:** drap, loupe, chapeau, rappe, nappe
-- **Letter:** `p`, **Position:** `5`, **Words:** calepin, xylophone, canape, crampons, trappe
-- **Letter:** `p`, **Position:** `6`, **Words:** multiprise, susceptible, concept
-- **Letter:** `q`, **Position:** `1`, **Words:** quille, quartz, quinoa
+- **Letter:** `n`, **Position:** `1`, **Words:** nappe, notice, navette, niveau, napperon
+- **Letter:** `n`, **Position:** `2`, **Words:** enveloppe, antenne, antivol, anorak, entonnoir
+- **Letter:** `n`, **Position:** `3`, **Words:** manette, ventilateur, ponceuse, canape, tondeuse
+- **Letter:** `n`, **Position:** `4`, **Words:** eponge, epingle, planche, bonnet, agenda
+- **Letter:** `n`, **Position:** `5`, **Words:** ordinateur, aimant, ruban, entonnoir, ecran
+- **Letter:** `n`, **Position:** `6`, **Words:** bouton, ballon, siphon, rallonge, boulon
+- **Letter:** `o`, **Position:** `1`, **Words:** ordinateur, oreiller, okapi, oeillet, odometre
+- **Letter:** `o`, **Position:** `2`, **Words:** bottes, four, corde, sonnette, tournevis
+- **Letter:** `o`, **Position:** `3`, **Words:** scotch, deodorant, crochet, flotteur, brosse
+- **Letter:** `o`, **Position:** `4`, **Words:** armoire, culotte, bijoux, bidon, entonnoir
+- **Letter:** `o`, **Position:** `5`, **Words:** doudoune, loukoum, horloge, crayon, console
+- **Letter:** `o`, **Position:** `6`, **Words:** courroie, mouchoirs, antivol, thermos, bougeoir
+- **Letter:** `p`, **Position:** `1`, **Words:** ponceuse, pailles, pinceau, pupitre, plaid
+- **Letter:** `p`, **Position:** `2`, **Words:** epingle, spatule, eponge, epee, applejack
+- **Letter:** `p`, **Position:** `3`, **Words:** ampoule, capsule, siphon, jupe, pupitre
+- **Letter:** `p`, **Position:** `4`, **Words:** drap, lampe, rappe, chapeau, serpilliere
+- **Letter:** `p`, **Position:** `5`, **Words:** xylophone, canape, calepin, crampons, excipients
+- **Letter:** `p`, **Position:** `6`, **Words:** multiprise, concept, susceptible
+- **Letter:** `q`, **Position:** `1`, **Words:** quinoa, quille, quartz
 - **Letter:** `q`, **Position:** `2`, **Words:** equerre, aquarium, aqaba
-- **Letter:** `q`, **Position:** `3`, **Words:** maquillage, coquille, coquetier, moquette, paquet
-- **Letter:** `q`, **Position:** `4`, **Words:** briquet, casquette, disque, casque, etiquette
-- **Letter:** `q`, **Position:** `5`, **Words:** mousqueton, tranquillite
-- **Letter:** `q`, **Position:** `6`, **Words:** perruque, remorque, matraque
-- **Letter:** `r`, **Position:** `1`, **Words:** rappe, ruban, rasoir, radiateur, reveil
-- **Letter:** `r`, **Position:** `2`, **Words:** briquet, crayon, armoire, brochette, fraise
-- **Letter:** `r`, **Position:** `3`, **Words:** agrafeuse, carton, torchon, horloge, portable
-- **Letter:** `r`, **Position:** `4`, **Words:** cadre, metre, tournevis, couronne, anorak
-- **Letter:** `r`, **Position:** `5`, **Words:** courroie, camera, filtre, gaufrier, equerre
-- **Letter:** `r`, **Position:** `6`, **Words:** papier, deodorant, serrure, pupitre, rasoir
-- **Letter:** `s`, **Position:** `1`, **Words:** spatule, siphon, serviette, sacoche, slip
-- **Letter:** `s`, **Position:** `2`, **Words:** assiette, aspirateur, ustensile, essaye, escabeau
-- **Letter:** `s`, **Position:** `3`, **Words:** veste, masse, casserolle, tasse, assiette
-- **Letter:** `s`, **Position:** `4`, **Words:** capsule, brosse, passoire, housse, masse
-- **Letter:** `s`, **Position:** `5`, **Words:** trousse, brosse, adhesif, gants, parasol
-- **Letter:** `s`, **Position:** `6`, **Words:** chaussons, chemise, ardoise, chaussettes, bottes
-- **Letter:** `t`, **Position:** `1`, **Words:** tournevis, twix, tasse, thermos, trousse
-- **Letter:** `t`, **Position:** `2`, **Words:** stylo, etendoir, atlas, stylet, etagere
-- **Letter:** `t`, **Position:** `3`, **Words:** batteur, entonnoir, bottines, bottes, metre
-- **Letter:** `t`, **Position:** `4`, **Words:** scotch, feutres, flute, fauteuil, filtre
-- **Letter:** `t`, **Position:** `5`, **Words:** duvet, additif, aerateur, cafetiere, ceinture
-- **Letter:** `t`, **Position:** `6`, **Words:** lingette, bonnet, survetement, volant, manette
-- **Letter:** `u`, **Position:** `1`, **Words:** usure, urne, ustensile
-- **Letter:** `u`, **Position:** `2`, **Words:** cuillere, fusain, lustre, survetement, fusible
-- **Letter:** `u`, **Position:** `3`, **Words:** courroie, coudieres, couches, bougie, flute
-- **Letter:** `u`, **Position:** `4`, **Words:** trousse, chaussures, aiguille, chaussons, peluche
-- **Letter:** `u`, **Position:** `5`, **Words:** capsule, briquet, serrure, ampoule, pendule
-- **Letter:** `u`, **Position:** `6`, **Words:** tondeuse, ceinture, loukoum, batteur, rideau
-- **Letter:** `v`, **Position:** `1`, **Words:** valise, veste, ventilateur, vis, vase
-- **Letter:** `v`, **Position:** `2`, **Words:** eventail, ovale, avion
-- **Letter:** `v`, **Position:** `3`, **Words:** enveloppe, livre, reveil, duvet, lavabo
-- **Letter:** `v`, **Position:** `4`, **Words:** chevilles, survetement, serviette, clavier, couverture
-- **Letter:** `v`, **Position:** `5`, **Words:** antivol, salive, television
-- **Letter:** `v`, **Position:** `6`, **Words:** eprouvette, reservoir, retroviseur
-- **Letter:** `w`, **Position:** `1`, **Words:** walkman, week-end, wagon
+- **Letter:** `q`, **Position:** `3`, **Words:** coquille, maquillage, paquet, moquette, coquetier
+- **Letter:** `q`, **Position:** `4`, **Words:** casquette, briquet, disque, etiquette, banquette
+- **Letter:** `q`, **Position:** `5`, **Words:** tranquillite, mousqueton
+- **Letter:** `q`, **Position:** `6`, **Words:** remorque, matraque, perruque
+- **Letter:** `r`, **Position:** `1`, **Words:** radiateur, raclette, rideau, rappe, roulettes
+- **Letter:** `r`, **Position:** `2`, **Words:** ardoise, brochette, trombones, brosse, ordinateur
+- **Letter:** `r`, **Position:** `3`, **Words:** horloge, aerateur, caramel, carte, abri
+- **Letter:** `r`, **Position:** `4`, **Words:** cadre, guirlande, beurrier, thermos, fourchette
+- **Letter:** `r`, **Position:** `5`, **Words:** gaufrier, montre, cendrier, biberon, feutres
+- **Letter:** `r`, **Position:** `6`, **Words:** equerre, papier, guitare, couverts, pupitre
+- **Letter:** `s`, **Position:** `1`, **Words:** sandwich, scotch, sonnette, serviette, serrure
+- **Letter:** `s`, **Position:** `2`, **Words:** assiette, aspirateur, escabeau, usure, essaye
+- **Letter:** `s`, **Position:** `3`, **Words:** masse, vase, ciseaux, cisaille, tasse
+- **Letter:** `s`, **Position:** `4`, **Words:** brosse, passoire, console, casserolle, housse
+- **Letter:** `s`, **Position:** `5`, **Words:** adhesif, trousse, poussette, valise, piles
+- **Letter:** `s`, **Position:** `6`, **Words:** trousse, chaussures, chaussettes, chemise, ardoise
+- **Letter:** `t`, **Position:** `1`, **Words:** tasse, torchon, tondeuse, trombones, thermos
+- **Letter:** `t`, **Position:** `2`, **Words:** atlas, stylo, etendoir, store, stylet
+- **Letter:** `t`, **Position:** `3`, **Words:** metre, matelas, antenne, latex, bottines
+- **Letter:** `t`, **Position:** `4`, **Words:** bouteille, fauteuil, flute, marteau, flotteur
+- **Letter:** `t`, **Position:** `5`, **Words:** ceinture, duvet, pupitre, cafetiere, elastique
+- **Letter:** `t`, **Position:** `6`, **Words:** survetement, roulettes, aimant, carnet, manette
+- **Letter:** `u`, **Position:** `1`, **Words:** urne, usure, ustensile
+- **Letter:** `u`, **Position:** `2`, **Words:** ruban, survetement, culotte, guirlande, pupitre
+- **Letter:** `u`, **Position:** `3`, **Words:** fouet, mouchoirs, loukoum, bouton, poussette
+- **Letter:** `u`, **Position:** `4`, **Words:** chaussettes, peluche, trousse, allumettes, aiguille
+- **Letter:** `u`, **Position:** `5`, **Words:** pendule, mangue, briquet, bijoux, serrure
+- **Letter:** `u`, **Position:** `6`, **Words:** fauteuil, tondeuse, ciseaux, perceuse, batteur
+- **Letter:** `v`, **Position:** `1`, **Words:** volant, vis, valise, ventilateur, vase
+- **Letter:** `v`, **Position:** `2`, **Words:** eventail, avion, ovale
+- **Letter:** `v`, **Position:** `3`, **Words:** enveloppe, livre, duvet, reveil, niveau
+- **Letter:** `v`, **Position:** `4`, **Words:** serviette, clavier, couverture, couverts, chevilles
+- **Letter:** `v`, **Position:** `5`, **Words:** antivol, television, salive
+- **Letter:** `v`, **Position:** `6`, **Words:** reservoir, retroviseur, eprouvette
+- **Letter:** `w`, **Position:** `1`, **Words:** walkman, wagon, week-end
 - **Letter:** `w`, **Position:** `2`, **Words:** twix, sweat, swing
 - **Letter:** `w`, **Position:** `3`, **Words:** kiwi, siwa, biwa
 - **Letter:** `w`, **Position:** `4`, **Words:** brownie, show, snowboard
-- **Letter:** `w`, **Position:** `5`, **Words:** sandwich, bandwagon, handwheel
-- **Letter:** `w`, **Position:** `6`, **Words:** clockwise, northwest, patchwork
+- **Letter:** `w`, **Position:** `5`, **Words:** sandwich, handwheel, bandwagon
+- **Letter:** `w`, **Position:** `6`, **Words:** northwest, patchwork, clockwise
 - **Letter:** `x`, **Position:** `1`, **Words:** xylophone, xeres, xerox
-- **Letter:** `x`, **Position:** `2`, **Words:** excursion, examen, excipients
-- **Letter:** `x`, **Position:** `3`, **Words:** sexue, vexer, fixation
-- **Letter:** `x`, **Position:** `4`, **Words:** twix, flexible, klaxon
-- **Letter:** `x`, **Position:** `5`, **Words:** latex, annexe, index, xerox
-- **Letter:** `x`, **Position:** `6`, **Words:** bijoux, finaux, genoux
-- **Letter:** `y`, **Position:** `1`, **Words:** yeti, yacht, yak
+- **Letter:** `x`, **Position:** `2`, **Words:** excipients, examen, excursion
+- **Letter:** `x`, **Position:** `3`, **Words:** fixation, sexue, vexer
+- **Letter:** `x`, **Position:** `4`, **Words:** twix, klaxon, flexible
+- **Letter:** `x`, **Position:** `5`, **Words:** latex, xerox, index, annexe
+- **Letter:** `x`, **Position:** `6`, **Words:** bijoux, genoux, finaux
+- **Letter:** `y`, **Position:** `1`, **Words:** yeti, yak, yacht
 - **Letter:** `y`, **Position:** `2`, **Words:** xylophone, cylindre, lyre
-- **Letter:** `y`, **Position:** `3`, **Words:** stylo, tuyau, kayak, stylet
+- **Letter:** `y`, **Position:** `3`, **Words:** stylo, kayak, tuyau, stylet
 - **Letter:** `y`, **Position:** `4`, **Words:** crayon, broyeur, chrysantheme
-- **Letter:** `y`, **Position:** `5`, **Words:** balayette, spray, essaye
-- **Letter:** `y`, **Position:** `6`, **Words:** nettoyant, convoyer, employe
+- **Letter:** `y`, **Position:** `5`, **Words:** balayette, essaye, spray
+- **Letter:** `y`, **Position:** `6`, **Words:** convoyer, nettoyant, employe
 - **Letter:** `z`, **Position:** `1`, **Words:** zele, zeste, zip
 - **Letter:** `z`, **Position:** `2`, **Words:** azulejos, azimut, azote
-- **Letter:** `z`, **Position:** `3`, **Words:** puzzle, bazooka, gaz
-- **Letter:** `z`, **Position:** `4`, **Words:** puzzle, snazzier, aleze, amazone, blizzard
+- **Letter:** `z`, **Position:** `3`, **Words:** puzzle, gaz, bazooka
+- **Letter:** `z`, **Position:** `4`, **Words:** puzzle, blizzard, amazone, snazzier, aleze
 - **Letter:** `z`, **Position:** `5`, **Words:** magazine, blizzard, snazzier
-- **Letter:** `z`, **Position:** `6`, **Words:** pincez, trapeze, quartz
+- **Letter:** `z`, **Position:** `6`, **Words:** quartz, pincez, trapeze
 
 </details>
 
@@ -6145,171 +6145,166 @@ Total missing words: `0`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Auguste Renoir, Audrey Fleurot, Al Pacino, Alain Prost, Akhenaton
-- **Letter:** `a`, **Position:** `2`, **Words:** Yannick Noah, Jamie Foxx, Madonna, Dave, Carlos
-- **Letter:** `a`, **Position:** `3`, **Words:** Diana Ross, Omar Sy, Mbappe, Gradur, Jean Mace
-- **Letter:** `a`, **Position:** `4`, **Words:** Renaud, Ronaldinho, Emmaus, Tupac, Mika
-- **Letter:** `a`, **Position:** `5`, **Words:** Joe Dassin, Alexandre Astier, Guy Carlier, Bob Marley, Slimane
-- **Letter:** `a`, **Position:** `6`, **Words:** Stromae, Ray Charles, Dalida, Sheila, Bill Gates
-- **Letter:** `b`, **Position:** `1`, **Words:** Bob Marley, Benabar, Blanquer Jean-Michel, Bruno Mars, Beyonce
-- **Letter:** `b`, **Position:** `3`, **Words:** Robert Redford, Bob Marley, Bob Dylan
-- **Letter:** `b`, **Position:** `4`, **Words:** Barbara, Guy Bedos, Luc Besson, Booba, Isabelle Huppert
-- **Letter:** `b`, **Position:** `5`, **Words:** Jeff Bezos, Dany Boon, Leon Blum, Emma Blunt, Benabar
-- **Letter:** `b`, **Position:** `6`, **Words:** Ice Cube, David Bowie, David Beckham, Usain Bolt, Max Weber
-- **Letter:** `c`, **Position:** `1`, **Words:** Cyril Lignac, Cyril Gane, Cleopatre, Cher, Coluche
-- **Letter:** `c`, **Position:** `2`, **Words:** Ice Cube, McQueen Steve, SCH, McFly
-- **Letter:** `c`, **Position:** `3`, **Words:** Jacques Chirac, Jacques Mesrine, Jacques Dutronc, Zac Efron, Victor Hugo
-- **Letter:** `c`, **Position:** `4`, **Words:** Marco Polo, Vincent Cassel, Marc Levy, Tom Cruise, Bruce Lee
-- **Letter:** `c`, **Position:** `5`, **Words:** Al Pacino, John Cena, Spencer Bud, Kurt Cobain, Coluche
-- **Letter:** `c`, **Position:** `6`, **Words:** Affleck Ben, Yannick Jadot, Beyonce, Yannick Noah, Kevin Costner
-- **Letter:** `d`, **Position:** `1`, **Words:** DJ Snake, Diams, Diana Ross, David Guetta, David Beckham
+- **Letter:** `a`, **Position:** `1`, **Words:** Alexandre Astier, Angele, Al Pacino, Artus, Auguste Renoir
+- **Letter:** `a`, **Position:** `2`, **Words:** David Fincher, Marc Levy, Jacques Dutronc, Jack Lang, Kanye West
+- **Letter:** `a`, **Position:** `3`, **Words:** Alain Prost, Mbappe, Shaggy, Jean Mace, Sia
+- **Letter:** `a`, **Position:** `4`, **Words:** Emma Stone, Logan Paul, Elsa Fayer, SpearsBritney, Issa Doumbia
+- **Letter:** `a`, **Position:** `5`, **Words:** Booba, Ousmane Dembele, Lil Nas X, DJ Khaled, Slimane
+- **Letter:** `a`, **Position:** `6`, **Words:** Manu Payet, Orelsan, John Wayne, Jean Gabin, Elsa Fayer
+- **Letter:** `b`, **Position:** `1`, **Words:** Bob Marley, Boris Vian, Beyonce, Blanquer Jean-Michel, Bruce Lee
+- **Letter:** `b`, **Position:** `2`, **Words:** Mbappe, Ibrahimovic, Abel Tesfaye, Ibaka Serge
+- **Letter:** `b`, **Position:** `3`, **Words:** Bob Marley, Bob Dylan, Robert Redford
+- **Letter:** `b`, **Position:** `4`, **Words:** Booba, Barbara, Xzibit, Guy Bedos, Isabelle Huppert
+- **Letter:** `b`, **Position:** `5`, **Words:** Jose Bove, Dany Boon, Jeff Bezos, Hugo Boss, Jack Black
+- **Letter:** `b`, **Position:** `6`, **Words:** Mel Gibson, David Bowie, Usain Bolt, Max Weber, David Beckham
+- **Letter:** `c`, **Position:** `1`, **Words:** Calogero, Cyprien, Cyril Gane, Cher, Cleopatre
+- **Letter:** `c`, **Position:** `2`, **Words:** Ice Cube, SCH, McQueen Steve, McFly
+- **Letter:** `c`, **Position:** `3`, **Words:** Luc Besson, Jacques Brel, Oscar Wilde, Macklemore, Jacques Mesrine
+- **Letter:** `c`, **Position:** `4`, **Words:** Guy Carlier, Vincent Cassel, Malcom X, Ice Cube, Avicii
+- **Letter:** `c`, **Position:** `5`, **Words:** Tupac, Rene Coty, Franco, Kurt Cobain, Isaac Newton
+- **Letter:** `c`, **Position:** `6`, **Words:** Affleck Ben, Kevin Costner, Yannick Alleno, Yannick Jadot, Yannick Noah
+- **Letter:** `d`, **Position:** `1`, **Words:** DJ Khaled, David Douillet, Dr Dre, Diana Ross, David Beckham
 - **Letter:** `d`, **Position:** `2`, **Words:** Adele, Edith Piaf, Ed Harris, Ed Sheeran, Edward Norton
-- **Letter:** `d`, **Position:** `3`, **Words:** Audrey Fleurot, Dr Dre, Lady Gaga, Jude Law, Ludacris
-- **Letter:** `d`, **Position:** `4`, **Words:** Joe Dassin, Woody Allen, Gradur, Bob Dylan, Vin Diesel
-- **Letter:** `d`, **Position:** `5`, **Words:** Stendhal, Matt Damon, David Fincher, David Bowie, David Beckham
-- **Letter:** `d`, **Position:** `6`, **Words:** Vivaldi, Edward Norton, Novak Djokovic, Guy Bedos, Ronaldinho
-- **Letter:** `e`, **Position:** `1`, **Words:** Ed Harris, Eva Green, Elsa Fayer, Estelle Denis, Eminem
-- **Letter:** `e`, **Position:** `2`, **Words:** Lewis Hamilton, Genevieve de Fontenay, Leon Blum, Jean Gabin, Jeff Bezos
-- **Letter:** `e`, **Position:** `3`, **Words:** Cher, Orelsan, Cleopatre, Axelle Red, Ice Cube
-- **Letter:** `e`, **Position:** `4`, **Words:** Tiger Woods, Jake Paul, Thierry Henry, Anne Frank, Estelle Denis
-- **Letter:** `e`, **Position:** `5`, **Words:** Ed Sheeran, Guy Bedos, Jamie Foxx, Pfizer Charles, Maite
-- **Letter:** `e`, **Position:** `6`, **Words:** The Weeknd, Jacques Brel, Stephen King, Galilee, Katy Perry
-- **Letter:** `f`, **Position:** `1`, **Words:** Fernandel, Franco, Fianso, Farinelli, Faudel
-- **Letter:** `f`, **Position:** `2`, **Words:** Affleck Ben, Pfizer Charles, Efron Zac, Afida Turner
-- **Letter:** `f`, **Position:** `3`, **Words:** Jeff Bezos, Affleck Ben, Kofi Annan, McFly, La Fouine
-- **Letter:** `f`, **Position:** `4`, **Words:** Jeff Bezos, Leo Ferre, Swift Taylor, Rohff, Bigflo
-- **Letter:** `f`, **Position:** `5`, **Words:** Rohff, Zac Efron, Enzo Ferrari, Luis Fonsi, Anne Frank
-- **Letter:** `f`, **Position:** `6`, **Words:** Liane Foly, Megan Fox, Jamie Foxx, Roger Federer, David Fincher
-- **Letter:** `g`, **Position:** `1`, **Words:** Guy Carlier, Gal Gadot, Garou, Guy Bedos, Genevieve de Fontenay
-- **Letter:** `g`, **Position:** `3`, **Words:** Hugo Lloris, Bigflo, Hugh Grant, Angun, Angele
-- **Letter:** `g`, **Position:** `4`, **Words:** Serge Lama, Gal Gadot, Shaggy, Herge, Eva Green
-- **Letter:** `g`, **Position:** `5`, **Words:** Bill Gates, Lady Gaga, Calogero, Hugh Grant, Shaggy
-- **Letter:** `g`, **Position:** `6`, **Words:** Van Gogh, David Guetta, Cyril Gane, David Ginola, Majax Gerard
-- **Letter:** `h`, **Position:** `1`, **Words:** Hugo Boss, Henry IV, Harry Kane, Hugo Lloris, Hugh Grant
-- **Letter:** `h`, **Position:** `2`, **Words:** Shawn Mendes, Shaggy, Cher, Shakira, Thierry Henry
-- **Letter:** `h`, **Position:** `3`, **Words:** Ed Harris, John Kerry, Rohff, Akhenaton, Rihanna
-- **Letter:** `h`, **Position:** `4`, **Words:** Luchini, DJ Khaled, Michael Jordan, Ed Sheeran, Tom Hanks
-- **Letter:** `h`, **Position:** `5`, **Words:** Ray Charles, Edith Piaf, Stephen King, Tony Hawk, Wiz Khalifa
-- **Letter:** `h`, **Position:** `6`, **Words:** Manu Chao, Coluche, Stendhal, Lewis Hamilton, Jonah Hill
-- **Letter:** `i`, **Position:** `1`, **Words:** Ines Reg, Issa Doumbia, Isabelle Huppert, Isabelle Adjani, Ice Cube
-- **Letter:** `i`, **Position:** `2`, **Words:** Tim Burton, Rita Ora, Lily Allen, Jim Carey, Nina Ricci
-- **Letter:** `i`, **Position:** `3`, **Words:** Olivia Ruiz, Edith Piaf, Taig Kris, Luis Fonsi, Thierry Henry
-- **Letter:** `i`, **Position:** `4`, **Words:** Moliere, Cyril Gane, Lewis Hamilton, Boris Vian, Cyril Lignac
-- **Letter:** `i`, **Position:** `5`, **Words:** Olivia Ruiz, Garcimore, Yannick Noah, Will I Am, Yannick Alleno
-- **Letter:** `i`, **Position:** `6`, **Words:** Veronique Sanson, Montaigne, Nina Ricci, Brad Pitt, Bourvil
-- **Letter:** `j`, **Position:** `1`, **Words:** Jared Leto, Jacques Mesrine, Jamie Foxx, Jean Gabin, Jude Law
-- **Letter:** `j`, **Position:** `2`, **Words:** DJ Snake, DJ Khaled, JJ Abrahms
-- **Letter:** `j`, **Position:** `3`, **Words:** Wejdene, Majax Gerard, Xi Jinping
-- **Letter:** `j`, **Position:** `4`, **Words:** Tom Jones, Jon Jones
-- **Letter:** `j`, **Position:** `6`, **Words:** Lopez Jennifer, Steve Jobs, Elton John
-- **Letter:** `k`, **Position:** `1`, **Words:** Kad Merad, Kyan Kojandi, Katy Perry, Kate Moss, Kylian Mbappe
+- **Letter:** `d`, **Position:** `3`, **Words:** Jude Law, Lady Gaga, Teddy Riner, Audrey Tautou, Madonna
+- **Letter:** `d`, **Position:** `4`, **Words:** Gradur, Teddy Riner, Vin Diesel, Brad Pitt, Bob Dylan
+- **Letter:** `d`, **Position:** `5`, **Words:** Jared Leto, David Fincher, David Bowie, David Guetta, Walt Disney
+- **Letter:** `d`, **Position:** `6`, **Words:** Ronaldo, David Douillet, Guy Bedos, Renaud, Vivaldi
+- **Letter:** `e`, **Position:** `1`, **Words:** Emile Zola, Elton John, Elsa Fayer, Enrique Iglesias, Elvis Presley
+- **Letter:** `e`, **Position:** `2`, **Words:** Lenine, Fernandel, Sean Penn, Lewis Hamilton, Meg Ryan
+- **Letter:** `e`, **Position:** `3`, **Words:** Stendhal, Owen Wilson, Stephen King, Ice Cube, Ines Reg
+- **Letter:** `e`, **Position:** `4`, **Words:** Mike Tyson, Dave, Robert Redford, Pele, Jose Bove
+- **Letter:** `e`, **Position:** `5`, **Words:** Russel Crowe, Moliere, Nolwenn Leroy, Serge Lama, Liane Foly
+- **Letter:** `e`, **Position:** `6`, **Words:** Sean Penn, Macklemore, Enzo Ferrari, John Cena, Vin Diesel
+- **Letter:** `f`, **Position:** `1`, **Words:** Fernandel, Franco, Faudel, Farinelli, Fianso
+- **Letter:** `f`, **Position:** `2`, **Words:** Pfizer Charles, Efron Zac, Affleck Ben, Afida Turner
+- **Letter:** `f`, **Position:** `3`, **Words:** Affleck Ben, Jeff Bezos, Kofi Annan, La Fouine, McFly
+- **Letter:** `f`, **Position:** `4`, **Words:** Leo Ferre, Rohff, Bigflo, Jeff Bezos, Swift Taylor
+- **Letter:** `f`, **Position:** `5`, **Words:** Anne Frank, Elsa Fayer, Rohff, Zac Efron, Luis Fonsi
+- **Letter:** `f`, **Position:** `6`, **Words:** Jules Ferry, Megan Fox, Roger Federer, Liane Foly, David Fincher
+- **Letter:** `g`, **Position:** `1`, **Words:** Galilee, Garou, Guy Bedos, Gustave Eiffel, Gwen Stefani
+- **Letter:** `g`, **Position:** `2`, **Words:** Iggy Pop, Igor Stravinsky, Agatha Christie
+- **Letter:** `g`, **Position:** `3`, **Words:** Meg Ryan, Nagui, Regine, Auguste Renoir, Logan Paul
+- **Letter:** `g`, **Position:** `4`, **Words:** Eva Green, Taig Kris, Serge Lama, Shaggy, Mel Gibson
+- **Letter:** `g`, **Position:** `5`, **Words:** Sting, Hugh Grant, Calogero, Jean Gabin, Lady Gaga
+- **Letter:** `g`, **Position:** `6`, **Words:** David Ginola, David Guetta, Cyril Gane, Van Gogh, Andre Gide
+- **Letter:** `h`, **Position:** `1`, **Words:** Henry IV, Hugo Boss, Hugo Lloris, Hawk Tony, Herge
+- **Letter:** `h`, **Position:** `2`, **Words:** Shaggy, Shakira, The Weeknd, Shawn Mendes, Cher
+- **Letter:** `h`, **Position:** `3`, **Words:** Rihanna, Ed Harris, Usher, Rohff, Akhenaton
+- **Letter:** `h`, **Position:** `4`, **Words:** Luchini, Hugh Grant, Ed Sheeran, Michael Jordan, Tom Hanks
+- **Letter:** `h`, **Position:** `5`, **Words:** Mata Hari, Ray Charles, Stephen King, Edith Piaf, Wiz Khalifa
+- **Letter:** `h`, **Position:** `6`, **Words:** Lewis Hamilton, Coluche, Manu Chao, Stendhal, Cyril Hanouna
+- **Letter:** `i`, **Position:** `1`, **Words:** Isabelle Huppert, Issa Doumbia, Isabelle Adjani, Isaac Newton, Ines Reg
+- **Letter:** `i`, **Position:** `2`, **Words:** Will Smith, Lilian Thuram, Rihanna, Lil Wayne, Jim Carey
+- **Letter:** `i`, **Position:** `3`, **Words:** Edith Piaf, Emile Roux, Eminem, Moix Yann, Olivia Ruiz
+- **Letter:** `i`, **Position:** `4`, **Words:** Alain Prost, Jamie Foxx, Louis XIV, Zazie, Lorie
+- **Letter:** `i`, **Position:** `5`, **Words:** Sylvie Vartan, Cyprien, Avicii, Olivier Veran, Yannick Jadot
+- **Letter:** `i`, **Position:** `6`, **Words:** Sam Smith, Voltaire, Bourvil, Avicii, Zinedine Zidane
+- **Letter:** `j`, **Position:** `1`, **Words:** John Kerry, Jack Black, John Wayne, Jean Gabin, Jake Paul
+- **Letter:** `j`, **Position:** `2`, **Words:** DJ Khaled, DJ Snake, JJ Abrahms
+- **Letter:** `j`, **Position:** `3`, **Words:** Xi Jinping, Majax Gerard, Wejdene
+- **Letter:** `j`, **Position:** `4`, **Words:** Jon Jones, Tom Jones
+- **Letter:** `j`, **Position:** `5`, **Words:** Marija Serifovic, Eric Judor, Kendji Girac
+- **Letter:** `j`, **Position:** `6`, **Words:** Steve Jobs, Lopez Jennifer, Elton John
+- **Letter:** `k`, **Position:** `1`, **Words:** Kurt Cobain, Kofi Annan, Kate Moss, Kylie Minogue, Kylian Mbappe
 - **Letter:** `k`, **Position:** `2`, **Words:** Akon, Akhenaton, Akira Toriyama
-- **Letter:** `k`, **Position:** `3`, **Words:** Jake Paul, Mike Tyson, Luke Perry, Mika, DJ Khaled
-- **Letter:** `k`, **Position:** `4`, **Words:** Shakespeare, Jack Black, Spike Lee, Jack Lang, Drake
-- **Letter:** `k`, **Position:** `5`, **Words:** Novak Djokovic, Black M, Kyan Kojandi, Taig Kris, John Kerry
+- **Letter:** `k`, **Position:** `3`, **Words:** Jake Paul, Mike Myers, Luke Perry, DJ Khaled, Mike Tyson
+- **Letter:** `k`, **Position:** `4`, **Words:** Drake, Wiz Khalifa, Pink, Hawk Tony, Macklemore
+- **Letter:** `k`, **Position:** `5`, **Words:** Taig Kris, Kyan Kojandi, Novak Djokovic, John Kerry, Black M
 - **Letter:** `k`, **Position:** `6`, **Words:** DJ Snake, Harry Kane
-- **Letter:** `l`, **Position:** `1`, **Words:** Lewis Hamilton, Lil Wayne, Lio, Lily Allen, Leo Ferre
-- **Letter:** `l`, **Position:** `2`, **Words:** Al Pacino, Olivia Ruiz, Black M, Olivier Veran, Elvis Presley
-- **Letter:** `l`, **Position:** `3`, **Words:** Lilian Thuram, Lily Allen, Calvin Klein, Will Smith, Pol Pot
-- **Letter:** `l`, **Position:** `4`, **Words:** Will Smith, Bill Gates, Emile Roux, Axelle Red, Wesley Snipes
-- **Letter:** `l`, **Position:** `5`, **Words:** Hugo Lloris, Ronaldinho, Jack Lang, Cyril Lignac, Marc Levy
-- **Letter:** `l`, **Position:** `6`, **Words:** Lily Allen, Hugo Lloris, Bob Dylan, Isabelle Adjani, Leon Blum
-- **Letter:** `m`, **Position:** `1`, **Words:** Mike Tyson, Megan Fox, Matt Damon, Macklemore, Mbappe
-- **Letter:** `m`, **Position:** `2`, **Words:** Emile Roux, Omar Sy, Emmaus, Emile Zola, Emma Stone
-- **Letter:** `m`, **Position:** `3`, **Words:** Tim Cook, Tim Burton, Sam Smith, James Dean, Emma Stone
-- **Letter:** `m`, **Position:** `4`, **Words:** Raymond Barre, Bob Marley, Thomas Pesquet, Slimane, Ousmane Dembele
-- **Letter:** `m`, **Position:** `5`, **Words:** Jean Mace, Karl Marx, Elon Musk, Rami Malek, Sam Smith
-- **Letter:** `m`, **Position:** `6`, **Words:** Bruno Mars, Garcimore, Shawn Mendes, Griezmann Antoine, Kylie Minogue
-- **Letter:** `n`, **Position:** `1`, **Words:** Newton Isaac, Novak Djokovic, Neymar, Nolwenn Leroy, Nina Ricci
-- **Letter:** `n`, **Position:** `2`, **Words:** Anne Frank, Angele, Enrique Iglesias, Snoop Dogg, Ines Reg
-- **Letter:** `n`, **Position:** `3`, **Words:** Ronaldo, Pink, Montaigne, Tony Hawk, Zinedine Zidane
-- **Letter:** `n`, **Position:** `4`, **Words:** John Wayne, Liane Foly, Yann Barthes, Gwen Stefani, Franco
-- **Letter:** `n`, **Position:** `5`, **Words:** Elton John, Megan Fox, Angun, Efron Zac, Regine
-- **Letter:** `n`, **Position:** `6`, **Words:** Rossini, Luchini, Danton, Tom Hanks, Alexandre Astier
-- **Letter:** `o`, **Position:** `1`, **Words:** Olivia Ruiz, Oscar Wilde, Olivier Veran, Oprah Winfrey, Owen Wilson
-- **Letter:** `o`, **Position:** `2`, **Words:** Bourvil, Ronaldo, Montessori, Rohff, Doc Gyneco
-- **Letter:** `o`, **Position:** `3`, **Words:** Leon Blum, Leo Ferre, Lio, Thomas Pesquet, Snoop Dogg
-- **Letter:** `o`, **Position:** `4`, **Words:** Gazo, Madonna, Cleopatre, Bono, Enzo Ferrari
-- **Letter:** `o`, **Position:** `5`, **Words:** Carlos, Van Gogh, Malcom X, Bruno Solo, Marco Polo
-- **Letter:** `o`, **Position:** `6`, **Words:** Yann Moix, Jose Bove, Hugo Boss, Paul Pogba, Kyan Kojandi
-- **Letter:** `p`, **Position:** `1`, **Words:** Pele, Pol Pot, Paul Pogba, Pfizer Charles, Pesquet Thomas
-- **Letter:** `p`, **Position:** `2`, **Words:** Oprah Winfrey, Spencer Bud, Spike Lee, SpearsBritney, Spielberg Steven
-- **Letter:** `p`, **Position:** `3`, **Words:** Cyprien, Tupac, Soprano, Lopez Jennifer, Al Pacino
-- **Letter:** `p`, **Position:** `4`, **Words:** Stephen King, Pol Pot, Mbappe, Lil Peep, Lil Pump
-- **Letter:** `p`, **Position:** `5`, **Words:** Jake Paul, Iggy Pop, Sean Penn, Mbappe, Rosa Parks
-- **Letter:** `p`, **Position:** `6`, **Words:** Marco Polo, Alain Prost, Elvis Presley, Edith Piaf, Logan Paul
-- **Letter:** `q`, **Position:** `1`, **Words:** Quentin Tarantino, Queen
+- **Letter:** `l`, **Position:** `1`, **Words:** Lilian Thuram, Luis Fonsi, Lenine, Luc Besson, Luke Perry
+- **Letter:** `l`, **Position:** `2`, **Words:** Blanquer Jean-Michel, Al Pacino, Elon Musk, Olivia Ruiz, Cleopatre
+- **Letter:** `l`, **Position:** `3`, **Words:** Jules Ferry, Gal Gadot, Kylian Mbappe, Coluche, Jules Verne
+- **Letter:** `l`, **Position:** `4`, **Words:** Coolio, Will I Am, Paul Pogba, Emile Roux, Jet Li
+- **Letter:** `l`, **Position:** `5`, **Words:** Jude Law, Jack Lang, Bigflo, Cyril Lignac, Ronaldinho
+- **Letter:** `l`, **Position:** `6`, **Words:** Jack Black, Russel Crowe, Hugo Lloris, Estelle Denis, Raquel Welsh
+- **Letter:** `m`, **Position:** `1`, **Words:** Mike Myers, Manu Payet, Michael Jordan, Mika, Maite
+- **Letter:** `m`, **Position:** `2`, **Words:** Eminem, Emmaus, Emma Stone, Emile Zola, Emile Roux
+- **Letter:** `m`, **Position:** `3`, **Words:** Simone Veil, James Dean, Tom Cruise, Jamie Foxx, Tim Cook
+- **Letter:** `m`, **Position:** `4`, **Words:** Diams, Neymar, Ousmane Dembele, Raymond Barre, Slimane
+- **Letter:** `m`, **Position:** `5`, **Words:** Mike Myers, Elon Musk, Yves Montand, Messmer, Sam Smith
+- **Letter:** `m`, **Position:** `6`, **Words:** Garcimore, Eminem, Malcom X, Kylie Minogue, Will Smith
+- **Letter:** `n`, **Position:** `1`, **Words:** Nostradamus, Nina Ricci, Nolwenn Leroy, Neymar, Nagui
+- **Letter:** `n`, **Position:** `2`, **Words:** Angele, Anne Frank, Ines Reg, Snoop Dogg, Angun
+- **Letter:** `n`, **Position:** `3`, **Words:** Wentworth Miller, Ronaldo, Dany Boon, Pink, Denzel Washington
+- **Letter:** `n`, **Position:** `4`, **Words:** Yannick Noah, Sting, Quentin Tarantino, Wayne Rooney, Elon Musk
+- **Letter:** `n`, **Position:** `5`, **Words:** Simone Veil, Shawn Mendes, Akhenaton, Logan Paul, Madonna
+- **Letter:** `n`, **Position:** `6`, **Words:** Rihanna, Staline, Dustin Hoffman, Newton Isaac, Kofi Annan
+- **Letter:** `o`, **Position:** `1`, **Words:** Oprah Winfrey, Omar Sy, Ousmane Dembele, Olivier Giroud, Olivier Veran
+- **Letter:** `o`, **Position:** `2`, **Words:** Tony Parker, Coolio, Joe Dassin, Rohff, Tom Hanks
+- **Letter:** `o`, **Position:** `3`, **Words:** Booba, Thomas Pesquet, Leon Blum, Akon, Lio
+- **Letter:** `o`, **Position:** `4`, **Words:** Hugo Lloris, Veronique Sanson, Enzo Ferrari, Efron Zac, Calogero
+- **Letter:** `o`, **Position:** `5`, **Words:** Victor Hugo, Bruno Solo, Van Gogh, Rita Ora, Raymond Devos
+- **Letter:** `o`, **Position:** `6`, **Words:** Franco, Jose Bove, Mike Horn, Wentworth Miller, Balavoine Daniel
+- **Letter:** `p`, **Position:** `1`, **Words:** Pfizer Charles, Pele, Paul Pogba, Psy, Pol Pot
+- **Letter:** `p`, **Position:** `2`, **Words:** SpearsBritney, Oprah Winfrey, Spencer Bud, Spike Lee, Spielberg Steven
+- **Letter:** `p`, **Position:** `3`, **Words:** Lopez Jennifer, Cyprien, Al Pacino, Tupac, Soprano
+- **Letter:** `p`, **Position:** `4`, **Words:** Pol Pot, Mbappe, Stephen King, Lil Peep, Lil Pump
+- **Letter:** `p`, **Position:** `5`, **Words:** Tony Parker, Mbappe, Katy Perry, Cleopatre, Jake Paul
+- **Letter:** `p`, **Position:** `6`, **Words:** Logan Paul, Dua Lipa, Marco Polo, Alain Prost, Edith Piaf
+- **Letter:** `q`, **Position:** `1`, **Words:** Queen, Quentin Tarantino
+- **Letter:** `q`, **Position:** `2`, **Words:** Squeezie, Aquille Carr, Aqib Talib
 - **Letter:** `q`, **Position:** `3`, **Words:** Raquel Welsh, Ruquier Laurent, McQueen Steve
-- **Letter:** `q`, **Position:** `4`, **Words:** Jacques Mesrine, Jacques Chirac, Pesquet Thomas, Jacques Dutronc, Jacques Brel
-- **Letter:** `q`, **Position:** `5`, **Words:** Enrique Iglesias, Gascquet Richard, Blanquer Jean-Michel
+- **Letter:** `q`, **Position:** `4`, **Words:** Pesquet Thomas, Jacques Dutronc, Jacques Brel, Jacques Chirac, Jacques Mesrine
+- **Letter:** `q`, **Position:** `5`, **Words:** Blanquer Jean-Michel, Gascquet Richard, Enrique Iglesias
 - **Letter:** `q`, **Position:** `6`, **Words:** De Tocqueville Alexis, De Tonquedec Guillaume
-- **Letter:** `r`, **Position:** `1`, **Words:** Rosa Parks, Regine, Robert Redford, Roger Federer, Ronaldo
-- **Letter:** `r`, **Position:** `2`, **Words:** Orelsan, Drake, Gradur, Griezmann Antoine, Prince
-- **Letter:** `r`, **Position:** `3`, **Words:** Carlos, Boris Vian, Efron Zac, Marco Polo, Garou
-- **Letter:** `r`, **Position:** `4`, **Words:** Cyprien, Dr Dre, Soprano, Audrey Tautou, Bourvil
-- **Letter:** `r`, **Position:** `5`, **Words:** Jean Reno, Eva Green, Mozart, Thierry Henry, Ed Harris
-- **Letter:** `r`, **Position:** `6`, **Words:** Hugh Grant, Xavier Bertrand, Diana Ross, Shakira, Anne Frank
-- **Letter:** `s`, **Position:** `1`, **Words:** Swift Taylor, Stan Lee, Sylvie Tellier, Squeezie, Shawn Mendes
-- **Letter:** `s`, **Position:** `2`, **Words:** Psy, Issa Doumbia, Usain Bolt, Isaac Newton, Oscar Wilde
-- **Letter:** `s`, **Position:** `3`, **Words:** Rosa Parks, Dustin Hoffman, Wesley Snipes, Rossini, Messmer
-- **Letter:** `s`, **Position:** `4`, **Words:** Russel Crowe, Ines Reg, Rossini, Yves Montand, Luis Fonsi
-- **Letter:** `s`, **Position:** `5`, **Words:** Jules Ferry, Will Smith, Orelsan, Joey Starr, Diams
-- **Letter:** `s`, **Position:** `6`, **Words:** Thomas Pesquet, Montessori, Joe Dassin, Carlos, SpearsBritney
-- **Letter:** `t`, **Position:** `1`, **Words:** Thierry Henry, Taylor Swift, Tony Hawk, The Weeknd, Taig Kris
-- **Letter:** `t`, **Position:** `2`, **Words:** Stromae, Stan Lee, Stendhal, Stevie Wonder, Stephen King
-- **Letter:** `t`, **Position:** `3`, **Words:** Kate Moss, Matt Damon, Jet Li, Katy Perry, Estelle Denis
-- **Letter:** `t`, **Position:** `4`, **Words:** Wentworth Miller, Newton Isaac, Edith Piaf, Montessori, Maite
-- **Letter:** `t`, **Position:** `5`, **Words:** Swift Taylor, Mike Tyson, Quentin Tarantino, Hawk Tony, Dorothee
-- **Letter:** `t`, **Position:** `6`, **Words:** Xzibit, Emma Stone, Auguste Renoir, Gwen Stefani, Pol Pot
+- **Letter:** `r`, **Position:** `1`, **Words:** Renaud, Regine, Ronaldinho, Ray Charles, Raymond Barre
+- **Letter:** `r`, **Position:** `2`, **Words:** Orelsan, Dr Dre, Griezmann Antoine, Artus, Bruno Mars
+- **Letter:** `r`, **Position:** `3`, **Words:** Harry Kane, Cyril Gane, Marco Polo, Serge Lama, Oprah Winfrey
+- **Letter:** `r`, **Position:** `4`, **Words:** Audrey Fleurot, Bourvil, Soprano, Omar Sy, Dr Dre
+- **Letter:** `r`, **Position:** `5`, **Words:** Tom Cruise, Ines Reg, Oscar Wilde, SpearsBritney, Cesar
+- **Letter:** `r`, **Position:** `6`, **Words:** Max Verstappen, Tim Burton, Shakira, Hugh Grant, Bob Marley
+- **Letter:** `s`, **Position:** `1`, **Words:** Shakespeare, Slimane, Simone Veil, Sylvie Vartan, SpearsBritney
+- **Letter:** `s`, **Position:** `2`, **Words:** Isaac Newton, Usher, Oscar Wilde, Isabelle Huppert, Usain Bolt
+- **Letter:** `s`, **Position:** `3`, **Words:** Wesley Snipes, Pesquet Thomas, Gustave Eiffel, Nas, Ed Sheeran
+- **Letter:** `s`, **Position:** `4`, **Words:** Ines Reg, Luis Fonsi, Sam Smith, Lea Salame, Russel Crowe
+- **Letter:** `s`, **Position:** `5`, **Words:** Emma Stone, James Dean, Jules Ferry, Will Smith, Lewis Hamilton
+- **Letter:** `s`, **Position:** `6`, **Words:** Bruno Solo, SpearsBritney, Lil Nas X, Joe Dassin, Montessori
+- **Letter:** `t`, **Position:** `1`, **Words:** Taig Kris, Tupac, Thierry Henry, Tom Hanks, Tom Cruise
+- **Letter:** `t`, **Position:** `2`, **Words:** Stevie Wonder, Stendhal, Staline, Stephen King, Sting
+- **Letter:** `t`, **Position:** `3`, **Words:** Rita Ora, Estelle Denis, Mata Hari, Matt Damon, Kate Moss
+- **Letter:** `t`, **Position:** `4`, **Words:** Kurt Cobain, Matt Damon, Maite, Gustave Eiffel, Montessori
+- **Letter:** `t`, **Position:** `5`, **Words:** Hawk Tony, Quentin Tarantino, Swift Taylor, Mike Tyson, Arletty
+- **Letter:** `t`, **Position:** `6`, **Words:** Emma Stone, Xzibit, Auguste Renoir, Pol Pot, Joey Starr
 - **Letter:** `u`, **Position:** `1`, **Words:** Usain Bolt, Usher
-- **Letter:** `u`, **Position:** `2`, **Words:** Queen, Audrey Fleurot, Jude Law, Luke Perry, Hugh Grant
-- **Letter:** `u`, **Position:** `3`, **Words:** Paul Pogba, Bruno Mars, Louis XIV, Squeezie, Louane
-- **Letter:** `u`, **Position:** `4`, **Words:** Manu Chao, Artus, Coluche, Angun, Nagui
-- **Letter:** `u`, **Position:** `5`, **Words:** Ice Cube, Pesquet Thomas, Jacques Brel, Emmaus, Garou
-- **Letter:** `u`, **Position:** `6`, **Words:** Tom Cruise, Elon Musk, Gascquet Richard, Enrique Iglesias, Blanquer Jean-Michel
-- **Letter:** `v`, **Position:** `1`, **Words:** Voulzy Laurent, Victor Hugo, Vianney, Van Gogh, Veronique Sanson
-- **Letter:** `v`, **Position:** `2`, **Words:** Yves Montand, Eva Green, Eva Mendes, Avicii, Yves Saint Laurent
-- **Letter:** `v`, **Position:** `3`, **Words:** Dave, Novak Djokovic, David Guetta, David Bowie, Xavier Bertrand
-- **Letter:** `v`, **Position:** `4`, **Words:** Sylvie Tellier, Olivier Giroud, Olivier Veran, Stevie Wonder, Olivia Ruiz
-- **Letter:** `v`, **Position:** `5`, **Words:** Genevieve de Fontenay, Bourvil, Balavoine Daniel, Keen'v, Aznavour Charles
-- **Letter:** `v`, **Position:** `6`, **Words:** Gustave Eiffel, Jules Verne, Boris Vian, Gustave Flaubert
-- **Letter:** `w`, **Position:** `1`, **Words:** Wentworth Miller, Will I Am, Wiz Khalifa, Will Smith, Woody Allen
-- **Letter:** `w`, **Position:** `2`, **Words:** Swift Taylor, Gwen Stefani, Dwayne Johnson, Swayze Patrick, Owen Wilson
-- **Letter:** `w`, **Position:** `3`, **Words:** Lewis Hamilton, Hawk Tony, Edward Norton, Newton Isaac
-- **Letter:** `w`, **Position:** `4`, **Words:** Nolwenn Leroy, Max Weber, Shawn Mendes, Lil Wayne, The Weeknd
-- **Letter:** `w`, **Position:** `5`, **Words:** John Wayne, Owen Wilson, Wentworth Miller, Eastwood Clint, John Woo
-- **Letter:** `w`, **Position:** `6`, **Words:** Oprah Winfrey, Oscar Wilde, Kanye West, Tiger Woods, Kayne West
-- **Letter:** `x`, **Position:** `1`, **Words:** Xavier Bertrand, Xzibit, Xi Jinping, Xavier Dolan
+- **Letter:** `u`, **Position:** `2`, **Words:** Quentin Tarantino, Auguste Renoir, Guy Carlier, Kurt Cobain, Luke Perry
+- **Letter:** `u`, **Position:** `3`, **Words:** Bruno Solo, Voulzy Laurent, Louane, Squeezie, Bourvil
+- **Letter:** `u`, **Position:** `4`, **Words:** Raquel Welsh, Nagui, Coluche, Manu Chao, Auguste Renoir
+- **Letter:** `u`, **Position:** `5`, **Words:** Ice Cube, Jacques Dutronc, Renaud, Jacques Brel, Tim Burton
+- **Letter:** `u`, **Position:** `6`, **Words:** Enrique Iglesias, Blanquer Jean-Michel, Gascquet Richard, Elon Musk, Tom Cruise
+- **Letter:** `v`, **Position:** `1`, **Words:** Victor Hugo, Vincent Cassel, Van Gogh, Veronique Sanson, Voulzy Laurent
+- **Letter:** `v`, **Position:** `2`, **Words:** Eva Mendes, Eva Green, Yves Montand, Avicii, Yves Saint Laurent
+- **Letter:** `v`, **Position:** `3`, **Words:** David Guetta, Novak Djokovic, Elvis Presley, David Fincher, David Beckham
+- **Letter:** `v`, **Position:** `4`, **Words:** Sylvie Tellier, Max Verstappen, Olivier Veran, Calvin Klein, Olivia Ruiz
+- **Letter:** `v`, **Position:** `5`, **Words:** Balavoine Daniel, Bourvil, Genevieve de Fontenay, Aznavour Charles, Keen'v
+- **Letter:** `v`, **Position:** `6`, **Words:** Jules Verne, Boris Vian, Gustave Eiffel, Gustave Flaubert
+- **Letter:** `w`, **Position:** `1`, **Words:** Walt Disney, Wayne Rooney, Woody Allen, Wesley Snipes, Will I Am
+- **Letter:** `w`, **Position:** `2`, **Words:** Swift Taylor, Swayze Patrick, Gwen Stefani, Dwayne Johnson, Owen Wilson
+- **Letter:** `w`, **Position:** `3`, **Words:** Edward Norton, Lewis Hamilton, Newton Isaac, Hawk Tony
+- **Letter:** `w`, **Position:** `4`, **Words:** Lil Wayne, Shawn Mendes, The Weeknd, Nolwenn Leroy, Max Weber
+- **Letter:** `w`, **Position:** `5`, **Words:** John Wayne, Owen Wilson, Wentworth Miller, John Woo, Eastwood Clint
+- **Letter:** `w`, **Position:** `6`, **Words:** Kanye West, Kayne West, Oprah Winfrey, Oscar Wilde, Tiger Woods
+- **Letter:** `x`, **Position:** `1`, **Words:** Xzibit, Xavier Bertrand, Xi Jinping, Xavier Dolan
 - **Letter:** `x`, **Position:** `2`, **Words:** Axelle Red, Exarchopoulos Adele
 - **Letter:** `x`, **Position:** `3`, **Words:** Max Verstappen, Max Weber, Bixente Lizarazu, Maxime Le Forestier
-- **Letter:** `x`, **Position:** `4`, **Words:** Alexandre Astier, Moix Yann, Alexandre Dumas, Alexandre le Grand, Marx Karl
+- **Letter:** `x`, **Position:** `4`, **Words:** Moix Yann, Alexandre Astier, Alexandre Dumas, Alexandre le Grand, Marx Karl
 - **Letter:** `x`, **Position:** `5`, **Words:** Majax Gerard, Felix Zoe
 - **Letter:** `x`, **Position:** `6`, **Words:** Louis XIV, Garrix Martin, Lennox Annie
-- **Letter:** `y`, **Position:** `1`, **Words:** Yann Barthes, Yann Moix, Yannick Jadot, Yves Montand, Yannick Alleno
-- **Letter:** `y`, **Position:** `2`, **Words:** Kylian Mbappe, Cyril Gane, Ryan Gosling, Ryan Reynolds, Sylvie Tellier
-- **Letter:** `y`, **Position:** `3`, **Words:** Psy, Taylor Swift, Guy Carlier, Guy Bedos, Raymond Devos
-- **Letter:** `y`, **Position:** `4`, **Words:** Dwayne Johnson, Joey Starr, Tony Hawk, Tony Parker, Swayze Patrick
-- **Letter:** `y`, **Position:** `5`, **Words:** Henry IV, Moix Yann, Doc Gyneco, Harry Kane, Teddy Riner
-- **Letter:** `y`, **Position:** `6`, **Words:** Lil Wayne, Mike Myers, Omar Sy, Shaggy, Mike Tyson
-- **Letter:** `z`, **Position:** `1`, **Words:** Zac Efron, Zinedine Zidane, Zazie, Zach Braff, Zayn Malik
-- **Letter:** `z`, **Position:** `2`, **Words:** Xzibit, Aznavour Charles, Izia Higelin, Ezra Miller
+- **Letter:** `y`, **Position:** `1`, **Words:** Yves Montand, Yannick Alleno, Yannick Noah, Yannick Jadot, Yann Moix
+- **Letter:** `y`, **Position:** `2`, **Words:** Kylian Mbappe, Cyril Lignac, Kyan Kojandi, Ryan Reynolds, Sylvie Tellier
+- **Letter:** `y`, **Position:** `3`, **Words:** Ray Charles, Kayne West, Raymond Devos, Raymond Barre, Guy Carlier
+- **Letter:** `y`, **Position:** `4`, **Words:** Kanye West, Iggy Pop, Dany Boon, Lily Allen, Joey Starr
+- **Letter:** `y`, **Position:** `5`, **Words:** Teddy Riner, Moix Yann, Doc Gyneco, Henry IV, Woody Allen
+- **Letter:** `y`, **Position:** `6`, **Words:** Mike Myers, Voulzy Laurent, Wesley Snipes, Lil Wayne, Omar Sy
+- **Letter:** `z`, **Position:** `1`, **Words:** Zazie, Zac Efron, Zinedine Zidane, Zach Braff, Zendaya
+- **Letter:** `z`, **Position:** `2`, **Words:** Xzibit, Ezra Miller, Aznavour Charles, Izia Higelin
 - **Letter:** `z`, **Position:** `3`, **Words:** Enzo Ferrari, Gazo, Wiz Khalifa, Mozart, Zazie
-- **Letter:** `z`, **Position:** `4`, **Words:** Pfizer Charles, Jay Z, Denzel Washington, Mao Zedong, Chazal Claire
-- **Letter:** `z`, **Position:** `5`, **Words:** Lopez Jennifer, Swayze Patrick, Voulzy Laurent, Griezmann Antoine
-- **Letter:** `z`, **Position:** `6`, **Words:** Efron Zac, Emile Zola, Squeezie, Verdez Gilles, Felix Zoe
+- **Letter:** `z`, **Position:** `4`, **Words:** Jay Z, Pfizer Charles, Denzel Washington, Mao Zedong, Chazal Claire
+- **Letter:** `z`, **Position:** `5`, **Words:** Lopez Jennifer, Voulzy Laurent, Griezmann Antoine, Swayze Patrick
+- **Letter:** `z`, **Position:** `6`, **Words:** Efron Zac, Squeezie, Emile Zola, Verdez Gilles, Sarkozy Nicolas
 
 </details>
 
-<details>
-<summary>⚠️ Incomplete positions</summary>
-
-- **Letter:** `b`, **Position:** `2`, **Words:** Mbappe
-- **Letter:** `g`, **Position:** `2`, **Words:** Iggy Pop
-- **Letter:** `j`, **Position:** `5`, **Words:** Eric Judor
-- **Letter:** `q`, **Position:** `2`, **Words:** Squeezie
-
-</details>
-Total missing words: `4`
+Total missing words: `0`
 
 
 
@@ -6321,143 +6316,143 @@ Total missing words: `4`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** avoine, ampoules, amandes, abats, ananas
-- **Letter:** `a`, **Position:** `2`, **Words:** manette, sandwich, rasoir, paprika, cacao
-- **Letter:** `a`, **Position:** `3`, **Words:** chargeur, shampoing, oranges, abats, chantilly
-- **Letter:** `a`, **Position:** `4`, **Words:** caramel, cacahuetes, tomates, romarin, agrafeuse
-- **Letter:** `a`, **Position:** `5`, **Words:** muscade, ciseaux, moutarde, cereales, safran
-- **Letter:** `a`, **Position:** `6`, **Words:** drapeau, limonade, poireaux, quinoa, chapeau
-- **Letter:** `b`, **Position:** `1`, **Words:** beurre, brocolis, bouillon, banjo, brownie
-- **Letter:** `b`, **Position:** `2`, **Words:** abats, xbox, abricots
-- **Letter:** `b`, **Position:** `3`, **Words:** reblochon, aubergines, gobelets, webcam
-- **Letter:** `b`, **Position:** `4`, **Words:** jambon, bonbons, adobo, crabe, barbie
-- **Letter:** `b`, **Position:** `5`, **Words:** framboises, charbon, trombonnes, snowboard
+- **Letter:** `a`, **Position:** `1`, **Words:** agrumes, anchois, abricots, ampoules, avocats
+- **Letter:** `a`, **Position:** `2`, **Words:** galettes, baguette, carottes, safran, radis
+- **Letter:** `a`, **Position:** `3`, **Words:** amandes, crayons, champagne, elastiques, oranges
+- **Letter:** `a`, **Position:** `4`, **Words:** papaye, lasagnes, magazines, balance, carambars
+- **Letter:** `a`, **Position:** `5`, **Words:** margarine, pizza, cereales, fromage, guimauves
+- **Letter:** `a`, **Position:** `6`, **Words:** champagne, drapeau, limonade, cadenas, agenda
+- **Letter:** `b`, **Position:** `1`, **Words:** balai, banjo, briquet, brocolis, balance
+- **Letter:** `b`, **Position:** `2`, **Words:** xbox, abricots, abats
+- **Letter:** `b`, **Position:** `3`, **Words:** gobelets, reblochon, aubergines, webcam
+- **Letter:** `b`, **Position:** `4`, **Words:** bonbons, jambon, crabe, barbie, adobo
+- **Letter:** `b`, **Position:** `5`, **Words:** framboises, trombonnes, charbon, snowboard
 - **Letter:** `b`, **Position:** `6`, **Words:** carambars, bicarbonate, carambole
-- **Letter:** `c`, **Position:** `1`, **Words:** cahier, cereales, colle, cidre, coton
-- **Letter:** `c`, **Position:** `2`, **Words:** scanner, scotch, schweppes, scie, ecrous
-- **Letter:** `c`, **Position:** `3`, **Words:** sucre, anchois, cacao, encre, dictionnaire
-- **Letter:** `c`, **Position:** `4`, **Words:** mouchoirs, chocolat, avocats, quiche, pinceaux
-- **Letter:** `c`, **Position:** `5`, **Words:** artichauts, fourchettes, peluche, brioches, scotch
+- **Letter:** `c`, **Position:** `1`, **Words:** chocolat, colle, cannelle, cumin, ciseaux
+- **Letter:** `c`, **Position:** `2`, **Words:** scotch, scie, schweppes, scanner, schwarzkopf
+- **Letter:** `c`, **Position:** `3`, **Words:** anchois, cacao, cacahuetes, encre, sucre
+- **Letter:** `c`, **Position:** `4`, **Words:** avocats, brochettes, gnocchis, talc, epices
+- **Letter:** `c`, **Position:** `5`, **Words:** fourchettes, peluche, brioches, adoucissant, haricots
 - **Letter:** `c`, **Position:** `6`, **Words:** balance, reblochon, pistaches, cognac, projecteur
-- **Letter:** `d`, **Position:** `1`, **Words:** dictionnaire, dentifrice, dattes, drapeau, duvet
+- **Letter:** `d`, **Position:** `1`, **Words:** dictionnaire, drapeau, dattes, dentifrice, deguisement
 - **Letter:** `d`, **Position:** `2`, **Words:** adoucissant, additifs, adobo
-- **Letter:** `d`, **Position:** `3`, **Words:** endives, soda, cadre, radis, cidre
-- **Letter:** `d`, **Position:** `4`, **Words:** mandarines, sandwich, corde, lardons, sardines
-- **Letter:** `d`, **Position:** `5`, **Words:** salade, agenda, amandes, mikados, viande
-- **Letter:** `d`, **Position:** `6`, **Words:** muscade, pinard, canard
-- **Letter:** `e`, **Position:** `1`, **Words:** enveloppes, epinards, endives, eponges, encre
-- **Letter:** `e`, **Position:** `2`, **Words:** fenetre, ketchup, serviettes, beurre, veau
-- **Letter:** `e`, **Position:** `3`, **Words:** agenda, crepes, miel, muesli, fleurs
-- **Letter:** `e`, **Position:** `4`, **Words:** bouee, scie, navets, foie, vaseline
-- **Letter:** `e`, **Position:** `5`, **Words:** noisettes, olives, chapeau, bouee, laque
-- **Letter:** `e`, **Position:** `6`, **Words:** gaufres, eponges, beurre, couches, salade
-- **Letter:** `f`, **Position:** `1`, **Words:** farine, fenetre, foie, fraises, figues
-- **Letter:** `f`, **Position:** `2`, **Words:** affligem, affinois, effiloche
-- **Letter:** `f`, **Position:** `3`, **Words:** infusion, cafe, muffins, safran, exfoliant
-- **Letter:** `f`, **Position:** `4`, **Words:** confettis, muffins, oeufs, gaufres, confiture
-- **Letter:** `f`, **Position:** `5`, **Words:** agrafeuse, boeuf, truffe
+- **Letter:** `d`, **Position:** `3`, **Words:** endives, soda, cadenas, radis, cidre
+- **Letter:** `d`, **Position:** `4`, **Words:** corde, sardines, mandarines, lardons, sandwich
+- **Letter:** `d`, **Position:** `5`, **Words:** agenda, salade, amandes, clou de girofle, viande
+- **Letter:** `d`, **Position:** `6`, **Words:** muscade, canard, pinard
+- **Letter:** `e`, **Position:** `1`, **Words:** endives, equerre, encre, epices, epinards
+- **Letter:** `e`, **Position:** `2`, **Words:** beaujolais, levure, melon, veste, menthe
+- **Letter:** `e`, **Position:** `3`, **Words:** crepes, agenda, miel, boeuf, muesli
+- **Letter:** `e`, **Position:** `4`, **Words:** javel, galettes, harengs, couette, foie
+- **Letter:** `e`, **Position:** `5`, **Words:** assiettes, couverts, schweppes, pinceaux, veste
+- **Letter:** `e`, **Position:** `6`, **Words:** agrafeuse, brosse, couches, fraises, papaye
+- **Letter:** `f`, **Position:** `1`, **Words:** fourchettes, framboises, flan, fenouil, fajitas
+- **Letter:** `f`, **Position:** `2`, **Words:** affinois, affligem, effiloche
+- **Letter:** `f`, **Position:** `3`, **Words:** cafe, infusion, muffins, safran, exfoliant
+- **Letter:** `f`, **Position:** `4`, **Words:** confiture, muffins, gaufres, confettis, oeufs
+- **Letter:** `f`, **Position:** `5`, **Words:** boeuf, agrafeuse, truffe
 - **Letter:** `f`, **Position:** `6`, **Words:** dentifrice, deconfite
-- **Letter:** `g`, **Position:** `1`, **Words:** gants, galettes, gomme, glace, genoise
-- **Letter:** `g`, **Position:** `2`, **Words:** agenda, agrumes, agrafeuse
-- **Letter:** `g`, **Position:** `3`, **Words:** oignons, pignons, figues, magazines, aiguille
-- **Letter:** `g`, **Position:** `4`, **Words:** peigne, spaghettis, brugnons, mangues, margarine
-- **Letter:** `g`, **Position:** `5`, **Words:** oranges, courgettes, eponges, lasagnes, chargeur
-- **Letter:** `g`, **Position:** `6`, **Words:** fromage, aubergines, horloge, harengs, vinaigre
-- **Letter:** `h`, **Position:** `1`, **Words:** huile, harengs, horloge, huitres, haricots
-- **Letter:** `h`, **Position:** `2`, **Words:** chronometre, chocolat, champignons, thon, shampoing
+- **Letter:** `g`, **Position:** `1`, **Words:** galettes, gobelets, glace, gnocchis, gants
+- **Letter:** `g`, **Position:** `2`, **Words:** agrafeuse, agrumes, agenda
+- **Letter:** `g`, **Position:** `3`, **Words:** figues, aiguille, oignons, baguette, magazines
+- **Letter:** `g`, **Position:** `4`, **Words:** spaghettis, bougies, peigne, mangues, brugnons
+- **Letter:** `g`, **Position:** `5`, **Words:** oranges, lasagnes, chargeur, eponges, courgettes
+- **Letter:** `g`, **Position:** `6`, **Words:** harengs, vinaigre, fromage, horloge, aubergines
+- **Letter:** `h`, **Position:** `1`, **Words:** huile, haricots, horloge, harengs, huitres
+- **Letter:** `h`, **Position:** `2`, **Words:** chargeur, shampoing, choux, charbon, short
 - **Letter:** `h`, **Position:** `3`, **Words:** schweppes, cahier, tshirt, schwarzkopf, echelle
 - **Letter:** `h`, **Position:** `4`, **Words:** anchois, pachino, picholine
-- **Letter:** `h`, **Position:** `5`, **Words:** louche, spaghettis, brochettes, torchon, couches
-- **Letter:** `h`, **Position:** `6`, **Words:** scotch, brioches, fourchettes, artichauts, gnocchis
-- **Letter:** `i`, **Position:** `1`, **Words:** infusion, isotonique, icewatch
-- **Letter:** `i`, **Position:** `2`, **Words:** limonade, piles, citrons, livre, aiguille
-- **Letter:** `i`, **Position:** `3`, **Words:** quinoa, raisin, poires, olives, epices
-- **Letter:** `i`, **Position:** `4`, **Words:** caviar, fajitas, tapis, cumin, bouillon
-- **Letter:** `i`, **Position:** `5`, **Words:** aiguille, laurier, bougies, dentifrice, tortillas
-- **Letter:** `i`, **Position:** `6`, **Words:** anchois, elastiques, champignons, muesli, vaseline
-- **Letter:** `j`, **Position:** `1`, **Words:** journal, javel, jambon
+- **Letter:** `h`, **Position:** `5`, **Words:** ketchup, menthe, couches, cacahuetes, quiche
+- **Letter:** `h`, **Position:** `6`, **Words:** fourchettes, peluche, gnocchis, artichauts, brioches
+- **Letter:** `i`, **Position:** `1`, **Words:** infusion, icewatch, isotonique
+- **Letter:** `i`, **Position:** `2`, **Words:** ciseaux, citrons, pistaches, figues, kiwis
+- **Letter:** `i`, **Position:** `3`, **Words:** quiche, chips, peigne, huile, huitres
+- **Letter:** `i`, **Position:** `4`, **Words:** radio, assiettes, fraises, croissants, sprite
+- **Letter:** `i`, **Position:** `5`, **Words:** genoise, raisin, tortillas, confiture, sardines
+- **Letter:** `i`, **Position:** `6`, **Words:** adoucissant, chantilly, muesli, champignons, passoire
+- **Letter:** `j`, **Position:** `1`, **Words:** journal, jambon, javel
 - **Letter:** `j`, **Position:** `2`, **Words:** ajax, ajvar
-- **Letter:** `j`, **Position:** `3`, **Words:** fajitas, bijou, cajou
-- **Letter:** `j`, **Position:** `4`, **Words:** banjo, projecteur, beijinho
+- **Letter:** `j`, **Position:** `3`, **Words:** fajitas, cajou, bijou
+- **Letter:** `j`, **Position:** `4`, **Words:** banjo, beijinho, projecteur
 - **Letter:** `j`, **Position:** `5`, **Words:** beaujolais, beaujolaise
-- **Letter:** `k`, **Position:** `1`, **Words:** kiwis, kumquats, ketchup
+- **Letter:** `k`, **Position:** `1`, **Words:** ketchup, kumquats, kiwis
 - **Letter:** `k`, **Position:** `2`, **Words:** ukulele, skate
-- **Letter:** `k`, **Position:** `4`, **Words:** vodka, walkman
+- **Letter:** `k`, **Position:** `4`, **Words:** walkman, vodka
 - **Letter:** `k`, **Position:** `5`, **Words:** whisky, blackjack, crackers
 - **Letter:** `k`, **Position:** `6`, **Words:** paprika, anorak
-- **Letter:** `l`, **Position:** `1`, **Words:** lasagnes, louche, lessive, lait, livre
-- **Letter:** `l`, **Position:** `2`, **Words:** aluminium, glace, olives, clous, elastiques
-- **Letter:** `l`, **Position:** `3`, **Words:** allumettes, balance, colle, culottes, piles
-- **Letter:** `l`, **Position:** `4`, **Words:** reblochon, poulet, cuilleres, miel, stylos
-- **Letter:** `l`, **Position:** `5`, **Words:** oseille, puzzle, cuilleres, javel, nouilles
-- **Letter:** `l`, **Position:** `6`, **Words:** ampoules, ventilateur, calculette, nouilles, semelle
-- **Letter:** `m`, **Position:** `1`, **Words:** mandarines, margarine, mangues, morue, magazines
-- **Letter:** `m`, **Position:** `2`, **Words:** ampoules, amandes
-- **Letter:** `m`, **Position:** `3`, **Words:** jambon, tomates, romarin, semelle, limonade
-- **Letter:** `m`, **Position:** `4`, **Words:** pommes, framboises, shampoing, aluminium, trombonnes
-- **Letter:** `m`, **Position:** `5`, **Words:** allumettes, agrumes, carambars, caramel, salami
-- **Letter:** `m`, **Position:** `6`, **Words:** concombres, webcam, chalumeau, gingembre
-- **Letter:** `n`, **Position:** `1`, **Words:** noix, navets, nutella, noisettes, nouilles
-- **Letter:** `n`, **Position:** `2`, **Words:** enveloppes, anchois, gnocchis, infusion, ananas
-- **Letter:** `n`, **Position:** `3`, **Words:** dentifrice, banjo, fenouil, manette, lentilles
-- **Letter:** `n`, **Position:** `4`, **Words:** cannelle, vernis, eponges, chantilly, epinards
-- **Letter:** `n`, **Position:** `5`, **Words:** cadenas, melon, mayonnaise, limonade, harengs
-- **Letter:** `n`, **Position:** `6`, **Words:** oignons, citrons, muffins, sardines, mayonnaise
-- **Letter:** `o`, **Position:** `1`, **Words:** oignons, oseille, oeufs, olives, oranges
-- **Letter:** `o`, **Position:** `2`, **Words:** compotes, tortillas, noix, bonbons, poireaux
-- **Letter:** `o`, **Position:** `3`, **Words:** choux, brocolis, gnocchis, avocats, brownie
-- **Letter:** `o`, **Position:** `4`, **Words:** mayonnaise, semoule, chronometre, rasoir, melon
-- **Letter:** `o`, **Position:** `5`, **Words:** banjo, quinoa, compotes, lardons, horloge
-- **Letter:** `o`, **Position:** `6`, **Words:** mouchoirs, framboises, charbon, beaujolais, brugnons
-- **Letter:** `p`, **Position:** `1`, **Words:** pain, pantalon, panier, poulet, peinture
-- **Letter:** `p`, **Position:** `2`, **Words:** eponges, spaghettis, epices, epinards, sprite
-- **Letter:** `p`, **Position:** `3`, **Words:** ampoules, aspirateur, paprika, tapis, papaye
-- **Letter:** `p`, **Position:** `4`, **Words:** drapeau, compotes, chapeau, chips, crepes
-- **Letter:** `p`, **Position:** `5`, **Words:** champignons, shampoing, champagne, crampons
+- **Letter:** `l`, **Position:** `1`, **Words:** lait, lingettes, louche, lentilles, limonade
+- **Letter:** `l`, **Position:** `2`, **Words:** elastiques, flan, fleurs, olives, allumettes
+- **Letter:** `l`, **Position:** `3`, **Words:** salade, ballon, melon, calculette, balance
+- **Letter:** `l`, **Position:** `4`, **Words:** huile, moules, stylos, poulet, reblochon
+- **Letter:** `l`, **Position:** `5`, **Words:** oseille, nutella, cuilleres, semelle, vanille
+- **Letter:** `l`, **Position:** `6`, **Words:** chocolat, nouilles, brocolis, semelle, raviolis
+- **Letter:** `m`, **Position:** `1`, **Words:** muffins, menthe, mangues, marteau, magazines
+- **Letter:** `m`, **Position:** `2`, **Words:** amandes, ampoules
+- **Letter:** `m`, **Position:** `3`, **Words:** compotes, tomates, romarin, semoule, semelle
+- **Letter:** `m`, **Position:** `4`, **Words:** champagne, gomme, champignons, trombonnes, marmite
+- **Letter:** `m`, **Position:** `5`, **Words:** carambars, agrumes, caramel, allumettes, salami
+- **Letter:** `m`, **Position:** `6`, **Words:** concombres, chalumeau, gingembre, webcam
+- **Letter:** `n`, **Position:** `1`, **Words:** noisettes, navets, noix, nouilles, nutella
+- **Letter:** `n`, **Position:** `2`, **Words:** gnocchis, encre, endives, enveloppes, infusion
+- **Letter:** `n`, **Position:** `3`, **Words:** bonbons, mangues, pantalon, lentilles, lingettes
+- **Letter:** `n`, **Position:** `4`, **Words:** flan, cannelle, amandes, pain, ceinture
+- **Letter:** `n`, **Position:** `5`, **Words:** savon, brugnons, mayonnaise, chronometre, harengs
+- **Letter:** `n`, **Position:** `6`, **Words:** saumon, mayonnaise, oignons, martinet, ballon
+- **Letter:** `o`, **Position:** `1`, **Words:** oseille, oranges, olives, oeufs, oignons
+- **Letter:** `o`, **Position:** `2`, **Words:** corde, confiture, noix, coton, colle
+- **Letter:** `o`, **Position:** `3`, **Words:** avoine, thon, gnocchis, croissants, yaourt
+- **Letter:** `o`, **Position:** `4`, **Words:** genoise, semoule, fenouil, assouplissant, mayonnaise
+- **Letter:** `o`, **Position:** `5`, **Words:** quinoa, reblochon, cacao, chocolat, saumon
+- **Letter:** `o`, **Position:** `6`, **Words:** chronometre, abricots, shampoing, haricots, framboises
+- **Letter:** `p`, **Position:** `1`, **Words:** piles, poires, pantalon, peinture, peluche
+- **Letter:** `p`, **Position:** `2`, **Words:** epices, epinards, eponges, sprite, spaghettis
+- **Letter:** `p`, **Position:** `3`, **Words:** aspirateur, paprika, ampoules, tapis, papaye
+- **Letter:** `p`, **Position:** `4`, **Words:** drapeau, chapeau, chips, compotes, crepes
+- **Letter:** `p`, **Position:** `5`, **Words:** shampoing, champagne, champignons, crampons
 - **Letter:** `p`, **Position:** `6`, **Words:** schweppes, assouplissant
 - **Letter:** `q`, **Position:** `1`, **Words:** quinoa, quiche
-- **Letter:** `q`, **Position:** `3`, **Words:** laque, liqueur, coquetier
+- **Letter:** `q`, **Position:** `3`, **Words:** laque, coquetier, liqueur
 - **Letter:** `q`, **Position:** `4`, **Words:** briquet, kumquats, casquette, croquettes
-- **Letter:** `q`, **Position:** `6`, **Words:** perruque, applique
-- **Letter:** `r`, **Position:** `1`, **Words:** raisin, raviolis, radio, reblochon, rasoir
-- **Letter:** `r`, **Position:** `2`, **Words:** crepes, brownie, crayons, framboises, oranges
-- **Letter:** `r`, **Position:** `3`, **Words:** marmite, sprite, harengs, lardons, margarine
-- **Letter:** `r`, **Position:** `4`, **Words:** metre, encre, courgettes, safran, paprika
-- **Letter:** `r`, **Position:** `5`, **Words:** aspirateur, poivrons, equerre, beurre, poivre
-- **Letter:** `r`, **Position:** `6`, **Words:** casserole, mandarines, cahier, caviar, margarine
-- **Letter:** `s`, **Position:** `1`, **Words:** short, sardines, sprite, scanner, soda
-- **Letter:** `s`, **Position:** `2`, **Words:** assiettes, assouplissant, oseille, aspirateur, tshirt
-- **Letter:** `s`, **Position:** `3`, **Words:** muscade, lasagnes, tasse, mascara, veste
-- **Letter:** `s`, **Position:** `4`, **Words:** brosse, casserole, tissu, muesli, elastiques
-- **Letter:** `s`, **Position:** `5`, **Words:** kiwis, chips, infusion, brosse, tapis
-- **Letter:** `s`, **Position:** `6`, **Words:** poires, souris, verres, dattes, genoise
-- **Letter:** `t`, **Position:** `1`, **Words:** talc, tuyau, tomates, tshirt, tissu
-- **Letter:** `t`, **Position:** `3`, **Words:** citrons, metre, ketchup, artichauts, nutella
-- **Letter:** `t`, **Position:** `4`, **Words:** lait, marteau, dentifrice, scotch, dictionnaire
-- **Letter:** `t`, **Position:** `5`, **Words:** chantilly, ceinture, carottes, sprite, fajitas
-- **Letter:** `t`, **Position:** `6`, **Words:** tshirt, galettes, carottes, assiettes, confiture
-- **Letter:** `u`, **Position:** `1`, **Words:** ustensile, ukulele, uniforme
-- **Letter:** `u`, **Position:** `2`, **Words:** sucre, huitres, curry, guimauves, culottes
-- **Letter:** `u`, **Position:** `3`, **Words:** couette, journal, moutarde, bougies, saumon
-- **Letter:** `u`, **Position:** `4`, **Words:** allumettes, figues, boeuf, morue, levure
-- **Letter:** `u`, **Position:** `5`, **Words:** tuyau, fenouil, kumquats, semoule, mangues
-- **Letter:** `u`, **Position:** `6`, **Words:** peinture, ceinture, ketchup, ciseaux, guimauves
-- **Letter:** `v`, **Position:** `1`, **Words:** veau, vase, ventilateur, vaseline, verres
-- **Letter:** `v`, **Position:** `2`, **Words:** avoine, avocats
-- **Letter:** `v`, **Position:** `3`, **Words:** savon, caviar, levure, enveloppes, navets
-- **Letter:** `v`, **Position:** `4`, **Words:** serviettes, poivrons, couverts, olives, poivre
-- **Letter:** `w`, **Position:** `1`, **Words:** whisky, webcam, walkman
-- **Letter:** `w`, **Position:** `2`, **Words:** twister, swatch
+- **Letter:** `q`, **Position:** `6`, **Words:** applique, perruque
+- **Letter:** `r`, **Position:** `1`, **Words:** rasoir, reblochon, radio, radis, romarin
+- **Letter:** `r`, **Position:** `2`, **Words:** fraises, drapeau, briquet, brochettes, crepes
+- **Letter:** `r`, **Position:** `3`, **Words:** caramel, horloge, tortillas, agrumes, harengs
+- **Letter:** `r`, **Position:** `4`, **Words:** livre, cidre, souris, poireaux, beurre
+- **Letter:** `r`, **Position:** `5`, **Words:** fleurs, romarin, feutres, poivrons, beurre
+- **Letter:** `r`, **Position:** `6`, **Words:** rasoir, margarine, moutarde, casserole, fenetre
+- **Letter:** `s`, **Position:** `1`, **Words:** scanner, saumon, sucre, serviettes, safran
+- **Letter:** `s`, **Position:** `2`, **Words:** assouplissant, aspirateur, tshirt, assiettes, oseille
+- **Letter:** `s`, **Position:** `3`, **Words:** assouplissant, tisane, casserole, ciseaux, vaseline
+- **Letter:** `s`, **Position:** `4`, **Words:** raisin, muesli, vaisselle, lessive, tasse
+- **Letter:** `s`, **Position:** `5`, **Words:** croissants, fraises, tapis, gants, cerises
+- **Letter:** `s`, **Position:** `6`, **Words:** crepes, souris, figues, pommes, ananas
+- **Letter:** `t`, **Position:** `1`, **Words:** tshirt, trombonnes, torchon, tomates, tuyau
+- **Letter:** `t`, **Position:** `3`, **Words:** metre, dattes, artichauts, nutella, coton
+- **Letter:** `t`, **Position:** `4`, **Words:** veste, dentifrice, martinet, dictionnaire, tortillas
+- **Letter:** `t`, **Position:** `5`, **Words:** peinture, navets, manette, carottes, fenetre
+- **Letter:** `t`, **Position:** `6`, **Words:** culottes, tshirt, carnet, carottes, lingettes
+- **Letter:** `u`, **Position:** `1`, **Words:** uniforme, ustensile, ukulele
+- **Letter:** `u`, **Position:** `2`, **Words:** muffins, cumin, puzzle, culottes, cuilleres
+- **Letter:** `u`, **Position:** `3`, **Words:** journal, aluminium, bougeoir, gaufres, nouilles
+- **Letter:** `u`, **Position:** `4`, **Words:** clous, aiguille, adoucissant, beaujolais, trousse
+- **Letter:** `u`, **Position:** `5`, **Words:** mangues, tuyau, ampoules, tissu, fenouil
+- **Letter:** `u`, **Position:** `6`, **Words:** ketchup, guimauves, ciseaux, peinture, pantoufles
+- **Letter:** `v`, **Position:** `1`, **Words:** vaisselle, verres, veste, ventilateur, vase
+- **Letter:** `v`, **Position:** `2`, **Words:** avocats, avoine
+- **Letter:** `v`, **Position:** `3`, **Words:** enveloppes, savon, javel, levure, raviolis
+- **Letter:** `v`, **Position:** `4`, **Words:** couverts, serviettes, poivrons, poivre, olives
+- **Letter:** `w`, **Position:** `1`, **Words:** walkman, whisky, webcam
+- **Letter:** `w`, **Position:** `2`, **Words:** swatch, twister
 - **Letter:** `w`, **Position:** `3`, **Words:** kiwis, gewurztraminer
-- **Letter:** `w`, **Position:** `4`, **Words:** schweppes, brownie, icewatch, schwarzkopf, snowboard
+- **Letter:** `w`, **Position:** `4`, **Words:** schweppes, brownie, snowboard, schwarzkopf, icewatch
 - **Letter:** `w`, **Position:** `5`, **Words:** sandwich, tomawak
-- **Letter:** `x`, **Position:** `4`, **Words:** noix, ajax, xbox
+- **Letter:** `x`, **Position:** `4`, **Words:** ajax, noix, xbox
 - **Letter:** `y`, **Position:** `1`, **Words:** yaourt, yoyo
-- **Letter:** `y`, **Position:** `3`, **Words:** mayonnaise, stylos, tuyau, yoyo
+- **Letter:** `y`, **Position:** `3`, **Words:** stylos, tuyau, mayonnaise, yoyo
 - **Letter:** `y`, **Position:** `5`, **Words:** papaye, curry, spray
-- **Letter:** `y`, **Position:** `6`, **Words:** eucalyptus, whisky
+- **Letter:** `y`, **Position:** `6`, **Words:** whisky, eucalyptus
 - **Letter:** `z`, **Position:** `3`, **Words:** pizza, puzzle
-- **Letter:** `z`, **Position:** `4`, **Words:** puzzle, pizza
+- **Letter:** `z`, **Position:** `4`, **Words:** pizza, puzzle
 
 </details>
 
@@ -6497,143 +6492,143 @@ Total missing words: `19`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Alligator, Albatros, Antilope, Ara, Alpaga
-- **Letter:** `a`, **Position:** `2`, **Words:** Panda, Sardine, Rat, Caribou, Vache
-- **Letter:** `a`, **Position:** `3`, **Words:** Flamant, Chauve souris, Araignee, Blatte, Chacal
-- **Letter:** `a`, **Position:** `4`, **Words:** Alpaga, Cigale, Canari, Canard, Escargot
-- **Letter:** `a`, **Position:** `5`, **Words:** Dromadaire, Chacal, Crapaud, Akita, Panda
-- **Letter:** `a`, **Position:** `6`, **Words:** Chameau, Corbeau, Alligator, Angora, Chimpanze
-- **Letter:** `b`, **Position:** `1`, **Words:** Bonobo, Baleine, Blatte, Boa, Blaireau
-- **Letter:** `b`, **Position:** `2`, **Words:** Ibis, Abeille, Ablette
-- **Letter:** `b`, **Position:** `3`, **Words:** Zebre, Zebu, Albatros, Hibou, Akbash
+- **Letter:** `a`, **Position:** `1`, **Words:** Anguille, Alligator, Ane, Apode, Araignee
+- **Letter:** `a`, **Position:** `2`, **Words:** Vache, Daim, Gazelle, Kangourou, Faisan
+- **Letter:** `a`, **Position:** `3`, **Words:** Chacal, Araignee, Anaconda, Chamois, Chat
+- **Letter:** `a`, **Position:** `4`, **Words:** Lama, Macaque, Canard, Cigale, Iguane
+- **Letter:** `a`, **Position:** `5`, **Words:** Wallaby, Chacal, Faisan, Koala, Toucan
+- **Letter:** `a`, **Position:** `6`, **Words:** Chameau, Alligator, Corbeau, Alpaga, Chimpanze
+- **Letter:** `b`, **Position:** `1`, **Words:** Boa, Blaireau, Bouquetin, Bison, Baleine
+- **Letter:** `b`, **Position:** `2`, **Words:** Abeille, Ibis, Ablette
+- **Letter:** `b`, **Position:** `3`, **Words:** Albatros, Zebre, Hibou, Zebu, Bobac
 - **Letter:** `b`, **Position:** `4`, **Words:** Corbeau, Urubu, Wombat
-- **Letter:** `b`, **Position:** `5`, **Words:** Caribou, Bonobo, Ovenbird, Scrubjay
-- **Letter:** `b`, **Position:** `6`, **Words:** Colombe, Wallaby, Waterbuck
-- **Letter:** `c`, **Position:** `1`, **Words:** Chat, Chimpanze, Castor, Chamois, Coq
-- **Letter:** `c`, **Position:** `2`, **Words:** Ecrevisse, Ecureuil, Achigan, Scrubjay
-- **Letter:** `c`, **Position:** `3`, **Words:** Yack, Vache, Gecko, Escargot, Vachette
-- **Letter:** `c`, **Position:** `4`, **Words:** Manchot, Chacal, Anaconda, Crocodile, Faucon
-- **Letter:** `c`, **Position:** `5`, **Words:** Chinchilla, Yapock, Bobac, Quiscale, Ajonc
-- **Letter:** `c`, **Position:** `6`, **Words:** Capricorne, Fennec, Rhinoceros
-- **Letter:** `d`, **Position:** `1`, **Words:** Dodo, Daim, Dromadaire, Dauphin, Dindon
+- **Letter:** `b`, **Position:** `5`, **Words:** Bonobo, Caribou, Scrubjay, Ovenbird
+- **Letter:** `b`, **Position:** `6`, **Words:** Wallaby, Colombe, Waterbuck
+- **Letter:** `c`, **Position:** `1`, **Words:** Coyote, Chauve souris, Crapaud, Castor, Carnivore
+- **Letter:** `c`, **Position:** `2`, **Words:** Ecureuil, Ecrevisse, Achigan, Scrubjay
+- **Letter:** `c`, **Position:** `3`, **Words:** Macaque, Vache, Gecko, Vachette, Yack
+- **Letter:** `c`, **Position:** `4`, **Words:** Manchot, Anaconda, Faucon, Chacal, Toucan
+- **Letter:** `c`, **Position:** `5`, **Words:** Chinchilla, Quiscale, Bobac, Caracal, Yapock
+- **Letter:** `c`, **Position:** `6`, **Words:** Fennec, Rhinoceros, Capricorne
+- **Letter:** `d`, **Position:** `1`, **Words:** Dindon, Dodo, Dromadaire, Dauphin, Daim
 - **Letter:** `d`, **Position:** `2`, **Words:** Odette, Adder, Admiral
 - **Letter:** `d`, **Position:** `3`, **Words:** Dodo, Eudypte, Kodiak, Adder
-- **Letter:** `d`, **Position:** `4`, **Words:** Panda, Condor, Dindon, Sardine, Apode
-- **Letter:** `d`, **Position:** `5`, **Words:** Loxodonte, Swordfish, Auxide, Crawdad, Armadille
-- **Letter:** `d`, **Position:** `6`, **Words:** Hirondelle, Dromadaire, Renard, Canard, Pintade
-- **Letter:** `e`, **Position:** `1`, **Words:** Escargot, Epervier, Emeu, Etoile de mer, Ecureuil
-- **Letter:** `e`, **Position:** `2`, **Words:** Renard, Serpent, Perroquet, Zebre, Requin
-- **Letter:** `e`, **Position:** `3`, **Words:** Goeland, Ane, Cheval, Abeille, Emeu
-- **Letter:** `e`, **Position:** `4`, **Words:** Ecrevisse, Sole, Baleine, Nonette, Gazelle
-- **Letter:** `e`, **Position:** `5`, **Words:** Carpe, Sauterelle, Cygne, Zebre, Singe
-- **Letter:** `e`, **Position:** `6`, **Words:** Blaireau, Coyote, Buffle, Etoile de mer, Girafe
-- **Letter:** `f`, **Position:** `1`, **Words:** Fourmi, Faucon, Faisan, Freux, Flamant
+- **Letter:** `d`, **Position:** `4`, **Words:** Dindon, Nandou, Panda, Condor, Sardine
+- **Letter:** `d`, **Position:** `5`, **Words:** Crawdad, Armadille, Loxodonte, Swordfish, Auxide
+- **Letter:** `d`, **Position:** `6`, **Words:** Lezard, Canard, Pintade, Hirondelle, Renard
+- **Letter:** `e`, **Position:** `1`, **Words:** Elephant, Ecrevisse, Emeu, Etoile de mer, Ecureuil
+- **Letter:** `e`, **Position:** `2`, **Words:** Serpent, Gecko, Perroquet, Zebu, Lezard
+- **Letter:** `e`, **Position:** `3`, **Words:** Oie, Goeland, Elephant, Boeuf, Phenix
+- **Letter:** `e`, **Position:** `4`, **Words:** Mule, Pigeon, Civette, Poney, Gazelle
+- **Letter:** `e`, **Position:** `5`, **Words:** Aigle, Fennec, Sauterelle, Singe, Carpe
+- **Letter:** `e`, **Position:** `6`, **Words:** Etoile de mer, Buffle, Cigale, Roussette, Blaireau
+- **Letter:** `f`, **Position:** `1`, **Words:** Freux, Faisan, Fourmi, Fennec, Flamant
 - **Letter:** `f`, **Position:** `3`, **Words:** Buffle, Effraie
-- **Letter:** `f`, **Position:** `4`, **Words:** Cerf, Buffle, Peafowl
-- **Letter:** `f`, **Position:** `5`, **Words:** Boeuf, Girafe, Crawfish, Blowfish
-- **Letter:** `f`, **Position:** `6`, **Words:** Swordfish, Angelfish, Clownfish
-- **Letter:** `g`, **Position:** `1`, **Words:** Gorille, Grizzli, Goeland, Gazelle, Gecko
-- **Letter:** `g`, **Position:** `2`, **Words:** Iguane, Agami, Agouti
-- **Letter:** `g`, **Position:** `3`, **Words:** Cigale, Jaguar, Angora, Pigeon, Anguille
-- **Letter:** `g`, **Position:** `4`, **Words:** Pingouin, Kangourou, Sanglier, Singe, Mongoz
-- **Letter:** `g`, **Position:** `5`, **Words:** Alpaga, Araignee, Alligator, Cigogne, Achigan
+- **Letter:** `f`, **Position:** `4`, **Words:** Buffle, Cerf, Peafowl
+- **Letter:** `f`, **Position:** `5`, **Words:** Boeuf, Girafe, Blowfish, Crawfish
+- **Letter:** `f`, **Position:** `6`, **Words:** Clownfish, Angelfish, Swordfish
+- **Letter:** `g`, **Position:** `1`, **Words:** Goeland, Gajou, Gazelle, Girafe, Gecko
+- **Letter:** `g`, **Position:** `2`, **Words:** Iguane, Agouti, Agami
+- **Letter:** `g`, **Position:** `3`, **Words:** Jaguar, Cigale, Tigre, Angora, Cygne
+- **Letter:** `g`, **Position:** `4`, **Words:** Singe, Kangourou, Pingouin, Sanglier, Mongoz
+- **Letter:** `g`, **Position:** `5`, **Words:** Araignee, Cigogne, Alligator, Alpaga, Drongo
 - **Letter:** `g`, **Position:** `6`, **Words:** Escargot, Wendigo
-- **Letter:** `h`, **Position:** `1`, **Words:** Hirondelle, Helix, Hibou, Hippopotame, Hoazin
-- **Letter:** `h`, **Position:** `2`, **Words:** Chien, Chauve souris, Chimpanze, Chat, Chinchilla
+- **Letter:** `h`, **Position:** `1`, **Words:** Hirondelle, Hibou, Helix, Hippopotame, Hoazin
+- **Letter:** `h`, **Position:** `2`, **Words:** Chameau, Phoque, Chacal, Chamois, Chat
 - **Letter:** `h`, **Position:** `3`, **Words:** Sphinx, Achigan, Aphrodite
-- **Letter:** `h`, **Position:** `4`, **Words:** Vache, Vachette, Archer, Lechwe, Pachyure
-- **Letter:** `h`, **Position:** `5`, **Words:** Elephant, Manchot, Dauphin, Xanthie, Brachyure
+- **Letter:** `h`, **Position:** `4`, **Words:** Vachette, Vache, Archer, Lechwe, Pachyure
+- **Letter:** `h`, **Position:** `5`, **Words:** Dauphin, Elephant, Manchot, Xanthie, Brachyure
 - **Letter:** `h`, **Position:** `6`, **Words:** Chinchilla, Doryphore, Akbash
-- **Letter:** `i`, **Position:** `1`, **Words:** Ibis, Iguane
-- **Letter:** `i`, **Position:** `2`, **Words:** Singe, Girafe, Pigeon, Oiseau, Pintade
-- **Letter:** `i`, **Position:** `3`, **Words:** Grizzli, Criquet, Ibis, Chien, Chinchilla
-- **Letter:** `i`, **Position:** `4`, **Words:** Antilope, Caribou, Wapiti, Abeille, Maki
-- **Letter:** `i`, **Position:** `5`, **Words:** Requin, Anguille, Carnivore, Baleine, Capricorne
-- **Letter:** `i`, **Position:** `6`, **Words:** Epervier, Chamois, Wapiti, Sanglier, Canari
-- **Letter:** `j`, **Position:** `2`, **Words:** Ajonc, Ajaja
-- **Letter:** `j`, **Position:** `5`, **Words:** Bluejacket, Bluejay
+- **Letter:** `i`, **Position:** `1`, **Words:** Iguane, Ibis
+- **Letter:** `i`, **Position:** `2`, **Words:** Civette, Lion, Pigeon, Hippopotame, Girafe
+- **Letter:** `i`, **Position:** `3`, **Words:** Akita, Chinchilla, Rhinoceros, Ibis, Grizzli
+- **Letter:** `i`, **Position:** `4`, **Words:** Sphinx, Papillon, Gorille, Etoile de mer, Alligator
+- **Letter:** `i`, **Position:** `5`, **Words:** Carnivore, Otarie, Requin, Phenix, Sardine
+- **Letter:** `i`, **Position:** `6`, **Words:** Dauphin, Canari, Wapiti, Sanglier, Ecrevisse
+- **Letter:** `j`, **Position:** `2`, **Words:** Ajaja, Ajonc
+- **Letter:** `j`, **Position:** `5`, **Words:** Bluejay, Bluejacket
 - **Letter:** `j`, **Position:** `6`, **Words:** Scrubjay, Brownjay
-- **Letter:** `k`, **Position:** `1`, **Words:** Koala, Kiwi, Kangourou, Kasarka, Karakul
-- **Letter:** `k`, **Position:** `2`, **Words:** Akita, Skunk, Akbash, Okapi
+- **Letter:** `k`, **Position:** `1`, **Words:** Kangourou, Kiwi, Koala, Kasarka, Kodiak
+- **Letter:** `k`, **Position:** `2`, **Words:** Akita, Okapi, Skunk, Akbash
 - **Letter:** `k`, **Position:** `3`, **Words:** Maki, Weka
-- **Letter:** `k`, **Position:** `4`, **Words:** Yack, Gecko, Quokka
-- **Letter:** `k`, **Position:** `5`, **Words:** Skunk, Karakul, Quokka
-- **Letter:** `k`, **Position:** `6`, **Words:** Kodiak, Yapock, Kasarka
-- **Letter:** `l`, **Position:** `1`, **Words:** Lapin, Lezard, Loup, Lion, Loutre
-- **Letter:** `l`, **Position:** `2`, **Words:** Alligator, Flamant, Alpaga, Blaireau, Blatte
-- **Letter:** `l`, **Position:** `3`, **Words:** Alligator, Helix, Sole, Mule, Wallaby
-- **Letter:** `l`, **Position:** `4`, **Words:** Goeland, Axolotl, Koala, Aigle, Wallaby
-- **Letter:** `l`, **Position:** `5`, **Words:** Gorille, Abeille, Buffle, Cigale, Papillon
-- **Letter:** `l`, **Position:** `6`, **Words:** Grizzli, Abeille, Gorille, Cheval, Papillon
-- **Letter:** `m`, **Position:** `1`, **Words:** Mule, Manchot, Macaque, Mouton, Maki
-- **Letter:** `m`, **Position:** `3`, **Words:** Lama, Armadille, Admiral, Wombat
-- **Letter:** `m`, **Position:** `4`, **Words:** Daim, Chamois, Chameau, Chimpanze, Marmotte
-- **Letter:** `m`, **Position:** `5`, **Words:** Colombe, Fourmi, Chlamyde
-- **Letter:** `m`, **Position:** `6`, **Words:** Gallimard, Prosimien
-- **Letter:** `n`, **Position:** `1`, **Words:** Nonette, Nandou, Narval, Neomys, Ninox
-- **Letter:** `n`, **Position:** `2`, **Words:** Antilope, Angora, Ane, Anguille, Anaconda
-- **Letter:** `n`, **Position:** `3`, **Words:** Renard, Kangourou, Nonette, Lynx, Bonobo
-- **Letter:** `n`, **Position:** `4`, **Words:** Lion, Chinchilla, Phenix, Carnivore, Fennec
-- **Letter:** `n`, **Position:** `5`, **Words:** Chien, Hirondelle, Iguane, Lapin, Bison
-- **Letter:** `n`, **Position:** `6`, **Words:** Serpent, Pigeon, Anaconda, Faisan, Flamant
-- **Letter:** `o`, **Position:** `1`, **Words:** Otarie, Oiseau, Oie, Ours, Ovenbird
-- **Letter:** `o`, **Position:** `2`, **Words:** Corbeau, Roussette, Bouquetin, Condor, Loup
-- **Letter:** `o`, **Position:** `3`, **Words:** Etoile de mer, Phoque, Crocodile, Axolotl, Apode
-- **Letter:** `o`, **Position:** `4`, **Words:** Gajou, Coyote, Hirondelle, Bison, Dodo
-- **Letter:** `o`, **Position:** `5`, **Words:** Gecko, Crocodile, Castor, Axolotl, Mouton
-- **Letter:** `o`, **Position:** `6`, **Words:** Antilope, Bonobo, Manchot, Caribou, Drongo
-- **Letter:** `p`, **Position:** `1`, **Words:** Papillon, Pingouin, Phoque, Panda, Perroquet
-- **Letter:** `p`, **Position:** `2`, **Words:** Apode, Epervier, Sphinx, Aphrodite
-- **Letter:** `p`, **Position:** `3`, **Words:** Papillon, Wapiti, Hippopotame, Lapin, Alpaga
-- **Letter:** `p`, **Position:** `4`, **Words:** Crapaud, Serpent, Carpe, Hippopotame, Loup
+- **Letter:** `k`, **Position:** `4`, **Words:** Gecko, Yack, Quokka
+- **Letter:** `k`, **Position:** `5`, **Words:** Karakul, Skunk, Quokka
+- **Letter:** `k`, **Position:** `6`, **Words:** Yapock, Kasarka, Kodiak
+- **Letter:** `l`, **Position:** `1`, **Words:** Loup, Lezard, Lapin, Lynx, Loutre
+- **Letter:** `l`, **Position:** `2`, **Words:** Albatros, Blatte, Flamant, Blaireau, Alligator
+- **Letter:** `l`, **Position:** `3`, **Words:** Colombe, Sole, Mule, Baleine, Helix
+- **Letter:** `l`, **Position:** `4`, **Words:** Aigle, Wallaby, Koala, Axolotl, Goeland
+- **Letter:** `l`, **Position:** `5`, **Words:** Papillon, Cigale, Sanglier, Gazelle, Buffle
+- **Letter:** `l`, **Position:** `6`, **Words:** Papillon, Grizzli, Narval, Cheval, Anguille
+- **Letter:** `m`, **Position:** `1`, **Words:** Marmotte, Mouton, Mule, Maki, Macaque
+- **Letter:** `m`, **Position:** `3`, **Words:** Lama, Admiral, Wombat, Armadille
+- **Letter:** `m`, **Position:** `4`, **Words:** Daim, Flamant, Cormoran, Chimpanze, Marmotte
+- **Letter:** `m`, **Position:** `5`, **Words:** Fourmi, Colombe, Chlamyde
+- **Letter:** `m`, **Position:** `6`, **Words:** Prosimien, Gallimard
+- **Letter:** `n`, **Position:** `1`, **Words:** Nandou, Narval, Nonette, Nezara, Ninox
+- **Letter:** `n`, **Position:** `2`, **Words:** Antilope, Ane, Anaconda, Anguille, Angora
+- **Letter:** `n`, **Position:** `3`, **Words:** Singe, Kangourou, Pintade, Panda, Manchot
+- **Letter:** `n`, **Position:** `4`, **Words:** Rhinoceros, Carnivore, Cygne, Chinchilla, Fennec
+- **Letter:** `n`, **Position:** `5`, **Words:** Hirondelle, Chien, Bison, Iguane, Sphinx
+- **Letter:** `n`, **Position:** `6`, **Words:** Goeland, Serpent, Faucon, Faisan, Araignee
+- **Letter:** `o`, **Position:** `1`, **Words:** Oie, Ours, Otarie, Oiseau, Odette
+- **Letter:** `o`, **Position:** `2`, **Words:** Boa, Koala, Nonette, Coq, Toucan
+- **Letter:** `o`, **Position:** `3`, **Words:** Axolotl, Phoque, Crocodile, Apode, Etoile de mer
+- **Letter:** `o`, **Position:** `4`, **Words:** Colombe, Hirondelle, Dodo, Gajou, Angora
+- **Letter:** `o`, **Position:** `5`, **Words:** Castor, Crocodile, Condor, Mouton, Hippopotame
+- **Letter:** `o`, **Position:** `6`, **Words:** Antilope, Caribou, Manchot, Bonobo, Loxodonte
+- **Letter:** `p`, **Position:** `1`, **Words:** Pintade, Perroquet, Poney, Phenix, Pingouin
+- **Letter:** `p`, **Position:** `2`, **Words:** Apode, Sphinx, Epervier, Aphrodite
+- **Letter:** `p`, **Position:** `3`, **Words:** Hippopotame, Wapiti, Papillon, Alpaga, Capricorne
+- **Letter:** `p`, **Position:** `4`, **Words:** Hippopotame, Serpent, Carpe, Crapaud, Loup
 - **Letter:** `p`, **Position:** `5`, **Words:** Chimpanze, Xenope, Doryphore, Xenops, Eudypte
-- **Letter:** `q`, **Position:** `1`, **Words:** Quiscale, Quetzal, Quokka
+- **Letter:** `q`, **Position:** `1`, **Words:** Quetzal, Quiscale, Quokka
 - **Letter:** `q`, **Position:** `2`, **Words:** Equille, Squille
 - **Letter:** `q`, **Position:** `3`, **Words:** Requin, Coq
-- **Letter:** `q`, **Position:** `4`, **Words:** Criquet, Bouquetin, Phoque
-- **Letter:** `r`, **Position:** `1`, **Words:** Rhinoceros, Renard, Roussette, Requin, Rat
-- **Letter:** `r`, **Position:** `2`, **Words:** Araignee, Dromadaire, Grizzli, Criquet, Freux
-- **Letter:** `r`, **Position:** `3`, **Words:** Carnivore, Cormoran, Gorille, Corbeau, Carpe
-- **Letter:** `r`, **Position:** `4`, **Words:** Tigre, Zebre, Epervier, Otarie, Ecureuil
-- **Letter:** `r`, **Position:** `5`, **Words:** Canari, Renard, Lezard, Escargot, Blaireau
-- **Letter:** `r`, **Position:** `6`, **Words:** Castor, Condor, Sauterelle, Jaguar, Albatros
-- **Letter:** `s`, **Position:** `1`, **Words:** Sole, Sauterelle, Sanglier, Sphinx, Sardine
+- **Letter:** `q`, **Position:** `4`, **Words:** Bouquetin, Phoque, Criquet
+- **Letter:** `r`, **Position:** `1`, **Words:** Rat, Renard, Rhinoceros, Requin, Roussette
+- **Letter:** `r`, **Position:** `2`, **Words:** Araignee, Crapaud, Ara, Freux, Criquet
+- **Letter:** `r`, **Position:** `3`, **Words:** Ecrevisse, Carnivore, Corbeau, Cerf, Tortue
+- **Letter:** `r`, **Position:** `4`, **Words:** Fourmi, Ecureuil, Capricorne, Epervier, Tigre
+- **Letter:** `r`, **Position:** `5`, **Words:** Renard, Lezard, Angora, Blaireau, Loutre
+- **Letter:** `r`, **Position:** `6`, **Words:** Jaguar, Condor, Castor, Albatros, Sauterelle
+- **Letter:** `s`, **Position:** `1`, **Words:** Singe, Sole, Serpent, Sardine, Sauterelle
 - **Letter:** `s`, **Position:** `2`, **Words:** Escargot, Aspic
-- **Letter:** `s`, **Position:** `3`, **Words:** Oiseau, Bison, Castor, Cassowary, Kasarka
+- **Letter:** `s`, **Position:** `3`, **Words:** Castor, Oiseau, Bison, Kasarka, Cassowary
 - **Letter:** `s`, **Position:** `4`, **Words:** Ours, Roussette, Faisan, Ibis, Quiscale
 - **Letter:** `s`, **Position:** `5`, **Words:** Roussette, Akbash, Argus, Xerus
-- **Letter:** `s`, **Position:** `6`, **Words:** Neomys, Anolis, Xenops, Geomys
-- **Letter:** `t`, **Position:** `1`, **Words:** Tigre, Tortue, Toucan
+- **Letter:** `s`, **Position:** `6`, **Words:** Neomys, Geomys, Anolis, Xenops
+- **Letter:** `t`, **Position:** `1`, **Words:** Tigre, Toucan, Tortue
 - **Letter:** `t`, **Position:** `2`, **Words:** Etoile de mer, Otarie, Etourneau
-- **Letter:** `t`, **Position:** `3`, **Words:** Antilope, Rat, Waterbuck
-- **Letter:** `t`, **Position:** `4`, **Words:** Blatte, Vautour, Sauterelle, Chat, Castor
-- **Letter:** `t`, **Position:** `5`, **Words:** Coyote, Albatros, Wapiti, Nonette, Blatte
-- **Letter:** `t`, **Position:** `6`, **Words:** Civette, Axolotl, Vachette, Marmotte, Nonette
-- **Letter:** `u`, **Position:** `1`, **Words:** Urubu, Urial, Unau
-- **Letter:** `u`, **Position:** `2`, **Words:** Mule, Ours, Buffle, Buzzard, Eudypte
-- **Letter:** `u`, **Position:** `3`, **Words:** Loutre, Fourmi, Mouton, Vautour, Bouquetin
-- **Letter:** `u`, **Position:** `4`, **Words:** Requin, Freux, Zebu, Anguille, Boeuf
-- **Letter:** `u`, **Position:** `5`, **Words:** Bouquetin, Phoque, Tortue, Hibou, Criquet
-- **Letter:** `u`, **Position:** `6`, **Words:** Macaque, Vautour, Crapaud, Ecureuil, Oiseau
+- **Letter:** `t`, **Position:** `3`, **Words:** Rat, Antilope, Waterbuck
+- **Letter:** `t`, **Position:** `4`, **Words:** Sauterelle, Tortue, Mouton, Akita, Vautour
+- **Letter:** `t`, **Position:** `5`, **Words:** Albatros, Civette, Wapiti, Coyote, Blatte
+- **Letter:** `t`, **Position:** `6`, **Words:** Vachette, Nonette, Axolotl, Marmotte, Civette
+- **Letter:** `u`, **Position:** `1`, **Words:** Urubu, Unau, Urial
+- **Letter:** `u`, **Position:** `2`, **Words:** Buffle, Mule, Ours, Quetzal, Quiscale
+- **Letter:** `u`, **Position:** `3`, **Words:** Ecureuil, Loup, Mouton, Bouquetin, Vautour
+- **Letter:** `u`, **Position:** `4`, **Words:** Freux, Chauve souris, Requin, Boeuf, Anguille
+- **Letter:** `u`, **Position:** `5`, **Words:** Hibou, Tortue, Gajou, Criquet, Phoque
+- **Letter:** `u`, **Position:** `6`, **Words:** Pingouin, Kangourou, Oiseau, Vautour, Nandou
 - **Letter:** `v`, **Position:** `1`, **Words:** Vache, Vachette, Vautour
-- **Letter:** `v`, **Position:** `4`, **Words:** Narval, Cheval
-- **Letter:** `v`, **Position:** `5`, **Words:** Chauve souris, Ecrevisse, Epervier
+- **Letter:** `v`, **Position:** `4`, **Words:** Cheval, Narval
+- **Letter:** `v`, **Position:** `5`, **Words:** Ecrevisse, Chauve souris, Epervier
 - **Letter:** `w`, **Position:** `1`, **Words:** Wallaby, Wapiti, Wombat, Wendigo, Wallaroo
-- **Letter:** `w`, **Position:** `2`, **Words:** Swallow, Swordfish
-- **Letter:** `w`, **Position:** `4`, **Words:** Crawdad, Crawfish, Blowfish, Brownjay, Clownfish
-- **Letter:** `w`, **Position:** `6`, **Words:** Peafowl, Cassowary, Galloway, Fallow
-- **Letter:** `x`, **Position:** `1`, **Words:** Xenoure, Xenops, Xenope, Xanthie, Xerus
+- **Letter:** `w`, **Position:** `2`, **Words:** Swordfish, Swallow
+- **Letter:** `w`, **Position:** `4`, **Words:** Blowfish, Crawdad, Crawfish, Brownjay, Clownfish
+- **Letter:** `w`, **Position:** `6`, **Words:** Galloway, Peafowl, Fallow, Cassowary
+- **Letter:** `x`, **Position:** `1`, **Words:** Xenope, Xenoure, Xerus, Xenops, Xanthie
 - **Letter:** `x`, **Position:** `3`, **Words:** Auxide, Loxodonte
-- **Letter:** `x`, **Position:** `5`, **Words:** Helix, Freux, Ninox, Chaux
+- **Letter:** `x`, **Position:** `5`, **Words:** Helix, Freux, Chaux, Ninox
 - **Letter:** `x`, **Position:** `6`, **Words:** Phenix, Sphinx
 - **Letter:** `y`, **Position:** `1`, **Words:** Yack, Yapock
-- **Letter:** `y`, **Position:** `2`, **Words:** Lynx, Cygne, Nyala
+- **Letter:** `y`, **Position:** `2`, **Words:** Cygne, Lynx, Nyala
 - **Letter:** `y`, **Position:** `4`, **Words:** Eudypte, Doryphore
-- **Letter:** `y`, **Position:** `5`, **Words:** Poney, Geomys, Pachyure, Neomys
-- **Letter:** `y`, **Position:** `6`, **Words:** Chlamyde, Brachyure
-- **Letter:** `z`, **Position:** `1`, **Words:** Zebu, Zebre
-- **Letter:** `z`, **Position:** `3`, **Words:** Gazelle, Lezard, Buzzard, Nezara, Sizerin
-- **Letter:** `z`, **Position:** `4`, **Words:** Grizzli, Hoazin, Buzzard
+- **Letter:** `y`, **Position:** `5`, **Words:** Poney, Neomys, Geomys, Pachyure
+- **Letter:** `y`, **Position:** `6`, **Words:** Brachyure, Chlamyde
+- **Letter:** `z`, **Position:** `1`, **Words:** Zebre, Zebu
+- **Letter:** `z`, **Position:** `3`, **Words:** Lezard, Gazelle, Sizerin, Buzzard, Nezara
+- **Letter:** `z`, **Position:** `4`, **Words:** Grizzli, Buzzard, Hoazin
 - **Letter:** `z`, **Position:** `5`, **Words:** Grizzli, Quetzal
 
 </details>
@@ -6673,162 +6668,162 @@ Total missing words: `18`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Asus, Alpha, Avene, Always, Aigle
-- **Letter:** `a`, **Position:** `2`, **Words:** Pandora, Paco, Camaieu, Darty, Oakley
-- **Letter:** `a`, **Position:** `3`, **Words:** Chanel, Izac, Braun, Atari, Ajax
-- **Letter:** `a`, **Position:** `4`, **Words:** Tefal, Camaieu, Ducati, Banania, Ricard
-- **Letter:** `a`, **Position:** `5`, **Words:** Skoda, Panzani, Arena, Bulgari, Prada
-- **Letter:** `a`, **Position:** `6`, **Words:** Kawasaki, Guerlain, Maserati, Marshall, Lafuma
-- **Letter:** `b`, **Position:** `1`, **Words:** Bourjois, Biotherm, Bentley, Benedictine, Benco
-- **Letter:** `b`, **Position:** `2`, **Words:** Absolut, JBL, Obey
-- **Letter:** `b`, **Position:** `3`, **Words:** Hublot, Subaru, Toblerone, Umbro, Febreze
-- **Letter:** `b`, **Position:** `4`, **Words:** Gerble, Cadbury, Barbie, RayBan, Hasbro
-- **Letter:** `b`, **Position:** `5`, **Words:** Grimbergen, Haribo, Playboy, Starbucks, Nocibe
-- **Letter:** `b`, **Position:** `6`, **Words:** Columbia, Toshiba, Billabong, Carlsberg, Mitsubishi
-- **Letter:** `c`, **Position:** `1`, **Words:** Ciroc, Carrefour, Champion, Compaq, Carrera
-- **Letter:** `c`, **Position:** `2`, **Words:** Acer, Activia, Scotch, Schott, Schweppes
-- **Letter:** `c`, **Position:** `3`, **Words:** SNCF, Kickers, Rockstar, Cacharel, Michelin
-- **Letter:** `c`, **Position:** `4`, **Words:** Nescafe, Chicco, Gucci, Quechua, Electrolux
-- **Letter:** `c`, **Position:** `5`, **Words:** Chicco, Porsche, Hitachi, Swatch, Scotch
-- **Letter:** `c`, **Position:** `6`, **Words:** Atomic, Volvic, Airwick, Givenchy, Lustucru
-- **Letter:** `d`, **Position:** `1`, **Words:** Danone, Duvel, Disney, Ducati, Dainese
+- **Letter:** `a`, **Position:** `1`, **Words:** Alpinestars, Azzaro, Audi, Alpha, Absolut
+- **Letter:** `a`, **Position:** `2`, **Words:** Gant, Zadig, Casio, Marionnaud, Mazda
+- **Letter:** `a`, **Position:** `3`, **Words:** Playboy, Huawei, Fnac, Playmobil, Atari
+- **Letter:** `a`, **Position:** `4`, **Words:** Norauto, Lavazza, Fila, Always, Kawasaki
+- **Letter:** `a`, **Position:** `5`, **Words:** Tesla, Arena, Fanta, Vespa, Kappa
+- **Letter:** `a`, **Position:** `6`, **Words:** Marshall, Hyundai, Kawasaki, Powerade, Yamaha
+- **Letter:** `b`, **Position:** `1`, **Words:** Bourjois, Breitling, Brice, Boulanger, Bosch
+- **Letter:** `b`, **Position:** `2`, **Words:** JBL, Absolut, Obey
+- **Letter:** `b`, **Position:** `3`, **Words:** Febreze, Hublot, Subaru, Toblerone, Umbro
+- **Letter:** `b`, **Position:** `4`, **Words:** Hasbro, Lamborghini, Maybelline, Cadbury, RayBan
+- **Letter:** `b`, **Position:** `5`, **Words:** Playboy, Haribo, Grimbergen, Starbucks, Nocibe
+- **Letter:** `b`, **Position:** `6`, **Words:** Mitsubishi, Carlsberg, Columbia, Billabong, Toshiba
+- **Letter:** `c`, **Position:** `1`, **Words:** Citroen, Chanel, Compaq, Citizen, Conforama
+- **Letter:** `c`, **Position:** `2`, **Words:** Schweppes, Scotch, Activia, Schott, Acer
+- **Letter:** `c`, **Position:** `3`, **Words:** Ducati, Rockstar, Decathlon, SNCF, Dockers
+- **Letter:** `c`, **Position:** `4`, **Words:** Mercedes, Bosch, Nescafe, Lancel, Electrolux
+- **Letter:** `c`, **Position:** `5`, **Words:** Longchamp, Hitachi, Porsche, Swatch, Scotch
+- **Letter:** `c`, **Position:** `6`, **Words:** Volvic, Versace, Givenchy, Airwick, Balenciaga
+- **Letter:** `d`, **Position:** `1`, **Words:** Devred, Delsey, Darty, Dell, Dior
 - **Letter:** `d`, **Position:** `2`, **Words:** Adidas, Odlo, Adyen
-- **Letter:** `d`, **Position:** `3`, **Words:** Andros, Dodge, Cadbury, Audi, Redbull
-- **Letter:** `d`, **Position:** `4`, **Words:** Fendi, Pandora, Skoda, Mazda, Adidas
-- **Letter:** `d`, **Position:** `5`, **Words:** Hyundai, Speedy, Benedictine, Maradji, Meindl
-- **Letter:** `d`, **Position:** `6`, **Words:** Devred, Mercedes, Sensodyne, Promod, Belvedere
-- **Letter:** `e`, **Position:** `1`, **Words:** Evian, Esprit, Etam, Esso, Electrolux
-- **Letter:** `e`, **Position:** `2`, **Words:** Reebok, Geox, Lenovo, Redbull, Ferrari
-- **Letter:** `e`, **Position:** `3`, **Words:** Arena, Opel, Speedy, Reebok, Guerlain
-- **Letter:** `e`, **Position:** `4`, **Words:** Durex, Duvel, Jules, Nike, Benedictine
-- **Letter:** `e`, **Position:** `5`, **Words:** Febreze, Avene, Michelin, Gillette, Kronenbourg
-- **Letter:** `e`, **Position:** `6`, **Words:** Gerble, Sprite, Nestle, Biotherm, Garnier
-- **Letter:** `f`, **Position:** `1`, **Words:** Fiat, Fox, Fila, Fanta, Free
-- **Letter:** `f`, **Position:** `2`, **Words:** SFR, Affligem, Xfinity, Ofra, iFly
-- **Letter:** `f`, **Position:** `3`, **Words:** Leffe, Affligem, Tefal, Cif, Lafuma
-- **Letter:** `f`, **Position:** `4`, **Words:** Conforama, SNCF, Leffe, Carfax, Beefeater
+- **Letter:** `d`, **Position:** `3`, **Words:** Andros, Redbull, Kodak, Audi, Zadig
+- **Letter:** `d`, **Position:** `4`, **Words:** Pandora, Prada, Sandro, Lindt, Bioderma
+- **Letter:** `d`, **Position:** `5`, **Words:** Hyundai, Speedy, Benedictine, Lloyd, Speedo
+- **Letter:** `d`, **Position:** `6`, **Words:** Belvedere, Sensodyne, Mercedes, Bacardi, Promod
+- **Letter:** `e`, **Position:** `1`, **Words:** Esso, Etam, Ellesse, Electrolux, Evian
+- **Letter:** `e`, **Position:** `2`, **Words:** Kenzo, Nescafe, Lexus, Zenith, Hennessy
+- **Letter:** `e`, **Position:** `3`, **Words:** Reebok, Jeep, Oreo, Kleenex, Free
+- **Letter:** `e`, **Position:** `4`, **Words:** Speedy, Benedictine, Rowenta, Powerade, Jules
+- **Letter:** `e`, **Position:** `5`, **Words:** Converse, Hennessy, Senseo, Schweppes, Belvedere
+- **Letter:** `e`, **Position:** `6`, **Words:** Camaieu, Nestle, Google, Citroen, Grimbergen
+- **Letter:** `f`, **Position:** `1`, **Words:** Fanta, Ferrari, Fox, Ferrero, Fnac
+- **Letter:** `f`, **Position:** `2`, **Words:** SFR, Affligem, Xfinity, iFly, Ofra
+- **Letter:** `f`, **Position:** `3`, **Words:** Leffe, Tefal, Cif, Affligem, Lafuma
+- **Letter:** `f`, **Position:** `4`, **Words:** Leffe, SNCF, Conforama, Beefeater, Outfox
 - **Letter:** `f`, **Position:** `5`, **Words:** Fujifilm, Glenfiddich, Cliff
-- **Letter:** `f`, **Position:** `6`, **Words:** Jennyfer, Spotify, Nescafe, Carrefour
-- **Letter:** `g`, **Position:** `1`, **Words:** Gordon, Givenchy, Gucci, Geox, Glenfiddich
+- **Letter:** `f`, **Position:** `6`, **Words:** Jennyfer, Nescafe, Carrefour, Spotify
+- **Letter:** `g`, **Position:** `1`, **Words:** Guerlain, Gordon, Gucci, Grimbergen, Guess
 - **Letter:** `g`, **Position:** `2`, **Words:** Ugg, Agfa, Ogio
-- **Letter:** `g`, **Position:** `3`, **Words:** Ugg, Maggi, Lego, Jagermeister, Signal
-- **Letter:** `g`, **Position:** `4`, **Words:** Longchamp, Colgate, Maggi, Bulgari, Dodge
-- **Letter:** `g`, **Position:** `5`, **Words:** Bouygues, Zadig, Orangina, Bjorg, Wrangler
-- **Letter:** `g`, **Position:** `6`, **Words:** NinjaGO, Delonghi, Rossignol, Chevignon, Affligem
-- **Letter:** `h`, **Position:** `1`, **Words:** Havana, Hasbro, Heineken, Harley, Heinz
-- **Letter:** `h`, **Position:** `2`, **Words:** Whirlpool, Chanel, Chevrolet, Chevignon, Champion
-- **Letter:** `h`, **Position:** `3`, **Words:** Schott, Schweppes, iPhone, Johnson, Kahlua
-- **Letter:** `h`, **Position:** `4`, **Words:** Sephora, Cacharel, Toshiba, Mephisto, Alpha
-- **Letter:** `h`, **Position:** `5`, **Words:** Ralph, Biotherm, Yamaha, Marshall, Quechua
-- **Letter:** `h`, **Position:** `6`, **Words:** Longchamp, Swatch, Scotch, Zenith, Decathlon
-- **Letter:** `i`, **Position:** `1`, **Words:** Intersport, iPhone, Izac, Intermarche, Intel
-- **Letter:** `i`, **Position:** `2`, **Words:** Nissan, Biotherm, Vichy, Nivea, Pimkie
-- **Letter:** `i`, **Position:** `3`, **Words:** Snickers, Quiksilver, Evian, Heinz, Adidas
-- **Letter:** `i`, **Position:** `4`, **Words:** Zadig, Haribo, Activia, Alpinestars, Sprite
-- **Letter:** `i`, **Position:** `5`, **Words:** Gucci, Spotify, Atari, Huggies, Maggi
-- **Letter:** `i`, **Position:** `6`, **Words:** Benedictine, Fujifilm, Yoplait, Balmain, Suzuki
-- **Letter:** `j`, **Position:** `1`, **Words:** Jameson, Jagermeister, Jennyfer, JBL, Jules
+- **Letter:** `g`, **Position:** `3`, **Words:** Jaguar, Maggi, Signal, Lego, Aigle
+- **Letter:** `g`, **Position:** `4`, **Words:** Bulgari, Longchamp, Colgate, Maggi, Huggies
+- **Letter:** `g`, **Position:** `5`, **Words:** Zadig, Bouygues, Bjorg, Orangina, Wrangler
+- **Letter:** `g`, **Position:** `6`, **Words:** Delonghi, NinjaGO, Kelloggs, Affligem, Chevignon
+- **Letter:** `h`, **Position:** `1`, **Words:** Hublot, Hermes, Huggies, Hennessy, Heineken
+- **Letter:** `h`, **Position:** `2`, **Words:** Chrysler, Chicco, Whirlpool, Chevrolet, Chanel
+- **Letter:** `h`, **Position:** `3`, **Words:** Schott, Schweppes, iPhone, Kahlua, Johnson
+- **Letter:** `h`, **Position:** `4`, **Words:** Pathe, Michelin, Auchan, Alpha, Cacharel
+- **Letter:** `h`, **Position:** `5`, **Words:** Quechua, Bosch, Marshall, Biotherm, Ralph
+- **Letter:** `h`, **Position:** `6`, **Words:** Longchamp, Swatch, Scotch, Vanish, Zenith
+- **Letter:** `i`, **Position:** `1`, **Words:** Intersport, Intel, iPhone, Intermarche, Izac
+- **Letter:** `i`, **Position:** `2`, **Words:** Xiaomi, Diesel, Disney, Nivea, Bioderma
+- **Letter:** `i`, **Position:** `3`, **Words:** Vaio, Seiko, Triumph, Philips, Chivas
+- **Letter:** `i`, **Position:** `4`, **Words:** Nocibe, Vanish, Marionnaud, Barilla, Haribo
+- **Letter:** `i`, **Position:** `5`, **Words:** Cartier, Moulinex, Rossignol, Philips, Mephisto
+- **Letter:** `i`, **Position:** `6`, **Words:** Huawei, Suzuki, Activia, Orangina, Champion
+- **Letter:** `j`, **Position:** `1`, **Words:** Jack, Jaguar, JBL, Jagermeister, Jennyfer
 - **Letter:** `j`, **Position:** `2`, **Words:** Ajax, Bjorg, Fjallraven
-- **Letter:** `j`, **Position:** `3`, **Words:** Fujifilm, Muji, Maje, Veja
+- **Letter:** `j`, **Position:** `3`, **Words:** Fujifilm, Veja, Maje, Muji
 - **Letter:** `j`, **Position:** `4`, **Words:** NinjaGO, Ninja, Banjo
 - **Letter:** `j`, **Position:** `5`, **Words:** Bourjois, Marajo, Parajumpers
-- **Letter:** `j`, **Position:** `6`, **Words:** Maradji, SuperJeweler, FreshJoy
-- **Letter:** `k`, **Position:** `1`, **Words:** Kinder, Kitkat, Kia, Kleenex, Kodak
-- **Letter:** `k`, **Position:** `2`, **Words:** Skip, Skoda, Ikks
-- **Letter:** `k`, **Position:** `3`, **Words:** Oakley, Ikks, Nike, Nikon, Nokia
-- **Letter:** `k`, **Position:** `4`, **Words:** Volkswagen, Dockers, Wilkinson, Seiko, Quiksilver
-- **Letter:** `k`, **Position:** `5`, **Words:** Brooks, Suzuki, Snickers, Kodak, Clarks
+- **Letter:** `j`, **Position:** `6`, **Words:** FreshJoy, SuperJeweler, Maradji
+- **Letter:** `k`, **Position:** `1`, **Words:** Kronenbourg, Kitkat, Kelloggs, Kia, Kleenex
+- **Letter:** `k`, **Position:** `2`, **Words:** Ikks, Skip, Skoda
+- **Letter:** `k`, **Position:** `3`, **Words:** Nikon, Ikks, Nike, Nokia, Oakley
+- **Letter:** `k`, **Position:** `4`, **Words:** Dockers, Seiko, Milka, Wilkinson, Birkenstock
+- **Letter:** `k`, **Position:** `5`, **Words:** Kodak, Brooks, Suzuki, Snickers, Clarks
 - **Letter:** `k`, **Position:** `6`, **Words:** Reebok, Heineken, Kodiak
-- **Letter:** `l`, **Position:** `1`, **Words:** Lancel, Lenovo, Lego, Lexus, Lacoste
-- **Letter:** `l`, **Position:** `2`, **Words:** Electrolux, Playmobil, Kleenex, Glenfiddich, Ellesse
-- **Letter:** `l`, **Position:** `3`, **Words:** Milka, Wilkinson, Kelloggs, Volvo, Billabong
-- **Letter:** `l`, **Position:** `4`, **Words:** Toblerone, Hublot, Leclerc, Tesla, Tetley
-- **Letter:** `l`, **Position:** `5`, **Words:** Intel, Barilla, Whirlpool, Google, Guerlain
-- **Letter:** `l`, **Position:** `6`, **Words:** Barilla, Signal, Redbull, Breitling, Lancel
-- **Letter:** `m`, **Position:** `1`, **Words:** Motorola, Moncler, Mazda, Miele, Moulinex
-- **Letter:** `m`, **Position:** `2`, **Words:** Umbro, Smirnoff, Amazon, Omega, Smeg
-- **Letter:** `m`, **Position:** `3`, **Words:** Jameson, Pimkie, Tampax, Puma, Lamborghini
-- **Letter:** `m`, **Position:** `4`, **Words:** Grimbergen, Champion, Atomic, Tommy, Palmolive
-- **Letter:** `m`, **Position:** `5`, **Words:** Playmobil, Cadum, Lafuma, Columbia, Salomon
-- **Letter:** `m`, **Position:** `6`, **Words:** Jagermeister, Tassimo, Lancome, Intermarche
-- **Letter:** `n`, **Position:** `1`, **Words:** Nescafe, Nokia, Nivea, Nocibe, Nike
-- **Letter:** `n`, **Position:** `2`, **Words:** Snickers, Knorr, Intersport, SNCF, Intel
-- **Letter:** `n`, **Position:** `3`, **Words:** Panzani, Fanta, Lancel, Vanish, Sanex
-- **Letter:** `n`, **Position:** `4`, **Words:** Kronenbourg, Signal, Heineken, Cointreau, Fitness
-- **Letter:** `n`, **Position:** `5`, **Words:** Nikon, Smirnoff, Braun, Havana, Rowenta
-- **Letter:** `n`, **Position:** `6`, **Words:** Nissan, Marionnaud, Martini, Boulanger, Wilkinson
-- **Letter:** `o`, **Position:** `1`, **Words:** Oreo, Orangina, Oakley, Opel, Ofra
-- **Letter:** `o`, **Position:** `2`, **Words:** Moulinex, Dove, Coca, Lotus, Fox
-- **Letter:** `o`, **Position:** `3`, **Words:** Bioderma, Brooks, Crocs, Bjorg, Atomic
-- **Letter:** `o`, **Position:** `4`, **Words:** Canon, Oreo, Delonghi, Lego, Rexona
-- **Letter:** `o`, **Position:** `5`, **Words:** Kenzo, Burton, Citroen, Casio, Swarovski
-- **Letter:** `o`, **Position:** `6`, **Words:** Playboy, Polaroid, Sandro, Haribo, Smirnoff
-- **Letter:** `p`, **Position:** `1`, **Words:** Panzani, Porsche, Pimkie, Playboy, Pioneer
-- **Letter:** `p`, **Position:** `2`, **Words:** iPhone, Opel, Spotify, Speedy, Sprite
-- **Letter:** `p`, **Position:** `3`, **Words:** Pepe, AppleWatch, Alpha, Esprit, Mephisto
-- **Letter:** `p`, **Position:** `4`, **Words:** Compaq, Jeep, Krups, Skip, Ralph
-- **Letter:** `p`, **Position:** `5`, **Words:** Monoprix, Eastpak, Champion, Scarpa, Olympus
-- **Letter:** `p`, **Position:** `6`, **Words:** Philips, Whirlpool, Caterpillar, Triumph, Dunlop
-- **Letter:** `q`, **Position:** `1`, **Words:** Quechua, Quiksilver, Quaker
-- **Letter:** `q`, **Position:** `2`, **Words:** IQtech, IQOS, iQIYI
-- **Letter:** `q`, **Position:** `3`, **Words:** Laquinta, Raquette, Jaquar
+- **Letter:** `l`, **Position:** `1`, **Words:** Longchamp, Lenovo, Lanvin, Lafuma, Lego
+- **Letter:** `l`, **Position:** `2`, **Words:** Clarks, Playboy, Kleenex, Blablacar, Clarins
+- **Letter:** `l`, **Position:** `3`, **Words:** Polaroid, Balmain, Palmolive, Ellesse, Columbia
+- **Letter:** `l`, **Position:** `4`, **Words:** AppleWatch, Oakley, Kelloggs, Baileys, Harley
+- **Letter:** `l`, **Position:** `5`, **Words:** Moncler, Intel, Ariel, Gerble, Guerlain
+- **Letter:** `l`, **Position:** `6`, **Words:** Chanel, Chrysler, Signal, Diesel, Michelin
+- **Letter:** `m`, **Position:** `1`, **Words:** Mephisto, Miele, Maxwell, Mercedes, Maybelline
+- **Letter:** `m`, **Position:** `2`, **Words:** Smirnoff, Amazon, Umbro, Omega, Smeg
+- **Letter:** `m`, **Position:** `3`, **Words:** Armani, Jameson, Tommy, Timberland, Lamborghini
+- **Letter:** `m`, **Position:** `4`, **Words:** Hermes, Champion, Balmain, Etam, Grimbergen
+- **Letter:** `m`, **Position:** `5`, **Words:** Triumph, Lafuma, Xiaomi, Cadum, Salomon
+- **Letter:** `m`, **Position:** `6`, **Words:** Intermarche, Lancome, Tassimo, Jagermeister
+- **Letter:** `n`, **Position:** `1`, **Words:** Nocibe, Nivea, Nissan, Nike, Neutrogena
+- **Letter:** `n`, **Position:** `2`, **Words:** Intermarche, Intel, Intersport, Andros, Knorr
+- **Letter:** `n`, **Position:** `3`, **Words:** Nintendo, Gant, Sensodyne, Lindt, NinjaGO
+- **Letter:** `n`, **Position:** `4`, **Words:** Pioneer, Disney, Hyundai, Orangina, Guinness
+- **Letter:** `n`, **Position:** `5`, **Words:** Delonghi, Kleenex, Canon, Guinness, Alpinestars
+- **Letter:** `n`, **Position:** `6`, **Words:** Buitoni, Twinings, RayBan, Marionnaud, Morgan
+- **Letter:** `o`, **Position:** `1`, **Words:** Orangina, Oakley, Oreo, Opel, Ogio
+- **Letter:** `o`, **Position:** `2`, **Words:** Monster, Powerade, Toshiba, Dodge, Lotus
+- **Letter:** `o`, **Position:** `3`, **Words:** Dior, Pioneer, Brooks, Geox, Lion
+- **Letter:** `o`, **Position:** `4`, **Words:** Schott, iPhone, Lacoste, Paco, Delonghi
+- **Letter:** `o`, **Position:** `5`, **Words:** Promod, Kelloggs, Amazon, Reebok, Sensodyne
+- **Letter:** `o`, **Position:** `6`, **Words:** Smirnoff, Hasbro, Polaroid, Motorola, Bourjois
+- **Letter:** `p`, **Position:** `1`, **Words:** Pandora, Playmobil, Paco, Pimkie, Playboy
+- **Letter:** `p`, **Position:** `2`, **Words:** Spotify, iPhone, Opel, Sprite, Speedy
+- **Letter:** `p`, **Position:** `3`, **Words:** Pepsi, Kappa, Sephora, Esprit, AppleWatch
+- **Letter:** `p`, **Position:** `4`, **Words:** Skip, Krups, Vespa, Kappa, Jeep
+- **Letter:** `p`, **Position:** `5`, **Words:** Champion, Eastpak, Monoprix, Olympus, Scarpa
+- **Letter:** `p`, **Position:** `6`, **Words:** Whirlpool, Triumph, Caterpillar, Schweppes, Dunlop
+- **Letter:** `q`, **Position:** `1`, **Words:** Quiksilver, Quechua, Quaker
+- **Letter:** `q`, **Position:** `2`, **Words:** IQOS, IQtech, iQIYI
+- **Letter:** `q`, **Position:** `3`, **Words:** Jaquar, Raquette, Laquinta
 - **Letter:** `q`, **Position:** `4`, **Words:** Nesquik, Uniqlo, Tanqueray
-- **Letter:** `q`, **Position:** `5`, **Words:** Monoqi, DigiQuest, Zeniq
+- **Letter:** `q`, **Position:** `5`, **Words:** Zeniq, Monoqi, DigiQuest
 - **Letter:** `q`, **Position:** `6`, **Words:** Compaq, Mystique, Clinique
-- **Letter:** `r`, **Position:** `1`, **Words:** Redbull, Ricard, Rowenta, Ralph, Reebok
-- **Letter:** `r`, **Position:** `2`, **Words:** Ariel, Prada, Armani, Free, Breitling
-- **Letter:** `r`, **Position:** `3`, **Words:** SFR, Burn, Marshall, Chrysler, Mercedes
-- **Letter:** `r`, **Position:** `4`, **Words:** Guerlain, Ferrero, Febreze, Whirlpool, Clarks
-- **Letter:** `r`, **Position:** `5`, **Words:** Intermarche, Intersport, Azzaro, Powerade, Knorr
-- **Letter:** `r`, **Position:** `6`, **Words:** Pandora, Timberland, Monoprix, Kickers, Burberry
-- **Letter:** `s`, **Position:** `1`, **Words:** Starbucks, Sanex, Skoda, Senseo, Sephora
-- **Letter:** `s`, **Position:** `2`, **Words:** Asus, Esso, Asics, Esprit, Osprey
-- **Letter:** `s`, **Position:** `3`, **Words:** Toshiba, Bosch, Boss, Casio, Dash
-- **Letter:** `s`, **Position:** `4`, **Words:** Senseo, Versace, Guess, Asus, Sensodyne
-- **Letter:** `s`, **Position:** `5`, **Words:** Lacoste, Krups, Teisseire, Crocs, Panasonic
-- **Letter:** `s`, **Position:** `6`, **Words:** Clarks, Brooks, Hermes, Always, Adidas
-- **Letter:** `t`, **Position:** `1`, **Words:** Tetley, Twix, Toblerone, Tissot, Tesla
-- **Letter:** `t`, **Position:** `2`, **Words:** Atari, Atomic, Starbucks, Etam, Stella
-- **Letter:** `t`, **Position:** `3`, **Words:** Vittel, Pathe, Mattel, Citroen, Hitachi
-- **Letter:** `t`, **Position:** `4`, **Words:** Cartier, Lustucru, Darty, Vittel, Biotherm
-- **Letter:** `t`, **Position:** `5`, **Words:** Sprite, Bounty, Cointreau, Schott, Monster
-- **Letter:** `t`, **Position:** `6`, **Words:** Gillette, Kitkat, Lacoste, Schott, Rockstar
-- **Letter:** `u`, **Position:** `1`, **Words:** Umbro, Unilever, Uniqlo, Ugg, Under
-- **Letter:** `u`, **Position:** `2`, **Words:** Duvel, But, Guinness, Huawei, Auchan
-- **Letter:** `u`, **Position:** `3`, **Words:** Bounty, Krups, Asus, Bourjois, Bouygues
-- **Letter:** `u`, **Position:** `4`, **Words:** Triumph, Cadum, Lafuma, Jaguar, Columbia
-- **Letter:** `u`, **Position:** `5`, **Words:** Lustucru, Cadbury, Samsung, Redbull, Nesquik
-- **Letter:** `u`, **Position:** `6`, **Words:** Absolut, Starbucks, Subaru, Bouygues, Malibu
-- **Letter:** `v`, **Position:** `1`, **Words:** Vanish, Vespa, Volkswagen, Vans, Vaio
-- **Letter:** `v`, **Position:** `2`, **Words:** Yves, Avene, Evian
-- **Letter:** `v`, **Position:** `3`, **Words:** Levis, Devred, Dove, Givenchy, Havana
-- **Letter:** `v`, **Position:** `4`, **Words:** Belvedere, Chivas, Chevrolet, Converse, Chevignon
-- **Letter:** `v`, **Position:** `5`, **Words:** Lenovo, Activia, Courvoisier, Godiva
+- **Letter:** `r`, **Position:** `1`, **Words:** Rexona, Revlon, Rolex, Rowenta, Redbull
+- **Letter:** `r`, **Position:** `2`, **Words:** Braun, Breitling, Krups, Crocs, Ariel
+- **Letter:** `r`, **Position:** `3`, **Words:** Hermes, Versace, Burton, Morgan, Darty
+- **Letter:** `r`, **Position:** `4`, **Words:** Andros, Clarks, Devred, Clarins, Swarovski
+- **Letter:** `r`, **Position:** `5`, **Words:** Intersport, Azzaro, Intermarche, Ricard, Maserati
+- **Letter:** `r`, **Position:** `6`, **Words:** Cointreau, Cacharel, Dockers, Cadbury, Fisher
+- **Letter:** `s`, **Position:** `1`, **Words:** Sephora, Snickers, Superdry, Subaru, Samsung
+- **Letter:** `s`, **Position:** `2`, **Words:** Esso, Esprit, Asics, Asus, Isostar
+- **Letter:** `s`, **Position:** `3`, **Words:** Fisher, Vespa, Sisley, Lustucru, Tassimo
+- **Letter:** `s`, **Position:** `4`, **Words:** Vans, Sensodyne, Tassimo, Monster, Samsonite
+- **Letter:** `s`, **Position:** `5`, **Words:** Teisseire, Levis, Chrysler, Ellesse, Asics
+- **Letter:** `s`, **Position:** `6`, **Words:** Chivas, Intersport, Dainese, Adidas, Andros
+- **Letter:** `t`, **Position:** `1`, **Words:** Tissot, Twix, Toshiba, Timberland, Tampax
+- **Letter:** `t`, **Position:** `2`, **Words:** Atomic, Atari, Etam, Starbucks, iTunes
+- **Letter:** `t`, **Position:** `3`, **Words:** Lotus, Tetley, Activia, Caterpillar, Citroen
+- **Letter:** `t`, **Position:** `4`, **Words:** Nestle, Biotherm, Fanta, Scotch, Eastpak
+- **Letter:** `t`, **Position:** `5`, **Words:** Bounty, Schott, Cointreau, Lindt, Breitling
+- **Letter:** `t`, **Position:** `6`, **Words:** Schott, Kitkat, Tissot, Gillette, Rockstar
+- **Letter:** `u`, **Position:** `1`, **Words:** Unilever, Umbro, Ugg, Uniqlo, Under
+- **Letter:** `u`, **Position:** `2`, **Words:** Suzuki, But, Quechua, Burton, Jules
+- **Letter:** `u`, **Position:** `3`, **Words:** Bounty, Peugeot, Moulinex, Krups, Bourjois
+- **Letter:** `u`, **Position:** `4`, **Words:** Suzuki, Cadum, Columbia, Jaguar, Braun
+- **Letter:** `u`, **Position:** `5`, **Words:** Norauto, Cadbury, Samsung, Redbull, Lustucru
+- **Letter:** `u`, **Position:** `6`, **Words:** Malibu, Starbucks, Absolut, Subaru, Quechua
+- **Letter:** `v`, **Position:** `1`, **Words:** Vaio, Volvic, Vanish, Vans, Vespa
+- **Letter:** `v`, **Position:** `2`, **Words:** Evian, Yves, Avene
+- **Letter:** `v`, **Position:** `3`, **Words:** Revlon, Havana, Levis, Dove, Duvel
+- **Letter:** `v`, **Position:** `4`, **Words:** Converse, Chevrolet, Lanvin, Volvo, Volvic
+- **Letter:** `v`, **Position:** `5`, **Words:** Activia, Lenovo, Courvoisier, Godiva
 - **Letter:** `v`, **Position:** `6`, **Words:** Swarovski, Unilever, Sungevity
-- **Letter:** `w`, **Position:** `1`, **Words:** Wilson, Whirlpool, Wilkinson, Wrangler, Weight
-- **Letter:** `w`, **Position:** `2`, **Words:** Swarovski, Twix, Twinings, Swatch
-- **Letter:** `w`, **Position:** `3`, **Words:** Powerade, Always, Rowenta, Kawasaki, PowerBar
-- **Letter:** `w`, **Position:** `4`, **Words:** Schweppes, Airwick, Huawei, Maxwell, Budweiser
-- **Letter:** `w`, **Position:** `5`, **Words:** Gateway, Rimowa, Salewa
-- **Letter:** `w`, **Position:** `6`, **Words:** AppleWatch, Volkswagen, Review, Inglow
+- **Letter:** `w`, **Position:** `1`, **Words:** Wilkinson, Whirlpool, Wilson, Wrangler, Woolrich
+- **Letter:** `w`, **Position:** `2`, **Words:** Swatch, Twix, Swarovski, Twinings
+- **Letter:** `w`, **Position:** `3`, **Words:** Always, Powerade, Kawasaki, Rowenta, Lowa
+- **Letter:** `w`, **Position:** `4`, **Words:** Schweppes, Huawei, Airwick, Budweiser, Maxwell
+- **Letter:** `w`, **Position:** `5`, **Words:** Salewa, Gateway, Rimowa
+- **Letter:** `w`, **Position:** `6`, **Words:** AppleWatch, Volkswagen, Inglow, Review
 - **Letter:** `x`, **Position:** `1`, **Words:** Xiaomi, Xfinity, Xerox
 - **Letter:** `x`, **Position:** `2`, **Words:** Axe, PXG, Exxon
-- **Letter:** `x`, **Position:** `3`, **Words:** Rexona, Fox, Lexus, Maxwell, Max
-- **Letter:** `x`, **Position:** `4`, **Words:** Ajax, Twix, Geox, Mexx, Lynx
+- **Letter:** `x`, **Position:** `3`, **Words:** Fox, Maxwell, Rexona, Lexus, Mexx
+- **Letter:** `x`, **Position:** `4`, **Words:** Twix, Geox, Ajax, Mexx, Lynx
 - **Letter:** `x`, **Position:** `5`, **Words:** Sanex, Durex, Rolex, Xerox, Timex
 - **Letter:** `x`, **Position:** `6`, **Words:** Tampax, Outfox, Carfax
-- **Letter:** `y`, **Position:** `1`, **Words:** Yves, Yoplait, Yamaha
-- **Letter:** `y`, **Position:** `2`, **Words:** Hyundai, Mystique, Lynx, ByteDance
-- **Letter:** `y`, **Position:** `3`, **Words:** Maybelline, RayBan, Gayelord, Adyen, Olympus
-- **Letter:** `y`, **Position:** `4`, **Words:** Chrysler, Playmobil, Playboy, Bouygues, Sony
-- **Letter:** `y`, **Position:** `5`, **Words:** Darty, Always, Tommy, Vichy, Jennyfer
-- **Letter:** `y`, **Position:** `6`, **Words:** Harley, Baileys, Sisley, Bounty, Speedy
+- **Letter:** `y`, **Position:** `1`, **Words:** Yamaha, Yves, Yoplait
+- **Letter:** `y`, **Position:** `2`, **Words:** Hyundai, Lynx, ByteDance, Mystique
+- **Letter:** `y`, **Position:** `3`, **Words:** RayBan, Maybelline, Gayelord, Adyen, Olympus
+- **Letter:** `y`, **Position:** `4`, **Words:** Playboy, Playmobil, Bouygues, Sony, Chrysler
+- **Letter:** `y`, **Position:** `5`, **Words:** Darty, Tommy, Always, Vichy, Jennyfer
+- **Letter:** `y`, **Position:** `6`, **Words:** Bounty, Disney, Sisley, Speedy, Oakley
 - **Letter:** `z`, **Position:** `1`, **Words:** Zenith, Zadig, Zara, Zeniq
 - **Letter:** `z`, **Position:** `2`, **Words:** Izac, Azzaro, MZ Skin
-- **Letter:** `z`, **Position:** `3`, **Words:** Mazda, Suzuki, Azzaro, Mizuno
-- **Letter:** `z`, **Position:** `4`, **Words:** Panzani, Amazon, Kenzo, Calzedonia
-- **Letter:** `z`, **Position:** `5`, **Words:** Citizen, Lavazza, Heinz, Favuzzi
-- **Letter:** `z`, **Position:** `6`, **Words:** Lavazza, Febreze, Favuzzi
+- **Letter:** `z`, **Position:** `3`, **Words:** Suzuki, Mazda, Azzaro, Mizuno
+- **Letter:** `z`, **Position:** `4`, **Words:** Panzani, Kenzo, Amazon, Calzedonia
+- **Letter:** `z`, **Position:** `5`, **Words:** Lavazza, Heinz, Citizen, Favuzzi
+- **Letter:** `z`, **Position:** `6`, **Words:** Febreze, Lavazza, Favuzzi
 
 </details>
 
@@ -6844,150 +6839,150 @@ Total missing words: `0`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** aquarium, alaska, accord, absorber, ajourner
-- **Letter:** `a`, **Position:** `2`, **Words:** yaourt, manger, paprika, caduque, cabinet
-- **Letter:** `a`, **Position:** `3`, **Words:** chaise, station, epaule, prairie, tramway
-- **Letter:** `a`, **Position:** `4`, **Words:** lavabo, cabane, equation, dedans, salaire
-- **Letter:** `a`, **Position:** `5`, **Words:** placard, oiseau, webcam, commande, perdant
-- **Letter:** `a`, **Position:** `6`, **Words:** sahara, tableau, poireau, megawatt, football
-- **Letter:** `b`, **Position:** `1`, **Words:** billet, bonjour, brocoli, broyeur, besoin
-- **Letter:** `b`, **Position:** `2`, **Words:** absorber, aborder, abricot, abysses, objectif
-- **Letter:** `b`, **Position:** `3`, **Words:** embargo, arbitre, tabouret, cabinet, debout
-- **Letter:** `b`, **Position:** `4`, **Words:** probleme, combat, tribunal, brebis, tomber
-- **Letter:** `b`, **Position:** `5`, **Words:** lavabo, autobus, plombier, trombone, football
+- **Letter:** `a`, **Position:** `1`, **Words:** analyse, atelier, abeille, alarme, abricot
+- **Letter:** `a`, **Position:** `2`, **Words:** taille, patron, danser, baigner, valise
+- **Letter:** `a`, **Position:** `3`, **Words:** chaise, grandir, chanson, branche, classe
+- **Letter:** `a`, **Position:** `4`, **Words:** relance, financer, aviation, bagage, renard
+- **Letter:** `a`, **Position:** `5`, **Words:** combat, scenario, amiral, soudain, odorant
+- **Letter:** `a`, **Position:** `6`, **Words:** tramway, manteau, tableau, pinceau, nouveau
+- **Letter:** `b`, **Position:** `1`, **Words:** balance, bureau, balcon, bottine, brebis
+- **Letter:** `b`, **Position:** `2`, **Words:** abandon, observer, abysses, absent, abeille
+- **Letter:** `b`, **Position:** `3`, **Words:** tabouret, webcam, debout, oublier, embargo
+- **Letter:** `b`, **Position:** `4`, **Words:** corbeau, probleme, double, membre, timbre
+- **Letter:** `b`, **Position:** `5`, **Words:** trombone, lavabo, football, frisbee, autobus
 - **Letter:** `b`, **Position:** `6`, **Words:** ployable, absorber, enjamber
-- **Letter:** `c`, **Position:** `1`, **Words:** commun, couette, chanson, cabane, certificat
-- **Letter:** `c`, **Position:** `2`, **Words:** econome, scotch, science, scenario, ecrire
-- **Letter:** `c`, **Position:** `3`, **Words:** ancien, decision, docteur, facile, cacher
-- **Letter:** `c`, **Position:** `4`, **Words:** cruche, discours, concept, gauche, torchon
-- **Letter:** `c`, **Position:** `5`, **Words:** switch, avancer, effacer, logiciel, prince
-- **Letter:** `c`, **Position:** `6`, **Words:** service, finance, balance, relance, financer
-- **Letter:** `d`, **Position:** `1`, **Words:** dormir, decision, danser, dessin, deficit
-- **Letter:** `d`, **Position:** `2`, **Words:** edifice, adulte, adjectif, odorant, editeur
-- **Letter:** `d`, **Position:** `3`, **Words:** cadeau, caduque, indice, hydrojet, cadran
-- **Letter:** `d`, **Position:** `4`, **Words:** produit, soudain, vendre, rendre, pendule
-- **Letter:** `d`, **Position:** `5`, **Words:** prendre, blender, viande, agenda, remede
-- **Letter:** `d`, **Position:** `6`, **Words:** retard, lezard, methode, commode, grenade
-- **Letter:** `e`, **Position:** `1`, **Words:** employe, ecrire, equilibre, edifice, empire
-- **Letter:** `e`, **Position:** `2`, **Words:** revoir, perdant, cession, certain, debout
-- **Letter:** `e`, **Position:** `3`, **Words:** guerre, atelier, chemin, prefixe, lierre
-- **Letter:** `e`, **Position:** `4`, **Words:** interet, mixeur, science, general, acheter
-- **Letter:** `e`, **Position:** `5`, **Words:** porter, basket, entrer, billet, bracelet
-- **Letter:** `e`, **Position:** `6`, **Words:** nombre, etoile, ecrire, chaise, collier
-- **Letter:** `f`, **Position:** `1`, **Words:** fusion, falloir, frisbee, fromage, faillite
-- **Letter:** `f`, **Position:** `2`, **Words:** offrir, affaire, effacer, effort, officier
-- **Letter:** `f`, **Position:** `3`, **Words:** effacer, offrir, officier, deficit, affaire
-- **Letter:** `f`, **Position:** `4`, **Words:** edifice, prefixe, coffre, souffrir, etoffe
-- **Letter:** `f`, **Position:** `5`, **Words:** carafe, souffrir, coiffeur, chauffeur, benefice
-- **Letter:** `f`, **Position:** `6`, **Words:** chauffeur, portefeuille, dentifrice, camouflage, certificat
-- **Letter:** `g`, **Position:** `1`, **Words:** gauche, gloire, guerre, grandir, groupe
-- **Letter:** `g`, **Position:** `3`, **Words:** algues, regard, magazine, megawatt, gagnant
-- **Letter:** `g`, **Position:** `4`, **Words:** brugnon, langue, songer, baigner, danger
-- **Letter:** `g`, **Position:** `5`, **Words:** orange, visage, chargeur, espagne, bagage
-- **Letter:** `g`, **Position:** `6`, **Words:** campagne, college, embargo, fromage, montagne
-- **Letter:** `h`, **Position:** `1`, **Words:** horloge, histoire, halloween, hardware, heureux
-- **Letter:** `h`, **Position:** `2`, **Words:** chercher, chapeau, chaise, chanson, chemin
-- **Letter:** `h`, **Position:** `3`, **Words:** acheter, sahara, dehors, cahier, echarpe
-- **Letter:** `h`, **Position:** `4`, **Words:** cacher, methode, hiphop, cochon, rythme
-- **Letter:** `h`, **Position:** `5`, **Words:** bouche, menthe, torchon, gauche, quiche
-- **Letter:** `h`, **Position:** `6`, **Words:** chercher, planche, scotch, branche, switch
-- **Letter:** `i`, **Position:** `1`, **Words:** internet, italien, indemnite, indexer, instant
-- **Letter:** `i`, **Position:** `2`, **Words:** violence, village, milieu, pierre, bizarre
-- **Letter:** `i`, **Position:** `3`, **Words:** skieur, client, frisquet, baigner, science
-- **Letter:** `i`, **Position:** `4`, **Words:** capital, farine, arriver, assiette, deficit
-- **Letter:** `i`, **Position:** `5`, **Words:** avenir, opinion, esprit, cousin, partie
-- **Letter:** `i`, **Position:** `6`, **Words:** magazine, natation, endroit, grandir, medecin
-- **Letter:** `j`, **Position:** `1`, **Words:** jamais, journal, jasmin, joueur, japonais
-- **Letter:** `j`, **Position:** `2`, **Words:** ajouter, ajourner
-- **Letter:** `j`, **Position:** `3`, **Words:** majorite, enjamber, objectif, adjectif
-- **Letter:** `j`, **Position:** `4`, **Words:** projeter, bonjour, conjoint, projet
-- **Letter:** `j`, **Position:** `5`, **Words:** reinjecter, assujettir, surajouter
-- **Letter:** `k`, **Position:** `1`, **Words:** kimono, karaoke, kiosque
+- **Letter:** `c`, **Position:** `1`, **Words:** citation, cactus, concept, conflit, cheval
+- **Letter:** `c`, **Position:** `2`, **Words:** scission, scrutin, scenario, ecureuil, activer
+- **Letter:** `c`, **Position:** `3`, **Words:** rachat, cactus, cacher, encore, machine
+- **Letter:** `c`, **Position:** `4`, **Words:** coucher, balcon, webcam, quiche, litchi
+- **Letter:** `c`, **Position:** `5`, **Words:** prince, police, switch, branche, medecin
+- **Letter:** `c`, **Position:** `6`, **Words:** science, service, edifice, finance, balance
+- **Letter:** `d`, **Position:** `1`, **Words:** domino, dommage, dessus, donner, dedans
+- **Letter:** `d`, **Position:** `2`, **Words:** editeur, adulte, edifice, odorant, adjectif
+- **Letter:** `d`, **Position:** `3`, **Words:** medecin, indexer, dedans, ardoise, endroit
+- **Letter:** `d`, **Position:** `4`, **Words:** tendre, sandale, hardware, pendule, studio
+- **Letter:** `d`, **Position:** `5`, **Words:** remede, abandon, malade, blender, moindre
+- **Letter:** `d`, **Position:** `6`, **Words:** muscade, canard, commode, methode, regard
+- **Letter:** `e`, **Position:** `1`, **Words:** enjamber, entrepot, emploi, effort, emprunt
+- **Letter:** `e`, **Position:** `2`, **Words:** second, reinjecter, requin, debout, reussir
+- **Letter:** `e`, **Position:** `3`, **Words:** avenir, atelier, treize, guerre, energie
+- **Letter:** `e`, **Position:** `4`, **Words:** numero, lunette, modele, argent, mixeur
+- **Letter:** `e`, **Position:** `5`, **Words:** gardez, entrer, couver, bruler, bonnet
+- **Letter:** `e`, **Position:** `6`, **Words:** epoque, figure, quiche, guerre, ajouter
+- **Letter:** `f`, **Position:** `1`, **Words:** famille, faillite, fenouil, fusion, feuille
+- **Letter:** `f`, **Position:** `2`, **Words:** affaire, offrir, officier, effort, effacer
+- **Letter:** `f`, **Position:** `3`, **Words:** reflexe, coffre, safran, deficit, effacer
+- **Letter:** `f`, **Position:** `4`, **Words:** profond, profit, touffe, coffre, conflit
+- **Letter:** `f`, **Position:** `5`, **Words:** chauffeur, etoffe, benefice, coiffeur, girafe
+- **Letter:** `f`, **Position:** `6`, **Words:** chauffeur, portefeuille, camouflage, certificat, dentifrice
+- **Letter:** `g`, **Position:** `1`, **Words:** gestion, gagnant, gauche, gazelle, grille
+- **Letter:** `g`, **Position:** `3`, **Words:** figure, argent, gagnant, signal, legume
+- **Letter:** `g`, **Position:** `4`, **Words:** manger, songer, peigne, langue, danger
+- **Letter:** `g`, **Position:** `5`, **Words:** visage, cirage, orange, bagage, change
+- **Letter:** `g`, **Position:** `6`, **Words:** college, sauvage, horloge, embargo, campagne
+- **Letter:** `h`, **Position:** `1`, **Words:** hardware, histoire, hydrojet, humain, horloge
+- **Letter:** `h`, **Position:** `2`, **Words:** physique, chemise, cheval, phoque, chaise
+- **Letter:** `h`, **Position:** `3`, **Words:** echarpe, cahier, dehors, sahara, acheter
+- **Letter:** `h`, **Position:** `4`, **Words:** trahis, cochon, machine, lichen, rachat
+- **Letter:** `h`, **Position:** `5`, **Words:** douche, menthe, cloche, louche, marcher
+- **Letter:** `h`, **Position:** `6`, **Words:** switch, peluche, sketch, arracher, planche
+- **Letter:** `i`, **Position:** `1`, **Words:** indemnite, instant, italie, indice, impots
+- **Letter:** `i`, **Position:** `2`, **Words:** finance, minute, pierre, girafe, riviere
+- **Letter:** `i`, **Position:** `3`, **Words:** voiture, uniforme, peinture, reinjecter, frisbee
+- **Letter:** `i`, **Position:** `4`, **Words:** feuille, panier, facile, visite, prairie
+- **Letter:** `i`, **Position:** `5`, **Words:** poesie, panais, palmier, dentifrice, certificat
+- **Letter:** `i`, **Position:** `6`, **Words:** fenouil, basilic, equation, soudain, ennemi
+- **Letter:** `j`, **Position:** `1`, **Words:** jardin, japonais, joueur, jasmin, jamais
+- **Letter:** `j`, **Position:** `2`, **Words:** ajourner, ajouter
+- **Letter:** `j`, **Position:** `3`, **Words:** objectif, majorite, enjamber, adjectif
+- **Letter:** `j`, **Position:** `4`, **Words:** bonjour, projet, projeter, conjoint
+- **Letter:** `j`, **Position:** `5`, **Words:** surajouter, reinjecter, assujettir
+- **Letter:** `k`, **Position:** `1`, **Words:** kimono, kiosque, karaoke
 - **Letter:** `k`, **Position:** `2`, **Words:** sketch, skieur
 - **Letter:** `k`, **Position:** `4`, **Words:** mokka, basket
-- **Letter:** `k`, **Position:** `5`, **Words:** alaska, whisky
-- **Letter:** `k`, **Position:** `6`, **Words:** karaoke, bazooka, paprika
-- **Letter:** `l`, **Position:** `1`, **Words:** laisser, louche, lavabo, loutre, lettre
-- **Letter:** `l`, **Position:** `2`, **Words:** allemand, clinique, blender, client, planche
-- **Letter:** `l`, **Position:** `3`, **Words:** billet, valise, valoir, hollywood, palmier
-- **Letter:** `l`, **Position:** `4`, **Words:** anglais, grille, violence, meilleur, poulpe
-- **Letter:** `l`, **Position:** `5`, **Words:** oreille, epaule, meuble, escalade, basilic
-- **Letter:** `l`, **Position:** `6`, **Words:** signal, feuille, exemple, manuel, spatule
-- **Letter:** `m`, **Position:** `1`, **Words:** monopole, manioc, miroir, moment, montagne
-- **Letter:** `m`, **Position:** `2`, **Words:** amazonie, emprunt, immense, emploi, amiral
-- **Letter:** `m`, **Position:** `3`, **Words:** bambou, jamais, tement, commun, compte
-- **Letter:** `m`, **Position:** `4`, **Words:** chemin, trombone, examen, dormir, plombier
-- **Letter:** `m`, **Position:** `5`, **Words:** ennemi, fourmi, enjamber, vetement, argument
-- **Letter:** `m`, **Position:** `6`, **Words:** diplome, reforme, curcuma, economie, webcam
-- **Letter:** `n`, **Position:** `1`, **Words:** niveau, newton, nature, natation, numero
-- **Letter:** `n`, **Position:** `2`, **Words:** instant, envoyer, analyse, endroit, internet
-- **Letter:** `n`, **Position:** `3`, **Words:** contrat, candidat, bonnet, manteau, monsieur
-- **Letter:** `n`, **Position:** `4`, **Words:** carnet, economie, dernier, bronzer, donner
-- **Letter:** `n`, **Position:** `5`, **Words:** absent, dedans, xylenol, tournant, baigner
-- **Letter:** `n`, **Position:** `6`, **Words:** jasmin, ballon, cuisine, mouton, camion
-- **Letter:** `o`, **Position:** `1`, **Words:** ouvrier, objectif, officier, oreille, observer
-- **Letter:** `o`, **Position:** `2`, **Words:** bonnet, course, pochette, soldat, moteur
-- **Letter:** `o`, **Position:** `3`, **Words:** projeter, odorant, etoffe, proces, econome
-- **Letter:** `o`, **Position:** `4`, **Words:** monopole, fenouil, armoire, encore, dehors
-- **Letter:** `o`, **Position:** `5`, **Words:** economie, cision, prison, discours, action
-- **Letter:** `o`, **Position:** `6`, **Words:** monopole, poisson, chanson, thermos, numero
-- **Letter:** `p`, **Position:** `1`, **Words:** papier, poulpe, planche, physique, pendule
-- **Letter:** `p`, **Position:** `2`, **Words:** apporter, appeler, epaule, opinion, spatule
-- **Letter:** `p`, **Position:** `3`, **Words:** impots, capital, rappeler, papaye, hiphop
-- **Letter:** `p`, **Position:** `4`, **Words:** dispute, temple, trapeze, chapeau, campagne
-- **Letter:** `p`, **Position:** `5`, **Words:** groupe, monopole, tulipe, poulpe, frapper
-- **Letter:** `p`, **Position:** `6`, **Words:** entrepot, entrep, concept, echarpe, hiphop
-- **Letter:** `q`, **Position:** `1`, **Words:** question, quatre, quinze, quartier, quiche
-- **Letter:** `q`, **Position:** `2`, **Words:** equation, aquarium, equerre, equipe, equilibre
-- **Letter:** `q`, **Position:** `3`, **Words:** requin, raquette, enquete, liquidite
-- **Letter:** `q`, **Position:** `4`, **Words:** phoque, plaque, risque, marquer, epoque
-- **Letter:** `q`, **Position:** `5`, **Words:** musique, frisquet, caduque, kiosque
-- **Letter:** `q`, **Position:** `6`, **Words:** pratique, clinique, physique, exotique
-- **Letter:** `r`, **Position:** `1`, **Words:** retard, reponse, reveil, reflexe, riviere
-- **Letter:** `r`, **Position:** `2`, **Words:** arbitre, prendre, propos, france, grandir
-- **Letter:** `r`, **Position:** `3`, **Words:** carnet, carton, horloge, firewall, dormir
-- **Letter:** `r`, **Position:** `4`, **Words:** entrer, serrer, amiral, endroit, souris
-- **Letter:** `r`, **Position:** `5`, **Words:** maitre, prairie, interet, echarpe, membre
-- **Letter:** `r`, **Position:** `6`, **Words:** avenir, rapport, tabouret, cahier, equerre
-- **Letter:** `s`, **Position:** `1`, **Words:** salade, sketch, secret, saluer, serrer
-- **Letter:** `s`, **Position:** `2`, **Words:** esprit, escalade, assiette, espagnol, asseoir
-- **Letter:** `s`, **Position:** `3`, **Words:** mission, jasmin, dessin, passoire, passer
-- **Letter:** `s`, **Position:** `4`, **Words:** poisson, verser, raisin, kiosque, physique
-- **Letter:** `s`, **Position:** `5`, **Words:** valise, decision, mousse, cerise, brosse
-- **Letter:** `s`, **Position:** `6`, **Words:** impots, marais, proces, ananas, jamais
-- **Letter:** `t`, **Position:** `1`, **Words:** tournant, tenter, tresor, temoin, tortue
-- **Letter:** `t`, **Position:** `2`, **Words:** italien, etudiant, studio, italie, attendre
-- **Letter:** `t`, **Position:** `3`, **Words:** entrepot, autobus, activer, moteur, attendre
-- **Letter:** `t`, **Position:** `4`, **Words:** cultiver, certificat, couteau, editeur, lettre
-- **Letter:** `t`, **Position:** `5`, **Words:** ceinture, arbitre, scrutin, visite, couette
-- **Letter:** `t`, **Position:** `6`, **Words:** effort, adjectif, pochette, basket, mazout
+- **Letter:** `k`, **Position:** `5`, **Words:** whisky, alaska
+- **Letter:** `k`, **Position:** `6`, **Words:** paprika, karaoke, bazooka
+- **Letter:** `l`, **Position:** `1`, **Words:** lichen, laitue, laisser, louche, lezard
+- **Letter:** `l`, **Position:** `2`, **Words:** client, election, classe, pleurer, plombier
+- **Letter:** `l`, **Position:** `3`, **Words:** milieu, xylenol, palmier, balcon, malade
+- **Letter:** `l`, **Position:** `4`, **Words:** falloir, halloween, tablette, violence, tableau
+- **Letter:** `l`, **Position:** `5`, **Words:** meuble, equilibre, epaule, briller, appeler
+- **Letter:** `l`, **Position:** `6`, **Words:** oreiller, abeille, sandale, detail, vanille
+- **Letter:** `m`, **Position:** `1`, **Words:** muscade, megawatt, membre, mutation, montrer
+- **Letter:** `m`, **Position:** `2`, **Words:** impots, amazonie, emploi, immense, empire
+- **Letter:** `m`, **Position:** `3`, **Words:** jamais, camion, famille, camouflage, moment
+- **Letter:** `m`, **Position:** `4`, **Words:** plombier, jasmin, exemple, palmier, chameau
+- **Letter:** `m`, **Position:** `5`, **Words:** thermos, allemand, fourmi, argument, charme
+- **Letter:** `m`, **Position:** `6`, **Words:** diplome, economie, reforme, curcuma, webcam
+- **Letter:** `n`, **Position:** `1`, **Words:** nature, nouveau, natation, niveau, numero
+- **Letter:** `n`, **Position:** `2`, **Words:** instant, enquete, indexer, entrepot, encore
+- **Letter:** `n`, **Position:** `3`, **Words:** annexe, tennis, monopole, sentir, sonner
+- **Letter:** `n`, **Position:** `4`, **Words:** branche, viande, moindre, changer, oignon
+- **Letter:** `n`, **Position:** `5`, **Words:** moment, douane, journal, attendre, balance
+- **Letter:** `n`, **Position:** `6`, **Words:** coupon, maison, temoin, semaine, machine
+- **Letter:** `o`, **Position:** `1`, **Words:** oiseau, officier, opinion, ouvrier, observer
+- **Letter:** `o`, **Position:** `2`, **Words:** boucle, courir, voyage, commande, souris
+- **Letter:** `o`, **Position:** `3`, **Words:** aborder, trombone, trouver, biologie, exotique
+- **Letter:** `o`, **Position:** `4`, **Words:** reponse, ardoise, envoyer, reposer, devoir
+- **Letter:** `o`, **Position:** `5`, **Words:** carton, endroit, prison, manioc, pigeon
+- **Letter:** `o`, **Position:** `6`, **Words:** opinion, haricot, poisson, xylenol, numero
+- **Letter:** `p`, **Position:** `1`, **Words:** pierre, projeter, plaine, poivre, prevoir
+- **Letter:** `p`, **Position:** `2`, **Words:** appeler, epinard, apporter, epoque, opinion
+- **Letter:** `p`, **Position:** `3`, **Words:** reprise, empire, paprika, reposer, capital
+- **Letter:** `p`, **Position:** `4`, **Words:** temple, trapeze, serpent, compte, compas
+- **Letter:** `p`, **Position:** `5`, **Words:** monopole, equipe, groupe, frapper, tulipe
+- **Letter:** `p`, **Position:** `6`, **Words:** concept, echarpe, entrepot, hiphop, entrep
+- **Letter:** `q`, **Position:** `1`, **Words:** quinze, question, quartier, quatre, quiche
+- **Letter:** `q`, **Position:** `2`, **Words:** equilibre, aquarium, equation, equipe, equerre
+- **Letter:** `q`, **Position:** `3`, **Words:** liquidite, raquette, requin, enquete
+- **Letter:** `q`, **Position:** `4`, **Words:** disque, plaque, risque, casque, banque
+- **Letter:** `q`, **Position:** `5`, **Words:** kiosque, caduque, frisquet, musique
+- **Letter:** `q`, **Position:** `6`, **Words:** clinique, pratique, physique, exotique
+- **Letter:** `r`, **Position:** `1`, **Words:** rendre, rester, reposer, rappeler, racine
+- **Letter:** `r`, **Position:** `2`, **Words:** cruche, prefixe, presse, fraise, brocoli
+- **Letter:** `r`, **Position:** `3`, **Words:** morceau, garage, haricot, carotte, perdant
+- **Letter:** `r`, **Position:** `4`, **Words:** charme, serrer, amiral, fourmi, secret
+- **Letter:** `r`, **Position:** `5`, **Words:** internet, renard, general, plaire, effort
+- **Letter:** `r`, **Position:** `6`, **Words:** roller, tomber, fenetre, tresor, sortir
+- **Letter:** `s`, **Position:** `1`, **Words:** source, societe, souvent, serieux, science
+- **Letter:** `s`, **Position:** `2`, **Words:** assiette, asseoir, esprit, escalade, espagnol
+- **Letter:** `s`, **Position:** `3`, **Words:** castor, rosier, dessin, passoire, basket
+- **Letter:** `s`, **Position:** `4`, **Words:** brosse, classe, cousin, mission, cuisine
+- **Letter:** `s`, **Position:** `5`, **Words:** ministre, blouson, valise, cerise, presse
+- **Letter:** `s`, **Position:** `6`, **Words:** reponse, propos, promesse, marais, divers
+- **Letter:** `t`, **Position:** `1`, **Words:** tournoi, tableau, tenter, tendre, tement
+- **Letter:** `t`, **Position:** `2`, **Words:** etoile, etudiant, atelier, etoffe, italien
+- **Letter:** `t`, **Position:** `3`, **Words:** article, patate, entrepot, moteur, cotation
+- **Letter:** `t`, **Position:** `4`, **Words:** cultiver, maitre, montre, cactus, montrer
+- **Letter:** `t`, **Position:** `5`, **Words:** acheter, acheteur, compte, citation, cotation
+- **Letter:** `t`, **Position:** `6`, **Words:** decret, raquette, profit, argent, projeter
 - **Letter:** `u`, **Position:** `1`, **Words:** univers, uniforme
-- **Letter:** `u`, **Position:** `2`, **Words:** musique, lumiere, numero, guerre, cultiver
-- **Letter:** `u`, **Position:** `3`, **Words:** equation, cruche, couleur, feuille, douche
-- **Letter:** `u`, **Position:** `4`, **Words:** saluer, legume, caduque, ecouteurs, solution
-- **Letter:** `u`, **Position:** `5`, **Words:** mangue, emprunt, fortune, plaque, tabouret
-- **Letter:** `u`, **Position:** `6`, **Words:** bateau, bureau, serieux, fatigue, niveau
-- **Letter:** `v`, **Position:** `1`, **Words:** village, viande, valise, voyage, valoir
-- **Letter:** `v`, **Position:** `2`, **Words:** avantage, avancer, aviation, avenir, avocat
-- **Letter:** `v`, **Position:** `3`, **Words:** riviere, lavabo, envoyer, pivoine, reveil
-- **Letter:** `v`, **Position:** `4`, **Words:** suivre, elever, souvent, cravate, poivron
-- **Letter:** `v`, **Position:** `5`, **Words:** arriver, activer, fleuve, trouver, preuve
-- **Letter:** `v`, **Position:** `6`, **Words:** cultiver, observer
+- **Letter:** `u`, **Position:** `2`, **Words:** muscade, public, cuillere, cultiver, quiche
+- **Letter:** `u`, **Position:** `3`, **Words:** douche, tournoi, mousse, sauvage, courir
+- **Letter:** `u`, **Position:** `4`, **Words:** caduque, manuel, beaucoup, pleurer, preuve
+- **Letter:** `u`, **Position:** `5`, **Words:** moteur, valeur, cactus, commun, mixeur
+- **Letter:** `u`, **Position:** `6`, **Words:** kiosque, fatigue, sauveur, editeur, broyeur
+- **Letter:** `v`, **Position:** `1`, **Words:** verveine, voiture, violence, verser, valise
+- **Letter:** `v`, **Position:** `2`, **Words:** avocat, avantage, aviation, avenir, avancer
+- **Letter:** `v`, **Position:** `3`, **Words:** revenu, niveau, ouvrier, envoyer, riviere
+- **Letter:** `v`, **Position:** `4`, **Words:** couver, poivron, clavier, convexe, prevoir
+- **Letter:** `v`, **Position:** `5`, **Words:** innover, activer, preuve, goyave, endive
+- **Letter:** `v`, **Position:** `6`, **Words:** observer, cultiver
 - **Letter:** `w`, **Position:** `1`, **Words:** webcam, whisky
-- **Letter:** `w`, **Position:** `5`, **Words:** megawatt, tramway, firewall, hardware
-- **Letter:** `w`, **Position:** `6`, **Words:** patchwork, halloween, hollywood
+- **Letter:** `w`, **Position:** `5`, **Words:** hardware, firewall, tramway, megawatt
+- **Letter:** `w`, **Position:** `6`, **Words:** patchwork, hollywood, halloween
 - **Letter:** `x`, **Position:** `2`, **Words:** examen, exemple, exotique
 - **Letter:** `x`, **Position:** `5`, **Words:** indexer, annexe
 - **Letter:** `x`, **Position:** `6`, **Words:** reflexe, prefixe, coccyx, convexe
-- **Letter:** `y`, **Position:** `2`, **Words:** hydrojet, rythme, xylenol
-- **Letter:** `y`, **Position:** `3`, **Words:** voyage, abysses, goyave, paysan, physique
-- **Letter:** `y`, **Position:** `4`, **Words:** ployable, crayon, croyance, broyeur
-- **Letter:** `y`, **Position:** `5`, **Words:** envoyer, hollywood, analyse, papaye, coccyx
-- **Letter:** `y`, **Position:** `6`, **Words:** employe, whisky
-- **Letter:** `z`, **Position:** `3`, **Words:** bizarre, bazooka, mazout, gazelle, lezard
-- **Letter:** `z`, **Position:** `4`, **Words:** puzzle, amazonie, zigzag
-- **Letter:** `z`, **Position:** `5`, **Words:** quinze, bronzer, treize, bronzage, magazine
-- **Letter:** `z`, **Position:** `6`, **Words:** gardez, trapeze
+- **Letter:** `y`, **Position:** `2`, **Words:** xylenol, hydrojet, rythme
+- **Letter:** `y`, **Position:** `3`, **Words:** goyave, abysses, voyage, paysan, physique
+- **Letter:** `y`, **Position:** `4`, **Words:** broyeur, croyance, crayon, ployable
+- **Letter:** `y`, **Position:** `5`, **Words:** envoyer, hollywood, coccyx, analyse, papaye
+- **Letter:** `y`, **Position:** `6`, **Words:** whisky, employe
+- **Letter:** `z`, **Position:** `3`, **Words:** lezard, bazooka, mazout, gazelle, puzzle
+- **Letter:** `z`, **Position:** `4`, **Words:** zigzag, amazonie, puzzle
+- **Letter:** `z`, **Position:** `5`, **Words:** bronzage, magazine, treize, quinze, bronzer
+- **Letter:** `z`, **Position:** `6`, **Words:** trapeze, gardez
 
 </details>
 
@@ -7020,159 +7015,159 @@ Total missing words: `12`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Antonio, Arthur, Adam, Andrew, Aurelie
-- **Letter:** `a`, **Position:** `2`, **Words:** Jacob, Marine, Fabienne, Nadine, Gabin
-- **Letter:** `a`, **Position:** `3`, **Words:** Jean, Isabelle, Charlotte, Clara, Alain
-- **Letter:** `a`, **Position:** `4`, **Words:** Sohann, Dylan, Ethan, Maya, Anna
-- **Letter:** `a`, **Position:** `5`, **Words:** Dorian, Nadia, Carla, Naima, Sylvain
-- **Letter:** `a`, **Position:** `6`, **Words:** Oksana, Soffia, Ursula, Esteban, Bertrand
-- **Letter:** `b`, **Position:** `1`, **Words:** Beatrice, Benjamin, Bruno, Bernard, Bertrand
-- **Letter:** `b`, **Position:** `2`, **Words:** Abdel, Abigael, Abbygael
-- **Letter:** `b`, **Position:** `3`, **Words:** Robert, Fabienne, Fabien, Gabin, Fabrice
-- **Letter:** `b`, **Position:** `4`, **Words:** Isabelle, Thibault, Djibril, Iqkbal
-- **Letter:** `b`, **Position:** `5`, **Words:** Esteban, Jacob, Caleb
-- **Letter:** `b`, **Position:** `6`, **Words:** Zainab, Zeynab, Elisabeth
-- **Letter:** `c`, **Position:** `1`, **Words:** Claudine, Cindy, Christelle, Claude, Caroline
-- **Letter:** `c`, **Position:** `2`, **Words:** Oceane, Icare, Aceline
-- **Letter:** `c`, **Position:** `3`, **Words:** Michel, Luciano, Sacha, Richard, Nicolas
-- **Letter:** `c`, **Position:** `4`, **Words:** Loic, Pascal, Marco, Eric, Marc
-- **Letter:** `c`, **Position:** `5`, **Words:** Francis, Annick, Franck, Capucine, Francois
-- **Letter:** `c`, **Position:** `6`, **Words:** Candice, Fabrice, Cedric, Patrice, Maxence
-- **Letter:** `d`, **Position:** `1`, **Words:** David, Dorian, Diego, Dominique, Delphine
-- **Letter:** `d`, **Position:** `2`, **Words:** Adriana, Eden, Adrien, Adele, Adam
-- **Letter:** `d`, **Position:** `3`, **Words:** Andy, Didier, Rudolf, Jade, Nadia
-- **Letter:** `d`, **Position:** `4`, **Words:** Candice, Elodie, Frederic, Sandra, Cindy
-- **Letter:** `d`, **Position:** `5`, **Words:** Claude, Claudine, Gwendoline, David, Amandine
-- **Letter:** `d`, **Position:** `6`, **Words:** Arnaud, Gerard, Bernadette
-- **Letter:** `e`, **Position:** `1`, **Words:** Erwan, Evelyne, Emy, Enzo, Ethan
-- **Letter:** `e`, **Position:** `2`, **Words:** Gerard, Heloise, Leon, Rene, Jessica
-- **Letter:** `e`, **Position:** `3`, **Words:** Eden, Laetitia, Mael, Zoe, Ines
-- **Letter:** `e`, **Position:** `4`, **Words:** Jade, Josephe, Valentin, Valerie, Vanessa
-- **Letter:** `e`, **Position:** `5`, **Words:** Laurent, Andrew, Lionel, Julie, Frederic
-- **Letter:** `e`, **Position:** `6`, **Words:** Romane, Ulysse, Carole, Nadine, Agathe
-- **Letter:** `f`, **Position:** `1`, **Words:** Fabien, Florian, Fabrice, Fanny, Franck
-- **Letter:** `f`, **Position:** `2`, **Words:** Effie, Efrem, Ifrah
-- **Letter:** `f`, **Position:** `3`, **Words:** Soffia, Sufjan, Effie
-- **Letter:** `f`, **Position:** `4`, **Words:** Geoffrey, Soffia, Wilfried, Cliff, Geoffroy
-- **Letter:** `f`, **Position:** `5`, **Words:** Geoffrey, Geoffroy, Salif, Cliff, Josefine
-- **Letter:** `f`, **Position:** `6`, **Words:** Jennifer, Rudolf, Gennifer
-- **Letter:** `g`, **Position:** `1`, **Words:** Guillaume, Gilles, Gaspard, George, Gerard
-- **Letter:** `g`, **Position:** `2`, **Words:** Agathe, Agnes, Eglantine
-- **Letter:** `g`, **Position:** `3`, **Words:** Magalie, Augustin, Hugo, Angelique, Eugene
-- **Letter:** `g`, **Position:** `4`, **Words:** Margaux, Diego, Gregory, Tiago, Morgane
-- **Letter:** `g`, **Position:** `5`, **Words:** George, Abbygael
+- **Letter:** `a`, **Position:** `1`, **Words:** Adam, Ambre, Alice, Arnaud, Antoine
+- **Letter:** `a`, **Position:** `2`, **Words:** Valerie, Pauline, Sarah, Gabin, Mathias
+- **Letter:** `a`, **Position:** `3`, **Words:** Isabelle, Anais, Alain, Francis, Claude
+- **Letter:** `a`, **Position:** `4`, **Words:** Alma, Romane, Sarah, Romain, Sebastien
+- **Letter:** `a`, **Position:** `5`, **Words:** Nathan, Morgane, Laura, Benjamin, Josiane
+- **Letter:** `a`, **Position:** `6`, **Words:** Ursula, Guillaume, Oksana, Sandra, Mathias
+- **Letter:** `b`, **Position:** `1`, **Words:** Beatrice, Bertrand, Benjamin, Baptiste, Bruno
+- **Letter:** `b`, **Position:** `2`, **Words:** Abbygael, Abdel, Abigael
+- **Letter:** `b`, **Position:** `3`, **Words:** Robert, Alba, Fabienne, Fabien, Sebastien
+- **Letter:** `b`, **Position:** `4`, **Words:** Thibault, Isabelle, Djibril, Iqkbal
+- **Letter:** `b`, **Position:** `5`, **Words:** Jacob, Esteban, Caleb
+- **Letter:** `b`, **Position:** `6`, **Words:** Zainab, Elisabeth, Zeynab
+- **Letter:** `c`, **Position:** `1`, **Words:** Christian, Cecile, Calypso, Christine, Candice
+- **Letter:** `c`, **Position:** `2`, **Words:** Oceane, Aceline, Icare
+- **Letter:** `c`, **Position:** `3`, **Words:** Jocelyne, Luciano, Jacob, Victoria, Michel
+- **Letter:** `c`, **Position:** `4`, **Words:** Eric, Vincent, Loic, Marco, Marc
+- **Letter:** `c`, **Position:** `5`, **Words:** Capucine, Francis, Franck, Francois, Annick
+- **Letter:** `c`, **Position:** `6`, **Words:** Cedric, Candice, Maxence, Jessica, Fabrice
+- **Letter:** `d`, **Position:** `1`, **Words:** Dylan, Diego, Dorian, Daniel, Denis
+- **Letter:** `d`, **Position:** `2`, **Words:** Adam, Adele, Adrien, Adriana, Eden
+- **Letter:** `d`, **Position:** `3`, **Words:** Nadine, Jade, Cedric, Audrey, Andre
+- **Letter:** `d`, **Position:** `4`, **Words:** Sandra, Elodie, Frederic, Cindy, Candice
+- **Letter:** `d`, **Position:** `5`, **Words:** Claudine, Gwendoline, David, Claude, Amandine
+- **Letter:** `d`, **Position:** `6`, **Words:** Gerard, Arnaud, Bernadette
+- **Letter:** `e`, **Position:** `1`, **Words:** Ethan, Erwan, Emilie, Esteban, Elise
+- **Letter:** `e`, **Position:** `2`, **Words:** Jerome, Remi, Lenny, Rene, Melina
+- **Letter:** `e`, **Position:** `3`, **Words:** Stephanie, Maelys, Oceane, Laetitia, Stephane
+- **Letter:** `e`, **Position:** `4`, **Words:** Jocelyne, Agnes, Aurelie, Valerie, Angelique
+- **Letter:** `e`, **Position:** `5`, **Words:** Julien, Frederic, Elise, Fabienne, Nolwenn
+- **Letter:** `e`, **Position:** `6`, **Words:** Joelle, Marine, Mickael, Cecile, Sophie
+- **Letter:** `f`, **Position:** `1`, **Words:** Felix, Frederic, Francois, Florence, Florian
+- **Letter:** `f`, **Position:** `2`, **Words:** Efrem, Ifrah, Effie
+- **Letter:** `f`, **Position:** `3`, **Words:** Soffia, Effie, Sufjan
+- **Letter:** `f`, **Position:** `4`, **Words:** Geoffrey, Wilfried, Soffia, Geoffroy, Cliff
+- **Letter:** `f`, **Position:** `5`, **Words:** Geoffrey, Salif, Cliff, Josefine, Geoffroy
+- **Letter:** `f`, **Position:** `6`, **Words:** Rudolf, Jennifer, Gennifer
+- **Letter:** `g`, **Position:** `1`, **Words:** Geoffrey, Gabin, Gwenaelle, Gregory, George
+- **Letter:** `g`, **Position:** `2`, **Words:** Agnes, Agathe, Eglantine
+- **Letter:** `g`, **Position:** `3`, **Words:** Angelique, Augustin, Hugo, Magalie, Eugene
+- **Letter:** `g`, **Position:** `4`, **Words:** Gregory, Tiago, Margaux, Brigitte, Virginie
+- **Letter:** `g`, **Position:** `5`, **Words:** Georges, George, Abbygael
 - **Letter:** `g`, **Position:** `6`, **Words:** Solange, Rodrigue, Berangere
-- **Letter:** `h`, **Position:** `1`, **Words:** Haley, Herve, Helena, Hugo, Heloise
-- **Letter:** `h`, **Position:** `2`, **Words:** Charlotte, Thibault, Christophe, Philippe, Christine
-- **Letter:** `h`, **Position:** `3`, **Words:** Sohann, Johanna, Ophelie, Ethan, Akhenaton
-- **Letter:** `h`, **Position:** `4`, **Words:** Mathias, Sacha, Nathalie, Arthur, Sophie
-- **Letter:** `h`, **Position:** `5`, **Words:** Sarah, Matthieu, Stephane, Agathe, Stephanie
+- **Letter:** `h`, **Position:** `1`, **Words:** Herve, Haley, Helena, Heloise, Hugo
+- **Letter:** `h`, **Position:** `2`, **Words:** Charlie, Charles, Christophe, Thibault, Theo
+- **Letter:** `h`, **Position:** `3`, **Words:** Johanna, Ethan, Sohann, Ophelie, Akhenaton
+- **Letter:** `h`, **Position:** `4`, **Words:** Sacha, Nathan, Richard, Mathys, Anthony
+- **Letter:** `h`, **Position:** `5`, **Words:** Agathe, Matthieu, Delphine, Stephane, Stephanie
 - **Letter:** `h`, **Position:** `6`, **Words:** Jonathan, Josephe, Manoah
-- **Letter:** `i`, **Position:** `1`, **Words:** Ines, Iris, Isabelle, Inaya, Iqkbal
-- **Letter:** `i`, **Position:** `2`, **Words:** Didier, Tiago, Liam, Vincent, Victor
-- **Letter:** `i`, **Position:** `3`, **Words:** Emilie, Alice, Iris, Emily, Naima
-- **Letter:** `i`, **Position:** `4`, **Words:** Xavier, Louis, Christian, Cyril, Cecile
-- **Letter:** `i`, **Position:** `5`, **Words:** Emilien, Amelie, Justine, Benoit, Yannick
-- **Letter:** `i`, **Position:** `6`, **Words:** Quentin, Antonio, Sandrine, Amandine, Faustine
-- **Letter:** `j`, **Position:** `1`, **Words:** Jacob, Joaquim, Juliette, Justine, Jules
-- **Letter:** `j`, **Position:** `2`, **Words:** Djena, Djibril, Ajmal
-- **Letter:** `j`, **Position:** `3`, **Words:** Najim, Najette, Wejdene
+- **Letter:** `i`, **Position:** `1`, **Words:** Iris, Ines, Isabelle, Izac, Ifrah
+- **Letter:** `i`, **Position:** `2`, **Words:** Mickael, Nicolas, Victoria, Pierre, Richard
+- **Letter:** `i`, **Position:** `3`, **Words:** Brigitte, Eric, Aline, Eliott, Naima
+- **Letter:** `i`, **Position:** `4`, **Words:** David, Yanis, Marius, Lucie, Malika
+- **Letter:** `i`, **Position:** `5`, **Words:** Laetitia, Noemie, Florian, Bastien, Jessica
+- **Letter:** `i`, **Position:** `6`, **Words:** Ophelie, Sylvain, Wilfried, Delphine, Dominique
+- **Letter:** `j`, **Position:** `1`, **Words:** Jerome, Justine, Jade, Jessica, Jeremy
+- **Letter:** `j`, **Position:** `2`, **Words:** Djibril, Djena, Ajmal
+- **Letter:** `j`, **Position:** `3`, **Words:** Najim, Wejdene, Najette
 - **Letter:** `j`, **Position:** `4`, **Words:** Marjorie, Benjamin, Sufjan, Narjiss
-- **Letter:** `j`, **Position:** `5`, **Words:** Marijane, Jean-Jose, Bendji, Jean-Jacques
-- **Letter:** `k`, **Position:** `1`, **Words:** Kessy, Kylian, Karine, Kevin, Kenza
+- **Letter:** `j`, **Position:** `5`, **Words:** Bendji, Marijane, Jean-Jacques, Jean-Jose
+- **Letter:** `k`, **Position:** `1`, **Words:** Kylian, Kessy, Karine, Kevin, Katalina
 - **Letter:** `k`, **Position:** `2`, **Words:** Oksana, Akhenaton, Akhim
-- **Letter:** `k`, **Position:** `3`, **Words:** Bekim, Iqkbal, Makki, Lukas
+- **Letter:** `k`, **Position:** `3`, **Words:** Lukas, Makki, Bekim, Iqkbal
 - **Letter:** `k`, **Position:** `4`, **Words:** Mickael, Makki
 - **Letter:** `k`, **Position:** `5`, **Words:** Malik, Malika, Malek
-- **Letter:** `k`, **Position:** `6`, **Words:** Franck, Annick
-- **Letter:** `l`, **Position:** `1`, **Words:** Louna, Lilou, Lola, Lucie, Luciano
-- **Letter:** `l`, **Position:** `2`, **Words:** Claire, Alix, Elodie, Clara, Elsa
-- **Letter:** `l`, **Position:** `3`, **Words:** Celine, Wilfried, Juliette, Malik, Valentin
-- **Letter:** `l`, **Position:** `4`, **Words:** Philippe, Guillaume, Evelyne, Emilie, Joelle
-- **Letter:** `l`, **Position:** `5`, **Words:** Estelle, Charles, Jean-Luc, Angelique, Camille
-- **Letter:** `l`, **Position:** `6`, **Words:** Michel, Isabelle, Pascal, Lionel, Daniel
-- **Letter:** `m`, **Position:** `1`, **Words:** Marine, Melanie, Muriel, Mickael, Maxime
-- **Letter:** `m`, **Position:** `2`, **Words:** Emily, Emy, Amelie, Emilie, Emmanuel
-- **Letter:** `m`, **Position:** `3`, **Words:** Timeo, Camille, Simon, Alma, Romy
-- **Letter:** `m`, **Position:** `4`, **Words:** Adam, Liam, Thomas, Noam, Naima
-- **Letter:** `m`, **Position:** `5`, **Words:** Jerome, Salome, Maxime, Jeremy, Maximilien
+- **Letter:** `k`, **Position:** `6`, **Words:** Annick, Franck
+- **Letter:** `l`, **Position:** `1`, **Words:** Leo, Lionel, Laura, Lenny, Loic
+- **Letter:** `l`, **Position:** `2`, **Words:** Alice, Aline, Elsa, Alexis, Clement
+- **Letter:** `l`, **Position:** `3`, **Words:** Melanie, Celine, Malik, Solange, Melina
+- **Letter:** `l`, **Position:** `4`, **Words:** Emilien, Amelie, Adele, Joelle, Maelys
+- **Letter:** `l`, **Position:** `5`, **Words:** Charles, Estelle, Camille, Magalie, Charlie
+- **Letter:** `l`, **Position:** `6`, **Words:** Muriel, Daniel, Lionel, Jaqueline, Michel
+- **Letter:** `m`, **Position:** `1`, **Words:** Melina, Maryse, Marion, Marjorie, Marc
+- **Letter:** `m`, **Position:** `2`, **Words:** Ambre, Emilie, Emily, Emilien, Emmanuel
+- **Letter:** `m`, **Position:** `3`, **Words:** Romane, Damien, Alma, Romain, Samuel
+- **Letter:** `m`, **Position:** `4`, **Words:** Liam, Noam, Thomas, Adam, Clement
+- **Letter:** `m`, **Position:** `5`, **Words:** Jerome, Salome, Jeremy, Maxime, Jean-Marie
 - **Letter:** `m`, **Position:** `6`, **Words:** Benjamin, Myriam, Brahim
-- **Letter:** `n`, **Position:** `1`, **Words:** Noemie, Nadia, Nina, Noah, Naima
-- **Letter:** `n`, **Position:** `2`, **Words:** Anna, Antonio, Andre, Andy, Anthony
-- **Letter:** `n`, **Position:** `3`, **Words:** Lyna, Jennifer, Nina, Arnaud, Lenny
-- **Letter:** `n`, **Position:** `4`, **Words:** Lionel, Bruno, Fanny, Francis, Amandine
-- **Letter:** `n`, **Position:** `5`, **Words:** Romane, Celine, Corinne, Erwan, Solange
-- **Letter:** `n`, **Position:** `6`, **Words:** Evelyne, Morgane, Luciano, Pauline, Virginie
-- **Letter:** `o`, **Position:** `1`, **Words:** Ophelie, Oceane, Oksana, Oscar, Olivia
-- **Letter:** `o`, **Position:** `2`, **Words:** Zoe, Romy, Lou, Sophie, Noah
-- **Letter:** `o`, **Position:** `3`, **Words:** Geoffrey, Leo, Florian, George, Lionel
-- **Letter:** `o`, **Position:** `4`, **Words:** Enzo, Nino, Chloe, Theo, Rudolf
-- **Letter:** `o`, **Position:** `5`, **Words:** Victor, Diego, Anthony, Bruno, Marion
-- **Letter:** `o`, **Position:** `6`, **Words:** Charlotte, Gwendoline, Francois, Matteo, Francoise
-- **Letter:** `p`, **Position:** `1`, **Words:** Pierre, Patrice, Pauline, Pascal, Philippe
+- **Letter:** `n`, **Position:** `1`, **Words:** Noam, Nicolas, Nino, Nadine, Noah
+- **Letter:** `n`, **Position:** `2`, **Words:** Annie, Angelique, Ines, Andre, Antonio
+- **Letter:** `n`, **Position:** `3`, **Words:** Anna, Lenny, Arnaud, Lyna, Anne
+- **Letter:** `n`, **Position:** `4`, **Words:** Quentin, Amandine, Jennifer, Louna, Francis
+- **Letter:** `n`, **Position:** `5`, **Words:** Karine, Robin, Johanna, Veronique, Sabine
+- **Letter:** `n`, **Position:** `6`, **Words:** Fabienne, Damien, Clement, Sohann, Vincent
+- **Letter:** `o`, **Position:** `1`, **Words:** Ophelie, Oscar, Oceane, Oksana, Olivia
+- **Letter:** `o`, **Position:** `2`, **Words:** Joaquim, Lorenzo, Lou, Corentin, Sophie
+- **Letter:** `o`, **Position:** `3`, **Words:** Florent, Florian, Leo, Geoffrey, George
+- **Letter:** `o`, **Position:** `4`, **Words:** Antoine, Hugo, Nino, Heloise, Enzo
+- **Letter:** `o`, **Position:** `5`, **Words:** Marjorie, Tiago, Mateo, Diego, Victor
+- **Letter:** `o`, **Position:** `6`, **Words:** Francois, Charlotte, Matteo, Gwendoline, Jean-Louis
+- **Letter:** `p`, **Position:** `1`, **Words:** Philippe, Patrice, Paul, Pascal, Pierre
 - **Letter:** `p`, **Position:** `2`, **Words:** Ophelie, Apolline, Eponine
-- **Letter:** `p`, **Position:** `3`, **Words:** Sophie, Capucine, Baptiste, Raphael
-- **Letter:** `p`, **Position:** `4`, **Words:** Stephane, Delphine, Stephanie, Gaspard
-- **Letter:** `p`, **Position:** `5`, **Words:** Calypso, Josephe, Cleopatre, Jean-Paul, Jean-Pierre
+- **Letter:** `p`, **Position:** `3`, **Words:** Capucine, Raphael, Sophie, Baptiste
+- **Letter:** `p`, **Position:** `4`, **Words:** Delphine, Stephane, Gaspard, Stephanie
+- **Letter:** `p`, **Position:** `5`, **Words:** Josephe, Calypso, Jean-Paul, Jean-Pierre, Cleopatre
 - **Letter:** `p`, **Position:** `6`, **Words:** Philippe, Philippine
-- **Letter:** `q`, **Position:** `1`, **Words:** Quentin, Quincy, Quitterie
+- **Letter:** `q`, **Position:** `1`, **Words:** Quentin, Quitterie, Quincy
 - **Letter:** `q`, **Position:** `2`, **Words:** Aquila, Oqbah, Iqkbal
-- **Letter:** `q`, **Position:** `3`, **Words:** Jaques, Jaqueline, Paquita
+- **Letter:** `q`, **Position:** `3`, **Words:** Jaqueline, Jaques, Paquita
 - **Letter:** `q`, **Position:** `4`, **Words:** Joaquim, Jacqueline, Joaquina
 - **Letter:** `q`, **Position:** `5`, **Words:** Monique, Jonique
 - **Letter:** `q`, **Position:** `6`, **Words:** Emerique, Jannique, Yannique
-- **Letter:** `r`, **Position:** `1`, **Words:** Raphael, Rene, Robin, Rose, Romane
-- **Letter:** `r`, **Position:** `2`, **Words:** Frederic, Ursula, Francis, Franck, Bruno
-- **Letter:** `r`, **Position:** `3`, **Words:** Cyril, Carla, Gerard, Christelle, Christian
-- **Letter:** `r`, **Position:** `4`, **Words:** Gabriel, Pierre, Laurent, Charlotte, Florence
-- **Letter:** `r`, **Position:** `5`, **Words:** Wilfried, Pierre, Sandrine, Aurore, Gerard
-- **Letter:** `r`, **Position:** `6`, **Words:** Catherine, Bernard, Gregory, Marjorie, Victoria
-- **Letter:** `s`, **Position:** `1`, **Words:** Salome, Soffia, Sophie, Sylvain, Sabrina
-- **Letter:** `s`, **Position:** `2`, **Words:** Oscar, Isabelle, Esteban, Estelle, Assia
-- **Letter:** `s`, **Position:** `3`, **Words:** Kessy, Lisa, Justine, Ursula, Oksana
-- **Letter:** `s`, **Position:** `4`, **Words:** Faustine, Elise, Ines, Yves, Tristan
-- **Letter:** `s`, **Position:** `5`, **Words:** Anais, Jules, Augustin, Maryse, Denis
-- **Letter:** `s`, **Position:** `6`, **Words:** Heloise, Thomas, Marius, Vanessa, Jaques
-- **Letter:** `t`, **Position:** `1`, **Words:** Thibault, Tiago, Tristan, Theo, Timeo
-- **Letter:** `t`, **Position:** `2`, **Words:** Ethan, Stephane, Stephanie
-- **Letter:** `t`, **Position:** `3`, **Words:** Antonio, Catherine, Matthieu, Arthur, Antoine
-- **Letter:** `t`, **Position:** `4`, **Words:** Justine, Victoria, Baptiste, Bertrand, Victor
-- **Letter:** `t`, **Position:** `5`, **Words:** Faustine, Quentin, Eliott, Tristan, Chantal
-- **Letter:** `t`, **Position:** `6`, **Words:** Laetitia, Christophe, Christine, Christelle, Sebastien
+- **Letter:** `r`, **Position:** `1`, **Words:** Rene, Rose, Richard, Romy, Rudolf
+- **Letter:** `r`, **Position:** `2`, **Words:** Brigitte, Francis, Arthur, Arnaud, Erwan
+- **Letter:** `r`, **Position:** `3`, **Words:** Christian, Corentin, Dorian, Marius, Maryse
+- **Letter:** `r`, **Position:** `4`, **Words:** Ambre, Audrey, Florence, Clara, Florian
+- **Letter:** `r`, **Position:** `5`, **Words:** Severine, Aurore, Thierry, Valerie, Sandrine
+- **Letter:** `r`, **Position:** `6`, **Words:** Gaspard, Bernard, Richard, Thierry, Marjorie
+- **Letter:** `s`, **Position:** `1`, **Words:** Sylvie, Sabine, Sylvain, Sacha, Serge
+- **Letter:** `s`, **Position:** `2`, **Words:** Oscar, Esteban, Estelle, Isabelle, Isaac
+- **Letter:** `s`, **Position:** `3`, **Words:** Oksana, Pascal, Ursula, Josephe, Jessica
+- **Letter:** `s`, **Position:** `4`, **Words:** Elisa, Ulysse, Jessica, Yves, Kessy
+- **Letter:** `s`, **Position:** `5`, **Words:** Louis, Anais, Augustin, Jules, Melissa
+- **Letter:** `s`, **Position:** `6`, **Words:** Heloise, Gilles, Maelys, Calypso, Mathys
+- **Letter:** `t`, **Position:** `1`, **Words:** Tiago, Timeo, Thomas, Theo, Thierry
+- **Letter:** `t`, **Position:** `2`, **Words:** Stephanie, Ethan, Stephane
+- **Letter:** `t`, **Position:** `3`, **Words:** Arthur, Anthony, Mateo, Antonio, Antoine
+- **Letter:** `t`, **Position:** `4`, **Words:** Laetitia, Matthieu, Beatrice, Justine, Victoria
+- **Letter:** `t`, **Position:** `5`, **Words:** Quentin, Faustine, Jonathan, Tristan, Eliott
+- **Letter:** `t`, **Position:** `6`, **Words:** Eliott, Augustin, Brigitte, Corentin, Valentin
 - **Letter:** `u`, **Position:** `1`, **Words:** Ursula, Ulysse
-- **Letter:** `u`, **Position:** `2`, **Words:** Julia, Luciano, Audrey, Ludovic, Aurore
-- **Letter:** `u`, **Position:** `3`, **Words:** Laura, Laurent, Louna, Aquila, Paul
-- **Letter:** `u`, **Position:** `4`, **Words:** Capucine, Jaqueline, Claude, Samuel, Jaques
-- **Letter:** `u`, **Position:** `5`, **Words:** Lilou, Arnaud, Marius, Arthur, Joaquim
-- **Letter:** `u`, **Position:** `6`, **Words:** Emmanuel, Jean-Luc, Thibault, Margaux, Monique
-- **Letter:** `v`, **Position:** `1`, **Words:** Veronique, Virginie, Valentin, Victoria, Vanessa
-- **Letter:** `v`, **Position:** `2`, **Words:** Eva, Evelyne, Yves
-- **Letter:** `v`, **Position:** `3`, **Words:** Severine, Kevin, David, Xavier, Lyvia
-- **Letter:** `v`, **Position:** `4`, **Words:** Olivia, Maeva, Herve, Sylvie, Sylvain
+- **Letter:** `u`, **Position:** `2`, **Words:** Juliette, Justine, Muriel, Augustin, Luciano
+- **Letter:** `u`, **Position:** `3`, **Words:** Paul, Aquila, Louane, Faustine, Lou
+- **Letter:** `u`, **Position:** `4`, **Words:** Claudine, Ursula, Jaques, Samuel, Jaqueline
+- **Letter:** `u`, **Position:** `5`, **Words:** Marius, Arnaud, Lilou, Arthur, Joaquim
+- **Letter:** `u`, **Position:** `6`, **Words:** Monique, Emmanuel, Thibault, Margaux, Jean-Luc
+- **Letter:** `v`, **Position:** `1`, **Words:** Vanessa, Virginie, Victoria, Valentin, Veronique
+- **Letter:** `v`, **Position:** `2`, **Words:** Evelyne, Yves, Eva
+- **Letter:** `v`, **Position:** `3`, **Words:** Kevin, David, Xavier, Severine, Lyvia
+- **Letter:** `v`, **Position:** `4`, **Words:** Sylvie, Herve, Sylvain, Maeva, Olivia
 - **Letter:** `v`, **Position:** `5`, **Words:** Ludovic, Ludovine
-- **Letter:** `v`, **Position:** `6`, **Words:** Donnovan, Gustave
+- **Letter:** `v`, **Position:** `6`, **Words:** Gustave, Donnovan
 - **Letter:** `w`, **Position:** `1`, **Words:** Wilfried, William, Wejdene
-- **Letter:** `w`, **Position:** `2`, **Words:** Gwendoline, Gwenaelle, Dwayne
+- **Letter:** `w`, **Position:** `2`, **Words:** Gwenaelle, Gwendoline, Dwayne
 - **Letter:** `w`, **Position:** `3`, **Words:** Erwan, Arwen
 - **Letter:** `w`, **Position:** `4`, **Words:** Nolwenn, Maywen
 - **Letter:** `w`, **Position:** `5`, **Words:** Loudwig, Milow
 - **Letter:** `w`, **Position:** `6`, **Words:** Andrew, Mathew
 - **Letter:** `x`, **Position:** `1`, **Words:** Xavier, Xenia
 - **Letter:** `x`, **Position:** `3`, **Words:** Maxence, Maxime, Roxanne, Maximilien
-- **Letter:** `x`, **Position:** `4`, **Words:** Alexandra, Alix, Alexis, Alexandre
+- **Letter:** `x`, **Position:** `4`, **Words:** Alix, Alexandra, Alexis, Alexandre
 - **Letter:** `x`, **Position:** `5`, **Words:** Calix, Felix
-- **Letter:** `x`, **Position:** `6`, **Words:** Brieux, Maddox
-- **Letter:** `y`, **Position:** `1`, **Words:** Yannick, Yves, Yann, Yanis, Yasmine
-- **Letter:** `y`, **Position:** `2`, **Words:** Kylian, Cyril, Sylvie, Lyna, Myriam
-- **Letter:** `y`, **Position:** `3`, **Words:** Guy, Emy, Maya, Ulysse, Asya
-- **Letter:** `y`, **Position:** `4`, **Words:** Calypso, Maryse, Andy, Romy, Abbygael
-- **Letter:** `y`, **Position:** `5`, **Words:** Maelys, Evelyne, Kessy, Cindy, Mathys
-- **Letter:** `y`, **Position:** `6`, **Words:** Jocelyne, Audrey, Jeremy, Quincy
-- **Letter:** `z`, **Position:** `1`, **Words:** Zoe, Zeynab, Zain, Zaina, Zaim
-- **Letter:** `z`, **Position:** `2`, **Words:** Izac, Ezra, Aziza
+- **Letter:** `x`, **Position:** `6`, **Words:** Maddox, Brieux
+- **Letter:** `y`, **Position:** `1`, **Words:** Yves, Yann, Yanis, Yannick, Yannique
+- **Letter:** `y`, **Position:** `2`, **Words:** Lydie, Sylvie, Sylvain, Cyril, Kylian
+- **Letter:** `y`, **Position:** `3`, **Words:** Maya, Emy, Guy, Ulysse, Asya
+- **Letter:** `y`, **Position:** `4`, **Words:** Maryse, Romy, Andy, Calypso, Abbygael
+- **Letter:** `y`, **Position:** `5`, **Words:** Cindy, Evelyne, Lenny, Emily, Haley
+- **Letter:** `y`, **Position:** `6`, **Words:** Jeremy, Audrey, Jocelyne, Quincy
+- **Letter:** `z`, **Position:** `1`, **Words:** Zoe, Zaina, Zain, Zainab, Zaim
+- **Letter:** `z`, **Position:** `2`, **Words:** Aziza, Izac, Ezra
 - **Letter:** `z`, **Position:** `3`, **Words:** Suzie, Enzo
-- **Letter:** `z`, **Position:** `4`, **Words:** Kenza, Aziza
-- **Letter:** `z`, **Position:** `5`, **Words:** Alonzo, Louizon
+- **Letter:** `z`, **Position:** `4`, **Words:** Aziza, Kenza
+- **Letter:** `z`, **Position:** `5`, **Words:** Louizon, Alonzo
 - **Letter:** `z`, **Position:** `6`, **Words:** Lorenzo, Lorenza
 
 </details>
@@ -7196,161 +7191,161 @@ Total missing words: `3`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Amber, Alicia, Arthur, Audrey, Abby
-- **Letter:** `a`, **Position:** `2`, **Words:** Paula, Wallace, Caleb, Barbara, Pamela
-- **Letter:** `a`, **Position:** `3`, **Words:** Grant, Charles, Francis, Diana, Beatrice
-- **Letter:** `a`, **Position:** `4`, **Words:** Oscar, Dylan, Logan, Stuart, Bryan
-- **Letter:** `a`, **Position:** `5`, **Words:** Nathan, Paula, Michael, Wallace, Richard
-- **Letter:** `a`, **Position:** `6`, **Words:** Pamela, Martha, Ursula, Selena, Douglas
-- **Letter:** `b`, **Position:** `1`, **Words:** Bryan, Bradley, Boris, Benjamin, Brandon
-- **Letter:** `b`, **Position:** `2`, **Words:** Abby, Abigail, Abel, Ibrahim
-- **Letter:** `b`, **Position:** `3`, **Words:** Robin, Amber, Robert, Rebecca, Gabriel
-- **Letter:** `b`, **Position:** `4`, **Words:** Barbara, Isabella, Herbert, Izabela, Gilbert
-- **Letter:** `b`, **Position:** `5`, **Words:** Jacob, Phoebe, Caleb
-- **Letter:** `b`, **Position:** `6`, **Words:** Elizabeth, Barnaby, Barnabas
-- **Letter:** `c`, **Position:** `1`, **Words:** Chloe, Charles, Connor, Cecilia, Clara
-- **Letter:** `c`, **Position:** `2`, **Words:** Scott, Mckenna, Octavio
-- **Letter:** `c`, **Position:** `3`, **Words:** Victoria, Oscar, Cecilia, Nicole, Hector
-- **Letter:** `c`, **Position:** `4`, **Words:** Eric, Duncan, Nancy, Malcolm, Grace
-- **Letter:** `c`, **Position:** `5`, **Words:** Rebecca, Quincy, Francis, Monica, Derick
-- **Letter:** `c`, **Position:** `6`, **Words:** Patrick, Rebecca, Wallace, Jessica, Maurice
-- **Letter:** `d`, **Position:** `1`, **Words:** Daisy, Derick, Dennis, Donald, Duncan
-- **Letter:** `d`, **Position:** `2`, **Words:** Edgar, Adam, Edward, Adrian, Ida
-- **Letter:** `d`, **Position:** `3`, **Words:** Andrew, Madison, Audrey, Ludwig, Cody
-- **Letter:** `d`, **Position:** `4`, **Words:** Bradley, Bridget, Chad, Linda, Jordan
-- **Letter:** `d`, **Position:** `5`, **Words:** Amanda, Brandon, Floyd, David, Jared
-- **Letter:** `d`, **Position:** `6`, **Words:** Harold, Ingrid, Alfred, Conrad, Edward
-- **Letter:** `e`, **Position:** `1`, **Words:** Evan, Emily, Elizabeth, Elena, Eric
-- **Letter:** `e`, **Position:** `2`, **Words:** Jerry, Jeffrey, Betty, Lewis, Leo
-- **Letter:** `e`, **Position:** `3`, **Words:** Chester, Quentin, Steven, Alexander, Gwenael
-- **Letter:** `e`, **Position:** `4`, **Words:** Phoebe, Luke, Peter, Jeremy, Kyle
-- **Letter:** `e`, **Position:** `5`, **Words:** Katherine, Andrew, Ellie, Harvey, Walter
-- **Letter:** `e`, **Position:** `6`, **Words:** Claire, Steeve, Chelsea, Bradley, Jeffrey
-- **Letter:** `f`, **Position:** `1`, **Words:** Fred, Francis, Florence, Franklin, Felix
-- **Letter:** `f`, **Position:** `2`, **Words:** Effy, Afida, Ofelia
+- **Letter:** `a`, **Position:** `1`, **Words:** Anton, Adam, Austin, Adrian, Abby
+- **Letter:** `a`, **Position:** `2`, **Words:** Harvey, Samantha, Nathan, Jared, Pamela
+- **Letter:** `a`, **Position:** `3`, **Words:** Clark, Noah, Diana, Grace, Travis
+- **Letter:** `a`, **Position:** `4`, **Words:** Rita, Lucas, Brian, Lisa, Lana
+- **Letter:** `a`, **Position:** `5`, **Words:** Wallace, Alexander, Gustavo, Adrian, Linda
+- **Letter:** `a`, **Position:** `6`, **Words:** Alicia, William, Joanna, Pamela, Selena
+- **Letter:** `b`, **Position:** `1`, **Words:** Barbara, Brandon, Bernard, Bridget, Blake
+- **Letter:** `b`, **Position:** `2`, **Words:** Abby, Abel, Ibrahim, Abigail
+- **Letter:** `b`, **Position:** `3`, **Words:** Gabriel, Rebecca, Robin, Abby, Amber
+- **Letter:** `b`, **Position:** `4`, **Words:** Barbara, Isabella, Izabela, Gilbert, Herbert
+- **Letter:** `b`, **Position:** `5`, **Words:** Phoebe, Jacob, Caleb
+- **Letter:** `b`, **Position:** `6`, **Words:** Elizabeth, Barnabas, Barnaby
+- **Letter:** `c`, **Position:** `1`, **Words:** Conrad, Chris, Charles, Chester, Chad
+- **Letter:** `c`, **Position:** `2`, **Words:** Scott, Octavio, Mckenna
+- **Letter:** `c`, **Position:** `3`, **Words:** Cecilia, Rachel, Oscar, Michelle, Victoria
+- **Letter:** `c`, **Position:** `4`, **Words:** Grace, Bruce, Marco, Malcolm, Joyce
+- **Letter:** `c`, **Position:** `5`, **Words:** Quincy, Monica, Yanick, Francis, Derick
+- **Letter:** `c`, **Position:** `6`, **Words:** Patrick, Wallace, Jessica, Rebecca, Maurice
+- **Letter:** `d`, **Position:** `1`, **Words:** David, Daniel, Dorothy, Dominic, Daisy
+- **Letter:** `d`, **Position:** `2`, **Words:** Adrian, Edgar, Edward, Adam, Ida
+- **Letter:** `d`, **Position:** `3`, **Words:** Judith, Audrey, Madison, Ludwig, Cody
+- **Letter:** `d`, **Position:** `4`, **Words:** Jordan, Bradley, Chad, Sandra, Bridget
+- **Letter:** `d`, **Position:** `5`, **Words:** David, Jared, Brandon, Floyd, Amanda
+- **Letter:** `d`, **Position:** `6`, **Words:** Edward, Gerald, Ronald, Alfred, Howard
+- **Letter:** `e`, **Position:** `1`, **Words:** Edward, Elena, Evelyn, Emily, Evan
+- **Letter:** `e`, **Position:** `2`, **Words:** Beth, Jeremy, Felix, George, Selena
+- **Letter:** `e`, **Position:** `3`, **Words:** Quentin, Zoe, Joe, Chelsea, Steven
+- **Letter:** `e`, **Position:** `4`, **Words:** Luke, Caleb, Tyler, Robert, Pamela
+- **Letter:** `e`, **Position:** `5`, **Words:** Rachel, Michelle, Ashley, Florence, Vincent
+- **Letter:** `e`, **Position:** `6`, **Words:** Charles, George, Bridget, Steeve, Chelsea
+- **Letter:** `f`, **Position:** `1`, **Words:** Floyd, Felix, Franklin, Florence, Francis
+- **Letter:** `f`, **Position:** `2`, **Words:** Ofelia, Afida, Effy
 - **Letter:** `f`, **Position:** `3`, **Words:** Jeffrey, Alfred, Effy, Alfie
-- **Letter:** `f`, **Position:** `4`, **Words:** Jeffrey, Stefan, Clifford, Griffin, Wolf
-- **Letter:** `f`, **Position:** `5`, **Words:** Griffin, Yusuf, Clifford
+- **Letter:** `f`, **Position:** `4`, **Words:** Jeffrey, Clifford, Wolf, Griffin, Stefan
+- **Letter:** `f`, **Position:** `5`, **Words:** Clifford, Yusuf, Griffin
 - **Letter:** `f`, **Position:** `6`, **Words:** Jennifer, Ashraf, Rudolf
-- **Letter:** `g`, **Position:** `1`, **Words:** George, Gwenael, Grace, Gustavo, Guy
-- **Letter:** `g`, **Position:** `2`, **Words:** Ugo, Agnes, Igor
-- **Letter:** `g`, **Position:** `3`, **Words:** Logan, Edgar, Eugene, Hugh, Ingrid
-- **Letter:** `g`, **Position:** `4`, **Words:** Diego, Douglas, Morgan, Gregory, Virginia
-- **Letter:** `g`, **Position:** `5`, **Words:** Bridget, George, Craig
-- **Letter:** `g`, **Position:** `6`, **Words:** Ludwig, Solange, Rodrigue
-- **Letter:** `h`, **Position:** `1`, **Words:** Hailey, Harry, Harold, Harvey, Holly
-- **Letter:** `h`, **Position:** `2`, **Words:** Chris, Chelsea, Phoebe, Chad, Chester
-- **Letter:** `h`, **Position:** `3`, **Words:** Ashley, Ethan, John, Asher, Ashraf
-- **Letter:** `h`, **Position:** `4`, **Words:** Michael, Anthony, Katherine, Rachel, Noah
-- **Letter:** `h`, **Position:** `5`, **Words:** Sarah, Martha, Matthew, Heather, Ibrahim
-- **Letter:** `h`, **Position:** `6`, **Words:** Timothy, Joseph, Judith, Dorothy, Hannah
-- **Letter:** `i`, **Position:** `1`, **Words:** Ingrid, Isabella, Irene, Ivan, Isaac
-- **Letter:** `i`, **Position:** `2`, **Words:** William, Simon, Lizzy, Liz, Richard
-- **Letter:** `i`, **Position:** `3`, **Words:** Ariel, Alicia, Elizabeth, Iris, Brian
-- **Letter:** `i`, **Position:** `4`, **Words:** Louise, Adrian, Maria, Derick, Craig
-- **Letter:** `i`, **Position:** `5`, **Words:** Gabriel, Travis, Sylvia, William, Philipp
-- **Letter:** `i`, **Position:** `6`, **Words:** Natalie, Cecilia, Francis, Quentin, Joaquim
-- **Letter:** `j`, **Position:** `1`, **Words:** John, Joe, Justin, Jason, Jasmine
-- **Letter:** `j`, **Position:** `2`, **Words:** Djayson, Djyna, Djamil, Djessie
-- **Letter:** `j`, **Position:** `3`, **Words:** Wejden, Anjela, Majda
-- **Letter:** `j`, **Position:** `4`, **Words:** Marjorie, Benjamin, Benji, Elijah
-- **Letter:** `j`, **Position:** `5`, **Words:** Kendji, Marijane, Bendji, Lili-Jade, Mary-Jose
+- **Letter:** `g`, **Position:** `1`, **Words:** Gloria, George, Gwenael, Grace, Grant
+- **Letter:** `g`, **Position:** `2`, **Words:** Ugo, Igor, Agnes
+- **Letter:** `g`, **Position:** `3`, **Words:** Eugene, Hugh, Logan, Edgar, Ingrid
+- **Letter:** `g`, **Position:** `4`, **Words:** Morgan, Douglas, Diego, Imogen, Gregory
+- **Letter:** `g`, **Position:** `5`, **Words:** Craig, George, Bridget
+- **Letter:** `g`, **Position:** `6`, **Words:** Ludwig, Rodrigue, Solange
+- **Letter:** `h`, **Position:** `1`, **Words:** Henry, Hector, Hailey, Harold, Helen
+- **Letter:** `h`, **Position:** `2`, **Words:** Chelsea, Sharon, Charles, Chester, Charlotte
+- **Letter:** `h`, **Position:** `3`, **Words:** Ashley, Ethan, John, Ashraf, Asher
+- **Letter:** `h`, **Position:** `4`, **Words:** Arthur, Michael, Hugh, Richard, Sophia
+- **Letter:** `h`, **Position:** `5`, **Words:** Heather, Martha, Sarah, Matthew, Edith
+- **Letter:** `h`, **Position:** `6`, **Words:** Jonathan, Dorothy, Hannah, Judith, Timothy
+- **Letter:** `i`, **Position:** `1`, **Words:** Isabella, Ingrid, Iris, Irene, Isaac
+- **Letter:** `i`, **Position:** `2`, **Words:** Lily, Diego, Lizzy, Linda, Diana
+- **Letter:** `i`, **Position:** `3`, **Words:** Daisy, Philipp, Eric, Iris, Brian
+- **Letter:** `i`, **Position:** `4`, **Words:** Kevin, Maria, Claire, Julie, Jamie
+- **Letter:** `i`, **Position:** `5`, **Words:** Patrick, Alicia, Ludwig, Jessica, Philip
+- **Letter:** `i`, **Position:** `6`, **Words:** Cecilia, Beatrice, Quentin, Natalie, Francis
+- **Letter:** `j`, **Position:** `1`, **Words:** Jay, Jennifer, James Jr, Jasmine, June
+- **Letter:** `j`, **Position:** `2`, **Words:** Djyna, Djayson, Djessie, Djamil
+- **Letter:** `j`, **Position:** `3`, **Words:** Majda, Anjela, Wejden
+- **Letter:** `j`, **Position:** `4`, **Words:** Marjorie, Benjamin, Elijah, Benji
+- **Letter:** `j`, **Position:** `5`, **Words:** Kendji, Mary-Jose, Marijane, Anna-Julia, Lili-Jade
 - **Letter:** `j`, **Position:** `6`, **Words:** James Jr, Elihajd, Andrej
-- **Letter:** `k`, **Position:** `1`, **Words:** Kim, Katherine, Kevin, Karl, Karen
-- **Letter:** `k`, **Position:** `2`, **Words:** Akon, Oksana, Iker
-- **Letter:** `k`, **Position:** `3`, **Words:** Luke, Mika, Mckenna, Makayla, Zeke
-- **Letter:** `k`, **Position:** `4`, **Words:** Blake, Jack, Mark, Markov, Drake
-- **Letter:** `k`, **Position:** `5`, **Words:** Franklin, Brooke, Malik, Clark, Sirak
-- **Letter:** `k`, **Position:** `6`, **Words:** Derick, Yanick, Annick, Dereck, Darrik
-- **Letter:** `l`, **Position:** `1`, **Words:** Logan, Leo, Lynn, Louise, Ludwig
-- **Letter:** `l`, **Position:** `2`, **Words:** Alan, Alfred, Gloria, Oliver, Floyd
-- **Letter:** `l`, **Position:** `3`, **Words:** Nelson, Malik, Julian, Ellie, Colin
-- **Letter:** `l`, **Position:** `4`, **Words:** Wallace, Sally, Paula, Axel, Kelly
-- **Letter:** `l`, **Position:** `5`, **Words:** Nicole, Ariel, Harold, Cecilia, Charlotte
-- **Letter:** `l`, **Position:** `6`, **Words:** Isabella, Franklin, Michelle, Daniel, Rachel
-- **Letter:** `m`, **Position:** `1`, **Words:** Malcolm, Michael, Matthew, Melissa, Malik
-- **Letter:** `m`, **Position:** `2`, **Words:** Amber, Emily, Amy, Emma, Omar
-- **Letter:** `m`, **Position:** `3`, **Words:** Emma, Pamela, Samuel, Tom, Damian
-- **Letter:** `m`, **Position:** `4`, **Words:** Thomas, Jasmine, Liam, Adam, Djamil
-- **Letter:** `m`, **Position:** `5`, **Words:** Jeremy, Jerome, Sherman
+- **Letter:** `k`, **Position:** `1`, **Words:** Kate, Kelly, Kim, Kyle, Kevin
+- **Letter:** `k`, **Position:** `2`, **Words:** Iker, Oksana, Akon
+- **Letter:** `k`, **Position:** `3`, **Words:** Mika, Luke, Mckenna, Makayla, Baker
+- **Letter:** `k`, **Position:** `4`, **Words:** Mark, Blake, Jack, Erik, Parker
+- **Letter:** `k`, **Position:** `5`, **Words:** Brooke, Franklin, Clark, Malik, Sirak
+- **Letter:** `k`, **Position:** `6`, **Words:** Yanick, Derick, Darrik, Maliek, Annick
+- **Letter:** `l`, **Position:** `1`, **Words:** Lewis, Liz, Lucy, Lawrence, Lloyd
+- **Letter:** `l`, **Position:** `2`, **Words:** Gloria, Lloyd, Olivia, Clara, Elena
+- **Letter:** `l`, **Position:** `3`, **Words:** Lily, Tyler, Walter, Felix, Caleb
+- **Letter:** `l`, **Position:** `4`, **Words:** Sally, Philipp, Leslie, William, Kelly
+- **Letter:** `l`, **Position:** `5`, **Words:** Stanley, Ronald, Charlotte, Natalie, Ursula
+- **Letter:** `l`, **Position:** `6`, **Words:** Malcolm, Franklin, Michelle, Rachel, Daniel
+- **Letter:** `m`, **Position:** `1`, **Words:** Marco, Malik, Malcolm, Mika, Matthew
+- **Letter:** `m`, **Position:** `2`, **Words:** Emma, Amanda, Amy, Emily, Omar
+- **Letter:** `m`, **Position:** `3`, **Words:** Samuel, Damian, Cameron, Kim, Pamela
+- **Letter:** `m`, **Position:** `4`, **Words:** Jasmine, Thomas, Adam, Liam, Raymond
+- **Letter:** `m`, **Position:** `5`, **Words:** Jeremy, Sherman, Jerome
 - **Letter:** `m`, **Position:** `6`, **Words:** Benjamin, Graham, Miriam
-- **Letter:** `n`, **Position:** `1`, **Words:** Natalie, Nora, Nancy, Nathan, Noah
-- **Letter:** `n`, **Position:** `2`, **Words:** Ingrid, Andrew, Anthony, Anton, Annick
-- **Letter:** `n`, **Position:** `3`, **Words:** Donald, Jennifer, Henry, Ronald, Monica
-- **Letter:** `n`, **Position:** `4`, **Words:** Dennis, Joanna, Gwenael, Quincy, Hannah
-- **Letter:** `n`, **Position:** `5`, **Words:** Brian, Dominic, Kevin, Samantha, Joanna
-- **Letter:** `n`, **Position:** `6`, **Words:** Morgan, Alexander, Gordon, Nathan, Anthony
-- **Letter:** `o`, **Position:** `1`, **Words:** Olivia, Oliver, Omar, Oscar, Oxana
-- **Letter:** `o`, **Position:** `2`, **Words:** Ronald, Jonathan, Conrad, Monica, Robin
-- **Letter:** `o`, **Position:** `3`, **Words:** Scott, Gloria, Phoebe, Leo, Violet
-- **Letter:** `o`, **Position:** `4`, **Words:** Nicole, Tyson, Chloe, Jacob, Brooke
-- **Letter:** `o`, **Position:** `5`, **Words:** Gordon, Anthony, Marlow, Diego, Bruno
-- **Letter:** `o`, **Position:** `6`, **Words:** Brandon, Charlotte, Madison, Cameron, Gwendolyn
-- **Letter:** `p`, **Position:** `1`, **Words:** Phoebe, Pamela, Philipp, Patrick, Peter
-- **Letter:** `p`, **Position:** `2`, **Words:** April, Spencer, Opal
-- **Letter:** `p`, **Position:** `3`, **Words:** Sophia, Hope, Daphne, Piper, Sophie
-- **Letter:** `p`, **Position:** `4`, **Words:** Ralph, Harper, Stephen
+- **Letter:** `n`, **Position:** `1`, **Words:** Noah, Nathan, Nicole, Natalie, Nelson
+- **Letter:** `n`, **Position:** `2`, **Words:** Andrew, Anton, Ingrid, Anthony, Knox
+- **Letter:** `n`, **Position:** `3`, **Words:** Jonas, Jane, Henry, Daniel, Linda
+- **Letter:** `n`, **Position:** `4`, **Words:** Quentin, Wayne, Dennis, Amanda, Leonard
+- **Letter:** `n`, **Position:** `5`, **Words:** Suzanne, Bryan, Brian, Joanna, Logan
+- **Letter:** `n`, **Position:** `6`, **Words:** Evelyn, Austin, Lauren, Anthony, Steven
+- **Letter:** `o`, **Position:** `1`, **Words:** Omar, Oscar, Olivia, Oliver, Ofelia
+- **Letter:** `o`, **Position:** `2`, **Words:** Monica, Tony, Jonas, Joe, Sophia
+- **Letter:** `o`, **Position:** `3`, **Words:** Lloyd, Scott, Phoebe, George, Thomas
+- **Letter:** `o`, **Position:** `4`, **Words:** Harold, Jacob, Nicole, Aaron, Brooke
+- **Letter:** `o`, **Position:** `5`, **Words:** Anthony, Marjorie, Malcolm, Bruno, Connor
+- **Letter:** `o`, **Position:** `6`, **Words:** Brandon, Madison, Cameron, Charlotte, Djayson
+- **Letter:** `p`, **Position:** `1`, **Words:** Philip, Philipp, Patrick, Phoebe, Pamela
+- **Letter:** `p`, **Position:** `2`, **Words:** April, Opal, Spencer
+- **Letter:** `p`, **Position:** `3`, **Words:** Sophia, Daphne, Sophie, Piper, Hope
+- **Letter:** `p`, **Position:** `4`, **Words:** Stephen, Ralph, Harper
 - **Letter:** `p`, **Position:** `5`, **Words:** Joseph, Josephine
 - **Letter:** `p`, **Position:** `6`, **Words:** Philip, Philipp, Bishop
-- **Letter:** `q`, **Position:** `1`, **Words:** Quincy, Quentin, Quinn, Queen
-- **Letter:** `q`, **Position:** `2`, **Words:** Iqra, Iqbal, Aquila
-- **Letter:** `q`, **Position:** `3`, **Words:** Taquan, Jaquy, Raquel
-- **Letter:** `q`, **Position:** `4`, **Words:** Joaquim, Jacquie, Marquis, Jacqueline
-- **Letter:** `q`, **Position:** `5`, **Words:** Annique, Tariq, Monique
-- **Letter:** `q`, **Position:** `6`, **Words:** Henrique, Patrique, Emerique
-- **Letter:** `r`, **Position:** `1`, **Words:** Rebecca, Rachel, Robert, Ross, Richard
-- **Letter:** `r`, **Position:** `2`, **Words:** Arthur, Eric, Bradley, Grant, Brian
-- **Letter:** `r`, **Position:** `3`, **Words:** Earl, Marjorie, Karl, Jerry, Chris
-- **Letter:** `r`, **Position:** `4`, **Words:** Barry, Lauren, Alfred, Omar, Charles
-- **Letter:** `r`, **Position:** `5`, **Words:** Beatrice, Oscar, Peter, Claire, Robert
-- **Letter:** `r`, **Position:** `6`, **Words:** Connor, Marjorie, Richard, Leonard, Oliver
-- **Letter:** `s`, **Position:** `1`, **Words:** Sarah, Suzanne, Sandra, Stanley, Stuart
-- **Letter:** `s`, **Position:** `2`, **Words:** Ashley, Isaac, Oscar, Isabella, Astrid
-- **Letter:** `s`, **Position:** `3`, **Words:** Leslie, Ursula, Jesse, Elsa, Joseph
-- **Letter:** `s`, **Position:** `4`, **Words:** Iris, Ross, Chester, Daisy, Jesse
-- **Letter:** `s`, **Position:** `5`, **Words:** James Jr, Lucas, Melissa, Chelsea, Christina
-- **Letter:** `s`, **Position:** `6`, **Words:** Travis, Thomas, Dennis, Melissa, Marcus
-- **Letter:** `t`, **Position:** `1`, **Words:** Tyler, Tyson, Travis, Tom, Tracy
-- **Letter:** `t`, **Position:** `2`, **Words:** Stanley, Stuart, Ethan, Steeve, Steven
-- **Letter:** `t`, **Position:** `3`, **Words:** Anthony, Arthur, Kate, Anton, Betty
-- **Letter:** `t`, **Position:** `4`, **Words:** Gustavo, Heather, Martha, Austin, Victoria
-- **Letter:** `t`, **Position:** `5`, **Words:** Grant, Quentin, Chester, Scott, Dorothy
-- **Letter:** `t`, **Position:** `6`, **Words:** Sebastian, Robert, Violet, Samantha, Stuart
-- **Letter:** `u`, **Position:** `1`, **Words:** Ursula, Ugo, Uma
-- **Letter:** `u`, **Position:** `2`, **Words:** Duncan, Austin, Hugh, Quincy, Guy
-- **Letter:** `u`, **Position:** `3`, **Words:** Stuart, Louise, Laura, Lauren, Douglas
-- **Letter:** `u`, **Position:** `4`, **Words:** Ursula, Samuel, Shauwn, Beaux, Claude
-- **Letter:** `u`, **Position:** `5`, **Words:** Arthur, Joaquim, Marquis, Brieux, Jacqueline
-- **Letter:** `u`, **Position:** `6`, **Words:** Monique, Annique, Emmanuela, Anna-Julia
-- **Letter:** `v`, **Position:** `1`, **Words:** Violet, Victoria, Vincent, Vivian, Virginia
-- **Letter:** `v`, **Position:** `2`, **Words:** Ivan, Evelyn, Evan, Ava, Yvette
-- **Letter:** `v`, **Position:** `3`, **Words:** David, Kevin, Xavier, River, Gavin
-- **Letter:** `v`, **Position:** `4`, **Words:** Travis, Oliver, Harvey, Steven, Sylvia
-- **Letter:** `v`, **Position:** `5`, **Words:** Steeve, Donovane, Octavio, Ludovico, Ludivina
+- **Letter:** `q`, **Position:** `1`, **Words:** Quentin, Quincy, Queen, Quinn
+- **Letter:** `q`, **Position:** `2`, **Words:** Iqra, Aquila, Iqbal
+- **Letter:** `q`, **Position:** `3`, **Words:** Raquel, Jaquy, Taquan
+- **Letter:** `q`, **Position:** `4`, **Words:** Joaquim, Jacqueline, Jacquie, Marquis
+- **Letter:** `q`, **Position:** `5`, **Words:** Tariq, Annique, Monique
+- **Letter:** `q`, **Position:** `6`, **Words:** Patrique, Henrique, Emerique
+- **Letter:** `r`, **Position:** `1`, **Words:** Richard, Rebecca, Ross, Ryan, Robin
+- **Letter:** `r`, **Position:** `2`, **Words:** Brian, Bridget, Eric, Grant, Travis
+- **Letter:** `r`, **Position:** `3`, **Words:** Jordan, Marjorie, Barbara, Adrian, Morgan
+- **Letter:** `r`, **Position:** `4`, **Words:** Harry, Ingrid, Clara, George, Audrey
+- **Letter:** `r`, **Position:** `5`, **Words:** Claire, Peter, Edward, Edgar, Cameron
+- **Letter:** `r`, **Position:** `6`, **Words:** Katherine, Victoria, Arthur, Oliver, Connor
+- **Letter:** `s`, **Position:** `1`, **Words:** Steven, Sarah, Sharon, Sebastian, Simon
+- **Letter:** `s`, **Position:** `2`, **Words:** Isabella, Oscar, Isaac, Ashley, Astrid
+- **Letter:** `s`, **Position:** `3`, **Words:** Jasmine, Jessica, Lisa, Jesse, Austin
+- **Letter:** `s`, **Position:** `4`, **Words:** Ross, Iris, Jesse, Chester, Jessica
+- **Letter:** `s`, **Position:** `5`, **Words:** Lucas, Jonas, Melissa, James Jr, Chris
+- **Letter:** `s`, **Position:** `6`, **Words:** Thomas, Travis, Melissa, Dennis, Curtis
+- **Letter:** `t`, **Position:** `1`, **Words:** Travis, Tyler, Tony, Thomas, Tom
+- **Letter:** `t`, **Position:** `2`, **Words:** Stanley, Steeve, Steven, Stuart, Ethan
+- **Letter:** `t`, **Position:** `3`, **Words:** Anthony, Peter, Natalie, Kate, Nathan
+- **Letter:** `t`, **Position:** `4`, **Words:** Martha, Scott, Betty, Beatrice, Martin
+- **Letter:** `t`, **Position:** `5`, **Words:** Grant, Chester, Jonathan, Judith, Timothy
+- **Letter:** `t`, **Position:** `6`, **Words:** Robert, Christina, Violet, Sebastian, Stuart
+- **Letter:** `u`, **Position:** `1`, **Words:** Ursula, Uma, Ugo
+- **Letter:** `u`, **Position:** `2`, **Words:** Lucy, Quincy, Gustavo, Quentin, Julian
+- **Letter:** `u`, **Position:** `3`, **Words:** Louise, Bruno, Bruce, Stuart, Douglas
+- **Letter:** `u`, **Position:** `4`, **Words:** Ursula, Samuel, Raquel, Edmund, Beaux
+- **Letter:** `u`, **Position:** `5`, **Words:** Arthur, Joaquim, Marcus, Joshua, Magnus
+- **Letter:** `u`, **Position:** `6`, **Words:** Annique, Monique, Emmanuela, Anna-Julia
+- **Letter:** `v`, **Position:** `1`, **Words:** Violet, Victoria, Vincent, Virginia, Valerie
+- **Letter:** `v`, **Position:** `2`, **Words:** Ivan, Evan, Evelyn, Ava, Eva
+- **Letter:** `v`, **Position:** `3`, **Words:** Xavier, Kevin, David, River, Gavin
+- **Letter:** `v`, **Position:** `4`, **Words:** Steven, Sylvia, Harvey, Oliver, Travis
+- **Letter:** `v`, **Position:** `5`, **Words:** Steeve, Ludivina, Ludovico, Donovane, Octavio
 - **Letter:** `v`, **Position:** `6`, **Words:** Gustavo, Perceval, Markov
-- **Letter:** `w`, **Position:** `1`, **Words:** Wayne, William, Wallace, Walter, Wolf
-- **Letter:** `w`, **Position:** `2`, **Words:** Gwenael, Gwendolyn, Owen, Ewald
-- **Letter:** `w`, **Position:** `3`, **Words:** Lawrence, Howard, Edward, Lewis, Dawn
-- **Letter:** `w`, **Position:** `4`, **Words:** Ludwig, Maxwell, Marwin, Drew, Darwin
-- **Letter:** `w`, **Position:** `5`, **Words:** Shauwn, Milow, Arlow
-- **Letter:** `w`, **Position:** `6`, **Words:** Andrew, Marlow, Barlow
+- **Letter:** `w`, **Position:** `1`, **Words:** Wallace, Walter, Wayne, William, Warren
+- **Letter:** `w`, **Position:** `2`, **Words:** Gwenael, Owen, Gwendolyn, Ewald
+- **Letter:** `w`, **Position:** `3`, **Words:** Lawrence, Howard, Lewis, Edward, Dawn
+- **Letter:** `w`, **Position:** `4`, **Words:** Ludwig, Darwin, Maxwell, Marwin, Shawn
+- **Letter:** `w`, **Position:** `5`, **Words:** Arlow, Shauwn, Milow
+- **Letter:** `w`, **Position:** `6`, **Words:** Marlow, Andrew, Barlow
 - **Letter:** `x`, **Position:** `1`, **Words:** Xavier, Xena, Xerxes
 - **Letter:** `x`, **Position:** `2`, **Words:** Axel, Ixion, Oxana
-- **Letter:** `x`, **Position:** `3`, **Words:** Max, Rex, Dex, Maxwell
-- **Letter:** `x`, **Position:** `4`, **Words:** Alexander, Alex, Knox, Xerxes
+- **Letter:** `x`, **Position:** `3`, **Words:** Max, Rex, Maxwell, Dex
+- **Letter:** `x`, **Position:** `4`, **Words:** Alexander, Alex, Xerxes, Knox
 - **Letter:** `x`, **Position:** `5`, **Words:** Felix, Beaux, Calix
 - **Letter:** `x`, **Position:** `6`, **Words:** Maddox, Brieux, Lennox
-- **Letter:** `y`, **Position:** `1`, **Words:** Yanick, Yuri, Yusuf, Yvette, Yeliz
-- **Letter:** `y`, **Position:** `2`, **Words:** Sylvia, Tyson, Dylan, Kyle, Ryan
-- **Letter:** `y`, **Position:** `3`, **Words:** Guy, Bryan, Amy, Joyce, Jay
-- **Letter:** `y`, **Position:** `4`, **Words:** Lily, Cody, Floyd, Tony, Lloyd
-- **Letter:** `y`, **Position:** `5`, **Words:** Emily, Nancy, Betty, Holly, Sally
-- **Letter:** `y`, **Position:** `6`, **Words:** Hailey, Ashley, Quincy, Jeremy, Harvey
-- **Letter:** `z`, **Position:** `1`, **Words:** Zoe, Zeke, Zachary, Zane, Zelda
-- **Letter:** `z`, **Position:** `2`, **Words:** Aziza, Azar, Izabela, Ozzy, Izae
-- **Letter:** `z`, **Position:** `3`, **Words:** Liz, Lizzy, Suzanne, Hazel, Gizelle
-- **Letter:** `z`, **Position:** `4`, **Words:** Lizzy, Elizabeth, Aziza
-- **Letter:** `z`, **Position:** `5`, **Words:** Alonzo, Mimoza, Yeliz
+- **Letter:** `y`, **Position:** `1`, **Words:** Yanick, Yuri, Yara, Yale, Yvette
+- **Letter:** `y`, **Position:** `2`, **Words:** Dylan, Tyler, Lynn, Tyson, Kyle
+- **Letter:** `y`, **Position:** `3`, **Words:** Wayne, Joyce, Bryan, Guy, Jay
+- **Letter:** `y`, **Position:** `4`, **Words:** Lucy, Lloyd, Tony, Abby, Cody
+- **Letter:** `y`, **Position:** `5`, **Words:** Kelly, Henry, Sally, Jerry, Betty
+- **Letter:** `y`, **Position:** `6`, **Words:** Jeremy, Hailey, Ashley, Harvey, Audrey
+- **Letter:** `z`, **Position:** `1`, **Words:** Zoe, Zeke, Zelda, Zachary, Zane
+- **Letter:** `z`, **Position:** `2`, **Words:** Azar, Ozzy, Izabela, Izae, Aziza
+- **Letter:** `z`, **Position:** `3`, **Words:** Liz, Lizzy, Suzanne, Ozzy, Gizelle
+- **Letter:** `z`, **Position:** `4`, **Words:** Elizabeth, Lizzy, Aziza
+- **Letter:** `z`, **Position:** `5`, **Words:** Yeliz, Mimoza, Alonzo
 - **Letter:** `z`, **Position:** `6`, **Words:** Lorenzo, Maritza, Sherazad
 
 </details>
@@ -7367,140 +7362,140 @@ Total missing words: `0`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** apricots, ajax, anise, almonds, axe
-- **Letter:** `a`, **Position:** `2`, **Words:** bagels, basmati, candies, fajita, hazelnuts
-- **Letter:** `a`, **Position:** `3`, **Words:** grapes, guacamole, peanuts, cranberries, oranges
-- **Letter:** `a`, **Position:** `4`, **Words:** sugar, bananas, strawberries, potatoes, bread
-- **Letter:** `a`, **Position:** `5`, **Words:** mascarpone, spinach, pizza, pistachios, sausage
-- **Letter:** `a`, **Position:** `6`, **Words:** fajita, empanadas, vinegar, cheddar, bananas
-- **Letter:** `b`, **Position:** `1`, **Words:** blueberries, basmati, bananas, broccoli, baguette
-- **Letter:** `b`, **Position:** `3`, **Words:** cabbage, lobster
-- **Letter:** `b`, **Position:** `4`, **Words:** sorbet, herbs, hamburger, soybeans, cabbage
-- **Letter:** `b`, **Position:** `5`, **Words:** blueberries, cranberries, raspberries, wasabi, halibut
-- **Letter:** `b`, **Position:** `6`, **Words:** cucumber, gooseberries, strawberries, blackberries, sweetbreads
-- **Letter:** `c`, **Position:** `1`, **Words:** cider, coconut, cookies, cheddar, coriander
+- **Letter:** `a`, **Position:** `1`, **Words:** almonds, anise, apricots, anchovies, axe
+- **Letter:** `a`, **Position:** `2`, **Words:** lasagna, papaya, salami, matcha, baguette
+- **Letter:** `a`, **Position:** `3`, **Words:** guacamole, beans, cranberries, pears, grapes
+- **Letter:** `a`, **Position:** `4`, **Words:** lasagna, wheat, caramel, salami, pecans
+- **Letter:** `a`, **Position:** `5`, **Words:** mustard, cereals, coriander, guava, mortadella
+- **Letter:** `a`, **Position:** `6`, **Words:** soybeans, bananas, fajita, asparagus, vinegar
+- **Letter:** `b`, **Position:** `1`, **Words:** bread, basmati, blueberries, bananas, bacon
+- **Letter:** `b`, **Position:** `3`, **Words:** lobster, cabbage
+- **Letter:** `b`, **Position:** `4`, **Words:** herbs, soybeans, sorbet, hamburger, cabbage
+- **Letter:** `b`, **Position:** `5`, **Words:** blueberries, cranberries, raspberries, halibut, hashbrowns
+- **Letter:** `b`, **Position:** `6`, **Words:** strawberries, gooseberries, cucumber, sweetbreads, camembert
+- **Letter:** `c`, **Position:** `1`, **Words:** carrots, chorizo, cookies, cherries, candies
 - **Letter:** `c`, **Position:** `2`, **Words:** icecream, octopus, scallion, scallops, acorn
-- **Letter:** `c`, **Position:** `3`, **Words:** pecans, tacos, cucumber, nectarines, coconut
-- **Letter:** `c`, **Position:** `4`, **Words:** crackers, ketchup, gnocchi, litchi, peaches
-- **Letter:** `c`, **Position:** `5`, **Words:** gnocchi, broccoli, apricots, prosciutto, radicchio
-- **Letter:** `c`, **Position:** `6`, **Words:** haddock, gazpacho, pistachios, lettuce, spinach
-- **Letter:** `d`, **Position:** `1`, **Words:** donuts, dragonfruit, durian, dates, dumplings
+- **Letter:** `c`, **Position:** `3`, **Words:** pickles, lychees, macaroni, pecans, zucchini
+- **Letter:** `c`, **Position:** `4`, **Words:** broccoli, chicken, chocolate, guacamole, avocados
+- **Letter:** `c`, **Position:** `5`, **Words:** broccoli, apricots, gnocchi, artichokes, couscous
+- **Letter:** `c`, **Position:** `6`, **Words:** lettuce, pistachios, spinach, garlic, haddock
+- **Letter:** `d`, **Position:** `1`, **Words:** dragonfruit, donuts, daikon, dates, dumplings
 - **Letter:** `d`, **Position:** `2`, **Words:** udon, edamame
-- **Letter:** `d`, **Position:** `3`, **Words:** endive, cider, radishes, haddock, radicchio
-- **Letter:** `d`, **Position:** `4`, **Words:** noodles, haddock, sardines, cheddar, candies
-- **Letter:** `d`, **Position:** `5`, **Words:** cheddar, bread, squid, brandy, macadamia
-- **Letter:** `d`, **Position:** `6`, **Words:** avocados, mortadella, almonds
-- **Letter:** `e`, **Position:** `1`, **Words:** empanadas, endive, eggplant, eggnog, edamame
-- **Letter:** `e`, **Position:** `2`, **Words:** pepperoni, ketchup, herbs, peaches, pepper
-- **Letter:** `e`, **Position:** `3`, **Words:** oregano, steak, muesli, clementines, bread
-- **Letter:** `e`, **Position:** `4`, **Words:** blueberries, sweeteners, watermelon, nutella, vinegar
-- **Letter:** `e`, **Position:** `5`, **Words:** baguette, soybeans, butter, thyme, pepper
-- **Letter:** `e`, **Position:** `6`, **Words:** spaghetti, caramel, oranges, coffee, chicken
-- **Letter:** `f`, **Position:** `1`, **Words:** flour, falafel, fajita, felix, fennel
-- **Letter:** `f`, **Position:** `3`, **Words:** coffee, waffles, saffron, muffins, offal
-- **Letter:** `f`, **Position:** `4`, **Words:** coffee, saffron, muffins, waffles, truffle
-- **Letter:** `f`, **Position:** `5`, **Words:** truffle, falafel, starfruit, jackfruit, crayfish
-- **Letter:** `f`, **Position:** `6`, **Words:** salsify, cauliflower, swordfish, alfalfa, frankfurters
-- **Letter:** `g`, **Position:** `1`, **Words:** garlic, guacamole, gazpacho, gooseberries, guava
-- **Letter:** `g`, **Position:** `2`, **Words:** ugli, eggnog, eggplant
-- **Letter:** `g`, **Position:** `3`, **Words:** sugar, baguette, bagels, yogurt, eggplant
-- **Letter:** `g`, **Position:** `4`, **Words:** spaghetti, dragonfruit, tangerines, ginger, mangoes
+- **Letter:** `d`, **Position:** `3`, **Words:** endive, radishes, haddock, cider, codfish
+- **Letter:** `d`, **Position:** `4`, **Words:** sardines, noodles, candies, cheddar, hotdogs
+- **Letter:** `d`, **Position:** `5`, **Words:** squid, bread, cheddar, brandy, macadamia
+- **Letter:** `d`, **Position:** `6`, **Words:** avocados, almonds, mortadella
+- **Letter:** `e`, **Position:** `1`, **Words:** endive, empanadas, edamame, eggnog, escarole
+- **Letter:** `e`, **Position:** `2`, **Words:** pepperoni, nectarines, jelly, peanuts, pepper
+- **Letter:** `e`, **Position:** `3`, **Words:** cherries, bread, cream, oregano, axe
+- **Letter:** `e`, **Position:** `4`, **Words:** blueberries, pineapple, hazelnuts, rosemary, water
+- **Letter:** `e`, **Position:** `5`, **Words:** butter, pepperoni, soybeans, coffee, thyme
+- **Letter:** `e`, **Position:** `6`, **Words:** chicken, noodles, lobster, falafel, cookies
+- **Letter:** `f`, **Position:** `1`, **Words:** flour, falafel, fajita, freekeh, felix
+- **Letter:** `f`, **Position:** `3`, **Words:** waffles, coffee, saffron, muffins, alfalfa
+- **Letter:** `f`, **Position:** `4`, **Words:** saffron, coffee, waffles, muffins, truffle
+- **Letter:** `f`, **Position:** `5`, **Words:** falafel, truffle, moonfish, jackfruit, crayfish
+- **Letter:** `f`, **Position:** `6`, **Words:** alfalfa, swordfish, frankfurters, cauliflower, whitefish
+- **Letter:** `g`, **Position:** `1`, **Words:** garlic, gazpacho, ginger, gooseberries, guava
+- **Letter:** `g`, **Position:** `2`, **Words:** ugli, eggplant, eggnog
+- **Letter:** `g`, **Position:** `3`, **Words:** bagels, yogurt, baguette, sugar, eggplant
+- **Letter:** `g`, **Position:** `4`, **Words:** dragonfruit, tangerines, spaghetti, mangoes, oregano
 - **Letter:** `g`, **Position:** `5`, **Words:** oranges, vinegar, lasagna, pomegranate, sturgeon
-- **Letter:** `g`, **Position:** `6`, **Words:** hotdogs, sausage, cabbage, eggnog
-- **Letter:** `h`, **Position:** `1`, **Words:** hotdogs, hamburger, hummus, haddock, herbs
-- **Letter:** `h`, **Position:** `2`, **Words:** cherries, cheddar, chorizo, chili, chicken
-- **Letter:** `h`, **Position:** `4`, **Words:** mushrooms, lychees, sushis, anchovies, enchiladas
-- **Letter:** `h`, **Position:** `5`, **Words:** spaghetti, matcha, peaches, zucchini, marshmallows
-- **Letter:** `h`, **Position:** `6`, **Words:** gnocchi, radishes, ceviche, tempeh, buckwheat
-- **Letter:** `i`, **Position:** `2`, **Words:** biscuits, vinegar, pistachios, citron, liquor
-- **Letter:** `i`, **Position:** `3`, **Words:** raisins, juice, quinoa, olives, spinach
-- **Letter:** `i`, **Position:** `4`, **Words:** ravioli, basil, coriander, tapioca, endive
-- **Letter:** `i`, **Position:** `5`, **Words:** chorizo, passion, lollipops, garlic, tortillas
-- **Letter:** `i`, **Position:** `6`, **Words:** pumpkin, biscuits, zucchini, muesli, salami
-- **Letter:** `j`, **Position:** `1`, **Words:** juice, jalapenos, jelly, jicama, jackfruit
+- **Letter:** `g`, **Position:** `6`, **Words:** sausage, cabbage, hotdogs, eggnog
+- **Letter:** `h`, **Position:** `1`, **Words:** honey, haddock, hummus, herbs, hotdogs
+- **Letter:** `h`, **Position:** `2`, **Words:** cheddar, chicken, thyme, shrimps, cherries
+- **Letter:** `h`, **Position:** `4`, **Words:** lychees, anchovies, sushis, mushrooms, enchiladas
+- **Letter:** `h`, **Position:** `5`, **Words:** spaghetti, litchi, zucchini, marshmallows, ketchup
+- **Letter:** `h`, **Position:** `6`, **Words:** radishes, gnocchi, ceviche, artichokes, tempeh
+- **Letter:** `i`, **Position:** `2`, **Words:** vinegar, pineapple, litchi, cinnamon, pizza
+- **Letter:** `i`, **Position:** `3`, **Words:** onions, quinoa, chicken, chili, raisins
+- **Letter:** `i`, **Position:** `4`, **Words:** caviar, shrimps, coriander, endive, cumin
+- **Letter:** `i`, **Position:** `5`, **Words:** candies, garlic, chorizo, cookies, tortillas
+- **Letter:** `i`, **Position:** `6`, **Words:** litchi, salami, cherries, muesli, pumpkin
+- **Letter:** `j`, **Position:** `1`, **Words:** jelly, juice, jalapenos, jicama, jackfruit
 - **Letter:** `j`, **Position:** `2`, **Words:** ajax, ajinomoto
-- **Letter:** `j`, **Position:** `3`, **Words:** fajita, rojak, cajun
-- **Letter:** `k`, **Position:** `1`, **Words:** ketchup, kielbasa, kefir, kimchi, kohlrabi
-- **Letter:** `k`, **Position:** `4`, **Words:** cookies, pickles, turkey, buckwheat, jackfruit
-- **Letter:** `k`, **Position:** `5`, **Words:** steak, pumpkin, crackers, chicken, chickpeas
+- **Letter:** `j`, **Position:** `3`, **Words:** fajita, cajun, rojak
+- **Letter:** `k`, **Position:** `1`, **Words:** ketchup, kohlrabi, kimchi, kielbasa, kombucha
+- **Letter:** `k`, **Position:** `4`, **Words:** pickles, turkey, cookies, mackerel, rocket
+- **Letter:** `k`, **Position:** `5`, **Words:** pumpkin, chicken, crackers, steak, freekeh
 - **Letter:** `k`, **Position:** `6`, **Words:** paprika, pancakes, sauerkraut
-- **Letter:** `l`, **Position:** `1`, **Words:** lychees, lemons, lettuce, lentils, lobster
-- **Letter:** `l`, **Position:** `2`, **Words:** plums, olives, almonds, flour, clementines
-- **Letter:** `l`, **Position:** `3`, **Words:** jelly, walnuts, melon, falafel, salami
-- **Letter:** `l`, **Position:** `4`, **Words:** chili, lollipops, jelly, apples, garlic
-- **Letter:** `l`, **Position:** `5`, **Words:** waffles, muesli, pickles, nutella, noodles
-- **Letter:** `l`, **Position:** `6`, **Words:** cereals, mussels, truffle, tortillas, vanilla
-- **Letter:** `m`, **Position:** `1`, **Words:** melon, macaroni, mascarpone, mushrooms, marshmallows
+- **Letter:** `l`, **Position:** `1`, **Words:** lobster, lettuce, lasagna, lychees, litchi
+- **Letter:** `l`, **Position:** `2`, **Words:** clementines, plums, flour, almonds, blueberries
+- **Letter:** `l`, **Position:** `3`, **Words:** salami, polenta, jelly, salmon, melon
+- **Letter:** `l`, **Position:** `4`, **Words:** lollipops, chili, jelly, garlic, apples
+- **Letter:** `l`, **Position:** `5`, **Words:** nutella, waffles, pickles, muesli, basil
+- **Letter:** `l`, **Position:** `6`, **Words:** truffle, cereals, lentils, tortillas, mussels
+- **Letter:** `m`, **Position:** `1`, **Words:** muffins, marshmallows, melon, muesli, mustard
 - **Letter:** `m`, **Position:** `2`, **Words:** empanadas, amaranth
-- **Letter:** `m`, **Position:** `3`, **Words:** pumpkin, hamburger, hummus, tomatoes, almonds
-- **Letter:** `m`, **Position:** `4`, **Words:** basmati, clementines, salmon, marmalade, thyme
-- **Letter:** `m`, **Position:** `5`, **Words:** shrimps, cream, salami, rosemary, cucumber
-- **Letter:** `m`, **Position:** `6`, **Words:** marshmallows, guacamole, watermelon, cinnamon, edamame
-- **Letter:** `n`, **Position:** `1`, **Words:** nutella, noodles, nectarines, nopales, natto
-- **Letter:** `n`, **Position:** `2`, **Words:** anise, endive, onions, anchovies, gnocchi
-- **Letter:** `n`, **Position:** `3`, **Words:** pineapple, pancakes, lentils, tangerines, mangoes
-- **Letter:** `n`, **Position:** `4`, **Words:** spinach, peanuts, beans, oranges, walnuts
-- **Letter:** `n`, **Position:** `5`, **Words:** mayonnaise, lemons, cumin, empanadas, coconut
-- **Letter:** `n`, **Position:** `6`, **Words:** sardines, oregano, citron, raisins, mayonnaise
-- **Letter:** `o`, **Position:** `1`, **Words:** oysters, onions, olives, oranges, oregano
-- **Letter:** `o`, **Position:** `2`, **Words:** honey, yogurt, donuts, lollipops, mortadella
-- **Letter:** `o`, **Position:** `3`, **Words:** noodles, broccoli, cookies, gnocchi, chorizo
-- **Letter:** `o`, **Position:** `4`, **Words:** melon, mayonnaise, lemons, tacos, almonds
-- **Letter:** `o`, **Position:** `5`, **Words:** carrots, quinoa, haddock, pesto, liquor
-- **Letter:** `o`, **Position:** `6`, **Words:** saffron, tomatoes, macaroni, mushrooms, potatoes
-- **Letter:** `p`, **Position:** `1`, **Words:** papaya, passion, pecans, pesto, paprika
-- **Letter:** `p`, **Position:** `2`, **Words:** sprouts, apricots, apples, spaghetti, spinach
-- **Letter:** `p`, **Position:** `3`, **Words:** asparagus, pepper, empanadas, popcorn, pepperoni
-- **Letter:** `p`, **Position:** `4`, **Words:** pepper, pumpkin, raspberries, grapes, pepperoni
-- **Letter:** `p`, **Position:** `5`, **Words:** syrup, jalapenos, allspice, tilapia, octopus
-- **Letter:** `p`, **Position:** `6`, **Words:** lollipops, shrimps, pineapple, turnips, chickpeas
-- **Letter:** `q`, **Position:** `1`, **Words:** quinoa, quince, quail
+- **Letter:** `m`, **Position:** `3`, **Words:** pumpkin, hamburger, almonds, tomatoes, hummus
+- **Letter:** `m`, **Position:** `4`, **Words:** thyme, basmati, plums, clementines, marmalade
+- **Letter:** `m`, **Position:** `5`, **Words:** rosemary, shrimps, cream, caramel, cucumber
+- **Letter:** `m`, **Position:** `6`, **Words:** guacamole, marshmallows, cinnamon, watermelon, persimmons
+- **Letter:** `n`, **Position:** `1`, **Words:** nectarines, nutella, noodles, nasturtium, natto
+- **Letter:** `n`, **Position:** `2`, **Words:** anchovies, onions, anise, endive, gnocchi
+- **Letter:** `n`, **Position:** `3`, **Words:** vinegar, pineapple, vanilla, honey, mangoes
+- **Letter:** `n`, **Position:** `4`, **Words:** walnuts, quinoa, oranges, cranberries, cinnamon
+- **Letter:** `n`, **Position:** `5`, **Words:** mayonnaise, bacon, empanadas, onions, almonds
+- **Letter:** `n`, **Position:** `6`, **Words:** mayonnaise, raisins, hazelnuts, muffins, coriander
+- **Letter:** `o`, **Position:** `1`, **Words:** oregano, onions, olives, oranges, oysters
+- **Letter:** `o`, **Position:** `2`, **Words:** honey, cookies, rosemary, mozzarella, popcorn
+- **Letter:** `o`, **Position:** `3`, **Words:** broccoli, noodles, cookies, avocados, udon
+- **Letter:** `o`, **Position:** `4`, **Words:** almonds, bacon, tacos, melon, onions
+- **Letter:** `o`, **Position:** `5`, **Words:** mangoes, carrots, anchovies, dragonfruit, pesto
+- **Letter:** `o`, **Position:** `6`, **Words:** mushrooms, tomatoes, apricots, macaroni, potatoes
+- **Letter:** `p`, **Position:** `1`, **Words:** popcorn, pineapple, pears, papaya, pasta
+- **Letter:** `p`, **Position:** `2`, **Words:** apricots, spaghetti, sprouts, spinach, apples
+- **Letter:** `p`, **Position:** `3`, **Words:** empanadas, pepper, papaya, asparagus, pepperoni
+- **Letter:** `p`, **Position:** `4`, **Words:** pepperoni, grapes, raspberries, pumpkin, gazpacho
+- **Letter:** `p`, **Position:** `5`, **Words:** jalapenos, syrup, snapper, octopus, grouper
+- **Letter:** `p`, **Position:** `6`, **Words:** pineapple, shrimps, lollipops, turnips, chickpeas
+- **Letter:** `q`, **Position:** `1`, **Words:** quinoa, quail, quince
 - **Letter:** `q`, **Position:** `2`, **Words:** squid, squash
 - **Letter:** `q`, **Position:** `3`, **Words:** liquor, loquat
-- **Letter:** `q`, **Position:** `5`, **Words:** charque, cacique
-- **Letter:** `r`, **Position:** `1`, **Words:** raisins, radishes, rosemary, raspberries, ravioli
-- **Letter:** `r`, **Position:** `2`, **Words:** broccoli, cranberries, crackers, grapes, cream
-- **Letter:** `r`, **Position:** `3`, **Words:** turkey, sardines, herbs, syrup, marshmallows
-- **Letter:** `r`, **Position:** `4`, **Words:** chorizo, curry, paprika, citron, pears
-- **Letter:** `r`, **Position:** `5`, **Words:** saffron, cherries, flour, watermelon, yogurt
-- **Letter:** `r`, **Position:** `6`, **Words:** pepperoni, popcorn, mascarpone, nectarines, ginger
-- **Letter:** `s`, **Position:** `1`, **Words:** sardines, sweeteners, sprouts, saffron, steak
+- **Letter:** `q`, **Position:** `5`, **Words:** cacique, charque
+- **Letter:** `r`, **Position:** `1`, **Words:** radishes, raspberries, raisins, ravioli, rosemary
+- **Letter:** `r`, **Position:** `2`, **Words:** crackers, oranges, cream, truffle, oregano
+- **Letter:** `r`, **Position:** `3`, **Words:** tortillas, cereals, coriander, marshmallows, sorbet
+- **Letter:** `r`, **Position:** `4`, **Words:** curry, chorizo, cherries, paprika, carrots
+- **Letter:** `r`, **Position:** `5`, **Words:** saffron, watermelon, cider, yogurt, sugar
+- **Letter:** `r`, **Position:** `6`, **Words:** hamburger, pepperoni, oysters, mustard, liquor
+- **Letter:** `s`, **Position:** `1`, **Words:** sweeteners, syrup, steak, sprouts, salami
 - **Letter:** `s`, **Position:** `2`, **Words:** asparagus, escarole
-- **Letter:** `s`, **Position:** `3`, **Words:** pesto, raspberries, passion, rosemary, mustard
-- **Letter:** `s`, **Position:** `4`, **Words:** muesli, lobster, marshmallows, anise, raisins
-- **Letter:** `s`, **Position:** `5`, **Words:** tacos, beans, radishes, pears, herbs
-- **Letter:** `s`, **Position:** `6`, **Words:** donuts, apples, bagels, sushis, grapes
-- **Letter:** `t`, **Position:** `1`, **Words:** tapioca, tomatoes, thyme, turkey, tacos
-- **Letter:** `t`, **Position:** `2`, **Words:** strawberries, steak, sturgeon, starfruit
-- **Letter:** `t`, **Position:** `3`, **Words:** nutella, ketchup, litchi, watermelon, water
-- **Letter:** `t`, **Position:** `4`, **Words:** mustard, mortadella, tortillas, nectarines, pasta
-- **Letter:** `t`, **Position:** `5`, **Words:** potatoes, tomatoes, lobster, sweeteners, wheat
-- **Letter:** `t`, **Position:** `6`, **Words:** basmati, sorbet, carrots, sprouts, polenta
-- **Letter:** `u`, **Position:** `1`, **Words:** udon, ugli, unagi
-- **Letter:** `u`, **Position:** `2`, **Words:** mustard, guacamole, mushrooms, turkey, butter
-- **Letter:** `u`, **Position:** `3`, **Words:** squid, truffle, plums, blueberries, sausage
-- **Letter:** `u`, **Position:** `4`, **Words:** baguette, liquor, yogurt, donuts, syrup
-- **Letter:** `u`, **Position:** `5`, **Words:** lettuce, hummus, hamburger, biscuits, walnuts
-- **Letter:** `u`, **Position:** `6`, **Words:** coconut, ketchup, octopus, sorghum, cacique
+- **Letter:** `s`, **Position:** `3`, **Words:** lasagna, biscuits, mascarpone, basmati, raspberries
+- **Letter:** `s`, **Position:** `4`, **Words:** marshmallows, passion, sausage, lobster, anise
+- **Letter:** `s`, **Position:** `5`, **Words:** herbs, beans, tacos, radishes, pears
+- **Letter:** `s`, **Position:** `6`, **Words:** lemons, olives, bagels, apples, sushis
+- **Letter:** `t`, **Position:** `1`, **Words:** turkey, tangerines, tapioca, tortillas, thyme
+- **Letter:** `t`, **Position:** `2`, **Words:** steak, strawberries, starfruit, sturgeon
+- **Letter:** `t`, **Position:** `3`, **Words:** matcha, water, butter, hotdogs, nutella
+- **Letter:** `t`, **Position:** `4`, **Words:** pesto, lettuce, mustard, nectarines, tortillas
+- **Letter:** `t`, **Position:** `5`, **Words:** donuts, sweeteners, lobster, potatoes, tomatoes
+- **Letter:** `t`, **Position:** `6`, **Words:** baguette, polenta, sprouts, yogurt, sorbet
+- **Letter:** `u`, **Position:** `1`, **Words:** udon, unagi, ugli
+- **Letter:** `u`, **Position:** `2`, **Words:** zucchini, pumpkin, curry, muesli, turkey
+- **Letter:** `u`, **Position:** `3`, **Words:** truffle, plums, sausage, blueberries, squid
+- **Letter:** `u`, **Position:** `4`, **Words:** liquor, yogurt, cucumber, syrup, baguette
+- **Letter:** `u`, **Position:** `5`, **Words:** lettuce, biscuits, peanuts, hummus, sprouts
+- **Letter:** `u`, **Position:** `6`, **Words:** coconut, ketchup, halibut, cacique, octopus
 - **Letter:** `v`, **Position:** `1`, **Words:** vinegar, vanilla, venison, verbena
 - **Letter:** `v`, **Position:** `3`, **Words:** ravioli, caviar, ceviche
-- **Letter:** `v`, **Position:** `4`, **Words:** guava, olives, provolone, chives, gravy
+- **Letter:** `v`, **Position:** `4`, **Words:** olives, guava, chives, provolone, gravy
 - **Letter:** `v`, **Position:** `6`, **Words:** anchovies, cassava
-- **Letter:** `w`, **Position:** `1`, **Words:** waffles, wax, wheat, water, watermelon
-- **Letter:** `w`, **Position:** `2`, **Words:** sweeteners, sweetbreads, swordfish
-- **Letter:** `w`, **Position:** `4`, **Words:** maxwell, seaweed, chowder
+- **Letter:** `w`, **Position:** `1`, **Words:** walnuts, waffles, wax, wheat, watermelon
+- **Letter:** `w`, **Position:** `2`, **Words:** sweeteners, swordfish, sweetbreads
+- **Letter:** `w`, **Position:** `4`, **Words:** seaweed, chowder, maxwell
 - **Letter:** `w`, **Position:** `5`, **Words:** strawberries, buckwheat
 - **Letter:** `w`, **Position:** `6`, **Words:** pawpaw, cashews
 - **Letter:** `x`, **Position:** `1`, **Words:** xoconostle, xylitol
 - **Letter:** `x`, **Position:** `2`, **Words:** axe, oxtail
-- **Letter:** `x`, **Position:** `3`, **Words:** wax, moxie, maxwell
+- **Letter:** `x`, **Position:** `3`, **Words:** wax, maxwell, moxie
 - **Letter:** `x`, **Position:** `5`, **Words:** felix, galaxy
-- **Letter:** `y`, **Position:** `2`, **Words:** syrup, lychees, oysters, xylitol
-- **Letter:** `y`, **Position:** `3`, **Words:** thyme, soybeans, mayonnaise, boysenberry
-- **Letter:** `y`, **Position:** `5`, **Words:** jelly, curry, honey, papaya, gravy
-- **Letter:** `y`, **Position:** `6`, **Words:** turkey, brandy, hominy, barleycorn, celery
-- **Letter:** `z`, **Position:** `2`, **Words:** ozarka, aztec
-- **Letter:** `z`, **Position:** `3`, **Words:** gazpacho, mozzarella, hazelnuts, pizza
+- **Letter:** `y`, **Position:** `2`, **Words:** syrup, oysters, lychees, xylitol
+- **Letter:** `y`, **Position:** `3`, **Words:** soybeans, thyme, mayonnaise, boysenberry
+- **Letter:** `y`, **Position:** `5`, **Words:** jelly, curry, papaya, honey, gravy
+- **Letter:** `y`, **Position:** `6`, **Words:** turkey, barleycorn, walleye, brandy, galaxy
+- **Letter:** `z`, **Position:** `2`, **Words:** aztec, ozarka
+- **Letter:** `z`, **Position:** `3`, **Words:** gazpacho, hazelnuts, mozzarella, pizza
 - **Letter:** `z`, **Position:** `4`, **Words:** mozzarella, pizza
 
 </details>
@@ -7543,162 +7538,162 @@ Total missing words: `21`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Absolut, Ajax, Alpha, Asics, Audi
-- **Letter:** `a`, **Position:** `2`, **Words:** Dash, Lavazza, Maybelline, Jameson, Barbie
-- **Letter:** `a`, **Position:** `3`, **Words:** Playmobil, Fiat, Swarovski, Clarks, Braun
-- **Letter:** `a`, **Position:** `4`, **Words:** Hitachi, Kodak, Subaru, Ducati, Zara
-- **Letter:** `a`, **Position:** `5`, **Words:** Adidas, Skoda, Nokia, Billabong, Mazda
-- **Letter:** `a`, **Position:** `6`, **Words:** Powerade, Hyundai, Marshall, Yamaha, Rexona
-- **Letter:** `b`, **Position:** `1`, **Words:** Barilla, Budweiser, Bosch, Burn, Burberry
-- **Letter:** `b`, **Position:** `2`, **Words:** Absolut, JBL, Obey
-- **Letter:** `b`, **Position:** `3`, **Words:** Umbro, Toblerone, Subaru, Febreze, Gibson
-- **Letter:** `b`, **Position:** `4`, **Words:** RayBan, Timberland, Redbull, Maybelline, Cadbury
-- **Letter:** `b`, **Position:** `5`, **Words:** Haribo, Playboy, Grimbergen, Starbucks, Clif Bar
-- **Letter:** `b`, **Position:** `6`, **Words:** Columbia, Billabong, Carlsberg, Toshiba, Mitsubishi
-- **Letter:** `c`, **Position:** `1`, **Words:** Crocs, Champion, Colgate, Chrysler, Corona
-- **Letter:** `c`, **Position:** `2`, **Words:** Schweppes, Acer, Schott, Scarpa, Ecco
-- **Letter:** `c`, **Position:** `3`, **Words:** Rockstar, Dockers, Gucci, Bacardi, Ducati
-- **Letter:** `c`, **Position:** `4`, **Words:** Nescafe, Mercedes, Bosch, Gucci, Electrolux
-- **Letter:** `c`, **Position:** `5`, **Words:** Coca-Cola, Porsche, Swatch, Hitachi, Chicco
-- **Letter:** `c`, **Position:** `6`, **Words:** Airwick, Versace, Atomic, Max Factor, Skullcandy
-- **Letter:** `d`, **Position:** `1`, **Words:** Dunlop, Delonghi, Durex, Dove, Dainese
+- **Letter:** `a`, **Position:** `1`, **Words:** Asus, Audi, Apple, Atari, Arena
+- **Letter:** `a`, **Position:** `2`, **Words:** Maggi, Cadbury, Hasbro, Samsonite, Palmolive
+- **Letter:** `a`, **Position:** `3`, **Words:** Ajax, Kia, Xiaomi, Swarovski, Braun
+- **Letter:** `a`, **Position:** `4`, **Words:** Subaru, Armani, Coca-Cola, Yamaha, Ducati
+- **Letter:** `a`, **Position:** `5`, **Words:** Fanta, Tesla, Kitkat, Adidas, Versace
+- **Letter:** `a`, **Position:** `6`, **Words:** Powerade, Kawasaki, Rexona, Maserati, Corona
+- **Letter:** `b`, **Position:** `1`, **Words:** Burberry, Boss, Bounty, Bacardi, Bosch
+- **Letter:** `b`, **Position:** `2`, **Words:** JBL, Absolut, Obey
+- **Letter:** `b`, **Position:** `3`, **Words:** Toblerone, Febreze, Subaru, Umbro, Gibson
+- **Letter:** `b`, **Position:** `4`, **Words:** Barbie, Cadbury, RayBan, Timberland, Burberry
+- **Letter:** `b`, **Position:** `5`, **Words:** Playboy, Starbucks, Grimbergen, Haribo, Oral-B
+- **Letter:** `b`, **Position:** `6`, **Words:** Toshiba, Carlsberg, Columbia, Billabong, Mitsubishi
+- **Letter:** `c`, **Position:** `1`, **Words:** Chicco, Compaq, Converse, Chevrolet, Canon
+- **Letter:** `c`, **Position:** `2`, **Words:** Schott, Schweppes, Acer, Scotch, Scarpa
+- **Letter:** `c`, **Position:** `3`, **Words:** Rockstar, Bacardi, Dockers, Gucci, Coca-Cola
+- **Letter:** `c`, **Position:** `4`, **Words:** Mercedes, Gucci, Bosch, Chicco, Snickers
+- **Letter:** `c`, **Position:** `5`, **Words:** Coca-Cola, Hitachi, Porsche, Chicco, Swatch
+- **Letter:** `c`, **Position:** `6`, **Words:** Versace, Atomic, Airwick, Max Factor, Skullcandy
+- **Letter:** `d`, **Position:** `1`, **Words:** Dainese, Ducati, Dell, Dockers, Delonghi
 - **Letter:** `d`, **Position:** `2`, **Words:** Adidas, Adyen, Odlo
-- **Letter:** `d`, **Position:** `3`, **Words:** Kodak, Budweiser, Dodge, Cadbury, Redbull
-- **Letter:** `d`, **Position:** `4`, **Words:** Mazda, Skoda, Lindt, Prada, Pandora
-- **Letter:** `d`, **Position:** `5`, **Words:** Hyundai, Jack Daniel's, Canada Dry, ByteDance, Speedo
-- **Letter:** `d`, **Position:** `6`, **Words:** Leonidas, Sensodyne, Superdry, Bacardi, Mercedes
-- **Letter:** `e`, **Position:** `1`, **Words:** Esso, Ellesse, Esprit, Eastpak, Electrolux
-- **Letter:** `e`, **Position:** `2`, **Words:** Vespa, Lego, Leonidas, Heineken, Ferrero
-- **Letter:** `e`, **Position:** `3`, **Words:** Jeep, Opel, Miele, Arena, Breitling
-- **Letter:** `e`, **Position:** `4`, **Words:** Ariel, Kleenex, Rolex, Duvel, Ellesse
-- **Letter:** `e`, **Position:** `5`, **Words:** Leffe, Toblerone, Dodge, Febreze, Heineken
-- **Letter:** `e`, **Position:** `6`, **Words:** Sprite, Nestle, Barbie, Kleenex, Huggies
-- **Letter:** `f`, **Position:** `1`, **Words:** Ferrero, Fox, Fanta, Fila, Ferrari
+- **Letter:** `d`, **Position:** `3`, **Words:** Kodak, Budweiser, Audi, Redbull, Dodge
+- **Letter:** `d`, **Position:** `4`, **Words:** Mazda, Kinder, Skoda, Fendi, Lindt
+- **Letter:** `d`, **Position:** `5`, **Words:** Hyundai, Movado, Speedo, Canada Dry, Jack Daniel's
+- **Letter:** `d`, **Position:** `6`, **Words:** Mercedes, Bacardi, Superdry, Sensodyne, Leonidas
+- **Letter:** `e`, **Position:** `1`, **Words:** Electrolux, Esprit, Eastpak, Esso, Ellesse
+- **Letter:** `e`, **Position:** `2`, **Words:** Levis, Geox, Heineken, Seiko, Versace
+- **Letter:** `e`, **Position:** `3`, **Words:** Electrolux, Jeep, Acer, Kleenex, Breitling
+- **Letter:** `e`, **Position:** `4`, **Words:** Duvel, Caterpillar, Jameson, Ellesse, Nivea
+- **Letter:** `e`, **Position:** `5`, **Words:** Tetley, Birkenstock, Converse, Febreze, Dockers
+- **Letter:** `e`, **Position:** `6`, **Words:** Alpinestars, Citizen, Huggies, Monster, Snickers
+- **Letter:** `f`, **Position:** `1`, **Words:** Fujifilm, Fendi, Ferrero, Febreze, Fiat
 - **Letter:** `f`, **Position:** `2`, **Words:** Affligem, Ofra, iFly, Xfinity
-- **Letter:** `f`, **Position:** `3`, **Words:** Leffe, Affligem, Cif, Infiniti, Agfa
-- **Letter:** `f`, **Position:** `4`, **Words:** Leffe, Beefeater, Tiffany, Carfax, Max Factor
-- **Letter:** `f`, **Position:** `5`, **Words:** Glenfiddich, Fujifilm, Slim-Fast
+- **Letter:** `f`, **Position:** `3`, **Words:** Affligem, Cif, Leffe, Infiniti, Tiffany
+- **Letter:** `f`, **Position:** `4`, **Words:** Leffe, Beefeater, Clif Bar, Tiffany, Carfax
+- **Letter:** `f`, **Position:** `5`, **Words:** Fujifilm, Glenfiddich, Slim-Fast
 - **Letter:** `f`, **Position:** `6`, **Words:** Spotify, Nescafe
-- **Letter:** `g`, **Position:** `1`, **Words:** Guinness, Gucci, Guess, Geox, Glenfiddich
+- **Letter:** `g`, **Position:** `1`, **Words:** Glenfiddich, Gucci, Gant, Guinness, Guess
 - **Letter:** `g`, **Position:** `2`, **Words:** Ugg, Agfa, Ogio
-- **Letter:** `g`, **Position:** `3`, **Words:** Ugg, Huggies, Maggi, Lego, Jaguar
-- **Letter:** `g`, **Position:** `4`, **Words:** Huggies, Maggi, Bulgari, Colgate, Dodge
+- **Letter:** `g`, **Position:** `3`, **Words:** Lego, Jaguar, Jagermeister, Ugg, Maggi
+- **Letter:** `g`, **Position:** `4`, **Words:** Google, Bulgari, Colgate, Huggies, Maggi
 - **Letter:** `g`, **Position:** `5`, **Words:** Patagonia, Wrangler
-- **Letter:** `g`, **Position:** `6`, **Words:** Affligem, Kelloggs, Delonghi, NinjaGO
-- **Letter:** `h`, **Position:** `1`, **Words:** Haribo, Huggies, Hasbro, Heinz, Heineken
-- **Letter:** `h`, **Position:** `2`, **Words:** Champion, Philips, Chicco, Chrysler, Whirlpool
+- **Letter:** `g`, **Position:** `6`, **Words:** Affligem, Delonghi, Kelloggs, NinjaGO
+- **Letter:** `h`, **Position:** `1`, **Words:** Heinz, Huggies, Hasbro, Huawei, Hyundai
+- **Letter:** `h`, **Position:** `2`, **Words:** Champion, Chicco, Whirlpool, Chrysler, Chevrolet
 - **Letter:** `h`, **Position:** `3`, **Words:** Yahoo, Schott, Schweppes, Johnson & Johnson
-- **Letter:** `h`, **Position:** `4`, **Words:** Dash, Toshiba, Alpha, Michael Kors, Neuhaus
-- **Letter:** `h`, **Position:** `5`, **Words:** Marshall, Yamaha, Bosch, Ralph Lauren, Coach
-- **Letter:** `h`, **Position:** `6`, **Words:** PizzaHut, Vanish, Porsche, Hitachi, Swatch
-- **Letter:** `i`, **Position:** `1`, **Words:** Intel, IQOS, Inglow, Illy, Ivy Park
-- **Letter:** `i`, **Position:** `2`, **Words:** Billabong, Airwick, Milka, Pioneer, Nikon
-- **Letter:** `i`, **Position:** `3`, **Words:** Philips, Asics, Uniqlo, Dainese, Heinz
-- **Letter:** `i`, **Position:** `4`, **Words:** Alpinestars, Nokia, Audi, Vanish, Fujifilm
-- **Letter:** `i`, **Position:** `5`, **Words:** Maggi, Wilkinson, Gucci, Atari, Tassimo
-- **Letter:** `i`, **Position:** `6`, **Words:** Champion, Ducati, Fujifilm, Budweiser, Huawei
-- **Letter:** `j`, **Position:** `1`, **Words:** Jaguar, Jeep, Jameson, Jagermeister, JBL
+- **Letter:** `h`, **Position:** `4`, **Words:** Dash, Alpha, Toshiba, Vacheron, Neuhaus
+- **Letter:** `h`, **Position:** `5`, **Words:** Yamaha, Bosch, Marshall, Weight Watchers, Ralph Lauren
+- **Letter:** `h`, **Position:** `6`, **Words:** Vanish, PizzaHut, Porsche, Hitachi, Swatch
+- **Letter:** `i`, **Position:** `1`, **Words:** Intel, IQOS, Ivy Park, iFly, Illy
+- **Letter:** `i`, **Position:** `2`, **Words:** Kia, Kitkat, Nissan, Mitsubishi, Nintendo
+- **Letter:** `i`, **Position:** `3`, **Words:** Chicco, Heineken, Snickers, Vaio, Triumph
+- **Letter:** `i`, **Position:** `4`, **Words:** Citizen, Barilla, Fujifilm, Casio, Audi
+- **Letter:** `i`, **Position:** `5`, **Words:** Fendi, Esprit, Affligem, Wilkinson, Twinings
+- **Letter:** `i`, **Position:** `6`, **Words:** Nesquik, Armani, Suzuki, Champion, Budweiser
+- **Letter:** `j`, **Position:** `1`, **Words:** JBL, Jeep, Jameson, Jaguar, Jagermeister
 - **Letter:** `j`, **Position:** `2`, **Words:** Ajax, Fjallraven
 - **Letter:** `j`, **Position:** `3`, **Words:** Fujifilm, Muji
 - **Letter:** `j`, **Position:** `4`, **Words:** NinjaGO, Ninja
-- **Letter:** `j`, **Position:** `5`, **Words:** Pepe Jeans, Parajumpers
+- **Letter:** `j`, **Position:** `5`, **Words:** Parajumpers, Pepe Jeans
 - **Letter:** `j`, **Position:** `6`, **Words:** Moosejaw, SuperJeweler
-- **Letter:** `k`, **Position:** `1`, **Words:** Kinder, Kelloggs, Kia, Kodak, Knorr
+- **Letter:** `k`, **Position:** `1`, **Words:** Kia, Kodak, Knorr, Kleenex, Kitkat
 - **Letter:** `k`, **Position:** `2`, **Words:** Skoda, Skullcandy
-- **Letter:** `k`, **Position:** `3`, **Words:** Oakley, Nike, Nikon, Nokia
-- **Letter:** `k`, **Position:** `4`, **Words:** Rockstar, Volkswagen, Wilkinson, Seiko, Quiksilver
-- **Letter:** `k`, **Position:** `5`, **Words:** Suzuki, Snickers, Kodak, Brooks, Clarks
-- **Letter:** `k`, **Position:** `6`, **Words:** Heineken, Reebok, Kodiak
-- **Letter:** `l`, **Position:** `1`, **Words:** Lamborghini, Lexus, Lavazza, Levis, Lego
-- **Letter:** `l`, **Position:** `2`, **Words:** Playboy, Ellesse, Glenfiddich, Clarks, Always
-- **Letter:** `l`, **Position:** `3`, **Words:** Wilkinson, Ellesse, Volkswagen, Fila, Billabong
-- **Letter:** `l`, **Position:** `4`, **Words:** Dunlop, Affligem, Tetley, Opel, Baileys
-- **Letter:** `l`, **Position:** `5`, **Words:** Nestle, Uniqlo, Ariel, Intel, Bentley
-- **Letter:** `l`, **Position:** `6`, **Words:** Diesel, Palmolive, Persil, Chrysler, Maybelline
-- **Letter:** `m`, **Position:** `1`, **Words:** Mitsubishi, Milka, Monster, Mazda, Maggi
-- **Letter:** `m`, **Position:** `2`, **Words:** Smirnoff, Umbro, Amazon, Omega, Smeg
-- **Letter:** `m`, **Position:** `3`, **Words:** Jameson, Pampers, Timberland, Yamaha, Lamborghini
-- **Letter:** `m`, **Position:** `4`, **Words:** Grimbergen, Champion, Siemens, Palmolive, Atomic
-- **Letter:** `m`, **Position:** `5`, **Words:** Triumph, Playmobil, Columbia, Xiaomi
+- **Letter:** `k`, **Position:** `3`, **Words:** Nike, Oakley, Nokia, Nikon
+- **Letter:** `k`, **Position:** `4`, **Words:** Quiksilver, Milka, Wilkinson, Volkswagen, Dockers
+- **Letter:** `k`, **Position:** `5`, **Words:** Snickers, Suzuki, Kodak, Clarks, Brooks
+- **Letter:** `k`, **Position:** `6`, **Words:** Reebok, Heineken, Kodiak
+- **Letter:** `l`, **Position:** `1`, **Words:** Lexus, Leonidas, Lego, Lipton, Lotus
+- **Letter:** `l`, **Position:** `2`, **Words:** Playmobil, Glenfiddich, Ellesse, Kleenex, Playboy
+- **Letter:** `l`, **Position:** `3`, **Words:** Columbia, Palmolive, Milka, Dell, Kelloggs
+- **Letter:** `l`, **Position:** `4`, **Words:** Revlon, Tesla, Apple, Opel, Tetley
+- **Letter:** `l`, **Position:** `5`, **Words:** Moncler, Whirlpool, Intel, Nutella, Absolut
+- **Letter:** `l`, **Position:** `6`, **Words:** Maybelline, Palmolive, Barilla, Breitling, Diesel
+- **Letter:** `m`, **Position:** `1`, **Words:** Mattel, Mercedes, Motorola, Mitsubishi, Milka
+- **Letter:** `m`, **Position:** `2`, **Words:** Amazon, Umbro, Smirnoff, Smeg, Omega
+- **Letter:** `m`, **Position:** `3`, **Words:** Puma, Tampax, Compaq, Samsonite, Jameson
+- **Letter:** `m`, **Position:** `4`, **Words:** Grimbergen, Atomic, Champion, Palmolive, Siemens
+- **Letter:** `m`, **Position:** `5`, **Words:** Playmobil, Xiaomi, Columbia, Triumph
 - **Letter:** `m`, **Position:** `6`, **Words:** Tassimo, Jagermeister
-- **Letter:** `n`, **Position:** `1`, **Words:** Nike, Nikon, Nesquik, Nintendo, Neutrogena
-- **Letter:** `n`, **Position:** `2`, **Words:** Snickers, Unilever, Knorr, Intel, Uniqlo
-- **Letter:** `n`, **Position:** `3`, **Words:** Monster, Gant, Lindt, NinjaGO, Sony
-- **Letter:** `n`, **Position:** `4`, **Words:** Leonidas, Glenfiddich, Heinz, Arena, Hyundai
-- **Letter:** `n`, **Position:** `5`, **Words:** Kleenex, Alpinestars, Smirnoff, Braun, Nikon
-- **Letter:** `n`, **Position:** `6`, **Words:** Nintendo, Samsung, Wilkinson, Siemens, RayBan
-- **Letter:** `o`, **Position:** `1`, **Words:** Oakley, Opel, Oreo, Omega, Osprey
-- **Letter:** `o`, **Position:** `2`, **Words:** Colgate, Monster, Porsche, Moncler, Dove
-- **Letter:** `o`, **Position:** `3`, **Words:** Geox, Crocs, Google, Atomic, Pioneer
-- **Letter:** `o`, **Position:** `4`, **Words:** Lenovo, Xiaomi, Yahoo, Canon, Oreo
-- **Letter:** `o`, **Position:** `5`, **Words:** Casio, Buitoni, Reebok, Seiko, Lipton
-- **Letter:** `o`, **Position:** `6`, **Words:** Haribo, Chevrolet, Hasbro, Polaroid, Smirnoff
-- **Letter:** `p`, **Position:** `1`, **Words:** Playmobil, Pandora, Pampers, Pioneer, Puma
-- **Letter:** `p`, **Position:** `2`, **Words:** Spotify, Sprite, Opel, Apple, Special K
-- **Letter:** `p`, **Position:** `3`, **Words:** Kappa, Lipton, Pepsi, Esprit, Alpinestars
-- **Letter:** `p`, **Position:** `4`, **Words:** Kappa, Vespa, Tampax, Jeep, Compaq
-- **Letter:** `p`, **Position:** `5`, **Words:** Eastpak, Champion, Olympus, Scarpa, Sharp
-- **Letter:** `p`, **Position:** `6`, **Words:** Schweppes, Triumph, Dunlop, Whirlpool, Philips
+- **Letter:** `n`, **Position:** `1`, **Words:** Neutrogena, Nikon, NinjaGO, Nescafe, Nestle
+- **Letter:** `n`, **Position:** `2`, **Words:** Uniqlo, Unilever, Snickers, Intel, Knorr
+- **Letter:** `n`, **Position:** `3`, **Words:** Senseo, Lenovo, Moncler, Fanta, Vans
+- **Letter:** `n`, **Position:** `4`, **Words:** Disney, Heinz, Pioneer, Dainese, Arena
+- **Letter:** `n`, **Position:** `5`, **Words:** Rexona, Delonghi, Armani, Guinness, Kleenex
+- **Letter:** `n`, **Position:** `6`, **Words:** Twinings, RayBan, Samsonite, Revlon, Samsung
+- **Letter:** `o`, **Position:** `1`, **Words:** Oreo, Oakley, Opel, Osprey, Oracle
+- **Letter:** `o`, **Position:** `2`, **Words:** Dockers, Porsche, Bosch, Motorola, Kodak
+- **Letter:** `o`, **Position:** `3`, **Words:** Pioneer, Leonidas, Brooks, Google, Geox
+- **Letter:** `o`, **Position:** `4`, **Words:** Nikon, Vaio, Absolut, Lego, Xiaomi
+- **Letter:** `o`, **Position:** `5`, **Words:** Swarovski, Kelloggs, Samsonite, Buitoni, Revlon
+- **Letter:** `o`, **Position:** `6`, **Words:** Neutrogena, Haribo, Chevrolet, Panasonic, Motorola
+- **Letter:** `p`, **Position:** `1`, **Words:** Polaroid, Pampers, Pandora, PizzaHut, Prada
+- **Letter:** `p`, **Position:** `2`, **Words:** Sprite, Spotify, Opel, Apple, Speedo
+- **Letter:** `p`, **Position:** `3`, **Words:** Apple, Alpinestars, Pepsi, Esprit, Alpha
+- **Letter:** `p`, **Position:** `4`, **Words:** Compaq, Tampax, Jeep, Pampers, Kappa
+- **Letter:** `p`, **Position:** `5`, **Words:** Eastpak, Champion, Napapijri, Scarpa, Olympus
+- **Letter:** `p`, **Position:** `6`, **Words:** Dunlop, Triumph, Philips, Schweppes, Caterpillar
 - **Letter:** `q`, **Position:** `1`, **Words:** Quiksilver, Quaker
 - **Letter:** `q`, **Position:** `2`, **Words:** iQIYI, IQOS
 - **Letter:** `q`, **Position:** `3`, **Words:** Sequoia, Sequence
-- **Letter:** `q`, **Position:** `4`, **Words:** Nesquik, Uniqlo, Tanqueray
+- **Letter:** `q`, **Position:** `4`, **Words:** Uniqlo, Nesquik, Tanqueray
 - **Letter:** `q`, **Position:** `5`, **Words:** DigiQuest, AutoQuotes
 - **Letter:** `q`, **Position:** `6`, **Words:** Compaq, Clinique
-- **Letter:** `r`, **Position:** `1`, **Words:** Revlon, RayBan, Redbull, Rexona, Reebok
-- **Letter:** `r`, **Position:** `2`, **Words:** Crocs, Triumph, Armani, Prada, Ariel
-- **Letter:** `r`, **Position:** `3`, **Words:** Burton, Carlsberg, Airwick, Haribo, Versace
-- **Letter:** `r`, **Position:** `4`, **Words:** Whirlpool, Atari, Smirnoff, Knorr, Carrera
-- **Letter:** `r`, **Position:** `5`, **Words:** Neutrogena, Subaru, Hasbro, Bacardi, Jagermeister
-- **Letter:** `r`, **Position:** `6`, **Words:** Timberland, Toblerone, Ferrero, Pampers, Burberry
-- **Letter:** `s`, **Position:** `1`, **Words:** Swatch, Seiko, Siemens, Skoda, Snickers
-- **Letter:** `s`, **Position:** `2`, **Words:** Asics, Asus, Esso, Esprit, Asolo
-- **Letter:** `s`, **Position:** `3`, **Words:** Bose, Hasbro, Eastpak, Maserati, Absolut
-- **Letter:** `s`, **Position:** `4`, **Words:** Monster, Mitsubishi, Nissan, Persil, Senseo
-- **Letter:** `s`, **Position:** `5`, **Words:** Crocs, Volkswagen, Kawasaki, Vanish, Lotus
-- **Letter:** `s`, **Position:** `6`, **Words:** Ellesse, Brooks, Clarks, Adidas, Dainese
-- **Letter:** `t`, **Position:** `1`, **Words:** Tampax, Timberland, Tissot, Tesla, Tassimo
-- **Letter:** `t`, **Position:** `2`, **Words:** Atomic, Atari, Starbucks, Stella Artois
-- **Letter:** `t`, **Position:** `3`, **Words:** Caterpillar, Mitsubishi, Lotus, Nutella, Citizen
-- **Letter:** `t`, **Position:** `4`, **Words:** Burton, Bentley, Swatch, Spotify, Fanta
-- **Letter:** `t`, **Position:** `5`, **Words:** Ducati, Schott, Bounty, Monster, Electrolux
-- **Letter:** `t`, **Position:** `6`, **Words:** Kitkat, Tissot, Gillette, Esprit, Schott
-- **Letter:** `u`, **Position:** `1`, **Words:** Ugg, Uniqlo, Umbro, Unilever, Uncle Ben's
-- **Letter:** `u`, **Position:** `2`, **Words:** Budweiser, Burton, Huggies, Bulgari, Huawei
-- **Letter:** `u`, **Position:** `3`, **Words:** Hyundai, Asus, Bounty, Neutrogena, Neuhaus
-- **Letter:** `u`, **Position:** `4`, **Words:** Jaguar, Lexus, Lotus, Columbia, Suzuki
-- **Letter:** `u`, **Position:** `5`, **Words:** Samsung, Mitsubishi, Nesquik, Redbull, Cadbury
-- **Letter:** `u`, **Position:** `6`, **Words:** Subaru, Absolut, Starbucks, Neuhaus, Parajumpers
-- **Letter:** `v`, **Position:** `1`, **Words:** Volvo, Volkswagen, Vanish, Vans, Vespa
+- **Letter:** `r`, **Position:** `1`, **Words:** Rexona, Rolex, Rockstar, Revlon, Reebok
+- **Letter:** `r`, **Position:** `2`, **Words:** Ariel, Braun, Prada, Crocs, Armani
+- **Letter:** `r`, **Position:** `3`, **Words:** Durex, Birkenstock, Ferrari, Burton, Corona
+- **Letter:** `r`, **Position:** `4`, **Words:** Knorr, Whirlpool, Carrera, Umbro, Febreze
+- **Letter:** `r`, **Position:** `5`, **Words:** Powerade, Chevrolet, Polaroid, Hasbro, Caterpillar
+- **Letter:** `r`, **Position:** `6`, **Words:** Bulgari, Kinder, Toblerone, Ferrero, Carrera
+- **Letter:** `s`, **Position:** `1`, **Words:** Subaru, Samsonite, Siemens, Schott, Sensodyne
+- **Letter:** `s`, **Position:** `2`, **Words:** Asus, Asics, Esso, Esprit, Estee Lauder
+- **Letter:** `s`, **Position:** `3`, **Words:** Dash, Tissot, Vespa, Disney, Bose
+- **Letter:** `s`, **Position:** `4`, **Words:** Pepsi, Asus, Tissot, Tassimo, Sensodyne
+- **Letter:** `s`, **Position:** `5`, **Words:** Vanish, Crocs, Panasonic, Carlsberg, Ellesse
+- **Letter:** `s`, **Position:** `6`, **Words:** Adidas, Always, Ellesse, Brooks, Clarks
+- **Letter:** `t`, **Position:** `1`, **Words:** Timberland, Triumph, Toblerone, Tissot, Toshiba
+- **Letter:** `t`, **Position:** `2`, **Words:** Starbucks, Atari, Atomic, Stella Artois
+- **Letter:** `t`, **Position:** `3`, **Words:** Hitachi, Mitsubishi, Mattel, Lotus, Nutella
+- **Letter:** `t`, **Position:** `4`, **Words:** Neutrogena, Fanta, Martini, Nestle, Swatch
+- **Letter:** `t`, **Position:** `5`, **Words:** Sprite, Monster, Lindt, Electrolux, Bounty
+- **Letter:** `t`, **Position:** `6`, **Words:** Rockstar, Gillette, Kitkat, Colgate, Schott
+- **Letter:** `u`, **Position:** `1`, **Words:** Uniqlo, Ugg, Umbro, Unilever, Under
+- **Letter:** `u`, **Position:** `2`, **Words:** Fujifilm, Duvel, Superdry, Guess, Budweiser
+- **Letter:** `u`, **Position:** `3`, **Words:** Bounty, Hyundai, Neutrogena, Asus, Skullcandy
+- **Letter:** `u`, **Position:** `4`, **Words:** Triumph, Suzuki, Braun, Lotus, Columbia
+- **Letter:** `u`, **Position:** `5`, **Words:** Nesquik, Mitsubishi, Samsung, Redbull, Cadbury
+- **Letter:** `u`, **Position:** `6`, **Words:** Starbucks, Subaru, Absolut, Neuhaus, DigiQuest
+- **Letter:** `v`, **Position:** `1`, **Words:** Versace, Volvo, Vans, Vespa, Vaio
 - **Letter:** `v`, **Position:** `2`, **Words:** Ivy Park, Avon
-- **Letter:** `v`, **Position:** `3`, **Words:** Revlon, Duvel, Levis, Nivea, Dove
-- **Letter:** `v`, **Position:** `4`, **Words:** Chevrolet, Volvo, Converse
+- **Letter:** `v`, **Position:** `3`, **Words:** Nivea, Lavazza, Levis, Revlon, Duvel
+- **Letter:** `v`, **Position:** `4`, **Words:** Volvo, Converse, Chevrolet
 - **Letter:** `v`, **Position:** `5`, **Words:** Lenovo, Godiva
-- **Letter:** `v`, **Position:** `6`, **Words:** Swarovski, Unilever, Sungevity
-- **Letter:** `w`, **Position:** `1`, **Words:** Wilkinson, Whirlpool, Wilson, Woolrich, Weight Watchers
-- **Letter:** `w`, **Position:** `2`, **Words:** Swatch, Twix, Twinings, Swarovski
-- **Letter:** `w`, **Position:** `3`, **Words:** Kawasaki, Powerade, Always, Lowa, PowerBar
-- **Letter:** `w`, **Position:** `4`, **Words:** Budweiser, Huawei, Schweppes, Airwick, Kenwood
-- **Letter:** `w`, **Position:** `5`, **Words:** Rimowa, Gateway, Salewa
-- **Letter:** `w`, **Position:** `6`, **Words:** Volkswagen, Inglow, Zillow, Milky Way
+- **Letter:** `v`, **Position:** `6`, **Words:** Unilever, Swarovski, Sungevity
+- **Letter:** `w`, **Position:** `1`, **Words:** Whirlpool, Wilkinson, Wilson, Woolrich, Weight Watchers
+- **Letter:** `w`, **Position:** `2`, **Words:** Twix, Swarovski, Swatch, Twinings
+- **Letter:** `w`, **Position:** `3`, **Words:** Powerade, Kawasaki, Always, Lowa, PowerBar
+- **Letter:** `w`, **Position:** `4`, **Words:** Airwick, Huawei, Schweppes, Budweiser, Kenwood
+- **Letter:** `w`, **Position:** `5`, **Words:** Salewa, Rimowa, Gateway
+- **Letter:** `w`, **Position:** `6`, **Words:** Volkswagen, Zillow, Inglow, Milky Way
 - **Letter:** `x`, **Position:** `1`, **Words:** Xiaomi, Xfinity, Xerox
-- **Letter:** `x`, **Position:** `2`, **Words:** Axe, PXG, Exxon
-- **Letter:** `x`, **Position:** `3`, **Words:** Lexus, Rexona, Fox, Maxwell House, Exxon
-- **Letter:** `x`, **Position:** `4`, **Words:** Twix, Ajax, Geox, Mexx
-- **Letter:** `x`, **Position:** `5`, **Words:** Sanex, Rolex, Durex, Xerox, Timex
+- **Letter:** `x`, **Position:** `2`, **Words:** Axe, Exxon, PXG
+- **Letter:** `x`, **Position:** `3`, **Words:** Lexus, Rexona, Fox, Texaco, Exxon
+- **Letter:** `x`, **Position:** `4`, **Words:** Geox, Ajax, Twix, Mexx
+- **Letter:** `x`, **Position:** `5`, **Words:** Rolex, Durex, Sanex, Xerox, Timex
 - **Letter:** `x`, **Position:** `6`, **Words:** Tampax, Carfax
-- **Letter:** `y`, **Position:** `1`, **Words:** Yahoo, Yamaha
+- **Letter:** `y`, **Position:** `1`, **Words:** Yamaha, Yahoo
 - **Letter:** `y`, **Position:** `2`, **Words:** Hyundai, ByteDance
-- **Letter:** `y`, **Position:** `3`, **Words:** Maybelline, RayBan, Adyen, Olympus, Ivy Park
-- **Letter:** `y`, **Position:** `4`, **Words:** Sony, Chrysler, Playmobil, Playboy, iQIYI
-- **Letter:** `y`, **Position:** `5`, **Words:** Always, Tommy Hilfiger, Helly Hansen, Milky Way
-- **Letter:** `y`, **Position:** `6`, **Words:** Tetley, Disney, Baileys, Oakley, Bounty
+- **Letter:** `y`, **Position:** `3`, **Words:** RayBan, Maybelline, Olympus, Adyen, Ivy Park
+- **Letter:** `y`, **Position:** `4`, **Words:** Chrysler, Sony, Playmobil, Playboy, Illy
+- **Letter:** `y`, **Position:** `5`, **Words:** Always, Milky Way, Helly Hansen, Tommy Hilfiger
+- **Letter:** `y`, **Position:** `6`, **Words:** Disney, Bounty, Tetley, Baileys, Oakley
 - **Letter:** `z`, **Position:** `1`, **Words:** Zara, Zillow
-- **Letter:** `z`, **Position:** `2`, **Words:** MZ Skin, Ozark Trail
-- **Letter:** `z`, **Position:** `3`, **Words:** Mazda, PizzaHut, Suzuki, Mizuno
-- **Letter:** `z`, **Position:** `4`, **Words:** Amazon, PizzaHut
-- **Letter:** `z`, **Position:** `5`, **Words:** Heinz, Lavazza, Citizen
-- **Letter:** `z`, **Position:** `6`, **Words:** Lavazza, Febreze
+- **Letter:** `z`, **Position:** `2`, **Words:** Ozark Trail, MZ Skin
+- **Letter:** `z`, **Position:** `3`, **Words:** Mazda, Suzuki, PizzaHut, Mizuno
+- **Letter:** `z`, **Position:** `4`, **Words:** PizzaHut, Amazon
+- **Letter:** `z`, **Position:** `5`, **Words:** Citizen, Heinz, Lavazza
+- **Letter:** `z`, **Position:** `6`, **Words:** Febreze, Lavazza
 
 </details>
 
@@ -7714,140 +7709,140 @@ Total missing words: `0`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** avocados, apricots, anise, asparagus, apples
-- **Letter:** `a`, **Position:** `2`, **Words:** saffron, waffles, pancakes, sardines, gazpacho
-- **Letter:** `a`, **Position:** `3`, **Words:** peanuts, peaches, pears, ajax, cranberries
-- **Letter:** `a`, **Position:** `4`, **Words:** potatoes, asparagus, cream, empanadas, bananas
-- **Letter:** `a`, **Position:** `5`, **Words:** guacamole, guava, pistachios, mozzarella, avocados
-- **Letter:** `a`, **Position:** `6`, **Words:** empanadas, papaya, cheddar, bananas, fajita
-- **Letter:** `b`, **Position:** `1`, **Words:** basmati, broccoli, blueberries, bagels, bread
+- **Letter:** `a`, **Position:** `1`, **Words:** avocados, apples, almonds, asparagus, axe
+- **Letter:** `a`, **Position:** `2`, **Words:** pasta, basil, raspberries, sausage, bananas
+- **Letter:** `a`, **Position:** `3`, **Words:** spaghetti, ajax, guava, cranberries, grapes
+- **Letter:** `a`, **Position:** `4`, **Words:** potatoes, asparagus, wheat, bread, lasagna
+- **Letter:** `a`, **Position:** `5`, **Words:** caviar, mortadella, sausage, guava, cabbage
+- **Letter:** `a`, **Position:** `6`, **Words:** asparagus, matcha, quinoa, soybeans, vinegar
+- **Letter:** `b`, **Position:** `1`, **Words:** baguette, broccoli, bagels, bananas, butter
 - **Letter:** `b`, **Position:** `3`, **Words:** cabbage, lobster
-- **Letter:** `b`, **Position:** `4`, **Words:** hamburger, soybeans, herbs, sorbet, cabbage
-- **Letter:** `b`, **Position:** `5`, **Words:** raspberries, blueberries, cranberries, kielbasa, wasabi
-- **Letter:** `b`, **Position:** `6`, **Words:** gooseberries, strawberries, cucumber, camembert, loganberry
-- **Letter:** `c`, **Position:** `1`, **Words:** coconut, cherries, cranberries, chorizo, cabbage
-- **Letter:** `c`, **Position:** `2`, **Words:** icecream, octopus, scallion, acorn, scallops
-- **Letter:** `c`, **Position:** `3`, **Words:** pickles, pecans, bacon, zucchini, macaroni
-- **Letter:** `c`, **Position:** `4`, **Words:** ketchup, gnocchi, popcorn, biscuits, chocolate
-- **Letter:** `c`, **Position:** `5`, **Words:** apricots, gnocchi, broccoli, ceviche, radicchio
-- **Letter:** `c`, **Position:** `6`, **Words:** haddock, spinach, lettuce, gazpacho, tapioca
-- **Letter:** `d`, **Position:** `1`, **Words:** donuts, dragonfruit, dumplings, durian, daikon
+- **Letter:** `b`, **Position:** `4`, **Words:** sorbet, hamburger, cabbage, herbs, soybeans
+- **Letter:** `b`, **Position:** `5`, **Words:** cranberries, blueberries, raspberries, kielbasa, halibut
+- **Letter:** `b`, **Position:** `6`, **Words:** strawberries, gooseberries, cucumber, portobello, loganberry
+- **Letter:** `c`, **Position:** `1`, **Words:** cereals, coriander, cumin, cranberries, clementines
+- **Letter:** `c`, **Position:** `2`, **Words:** icecream, scallion, octopus, acorn, scallops
+- **Letter:** `c`, **Position:** `3`, **Words:** cucumber, macaroni, bacon, anchovies, pecans
+- **Letter:** `c`, **Position:** `4`, **Words:** juice, ketchup, broccoli, crackers, biscuits
+- **Letter:** `c`, **Position:** `5`, **Words:** apricots, gnocchi, broccoli, couscous, ceviche
+- **Letter:** `c`, **Position:** `6`, **Words:** pistachios, spinach, lettuce, gazpacho, haddock
+- **Letter:** `d`, **Position:** `1`, **Words:** donuts, dragonfruit, dates, durian, dumplings
 - **Letter:** `d`, **Position:** `2`, **Words:** udon, edamame
-- **Letter:** `d`, **Position:** `3`, **Words:** endive, radishes, haddock, cider, godrej
-- **Letter:** `d`, **Position:** `4`, **Words:** hotdogs, cheddar, haddock, candies, noodles
-- **Letter:** `d`, **Position:** `5`, **Words:** squid, bread, cheddar, chowder, macadamia
-- **Letter:** `d`, **Position:** `6`, **Words:** mortadella, almonds, avocados
-- **Letter:** `e`, **Position:** `1`, **Words:** empanadas, endive, eggnog, enchiladas, elderberry
-- **Letter:** `e`, **Position:** `2`, **Words:** melon, pesto, herbs, nectarines, pecans
-- **Letter:** `e`, **Position:** `3`, **Words:** cream, steak, wheat, sweeteners, icecream
-- **Letter:** `e`, **Position:** `4`, **Words:** rosemary, polenta, nutella, bagels, water
-- **Letter:** `e`, **Position:** `5`, **Words:** soybeans, anise, pepperoni, tangerines, mussels
-- **Letter:** `e`, **Position:** `6`, **Words:** cookies, icecream, crackers, endive, coffee
-- **Letter:** `f`, **Position:** `1`, **Words:** falafel, fajita, flour, fenugreek, farro
-- **Letter:** `f`, **Position:** `3`, **Words:** coffee, muffins, waffles, saffron, offal
-- **Letter:** `f`, **Position:** `4`, **Words:** coffee, waffles, saffron, truffle, muffins
+- **Letter:** `d`, **Position:** `3`, **Words:** cider, endive, haddock, radishes, codfish
+- **Letter:** `d`, **Position:** `4`, **Words:** haddock, sardines, cheddar, hotdogs, noodles
+- **Letter:** `d`, **Position:** `5`, **Words:** cheddar, bread, squid, chard, chowder
+- **Letter:** `d`, **Position:** `6`, **Words:** avocados, mortadella, almonds
+- **Letter:** `e`, **Position:** `1`, **Words:** endive, empanadas, eggplant, eggnog, edamame
+- **Letter:** `e`, **Position:** `2`, **Words:** ketchup, jelly, pepper, lettuce, peaches
+- **Letter:** `e`, **Position:** `3`, **Words:** oregano, muesli, steak, cherries, cream
+- **Letter:** `e`, **Position:** `4`, **Words:** bagels, vinegar, watermelon, polenta, sweeteners
+- **Letter:** `e`, **Position:** `5`, **Words:** turkey, baguette, butter, juice, sorbet
+- **Letter:** `e`, **Position:** `6`, **Words:** pickles, lobster, spaghetti, waffles, candies
+- **Letter:** `f`, **Position:** `1`, **Words:** falafel, fajita, flour, freekeh, fennel
+- **Letter:** `f`, **Position:** `3`, **Words:** muffins, coffee, saffron, waffles, offal
+- **Letter:** `f`, **Position:** `4`, **Words:** waffles, saffron, truffle, coffee, muffins
 - **Letter:** `f`, **Position:** `5`, **Words:** truffle, falafel, starfruit, moonfish, crayfish
-- **Letter:** `f`, **Position:** `6`, **Words:** swordfish, salsify, alfalfa, whitefish, cauliflower
-- **Letter:** `g`, **Position:** `1`, **Words:** grapes, gnocchi, gooseberries, gazpacho, guacamole
-- **Letter:** `g`, **Position:** `2`, **Words:** eggnog, eggplant, ugli
-- **Letter:** `g`, **Position:** `3`, **Words:** sugar, baguette, yogurt, bagels, eggplant
-- **Letter:** `g`, **Position:** `4`, **Words:** tangerines, ginger, mangoes, spaghetti, dragonfruit
-- **Letter:** `g`, **Position:** `5`, **Words:** lasagna, oranges, vinegar, sturgeon, fenugreek
-- **Letter:** `g`, **Position:** `6`, **Words:** cabbage, sausage, hotdogs, eggnog
-- **Letter:** `h`, **Position:** `1`, **Words:** haddock, herbs, hamburger, honey, hotdogs
-- **Letter:** `h`, **Position:** `2`, **Words:** wheat, shrimps, chili, chicken, chocolate
-- **Letter:** `h`, **Position:** `4`, **Words:** sushis, anchovies, lychees, mushrooms, cashews
-- **Letter:** `h`, **Position:** `5`, **Words:** zucchini, marshmallows, matcha, litchi, peaches
-- **Letter:** `h`, **Position:** `6`, **Words:** gnocchi, radishes, ceviche, buckwheat, squash
-- **Letter:** `i`, **Position:** `2`, **Words:** ginger, liquor, pistachios, cinnamon, cider
-- **Letter:** `i`, **Position:** `3`, **Words:** chili, spinach, quinoa, onions, olives
-- **Letter:** `i`, **Position:** `4`, **Words:** cumin, radishes, ravioli, apricots, basil
-- **Letter:** `i`, **Position:** `5`, **Words:** lollipops, sardines, lentils, chili, chorizo
-- **Letter:** `i`, **Position:** `6`, **Words:** biscuits, muesli, litchi, salami, pumpkin
-- **Letter:** `j`, **Position:** `1`, **Words:** jelly, juice, jalapenos, jicama, jackfruit
+- **Letter:** `f`, **Position:** `6`, **Words:** salsify, whitefish, swordfish, frankfurters, cauliflower
+- **Letter:** `g`, **Position:** `1`, **Words:** guava, garlic, grapes, guacamole, gnocchi
+- **Letter:** `g`, **Position:** `2`, **Words:** eggplant, eggnog, ugli
+- **Letter:** `g`, **Position:** `3`, **Words:** baguette, yogurt, bagels, sugar, eggplant
+- **Letter:** `g`, **Position:** `4`, **Words:** ginger, dragonfruit, tangerines, oregano, spaghetti
+- **Letter:** `g`, **Position:** `5`, **Words:** oranges, lasagna, vinegar, sturgeon, fenugreek
+- **Letter:** `g`, **Position:** `6`, **Words:** hotdogs, sausage, cabbage, eggnog
+- **Letter:** `h`, **Position:** `1`, **Words:** hotdogs, hamburger, herbs, hummus, honey
+- **Letter:** `h`, **Position:** `2`, **Words:** chocolate, thyme, chili, chorizo, shrimps
+- **Letter:** `h`, **Position:** `4`, **Words:** sushis, lychees, anchovies, mushrooms, enchiladas
+- **Letter:** `h`, **Position:** `5`, **Words:** marshmallows, zucchini, litchi, matcha, spaghetti
+- **Letter:** `h`, **Position:** `6`, **Words:** gnocchi, radishes, artichokes, squash, borscht
+- **Letter:** `i`, **Position:** `2`, **Words:** citron, pizza, liquor, pistachios, cinnamon
+- **Letter:** `i`, **Position:** `3`, **Words:** olives, onions, anise, quinoa, chili
+- **Letter:** `i`, **Position:** `4`, **Words:** radishes, coriander, endive, apricots, cumin
+- **Letter:** `i`, **Position:** `5`, **Words:** chorizo, tortillas, lentils, cookies, sardines
+- **Letter:** `i`, **Position:** `6`, **Words:** zucchini, pumpkin, cherries, litchi, salami
+- **Letter:** `j`, **Position:** `1`, **Words:** jalapenos, jelly, juice, jicama, jackfruit
 - **Letter:** `j`, **Position:** `2`, **Words:** ajax, ajinomoto
-- **Letter:** `j`, **Position:** `3`, **Words:** fajita, cajun, rojak
-- **Letter:** `k`, **Position:** `1`, **Words:** ketchup, kohlrabi, kumquats, kielbasa, kimchi
-- **Letter:** `k`, **Position:** `4`, **Words:** cookies, pickles, turkey, buckwheat, jackfruit
-- **Letter:** `k`, **Position:** `5`, **Words:** steak, chicken, crackers, pumpkin, freekeh
-- **Letter:** `k`, **Position:** `6`, **Words:** paprika, pancakes, sauerkraut
-- **Letter:** `l`, **Position:** `1`, **Words:** liquor, litchi, lollipops, lemons, lasagna
-- **Letter:** `l`, **Position:** `2`, **Words:** almonds, blueberries, clementines, plums, flour
-- **Letter:** `l`, **Position:** `3`, **Words:** jalapenos, jelly, walnuts, lollipops, polenta
-- **Letter:** `l`, **Position:** `4`, **Words:** lollipops, jelly, chili, garlic, apples
-- **Letter:** `l`, **Position:** `5`, **Words:** vanilla, bagels, hazelnuts, waffles, pickles
-- **Letter:** `l`, **Position:** `6`, **Words:** chocolate, truffle, ravioli, lentils, cereals
-- **Letter:** `m`, **Position:** `1`, **Words:** mangoes, muesli, melon, mozzarella, mortadella
+- **Letter:** `j`, **Position:** `3`, **Words:** fajita, rojak, cajun
+- **Letter:** `k`, **Position:** `1`, **Words:** ketchup, kimchi, kumquats, kohlrabi, kielbasa
+- **Letter:** `k`, **Position:** `4`, **Words:** pickles, turkey, cookies, jackfruit, leeks
+- **Letter:** `k`, **Position:** `5`, **Words:** crackers, pumpkin, chicken, steak, rojak
+- **Letter:** `k`, **Position:** `6`, **Words:** pancakes, paprika, sauerkraut
+- **Letter:** `l`, **Position:** `1`, **Words:** lollipops, lasagna, litchi, lentils, lemons
+- **Letter:** `l`, **Position:** `2`, **Words:** clementines, plums, olives, flour, blueberries
+- **Letter:** `l`, **Position:** `3`, **Words:** walnuts, salami, jelly, melon, falafel
+- **Letter:** `l`, **Position:** `4`, **Words:** apples, lollipops, jelly, chili, garlic
+- **Letter:** `l`, **Position:** `5`, **Words:** muesli, nutella, pickles, waffles, bagels
+- **Letter:** `l`, **Position:** `6`, **Words:** vanilla, tortillas, ravioli, nutella, chocolate
+- **Letter:** `m`, **Position:** `1`, **Words:** matcha, mortadella, mascarpone, marmalade, mozzarella
 - **Letter:** `m`, **Position:** `2`, **Words:** empanadas, amaranth
-- **Letter:** `m`, **Position:** `3`, **Words:** tomatoes, pumpkin, hummus, almonds, lemons
-- **Letter:** `m`, **Position:** `4`, **Words:** salmon, clementines, basmati, thyme, marmalade
-- **Letter:** `m`, **Position:** `5`, **Words:** salami, cucumber, shrimps, cream, caramel
-- **Letter:** `m`, **Position:** `6`, **Words:** cinnamon, guacamole, watermelon, marshmallows, mincemeat
-- **Letter:** `n`, **Position:** `1`, **Words:** noodles, nectarines, nutella, nasturtium, nopales
-- **Letter:** `n`, **Position:** `2`, **Words:** anise, onions, anchovies, gnocchi, endive
-- **Letter:** `n`, **Position:** `3`, **Words:** vanilla, vinegar, cinnamon, mangoes, bananas
-- **Letter:** `n`, **Position:** `4`, **Words:** beans, spinach, peanuts, udon, cinnamon
-- **Letter:** `n`, **Position:** `5`, **Words:** cumin, onions, bacon, empanadas, melon
-- **Letter:** `n`, **Position:** `6`, **Words:** raisins, salmon, oregano, coriander, muffins
-- **Letter:** `o`, **Position:** `1`, **Words:** oregano, oysters, onions, olives, oranges
-- **Letter:** `o`, **Position:** `2`, **Words:** tortillas, mortadella, potatoes, tomatoes, gooseberries
-- **Letter:** `o`, **Position:** `3`, **Words:** chocolate, cookies, avocados, broccoli, udon
-- **Letter:** `o`, **Position:** `4`, **Words:** almonds, mayonnaise, tacos, onions, sprouts
-- **Letter:** `o`, **Position:** `5`, **Words:** tapioca, chocolate, ravioli, mangoes, salmon
-- **Letter:** `o`, **Position:** `6`, **Words:** saffron, tomatoes, passion, macaroni, potatoes
-- **Letter:** `p`, **Position:** `1`, **Words:** polenta, potatoes, passion, pineapple, pancakes
-- **Letter:** `p`, **Position:** `2`, **Words:** apricots, spaghetti, spinach, apples, sprouts
-- **Letter:** `p`, **Position:** `3`, **Words:** pepperoni, asparagus, papaya, paprika, empanadas
-- **Letter:** `p`, **Position:** `4`, **Words:** pumpkin, raspberries, grapes, pepper, pepperoni
-- **Letter:** `p`, **Position:** `5`, **Words:** syrup, jalapenos, allspice, tilapia, octopus
-- **Letter:** `p`, **Position:** `6`, **Words:** lollipops, shrimps, pineapple, turnips, chickpeas
+- **Letter:** `m`, **Position:** `3`, **Words:** almonds, hamburger, cumin, pumpkin, tomatoes
+- **Letter:** `m`, **Position:** `4`, **Words:** marmalade, salmon, basmati, thyme, clementines
+- **Letter:** `m`, **Position:** `5`, **Words:** salami, caramel, cream, cucumber, rosemary
+- **Letter:** `m`, **Position:** `6`, **Words:** marshmallows, cinnamon, guacamole, watermelon, edamame
+- **Letter:** `n`, **Position:** `1`, **Words:** nutella, nectarines, noodles, nopales, nasturtium
+- **Letter:** `n`, **Position:** `2`, **Words:** gnocchi, onions, anise, endive, anchovies
+- **Letter:** `n`, **Position:** `3`, **Words:** donuts, vinegar, honey, vanilla, lentils
+- **Letter:** `n`, **Position:** `4`, **Words:** oranges, beans, quinoa, spinach, cranberries
+- **Letter:** `n`, **Position:** `5`, **Words:** lemons, onions, pecans, empanadas, cumin
+- **Letter:** `n`, **Position:** `6`, **Words:** oregano, salmon, dragonfruit, coriander, hazelnuts
+- **Letter:** `o`, **Position:** `1`, **Words:** oranges, oysters, olives, onions, oregano
+- **Letter:** `o`, **Position:** `2`, **Words:** coffee, popcorn, mortadella, tortillas, soybeans
+- **Letter:** `o`, **Position:** `3`, **Words:** udon, flour, chocolate, noodles, broccoli
+- **Letter:** `o`, **Position:** `4`, **Words:** lemons, melon, mayonnaise, sprouts, bacon
+- **Letter:** `o`, **Position:** `5`, **Words:** dragonfruit, salmon, ravioli, haddock, quinoa
+- **Letter:** `o`, **Position:** `6`, **Words:** apricots, macaroni, passion, saffron, mushrooms
+- **Letter:** `p`, **Position:** `1`, **Words:** peanuts, pumpkin, pancakes, potatoes, papaya
+- **Letter:** `p`, **Position:** `2`, **Words:** apples, spinach, apricots, sprouts, spaghetti
+- **Letter:** `p`, **Position:** `3`, **Words:** pepper, pepperoni, asparagus, empanadas, paprika
+- **Letter:** `p`, **Position:** `4`, **Words:** grapes, pepper, gazpacho, pumpkin, pepperoni
+- **Letter:** `p`, **Position:** `5`, **Words:** syrup, jalapenos, allspice, grouper, octopus
+- **Letter:** `p`, **Position:** `6`, **Words:** shrimps, lollipops, pineapple, chickpeas, turnips
 - **Letter:** `q`, **Position:** `1`, **Words:** quinoa, quince, quail
 - **Letter:** `q`, **Position:** `2`, **Words:** squid, squash
 - **Letter:** `q`, **Position:** `3`, **Words:** liquor, loquat
-- **Letter:** `q`, **Position:** `5`, **Words:** charque, cacique
-- **Letter:** `r`, **Position:** `1`, **Words:** raisins, radishes, raspberries, ravioli, rosemary
-- **Letter:** `r`, **Position:** `2`, **Words:** grapes, cranberries, broccoli, dragonfruit, oranges
-- **Letter:** `r`, **Position:** `3`, **Words:** syrup, marshmallows, shrimps, marmalade, caramel
-- **Letter:** `r`, **Position:** `4`, **Words:** chorizo, carrots, pears, citron, curry
-- **Letter:** `r`, **Position:** `5`, **Words:** water, flour, asparagus, saffron, icecream
-- **Letter:** `r`, **Position:** `6`, **Words:** pepper, hamburger, mozzarella, mustard, ginger
-- **Letter:** `s`, **Position:** `1`, **Words:** salmon, saffron, sprouts, spaghetti, sugar
+- **Letter:** `q`, **Position:** `5`, **Words:** cacique, charque
+- **Letter:** `r`, **Position:** `1`, **Words:** raspberries, ravioli, raisins, rosemary, radishes
+- **Letter:** `r`, **Position:** `2`, **Words:** dragonfruit, crackers, oregano, bread, broccoli
+- **Letter:** `r`, **Position:** `3`, **Words:** herbs, sprouts, mortadella, sorbet, garlic
+- **Letter:** `r`, **Position:** `4`, **Words:** paprika, carrots, citron, pears, curry
+- **Letter:** `r`, **Position:** `5`, **Words:** icecream, yogurt, asparagus, mushrooms, cider
+- **Letter:** `r`, **Position:** `6`, **Words:** butter, pepperoni, mozzarella, nectarines, oysters
+- **Letter:** `s`, **Position:** `1`, **Words:** squid, sausage, shrimps, sprouts, sardines
 - **Letter:** `s`, **Position:** `2`, **Words:** asparagus, escarole
-- **Letter:** `s`, **Position:** `3`, **Words:** biscuits, pasta, sushis, basil, mustard
-- **Letter:** `s`, **Position:** `4`, **Words:** passion, marshmallows, mussels, anise, lobster
-- **Letter:** `s`, **Position:** `5`, **Words:** tacos, plums, pears, beans, radishes
-- **Letter:** `s`, **Position:** `6`, **Words:** pecans, grapes, onions, lemons, hummus
-- **Letter:** `t`, **Position:** `1`, **Words:** tortillas, tangerines, tomatoes, turkey, thyme
-- **Letter:** `t`, **Position:** `2`, **Words:** strawberries, steak, starfruit, sturgeon
-- **Letter:** `t`, **Position:** `3`, **Words:** lettuce, butter, potatoes, nutella, ketchup
-- **Letter:** `t`, **Position:** `4`, **Words:** pasta, oysters, pistachios, lettuce, lentils
-- **Letter:** `t`, **Position:** `5`, **Words:** potatoes, donuts, wheat, lobster, sweeteners
-- **Letter:** `t`, **Position:** `6`, **Words:** yogurt, peanuts, carrots, baguette, polenta
-- **Letter:** `u`, **Position:** `1`, **Words:** udon, unagi, ugli
-- **Letter:** `u`, **Position:** `2`, **Words:** mushrooms, cumin, hummus, mustard, zucchini
-- **Letter:** `u`, **Position:** `3`, **Words:** plums, truffle, sausage, squid, blueberries
-- **Letter:** `u`, **Position:** `4`, **Words:** flour, yogurt, liquor, cucumber, donuts
-- **Letter:** `u`, **Position:** `5`, **Words:** peanuts, walnuts, hummus, hamburger, sprouts
-- **Letter:** `u`, **Position:** `6`, **Words:** coconut, ketchup, octopus, halibut, charque
+- **Letter:** `s`, **Position:** `3`, **Words:** rosemary, lasagna, oysters, pistachios, biscuits
+- **Letter:** `s`, **Position:** `4`, **Words:** passion, anise, muesli, gooseberries, marshmallows
+- **Letter:** `s`, **Position:** `5`, **Words:** beans, plums, pears, herbs, radishes
+- **Letter:** `s`, **Position:** `6`, **Words:** donuts, olives, pecans, bagels, grapes
+- **Letter:** `t`, **Position:** `1`, **Words:** tomatoes, turkey, thyme, tapioca, tortillas
+- **Letter:** `t`, **Position:** `2`, **Words:** steak, strawberries, sturgeon, starfruit
+- **Letter:** `t`, **Position:** `3`, **Words:** lettuce, nutella, potatoes, butter, watermelon
+- **Letter:** `t`, **Position:** `4`, **Words:** pistachios, butter, lentils, mortadella, oysters
+- **Letter:** `t`, **Position:** `5`, **Words:** sweeteners, potatoes, lobster, donuts, fajita
+- **Letter:** `t`, **Position:** `6`, **Words:** sorbet, basmati, polenta, walnuts, carrots
+- **Letter:** `u`, **Position:** `1`, **Words:** udon, ugli, unagi
+- **Letter:** `u`, **Position:** `2`, **Words:** muesli, turkey, sushis, quinoa, juice
+- **Letter:** `u`, **Position:** `3`, **Words:** sausage, squid, truffle, plums, blueberries
+- **Letter:** `u`, **Position:** `4`, **Words:** flour, baguette, donuts, syrup, yogurt
+- **Letter:** `u`, **Position:** `5`, **Words:** peanuts, walnuts, sprouts, lettuce, biscuits
+- **Letter:** `u`, **Position:** `6`, **Words:** ketchup, coconut, octopus, cacique, sorghum
 - **Letter:** `v`, **Position:** `1`, **Words:** vinegar, vanilla, verbena, venison
-- **Letter:** `v`, **Position:** `3`, **Words:** caviar, ravioli, ceviche
-- **Letter:** `v`, **Position:** `4`, **Words:** guava, olives, chives, provolone, gravy
+- **Letter:** `v`, **Position:** `3`, **Words:** ravioli, caviar, ceviche
+- **Letter:** `v`, **Position:** `4`, **Words:** guava, olives, chives, gravy, provolone
 - **Letter:** `v`, **Position:** `6`, **Words:** anchovies, cassava
-- **Letter:** `w`, **Position:** `1`, **Words:** walnuts, watermelon, wheat, wax, waffles
-- **Letter:** `w`, **Position:** `2`, **Words:** sweeteners, swordfish, sweetbreads
-- **Letter:** `w`, **Position:** `4`, **Words:** maxwell, seaweed, chowder
+- **Letter:** `w`, **Position:** `1`, **Words:** waffles, wax, wheat, water, walnuts
+- **Letter:** `w`, **Position:** `2`, **Words:** sweeteners, sweetbreads, swordfish
+- **Letter:** `w`, **Position:** `4`, **Words:** seaweed, chowder, maxwell
 - **Letter:** `w`, **Position:** `5`, **Words:** strawberries, buckwheat
-- **Letter:** `w`, **Position:** `6`, **Words:** cashews, pawpaw
+- **Letter:** `w`, **Position:** `6`, **Words:** pawpaw, cashews
 - **Letter:** `x`, **Position:** `1`, **Words:** xylitol, xoconostle
 - **Letter:** `x`, **Position:** `2`, **Words:** axe, oxtail
-- **Letter:** `x`, **Position:** `3`, **Words:** wax, maxwell, moxie
+- **Letter:** `x`, **Position:** `3`, **Words:** wax, moxie, maxwell
 - **Letter:** `x`, **Position:** `5`, **Words:** galaxy, felix
-- **Letter:** `y`, **Position:** `2`, **Words:** lychees, oysters, syrup, xylitol
-- **Letter:** `y`, **Position:** `3`, **Words:** mayonnaise, thyme, soybeans, boysenberry
-- **Letter:** `y`, **Position:** `5`, **Words:** honey, curry, jelly, papaya, gravy
-- **Letter:** `y`, **Position:** `6`, **Words:** turkey, hominy, barleycorn, celery, brandy
+- **Letter:** `y`, **Position:** `2`, **Words:** lychees, syrup, oysters, xylitol
+- **Letter:** `y`, **Position:** `3`, **Words:** soybeans, thyme, mayonnaise, boysenberry
+- **Letter:** `y`, **Position:** `5`, **Words:** jelly, honey, papaya, curry, gravy
+- **Letter:** `y`, **Position:** `6`, **Words:** turkey, brandy, hominy, barleycorn, galaxy
 - **Letter:** `z`, **Position:** `2`, **Words:** aztec, ozarka
-- **Letter:** `z`, **Position:** `3`, **Words:** hazelnuts, pizza, mozzarella, gazpacho
+- **Letter:** `z`, **Position:** `3`, **Words:** pizza, hazelnuts, mozzarella, gazpacho
 - **Letter:** `z`, **Position:** `4`, **Words:** mozzarella, pizza
 
 </details>
@@ -7890,153 +7885,153 @@ Total missing words: `21`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** azure, array, always, awake, allow
-- **Letter:** `a`, **Position:** `2`, **Words:** waste, early, labor, cancel, casual
-- **Letter:** `a`, **Position:** `3`, **Words:** claim, aware, blade, classic, small
-- **Letter:** `a`, **Position:** `4`, **Words:** sugar, toward, attack, solar, demand
-- **Letter:** `a`, **Position:** `5`, **Words:** animal, spread, collar, portal, ultra
-- **Letter:** `a`, **Position:** `6`, **Words:** crystal, instead, general, agenda, holiday
-- **Letter:** `b`, **Position:** `1`, **Words:** brain, bread, below, bronze, bargain
-- **Letter:** `b`, **Position:** `2`, **Words:** abstract, object, oblige, ability
-- **Letter:** `b`, **Position:** `3`, **Words:** debate, submit, rabbit, noble, album
-- **Letter:** `b`, **Position:** `4`, **Words:** enable, rabbit, harbor, doubt, carbon
-- **Letter:** `b`, **Position:** `5`, **Words:** chamber, republic, thumb, exhibit
-- **Letter:** `b`, **Position:** `6`, **Words:** assemble, alphabet, flexible
-- **Letter:** `c`, **Position:** `1`, **Words:** context, cactus, choice, course, circuit
-- **Letter:** `c`, **Position:** `2`, **Words:** ocean, score, scene, actual, scout
-- **Letter:** `c`, **Position:** `3`, **Words:** pocket, factory, decay, second, cactus
-- **Letter:** `c`, **Position:** `4`, **Words:** stick, place, beacon, cancer, ejectable
-- **Letter:** `c`, **Position:** `5`, **Words:** civic, choice, ethics, effect, inject
-- **Letter:** `c`, **Position:** `6`, **Words:** advance, enhance, protect, arctic, produce
-- **Letter:** `d`, **Position:** `1`, **Words:** diary, default, develop, devote, decay
-- **Letter:** `d`, **Position:** `2`, **Words:** adjust, address, adventure, ideal, editor
-- **Letter:** `d`, **Position:** `3`, **Words:** radar, radio, today, judge, indoor
-- **Letter:** `d`, **Position:** `4`, **Words:** shadow, meadow, grade, random, border
-- **Letter:** `d`, **Position:** `5`, **Words:** arcade, bound, holiday, child, blend
-- **Letter:** `d`, **Position:** `6`, **Words:** ascend, method, toward, reward, ground
-- **Letter:** `e`, **Position:** `1`, **Words:** enact, elite, extra, eight, excuse
-- **Letter:** `e`, **Position:** `2`, **Words:** mercy, refer, detect, before, regret
-- **Letter:** `e`, **Position:** `3`, **Words:** agency, field, cherry, create, elect
-- **Letter:** `e`, **Position:** `4`, **Words:** sheet, bureau, liberty, outer, stress
-- **Letter:** `e`, **Position:** `5`, **Words:** theme, loose, false, slice, these
-- **Letter:** `e`, **Position:** `6`, **Words:** mobile, sample, rotate, remote, middle
-- **Letter:** `f`, **Position:** `1`, **Words:** feature, fight, factor, famous, force
-- **Letter:** `f`, **Position:** `2`, **Words:** afternoon, affect, effect, effort, office
-- **Letter:** `f`, **Position:** `3`, **Words:** differ, before, office, affect, default
-- **Letter:** `f`, **Position:** `4`, **Words:** differ, buffer, stuff, knife, shaft
-- **Letter:** `f`, **Position:** `5`, **Words:** grief, proof, chief, modify, brief
+- **Letter:** `a`, **Position:** `1`, **Words:** asset, appeal, ancient, attract, assess
+- **Letter:** `a`, **Position:** `2`, **Words:** castle, false, gallery, waste, nation
+- **Letter:** `a`, **Position:** `3`, **Words:** small, teach, trade, ready, elastic
+- **Letter:** `a`, **Position:** `4`, **Words:** female, impact, metal, royal, voyage
+- **Letter:** `a`, **Position:** `5`, **Words:** alphabet, casual, mental, format, baggage
+- **Letter:** `a`, **Position:** `6`, **Words:** display, advocate, program, allocate, medical
+- **Letter:** `b`, **Position:** `1`, **Words:** bless, bonus, billion, basic, borrow
+- **Letter:** `b`, **Position:** `2`, **Words:** abstract, ability, object, oblige
+- **Letter:** `b`, **Position:** `3`, **Words:** rubber, album, public, library, debate
+- **Letter:** `b`, **Position:** `4`, **Words:** carbon, doubt, rubber, enable, rabbit
+- **Letter:** `b`, **Position:** `5`, **Words:** republic, exhibit, thumb, chamber
+- **Letter:** `b`, **Position:** `6`, **Words:** assemble, flexible, alphabet
+- **Letter:** `c`, **Position:** `1`, **Words:** country, career, close, crystal, confirm
+- **Letter:** `c`, **Position:** `2`, **Words:** school, science, achieve, acoustic, ocean
+- **Letter:** `c`, **Position:** `3`, **Words:** pocket, social, excuse, decade, factory
+- **Letter:** `c`, **Position:** `4`, **Words:** concept, ranch, fence, patch, force
+- **Letter:** `c`, **Position:** `5`, **Words:** detect, launch, medical, agency, article
+- **Letter:** `c`, **Position:** `6`, **Words:** science, attract, protect, project, enforce
+- **Letter:** `d`, **Position:** `1`, **Words:** decide, dense, deploy, dental, defend
+- **Letter:** `d`, **Position:** `2`, **Words:** ideal, adjust, editor, advance, address
+- **Letter:** `d`, **Position:** `3`, **Words:** pedal, medical, middle, ridge, update
+- **Letter:** `d`, **Position:** `4`, **Words:** render, pride, produce, random, ready
+- **Letter:** `d`, **Position:** `5`, **Words:** broad, blood, cloud, build, valid
+- **Letter:** `d`, **Position:** `6`, **Words:** record, ground, defend, already, beyond
+- **Letter:** `e`, **Position:** `1`, **Words:** ejectable, excuse, exercise, express, expand
+- **Letter:** `e`, **Position:** `2`, **Words:** yellow, session, metal, deploy, league
+- **Letter:** `e`, **Position:** `3`, **Words:** field, bread, check, steak, clean
+- **Letter:** `e`, **Position:** `4`, **Words:** outer, angel, detect, assess, excel
+- **Letter:** `e`, **Position:** `5`, **Words:** socket, between, content, nuclear, pattern
+- **Letter:** `e`, **Position:** `6`, **Words:** module, jungle, minute, complex, problem
+- **Letter:** `f`, **Position:** `1`, **Words:** fantasy, friend, false, flush, festival
+- **Letter:** `f`, **Position:** `2`, **Words:** often, afternoon, office, effort, effect
+- **Letter:** `f`, **Position:** `3`, **Words:** reform, define, effect, offer, inform
+- **Letter:** `f`, **Position:** `4`, **Words:** swift, confirm, shaft, profit, craft
+- **Letter:** `f`, **Position:** `5`, **Words:** proof, grief, stuff, modify, brief
 - **Letter:** `f`, **Position:** `6`, **Words:** relief, amplify
-- **Letter:** `g`, **Position:** `1`, **Words:** guide, guard, gauge, grief, general
-- **Letter:** `g`, **Position:** `2`, **Words:** agenda, ignore, agency
-- **Letter:** `g`, **Position:** `3`, **Words:** engine, jaguar, might, sugar, light
-- **Letter:** `g`, **Position:** `4`, **Words:** ridge, weight, league, imagine, stage
-- **Letter:** `g`, **Position:** `5`, **Words:** among, assign, category, avenge, energy
-- **Letter:** `g`, **Position:** `6`, **Words:** strong, spring, average, village, college
-- **Letter:** `h`, **Position:** `1`, **Words:** house, hurry, horse, harbor, height
-- **Letter:** `h`, **Position:** `2`, **Words:** there, child, these, cherry, shock
-- **Letter:** `h`, **Position:** `3`, **Words:** achieve, inherit, scheme, behave, exhibit
-- **Letter:** `h`, **Position:** `4`, **Words:** author, exchange, might, father, either
-- **Letter:** `h`, **Position:** `5`, **Words:** month, patch, torch, height, flash
-- **Letter:** `h`, **Position:** `6`, **Words:** switch, smooth, length, wealth, search
-- **Letter:** `i`, **Position:** `1`, **Words:** insert, island, invest, ivory, install
-- **Letter:** `i`, **Position:** `2`, **Words:** window, silent, fiber, middle, dignity
-- **Letter:** `i`, **Position:** `3`, **Words:** grief, noise, ability, quick, drive
-- **Letter:** `i`, **Position:** `4`, **Words:** strip, begin, music, finish, invite
-- **Letter:** `i`, **Position:** `5`, **Words:** mystique, studio, amplify, billion, auction
-- **Letter:** `i`, **Position:** `6`, **Words:** inherit, benefit, explain, astonish, circuit
-- **Letter:** `j`, **Position:** `1`, **Words:** juice, jaguar, jungle, joint, jewel
-- **Letter:** `j`, **Position:** `2`, **Words:** ejectable, ejected
-- **Letter:** `j`, **Position:** `3`, **Words:** object, adjust, injury, major, enjoy
+- **Letter:** `g`, **Position:** `1`, **Words:** grave, grill, guard, grape, genre
+- **Letter:** `g`, **Position:** `2`, **Words:** agency, agenda, ignore
+- **Letter:** `g`, **Position:** `3`, **Words:** angle, augment, night, figure, dignity
+- **Letter:** `g`, **Position:** `4`, **Words:** single, hedge, bright, gauge, range
+- **Letter:** `g`, **Position:** `5`, **Words:** charge, category, design, avenge, garage
+- **Letter:** `g`, **Position:** `6`, **Words:** biology, baggage, strong, college, spring
+- **Letter:** `h`, **Position:** `1`, **Words:** highjacked, hedge, hurry, honey, height
+- **Letter:** `h`, **Position:** `2`, **Words:** rhythm, throw, theme, shift, there
+- **Letter:** `h`, **Position:** `3`, **Words:** athlete, achieve, school, enhance, behind
+- **Letter:** `h`, **Position:** `4`, **Words:** anchor, highjacked, bachelor, author, either
+- **Letter:** `h`, **Position:** `5`, **Words:** touch, tooth, fetch, south, laugh
+- **Letter:** `h`, **Position:** `6`, **Words:** smooth, length, search, church, finish
+- **Letter:** `i`, **Position:** `1`, **Words:** inherit, issue, inspire, intend, impact
+- **Letter:** `i`, **Position:** `2`, **Words:** field, airport, disease, middle, finger
+- **Letter:** `i`, **Position:** `3`, **Words:** switch, paint, shift, print, height
+- **Letter:** `i`, **Position:** `4`, **Words:** divine, region, police, holiday, radio
+- **Letter:** `i`, **Position:** `5`, **Words:** public, machine, session, critic, imagine
+- **Letter:** `i`, **Position:** `6`, **Words:** aquatic, bargain, dynamic, benefit, explain
+- **Letter:** `j`, **Position:** `1`, **Words:** jeans, junior, jaguar, judge, jungle
+- **Letter:** `j`, **Position:** `2`, **Words:** ejected, ejectable
+- **Letter:** `j`, **Position:** `3`, **Words:** object, adjust, major, inject, enjoy
 - **Letter:** `j`, **Position:** `5`, **Words:** reinject, highjacked
-- **Letter:** `j`, **Position:** `6`, **Words:** interjoining, blackjack, applejack
-- **Letter:** `k`, **Position:** `1`, **Words:** knife, kitchen
-- **Letter:** `k`, **Position:** `2`, **Words:** sketch, skate, skirt, skill
-- **Letter:** `k`, **Position:** `4`, **Words:** snake, basket, awake, socket, market
-- **Letter:** `k`, **Position:** `5`, **Words:** stock, block, truck, strike, clerk
-- **Letter:** `k`, **Position:** `6`, **Words:** attack, shrink
-- **Letter:** `l`, **Position:** `1`, **Words:** layer, league, listen, letter, lease
-- **Letter:** `l`, **Position:** `2`, **Words:** alert, elect, plate, alone, always
-- **Letter:** `l`, **Position:** `3`, **Words:** hello, dilemma, silent, balloon, culture
-- **Letter:** `l`, **Position:** `4`, **Words:** village, decline, public, declare, drill
-- **Letter:** `l`, **Position:** `5`, **Words:** civil, people, shield, panel, recall
-- **Letter:** `l`, **Position:** `6`, **Words:** dental, install, symbol, recall, bicycle
-- **Letter:** `m`, **Position:** `1`, **Words:** merge, manual, mouth, middle, money
-- **Letter:** `m`, **Position:** `2`, **Words:** improve, import, imagine, ambient, amplify
-- **Letter:** `m`, **Position:** `3`, **Words:** compose, human, humor, comedy, common
-- **Letter:** `m`, **Position:** `4`, **Words:** augment, submit, normal, frame, flame
-- **Letter:** `m`, **Position:** `5`, **Words:** forum, dynamic, storm, bloom, album
-- **Letter:** `m`, **Position:** `6`, **Words:** system, rhythm, random, wisdom, custom
-- **Letter:** `n`, **Position:** `1`, **Words:** noble, normal, nature, notice, north
-- **Letter:** `n`, **Position:** `2`, **Words:** inter, install, under, anxiety, inspire
-- **Letter:** `n`, **Position:** `3`, **Words:** senior, penalty, month, confirm, fence
-- **Letter:** `n`, **Position:** `4`, **Words:** shine, banner, thank, channel, arena
-- **Letter:** `n`, **Position:** `5`, **Words:** chain, colony, silent, journal, learn
-- **Letter:** `n`, **Position:** `6`, **Words:** column, imagine, diamond, hidden, person
-- **Letter:** `o`, **Position:** `1`, **Words:** oppose, oblige, origin, opinion, object
-- **Letter:** `o`, **Position:** `2`, **Words:** point, socket, forty, potato, motion
-- **Letter:** `o`, **Position:** `3`, **Words:** those, front, browse, broad, people
-- **Letter:** `o`, **Position:** `4`, **Words:** record, humor, effort, shoot, second
-- **Letter:** `o`, **Position:** `5`, **Words:** option, motion, senior, mirror, beacon
-- **Letter:** `o`, **Position:** `6`, **Words:** opinion, fiction, studio, develop, section
-- **Letter:** `p`, **Position:** `1`, **Words:** piano, pride, police, produce, promote
-- **Letter:** `p`, **Position:** `2`, **Words:** update, appoint, appear, epoxy, episode
-- **Letter:** `p`, **Position:** `3`, **Words:** explore, popular, repeat, depend, capital
-- **Letter:** `p`, **Position:** `4`, **Words:** complex, compare, couple, company, happy
-- **Letter:** `p`, **Position:** `5`, **Words:** stamp, equip, recipe, sharp, except
-- **Letter:** `p`, **Position:** `6`, **Words:** concept, bishop, attempt
-- **Letter:** `q`, **Position:** `1`, **Words:** quick, quiet, quote
-- **Letter:** `q`, **Position:** `2`, **Words:** equal, square, equip, aquatic
-- **Letter:** `q`, **Position:** `3`, **Words:** inquire, request
-- **Letter:** `q`, **Position:** `5`, **Words:** headquarter, forequarter
+- **Letter:** `j`, **Position:** `6`, **Words:** blackjack, applejack, interjoining
+- **Letter:** `k`, **Position:** `1`, **Words:** kitchen, knife
+- **Letter:** `k`, **Position:** `2`, **Words:** skate, skirt, skill, sketch
+- **Letter:** `k`, **Position:** `4`, **Words:** ticket, cookie, tackle, awake, snake
+- **Letter:** `k`, **Position:** `5`, **Words:** shock, quick, strike, stroke, blackjack
+- **Letter:** `k`, **Position:** `6`, **Words:** shrink, attack
+- **Letter:** `l`, **Position:** `1`, **Words:** listen, ladder, lunch, latin, legend
+- **Letter:** `l`, **Position:** `2`, **Words:** clean, already, plain, block, alert
+- **Letter:** `l`, **Position:** `3`, **Words:** balloon, galaxy, college, unless, value
+- **Letter:** `l`, **Position:** `4`, **Words:** decline, applejack, analyze, wealth, uncle
+- **Letter:** `l`, **Position:** `5`, **Words:** steel, pupil, vinyl, excel, jewel
+- **Letter:** `l`, **Position:** `6`, **Words:** cancel, install, normal, dental, barrel
+- **Letter:** `m`, **Position:** `1`, **Words:** memory, mobile, money, morning, motion
+- **Letter:** `m`, **Position:** `2`, **Words:** amplify, image, import, small, imagine
+- **Letter:** `m`, **Position:** `3`, **Words:** compare, family, symbol, temple, female
+- **Letter:** `m`, **Position:** `4`, **Words:** permit, drama, climate, normal, command
+- **Letter:** `m`, **Position:** `5`, **Words:** autumn, attempt, dynamic, assume, bloom
+- **Letter:** `m`, **Position:** `6`, **Words:** bottom, wisdom, awesome, custom, rhythm
+- **Letter:** `n`, **Position:** `1`, **Words:** native, nuclear, number, novel, nurse
+- **Letter:** `n`, **Position:** `2`, **Words:** angle, inquire, invest, insert, energy
+- **Letter:** `n`, **Position:** `3`, **Words:** danger, canal, bench, concept, content
+- **Letter:** `n`, **Position:** `4`, **Words:** pound, plane, spend, round, among
+- **Letter:** `n`, **Position:** `5`, **Words:** parent, depend, spring, second, learn
+- **Letter:** `n`, **Position:** `6`, **Words:** modern, action, current, ambient, distant
+- **Letter:** `o`, **Position:** `1`, **Words:** oblige, output, object, ocean, order
+- **Letter:** `o`, **Position:** `2`, **Words:** modern, doubt, borrow, torch, potato
+- **Letter:** `o`, **Position:** `3`, **Words:** loose, biology, shock, boost, frost
+- **Letter:** `o`, **Position:** `4`, **Words:** famous, colony, robot, enjoy, theory
+- **Letter:** `o`, **Position:** `5`, **Words:** school, region, doctor, biology, bishop
+- **Letter:** `o`, **Position:** `6`, **Words:** fashion, billion, tomato, potato, develop
+- **Letter:** `p`, **Position:** `1`, **Words:** patch, pattern, party, paint, peace
+- **Letter:** `p`, **Position:** `2`, **Words:** spend, option, applejack, epoxy, upper
+- **Letter:** `p`, **Position:** `3`, **Words:** appoint, deputy, reply, empty, improve
+- **Letter:** `p`, **Position:** `4`, **Words:** company, temple, people, slope, sample
+- **Letter:** `p`, **Position:** `5`, **Words:** sleep, strip, group, stamp, escape
+- **Letter:** `p`, **Position:** `6`, **Words:** bishop, concept, attempt
+- **Letter:** `q`, **Position:** `1`, **Words:** quiet, quote, quick
+- **Letter:** `q`, **Position:** `2`, **Words:** equip, square, aquatic, equal
+- **Letter:** `q`, **Position:** `3`, **Words:** request, inquire
+- **Letter:** `q`, **Position:** `5`, **Words:** forequarter, headquarter
 - **Letter:** `q`, **Position:** `6`, **Words:** mystique, foursquare, physique
-- **Letter:** `r`, **Position:** `1`, **Words:** republic, reinject, route, resort, repeat
-- **Letter:** `r`, **Position:** `2`, **Words:** pride, profit, process, proof, arctic
-- **Letter:** `r`, **Position:** `3`, **Words:** bargain, phrase, harbor, burst, early
-- **Letter:** `r`, **Position:** `4`, **Words:** share, shirt, foursquare, patrol, genre
-- **Letter:** `r`, **Position:** `5`, **Words:** tower, general, cherry, fever, program
-- **Letter:** `r`, **Position:** `6`, **Words:** render, mirror, inquire, better, concert
-- **Letter:** `s`, **Position:** `1`, **Words:** single, skate, secret, slave, solar
-- **Letter:** `s`, **Position:** `2`, **Words:** escape, ascend, assess, assist, astonish
-- **Letter:** `s`, **Position:** `3`, **Words:** describe, pistol, visit, wisdom, abstract
-- **Letter:** `s`, **Position:** `4`, **Words:** dress, bless, crystal, noise, season
-- **Letter:** `s`, **Position:** `5`, **Words:** choose, cross, industry, focus, oppose
-- **Letter:** `s`, **Position:** `6`, **Words:** stress, request, fantasy, address, disease
-- **Letter:** `t`, **Position:** `1`, **Words:** toast, truth, three, temple, toward
-- **Letter:** `t`, **Position:** `2`, **Words:** ethics, storm, string, status, student
-- **Letter:** `t`, **Position:** `3`, **Words:** either, artist, butter, motor, hotel
-- **Letter:** `t`, **Position:** `4`, **Words:** mental, fiction, butter, white, emotion
-- **Letter:** `t`, **Position:** `5`, **Words:** apart, smart, fault, print, trait
-- **Letter:** `t`, **Position:** `6`, **Words:** ticket, result, silent, invent, format
-- **Letter:** `u`, **Position:** `1`, **Words:** under, ultra, upper, usage, until
-- **Letter:** `u`, **Position:** `2`, **Words:** future, pulse, cursor, outer, super
-- **Letter:** `u`, **Position:** `3`, **Words:** found, gauge, route, court, round
-- **Letter:** `u`, **Position:** `4`, **Words:** acoustic, bonus, visual, adjust, figure
-- **Letter:** `u`, **Position:** `5`, **Words:** include, circuit, century, output, genius
-- **Letter:** `u`, **Position:** `6`, **Words:** forequarter, bureau, amateur, headquarter
-- **Letter:** `v`, **Position:** `1`, **Words:** voyage, valley, volume, village, video
-- **Letter:** `v`, **Position:** `2`, **Words:** event, ivory, avoid, average, every
-- **Letter:** `v`, **Position:** `3`, **Words:** device, develop, adventure, invite, civil
-- **Letter:** `v`, **Position:** `4`, **Words:** brave, convert, serve, provide, nerve
-- **Letter:** `v`, **Position:** `5`, **Words:** active, native, remove, derive, behave
-- **Letter:** `v`, **Position:** `6`, **Words:** approve, improve, festival, believe, archive
-- **Letter:** `w`, **Position:** `1`, **Words:** weather, window, wheat, weight, world
-- **Letter:** `w`, **Position:** `2`, **Words:** awake, swift, aware, switch, sword
-- **Letter:** `w`, **Position:** `3`, **Words:** tower, always, toward, jewel, reward
-- **Letter:** `w`, **Position:** `4`, **Words:** browse, brown, forward, crowd, between
-- **Letter:** `w`, **Position:** `5`, **Words:** allow, elbow, throw, renew, below
-- **Letter:** `w`, **Position:** `6`, **Words:** review, yellow, shadow, borrow, window
-- **Letter:** `x`, **Position:** `2`, **Words:** excite, express, exchange, expert, explain
-- **Letter:** `x`, **Position:** `4`, **Words:** flexible, epoxy
-- **Letter:** `x`, **Position:** `6`, **Words:** matrix, context
-- **Letter:** `y`, **Position:** `1`, **Words:** youth, young, yellow
-- **Letter:** `y`, **Position:** `2`, **Words:** dynamic, system, symbol, cycle, mystique
-- **Letter:** `y`, **Position:** `3`, **Words:** style, crystal, royal, voyage, physique
-- **Letter:** `y`, **Position:** `4`, **Words:** vinyl, bicycle, canyon
-- **Letter:** `y`, **Position:** `5`, **Words:** honey, merry, marry, reply, epoxy
-- **Letter:** `y`, **Position:** `6`, **Words:** colony, survey, binary, policy, pretty
+- **Letter:** `r`, **Position:** `1`, **Words:** ranch, refuse, report, renew, request
+- **Letter:** `r`, **Position:** `2`, **Words:** drink, brief, dress, produce, front
+- **Letter:** `r`, **Position:** `3`, **Words:** spring, cargo, marry, mirror, sorry
+- **Letter:** `r`, **Position:** `4`, **Words:** smart, glory, exercise, decrease, journey
+- **Letter:** `r`, **Position:** `5`, **Words:** enforce, labor, inherit, nature, camera
+- **Letter:** `r`, **Position:** `6`, **Words:** convert, anchor, center, corner, wonder
+- **Letter:** `s`, **Position:** `1`, **Words:** sharp, school, strip, sugar, status
+- **Letter:** `s`, **Position:** `2`, **Words:** usage, assert, asset, assume, assemble
+- **Letter:** `s`, **Position:** `3`, **Words:** assert, wisdom, festival, answer, foster
+- **Letter:** `s`, **Position:** `4`, **Words:** session, cause, pause, prison, sense
+- **Letter:** `s`, **Position:** `5`, **Words:** resist, industry, choose, oppose, unless
+- **Letter:** `s`, **Position:** `6`, **Words:** fantasy, english, assess, request, express
+- **Letter:** `t`, **Position:** `1`, **Words:** these, trade, tower, toast, theory
+- **Letter:** `t`, **Position:** `2`, **Words:** stock, stick, strip, string, strong
+- **Letter:** `t`, **Position:** `3`, **Words:** patch, active, either, estate, afternoon
+- **Letter:** `t`, **Position:** `4`, **Words:** install, amateur, century, culture, photo
+- **Letter:** `t`, **Position:** `5`, **Words:** tomato, smart, swift, point, rotate
+- **Letter:** `t`, **Position:** `6`, **Words:** regret, street, market, expect, rabbit
+- **Letter:** `u`, **Position:** `1`, **Words:** upper, usage, usual, update, under
+- **Letter:** `u`, **Position:** `2`, **Words:** guild, autumn, buffer, funny, hurry
+- **Letter:** `u`, **Position:** `3`, **Words:** square, foursquare, boulder, truth, council
+- **Letter:** `u`, **Position:** `4`, **Words:** industry, should, amount, annual, insure
+- **Letter:** `u`, **Position:** `5`, **Words:** culture, default, output, exclude, famous
+- **Letter:** `u`, **Position:** `6`, **Words:** forequarter, bureau, headquarter, amateur
+- **Letter:** `v`, **Position:** `1`, **Words:** village, valid, visit, violet, voyage
+- **Letter:** `v`, **Position:** `2`, **Words:** every, event, avoid, avenue, ivory
+- **Letter:** `v`, **Position:** `3`, **Words:** level, movie, envelope, civic, invite
+- **Letter:** `v`, **Position:** `4`, **Words:** solve, canvas, olive, heavy, leave
+- **Letter:** `v`, **Position:** `5`, **Words:** remove, native, derive, deliver, behave
+- **Letter:** `v`, **Position:** `6`, **Words:** achieve, archive, reserve, believe, festival
+- **Letter:** `w`, **Position:** `1`, **Words:** waste, water, winner, write, woman
+- **Letter:** `w`, **Position:** `2`, **Words:** awesome, awake, aware, switch, sword
+- **Letter:** `w`, **Position:** `3`, **Words:** toward, tower, always, jewel, power
+- **Letter:** `w`, **Position:** `4`, **Words:** between, brown, crowd, flower, forward
+- **Letter:** `w`, **Position:** `5`, **Words:** arrow, allow, elbow, below, throw
+- **Letter:** `w`, **Position:** `6`, **Words:** yellow, meadow, shadow, window, review
+- **Letter:** `x`, **Position:** `2`, **Words:** excuse, excite, exchange, exhaust, example
+- **Letter:** `x`, **Position:** `4`, **Words:** epoxy, flexible
+- **Letter:** `x`, **Position:** `6`, **Words:** context, matrix
+- **Letter:** `y`, **Position:** `1`, **Words:** young, yellow, youth
+- **Letter:** `y`, **Position:** `2`, **Words:** cycle, symbol, dynamic, system, mystique
+- **Letter:** `y`, **Position:** `3`, **Words:** layer, physique, crystal, loyal, rhythm
+- **Letter:** `y`, **Position:** `4`, **Words:** vinyl, canyon, bicycle
+- **Letter:** `y`, **Position:** `5`, **Words:** delay, epoxy, fairy, honey, mercy
+- **Letter:** `y`, **Position:** `6`, **Words:** survey, energy, deputy, colony, valley
 - **Letter:** `z`, **Position:** `3`, **Words:** pizza, puzzle
-- **Letter:** `z`, **Position:** `4`, **Words:** prize, blaze, amazing, puzzle, pizza
-- **Letter:** `z`, **Position:** `5`, **Words:** freeze, citizen, bronze
+- **Letter:** `z`, **Position:** `4`, **Words:** puzzle, amazing, blaze, pizza, prize
+- **Letter:** `z`, **Position:** `5`, **Words:** bronze, citizen, freeze
 
 </details>
 
@@ -8066,162 +8061,162 @@ Total missing words: `9`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Aristotle, Anne Frank, Andy Warhol, Adele, Amy Adams
-- **Letter:** `a`, **Position:** `2`, **Words:** Barack Obama, Karl Marx, Madonna, Daniel Craig, Camila Cabello
-- **Letter:** `a`, **Position:** `3`, **Words:** Liam Neeson, Heath Ledger, Isaac Newton, Blake Lively, Usain Bolt
-- **Letter:** `a`, **Position:** `4`, **Words:** Tina Turner, Donatello, Natalie Portman, Ben Affleck, Rihanna
-- **Letter:** `a`, **Position:** `5`, **Words:** Leonardo DiCaprio, Mariah Carey, Jim Carrey, Zendaya, Neil Armstrong
-- **Letter:** `a`, **Position:** `6`, **Words:** Karl Marx, Hugh Jackman, Lady Gaga, Bill Gates, Mark Hamill
-- **Letter:** `b`, **Position:** `1`, **Words:** Barack Obama, Ben Affleck, Blake Lively, Bruno Mars, Beyonce
-- **Letter:** `b`, **Position:** `2`, **Words:** Ibrahim Ferrer, Abdul Kalam, Abraham Lincoln
-- **Letter:** `b`, **Position:** `3`, **Words:** Bob Dylan, Robert De Niro, Robert Downey Jr., Iqbal Masih, Albert Einstein
-- **Letter:** `b`, **Position:** `4`, **Words:** Tim Burton, Joe Biden, Rembrandt, Yul Brynner, Xzibit
-- **Letter:** `b`, **Position:** `5`, **Words:** Tony Blair, Joan Baez, John Belushi, Drew Barrymore, Tony Bennett
-- **Letter:** `b`, **Position:** `6`, **Words:** Elizabeth II, David Bowie, Usain Bolt, James Baldwin, Garth Brooks
-- **Letter:** `c`, **Position:** `1`, **Words:** Confucius, Chris Evans, Celine Dion, Camila Cabello, Cleopatra
-- **Letter:** `c`, **Position:** `2`, **Words:** Scarlett Johansson, Octavia Spencer, J. Cole, Ice Cube
-- **Letter:** `c`, **Position:** `3`, **Words:** Victor Hugo, Oscar Wilde, Michelangelo, Rachel McAdams, Mick Jagger
-- **Letter:** `c`, **Position:** `4`, **Words:** Jim Carrey, Malcolm X, Tom Cruise, Grace Kelly, Eric Clapton
-- **Letter:** `c`, **Position:** `5`, **Words:** Sean Connery, Kurt Cobain, Isaac Newton, Ian McKellen, Barack Obama
-- **Letter:** `c`, **Position:** `6`, **Words:** Confucius, Beyonce, Paul McCartney, Henry Cavill, Steve Carell
-- **Letter:** `d`, **Position:** `1`, **Words:** Donatello, David Bowie, Diego Rivera, Drake, DJ Khaled
-- **Letter:** `d`, **Position:** `2`, **Words:** Ed Sheeran, Adam Sandler, Adele, Eddie Murphy, Adam Driver
-- **Letter:** `d`, **Position:** `3`, **Words:** Madonna, Eddie Murphy, Lady Gaga, Ridley Scott, Andy Warhol
-- **Letter:** `d`, **Position:** `4`, **Words:** Vin Diesel, Brad Pitt, Zendaya, Bob Dylan, Frida Kahlo
-- **Letter:** `d`, **Position:** `5`, **Words:** Amy Adams, Walt Disney, David Bowie, Jared Leto, Matt Damon
-- **Letter:** `d`, **Position:** `6`, **Words:** James Dean, Snoop Dogg, Alfred Nobel, Donald Trump, Joe Biden
-- **Letter:** `e`, **Position:** `1`, **Words:** Eminem, Elton John, Eva Mendes, Eric Clapton, Elizabeth II
-- **Letter:** `e`, **Position:** `2`, **Words:** Meryl Streep, George Lucas, Kevin Hart, Sean Connery, Leonardo DiCaprio
-- **Letter:** `e`, **Position:** `3`, **Words:** Diego Rivera, Adele, Cleopatra, Joe Biden, The Weeknd
-- **Letter:** `e`, **Position:** `4`, **Words:** Robert De Niro, Anne Frank, Rupert Grint, Usher, Homer Simpson
-- **Letter:** `e`, **Position:** `5`, **Words:** Ridley Scott, Eminem, Ed Sheeran, Steve Jobs, Alfred Nobel
-- **Letter:** `e`, **Position:** `6`, **Words:** Liam Neeson, John Lennon, Katy Perry, George Lucas, Donatello
-- **Letter:** `f`, **Position:** `1`, **Words:** Frida Kahlo, Francisco Pizarro, Frederic Chopin, Francis Ford Coppola, Famke Janssen
-- **Letter:** `f`, **Position:** `2`, **Words:** Efron Zac, Efren Ramirez, Afua Hirsch
+- **Letter:** `a`, **Position:** `1`, **Words:** Adele, Al Pacino, Akon, Aristotle, Amy Adams
+- **Letter:** `a`, **Position:** `2`, **Words:** Malcolm X, Camila Cabello, Madonna, Jamie Foxx, Kanye West
+- **Letter:** `a`, **Position:** `3`, **Words:** Alan Turing, Eva Mendes, Adam Sandler, Grace Kelly, Keanu Reeves
+- **Letter:** `a`, **Position:** `4`, **Words:** Oprah Winfrey, Rosa Parks, Barack Obama, Natalie Portman, Al Pacino
+- **Letter:** `a`, **Position:** `5`, **Words:** Elizabeth II, Mariah Carey, Jim Carrey, Elijah Wood, Leonardo DiCaprio
+- **Letter:** `a`, **Position:** `6`, **Words:** Adam Sandler, Karl Marx, Hugh Jackman, Mark Hamill, Amy Adams
+- **Letter:** `b`, **Position:** `1`, **Words:** Bob Dylan, Ben Stiller, Bruno Mars, Brad Pitt, Billy Joel
+- **Letter:** `b`, **Position:** `2`, **Words:** Abdul Kalam, Ibrahim Ferrer, Abraham Lincoln
+- **Letter:** `b`, **Position:** `3`, **Words:** Robert De Niro, Bob Dylan, Albert Einstein, Robert Hooke, Iqbal Masih
+- **Letter:** `b`, **Position:** `4`, **Words:** Tim Burton, Joe Biden, Xzibit, Rembrandt, Yul Brynner
+- **Letter:** `b`, **Position:** `5`, **Words:** Joan Baez, Tony Blair, Sean Bean, Drew Barrymore, Tony Bennett
+- **Letter:** `b`, **Position:** `6`, **Words:** Usain Bolt, David Bowie, Elizabeth II, Jason Bateman, Elizabeth Taylor
+- **Letter:** `c`, **Position:** `1`, **Words:** Chris Evans, Celine Dion, Cleopatra, Confucius, Camila Cabello
+- **Letter:** `c`, **Position:** `2`, **Words:** J. Cole, Ice Cube, Scarlett Johansson, Octavia Spencer
+- **Letter:** `c`, **Position:** `3`, **Words:** Mick Jagger, Oscar Wilde, Victor Hugo, Rachel McAdams, Michelangelo
+- **Letter:** `c`, **Position:** `4`, **Words:** Jim Carrey, Grace Kelly, Tom Cruise, Malcolm X, Eric Clapton
+- **Letter:** `c`, **Position:** `5`, **Words:** Kurt Cobain, Sean Connery, Barack Obama, Isaac Newton, Prince Harry
+- **Letter:** `c`, **Position:** `6`, **Words:** Henry Cavill, Beyonce, Confucius, Paul McCartney, Jessica Chastain
+- **Letter:** `d`, **Position:** `1`, **Words:** DJ Khaled, Dave Grohl, Diego Rivera, Donald Trump, Daniel Craig
+- **Letter:** `d`, **Position:** `2`, **Words:** Eddie Murphy, Ed Sheeran, Adele, Adam Sandler, Edgar Degas
+- **Letter:** `d`, **Position:** `3`, **Words:** Eddie Murphy, Ridley Scott, Lady Gaga, Madonna, Andy Warhol
+- **Letter:** `d`, **Position:** `4`, **Words:** Bob Dylan, Frida Kahlo, Brad Pitt, Vin Diesel, Zendaya
+- **Letter:** `d`, **Position:** `5`, **Words:** David Bowie, Matt Damon, Walt Disney, Amy Adams, Jared Leto
+- **Letter:** `d`, **Position:** `6`, **Words:** Joe Biden, Donald Trump, Alfred Nobel, Snoop Dogg, James Dean
+- **Letter:** `e`, **Position:** `1`, **Words:** Emma Stone, Elton John, Elon Musk, Ed Sheeran, Eminem
+- **Letter:** `e`, **Position:** `2`, **Words:** Zendaya, Meryl Streep, Celine Dion, Sean Connery, Kevin Hart
+- **Letter:** `e`, **Position:** `3`, **Words:** Adele, Cleopatra, The Weeknd, Steve Jobs, Joe Biden
+- **Letter:** `e`, **Position:** `4`, **Words:** James Dean, Dave Grohl, Roger Moore, Jared Leto, Rupert Grint
+- **Letter:** `e`, **Position:** `5`, **Words:** Grace Kelly, Ridley Scott, Alfred Nobel, Eminem, Eddie Murphy
+- **Letter:** `e`, **Position:** `6`, **Words:** Liam Neeson, Donatello, George Lucas, John Lennon, The Weeknd
+- **Letter:** `f`, **Position:** `1`, **Words:** Frida Kahlo, Freddie Mercury, Frank Sinatra, Friedrich Nietzsche, Francis Crick
+- **Letter:** `f`, **Position:** `2`, **Words:** Efren Ramirez, Afua Hirsch, Efron Zac
 - **Letter:** `f`, **Position:** `3`, **Words:** Alfred Nobel, Nefertiti, Alfred Hitchcock
-- **Letter:** `f`, **Position:** `4`, **Words:** Confucius, Wolfgang Amadeus Mozart, Ishfaq Ahmad, Wolfgang Puck, Ashfaq Ahmed
-- **Letter:** `f`, **Position:** `5`, **Words:** Ben Affleck, Anne Frank, Zac Efron, Will Ferrell, Tina Fey
-- **Letter:** `f`, **Position:** `6`, **Words:** Jamie Foxx, Ben Affleck, Chris Farley, Renee Fleming, Colin Firth
-- **Letter:** `g`, **Position:** `1`, **Words:** George Lucas, Grace Kelly, Gal Gadot, Garth Brooks, George Orwell
-- **Letter:** `g`, **Position:** `2`, **Words:** Agatha Christie, H.G. Wells, Igor Stravinsky
-- **Letter:** `g`, **Position:** `3`, **Words:** Hugh Jackman, Roger Moore, Al Gore, Edgar Degas, Edgar Allan Poe
-- **Letter:** `g`, **Position:** `4`, **Words:** Diego Rivera, Ringo Starr, Margot Robbie, Margaret Thatcher, Morgan Freeman
-- **Letter:** `g`, **Position:** `5`, **Words:** Dave Grohl, Bill Gates, George Lucas, Ryan Gosling, Lady Gaga
-- **Letter:** `g`, **Position:** `6`, **Words:** Shuri Gurira, Tim McGraw, Greta Garbo, Ludwig van Beethoven, Amerigo Vespucci
-- **Letter:** `h`, **Position:** `1`, **Words:** Heath Ledger, Henry Cavill, Homer Simpson, Hugh Jackman, Harry Styles
-- **Letter:** `h`, **Position:** `2`, **Words:** The Weeknd, Chris Evans, Shawn Mendes, Shania Twain, Charles Darwin
-- **Letter:** `h`, **Position:** `3`, **Words:** Johnny Depp, John Lennon, Usher, Rihanna, Johnny Cash
-- **Letter:** `h`, **Position:** `4`, **Words:** DJ Khaled, Rachel McAdams, Hugh Jackman, Michelangelo, Ed Sheeran
-- **Letter:** `h`, **Position:** `5`, **Words:** Heath Ledger, Oprah Winfrey, Mark Hamill, Uma Thurman, Jonah Hill
-- **Letter:** `h`, **Position:** `6`, **Words:** Elijah Wood, Mariah Carey, Jonah Hill, Kevin Hart, Mary Shelley
-- **Letter:** `i`, **Position:** `1`, **Words:** Isaac Newton, Ian McKellen, Immanuel Kant, Iqbal Masih, Ishfaq Ahmad
-- **Letter:** `i`, **Position:** `2`, **Words:** Ringo Starr, Liv Tyler, Liam Neeson, Rihanna, Mick Jagger
-- **Letter:** `i`, **Position:** `3`, **Words:** Neil Armstrong, Eminem, Eric Clapton, Prince Harry, Elizabeth II
-- **Letter:** `i`, **Position:** `4`, **Words:** Eddie Murphy, Janis Joplin, David Bowie, Mariah Carey, Camila Cabello
-- **Letter:** `i`, **Position:** `5`, **Words:** Vin Diesel, Joe Biden, Shania Twain, Dua Lipa, Amerigo Vespucci
-- **Letter:** `i`, **Position:** `6`, **Words:** Al Pacino, Natalie Portman, Kate Winslet, Walt Disney, Ben Stiller
-- **Letter:** `j`, **Position:** `1`, **Words:** J.K. Rowling, James Dean, Jay-Z, Jared Leto, Jonah Hill
+- **Letter:** `f`, **Position:** `4`, **Words:** Confucius, Ashfaq Ahmed, Wolfgang Amadeus Mozart, Wolfgang Puck, Ishfaq Ahmad
+- **Letter:** `f`, **Position:** `5`, **Words:** Ben Affleck, Anne Frank, Zac Efron, John F. Kennedy, Will Ferrell
+- **Letter:** `f`, **Position:** `6`, **Words:** Ben Affleck, Jamie Foxx, Jennifer Lawrence, Chris Farley, Colin Firth
+- **Letter:** `g`, **Position:** `1`, **Words:** George Lucas, Grace Kelly, George Orwell, George W. Bush, Greta Garbo
+- **Letter:** `g`, **Position:** `2`, **Words:** Igor Stravinsky, Agatha Christie, H.G. Wells
+- **Letter:** `g`, **Position:** `3`, **Words:** Roger Moore, Hugh Jackman, Angelina Jolie, Edgar Allan Poe, Angela Bassett
+- **Letter:** `g`, **Position:** `4`, **Words:** Diego Rivera, Ringo Starr, Margot Robbie, Sergei Rachmaninoff, Diego Velazquez
+- **Letter:** `g`, **Position:** `5`, **Words:** George Lucas, Ryan Gosling, Dave Grohl, Lady Gaga, Bill Gates
+- **Letter:** `g`, **Position:** `6`, **Words:** Amerigo Vespucci, Shuri Gurira, Ludwig van Beethoven, Greta Garbo, Karen Gillan
+- **Letter:** `h`, **Position:** `1`, **Words:** Homer Simpson, Harry Styles, Henry Cavill, Heath Ledger, Hugh Jackman
+- **Letter:** `h`, **Position:** `2`, **Words:** The Weeknd, Chris Evans, Shawn Mendes, Shania Twain, Chris Pine
+- **Letter:** `h`, **Position:** `3`, **Words:** Johnny Depp, Usher, John Lennon, Rihanna, John Williams
+- **Letter:** `h`, **Position:** `4`, **Words:** Hugh Jackman, Rachel McAdams, DJ Khaled, Michelangelo, Ed Sheeran
+- **Letter:** `h`, **Position:** `5`, **Words:** Oprah Winfrey, Jonah Hill, Uma Thurman, Mark Hamill, Heath Ledger
+- **Letter:** `h`, **Position:** `6`, **Words:** Kevin Hart, Mariah Carey, Jonah Hill, Elijah Wood, Chris Hemsworth
+- **Letter:** `i`, **Position:** `1`, **Words:** Isaac Newton, Ian McKellen, Iqbal Allama, Ivan the Terrible, Iqra Aziz
+- **Letter:** `i`, **Position:** `2`, **Words:** Tim Burton, Bill Gates, Ringo Starr, Tina Turner, Victor Hugo
+- **Letter:** `i`, **Position:** `3`, **Words:** Elizabeth II, Eric Clapton, Prince Harry, Eminem, Aristotle
+- **Letter:** `i`, **Position:** `4`, **Words:** Usain Bolt, Mariah Carey, Eddie Murphy, Janis Joplin, Daniel Craig
+- **Letter:** `i`, **Position:** `5`, **Words:** Joe Biden, Shania Twain, Dua Lipa, Vin Diesel, Antoine Lavoisier
+- **Letter:** `i`, **Position:** `6`, **Words:** Natalie Portman, Walt Disney, Ben Stiller, Al Pacino, Kate Winslet
+- **Letter:** `j`, **Position:** `1`, **Words:** Jonah Hill, Jim Carrey, Joan Baez, J.K. Rowling, Joe Biden
 - **Letter:** `j`, **Position:** `2`, **Words:** DJ Khaled, DJ Snake, Django Reinhardt
-- **Letter:** `j`, **Position:** `3`, **Words:** Majid Michel, Xi Jinping, Majid Jordan
-- **Letter:** `j`, **Position:** `4`, **Words:** Elijah Wood, Benjamin Franklin, Trajan
-- **Letter:** `j`, **Position:** `5`, **Words:** Mick Jagger, Hugh Jackman, Taraji P. Henson, Jean-Jacques Rousseau, Carl Jung
-- **Letter:** `j`, **Position:** `6`, **Words:** Billy Joel, Janis Joplin, Elton John, Steve Jobs, Majid Jordan
-- **Letter:** `k`, **Position:** `1`, **Words:** Kurt Cobain, Keanu Reeves, Kanye West, Karl Marx, Katy Perry
-- **Letter:** `k`, **Position:** `2`, **Words:** Akon, J.K. Rowling, Akshay Kumar, Akira Kurosawa
-- **Letter:** `k`, **Position:** `3`, **Words:** Nikola Tesla, DJ Khaled, Yoko Ono, Nikolaj Coster-Waldau
-- **Letter:** `k`, **Position:** `4`, **Words:** Mark Hamill, Blake Lively, Mick Jagger, Drake, Blake Shelton
-- **Letter:** `k`, **Position:** `5`, **Words:** Frank Sinatra, Franklin D. Roosevelt
-- **Letter:** `k`, **Position:** `6`, **Words:** Barack Obama, Grace Kelly, Ian McKellen, Frida Kahlo, John F. Kennedy
-- **Letter:** `l`, **Position:** `1`, **Words:** Liam Neeson, Liv Tyler, Lady Gaga, Leonardo DiCaprio, Luciano Pavarotti
-- **Letter:** `l`, **Position:** `2`, **Words:** Alfred Nobel, Elton John, Cleopatra, Blake Lively, Alan Turing
-- **Letter:** `l`, **Position:** `3`, **Words:** Will Smith, Celine Dion, Billy Joel, Malcolm X, Selena Gomez
-- **Letter:** `l`, **Position:** `4`, **Words:** Neil Armstrong, Bill Gates, Karl Marx, Will Smith, Paul McCartney
-- **Letter:** `l`, **Position:** `5`, **Words:** John Lennon, Nikola Tesla, Meryl Streep, Donald Trump, Natalie Portman
-- **Letter:** `l`, **Position:** `6`, **Words:** Buzz Aldrin, Michelangelo, Jared Leto, Daniel Craig, Bob Dylan
-- **Letter:** `m`, **Position:** `1`, **Words:** Meryl Streep, Michelangelo, Matt Damon, Mark Hamill, Madonna
-- **Letter:** `m`, **Position:** `2`, **Words:** Amy Adams, Eminem, Emma Stone, Uma Thurman, Emily Dickinson
-- **Letter:** `m`, **Position:** `3`, **Words:** Tom Cruise, Tim Burton, Emma Stone, Jamie Foxx, James Dean
-- **Letter:** `m`, **Position:** `4`, **Words:** Eva Mendes, Liam Neeson, Adam Sandler, Ian McKellen, Thomas Jefferson
-- **Letter:** `m`, **Position:** `5`, **Words:** Paul McCartney, Karl Marx, Elon Musk, Jeremy Renner, John Mayer
-- **Letter:** `m`, **Position:** `6`, **Words:** Eminem, Roger Moore, Eddie Murphy, Bruno Mars, Shawn Mendes
-- **Letter:** `n`, **Position:** `1`, **Words:** Natalie Portman, Neil Armstrong, Nikola Tesla, Napoleon Bonaparte, Norman Rockwell
-- **Letter:** `n`, **Position:** `2`, **Words:** Anne Frank, Snoop Dogg, Andy Warhol, Antoine Lavoisier, Antonio Vivaldi
-- **Letter:** `n`, **Position:** `3`, **Words:** Ian McKellen, Kanye West, Donatello, Tony Blair, Jonah Hill
-- **Letter:** `n`, **Position:** `4`, **Words:** Leonardo DiCaprio, Joan Baez, John Lennon, Alan Turing, Eminem
-- **Letter:** `n`, **Position:** `5`, **Words:** Madonna, Liam Neeson, Shawn Mendes, Rihanna, Elton John
-- **Letter:** `n`, **Position:** `6`, **Words:** Isaac Newton, Yoko Ono, Rihanna, Eva Mendes, Madonna
-- **Letter:** `o`, **Position:** `1`, **Words:** Oprah Winfrey, Oscar Wilde, Orlando Bloom, Octavia Spencer, Ozzy Osbourne
-- **Letter:** `o`, **Position:** `2`, **Words:** Rosa Parks, Confucius, Joan Baez, Tony Blair, Joe Biden
-- **Letter:** `o`, **Position:** `3`, **Words:** Leonardo DiCaprio, Elon Musk, Snoop Dogg, Akon, George Lucas
-- **Letter:** `o`, **Position:** `4`, **Words:** Madonna, Cleopatra, Beyonce, Nikola Tesla, J.K. Rowling
-- **Letter:** `o`, **Position:** `5`, **Words:** Yoko Ono, Bruno Mars, Diego Rivera, Victor Hugo, Ringo Starr
-- **Letter:** `o`, **Position:** `6`, **Words:** Ryan Gosling, Aristotle, Sean Connery, Kurt Cobain, Anne Boleyn
-- **Letter:** `p`, **Position:** `1`, **Words:** Paul McCartney, Prince Harry, Paul Newman, Pablo Picasso, Princess Diana
-- **Letter:** `p`, **Position:** `2`, **Words:** Oprah Winfrey, Aparna Nancherla, Ophelie Winter
-- **Letter:** `p`, **Position:** `3`, **Words:** Rupert Grint, Al Pacino, Lupita Nyong'o, Sophia Loren, Napoleon Bonaparte
-- **Letter:** `p`, **Position:** `4`, **Words:** Stephen Hawking, Caspar David Friedrich, Humphrey Bogart, Amy Poehler, Harper Lee
-- **Letter:** `p`, **Position:** `5`, **Words:** Snoop Dogg, Rosa Parks, Katy Perry, Cleopatra, Brad Pitt
-- **Letter:** `p`, **Position:** `6`, **Words:** Dua Lipa, Elvis Presley, Xi Jinping, Giuseppe Verdi, Pablo Picasso
-- **Letter:** `q`, **Position:** `1`, **Words:** Queen Victoria, Queen Elizabeth II, Quentin Tarantino
-- **Letter:** `q`, **Position:** `2`, **Words:** Iqbal Allama, Iqra Aziz, Iqbal Masih
-- **Letter:** `q`, **Position:** `3`, **Words:** Miquel Barcelo, Saquon Barkley
-- **Letter:** `q`, **Position:** `4`, **Words:** Jacques Cousteau, Jacqueline Kennedy, Joaquin Phoenix
-- **Letter:** `q`, **Position:** `5`, **Words:** Mary, Queen of Scots, Enrique Iglesias, Monique van de Ven
+- **Letter:** `j`, **Position:** `3`, **Words:** Xi Jinping, Majid Michel, Majid Jordan
+- **Letter:** `j`, **Position:** `4`, **Words:** Elijah Wood, Trajan, Benjamin Franklin
+- **Letter:** `j`, **Position:** `5`, **Words:** Hugh Jackman, Mick Jagger, Taraji P. Henson, Carl Jung, Jean-Jacques Rousseau
+- **Letter:** `j`, **Position:** `6`, **Words:** Elton John, Billy Joel, Janis Joplin, Steve Jobs, Majid Jordan
+- **Letter:** `k`, **Position:** `1`, **Words:** Katy Perry, Keanu Reeves, Kurt Cobain, Kate Winslet, Kevin Hart
+- **Letter:** `k`, **Position:** `2`, **Words:** J.K. Rowling, Akon, Akira Kurosawa, Akshay Kumar
+- **Letter:** `k`, **Position:** `3`, **Words:** DJ Khaled, Yoko Ono, Nikola Tesla, Nikolaj Coster-Waldau
+- **Letter:** `k`, **Position:** `4`, **Words:** Mick Jagger, Blake Lively, Mark Hamill, Drake, Mark Zuckerberg
+- **Letter:** `k`, **Position:** `5`, **Words:** Franklin D. Roosevelt, Frank Sinatra
+- **Letter:** `k`, **Position:** `6`, **Words:** Barack Obama, Ian McKellen, Frida Kahlo, Grace Kelly, Dan Aykroyd
+- **Letter:** `l`, **Position:** `1`, **Words:** Liv Tyler, Liam Neeson, Lady Gaga, Leonardo DiCaprio, Leo Tolstoy
+- **Letter:** `l`, **Position:** `2`, **Words:** Elijah Wood, Alan Turing, Cleopatra, Al Pacino, Elton John
+- **Letter:** `l`, **Position:** `3`, **Words:** Selena Gomez, Will Smith, Bill Gates, Malcolm X, Billy Joel
+- **Letter:** `l`, **Position:** `4`, **Words:** Karl Marx, Paul McCartney, Adele, Neil Armstrong, Billy Joel
+- **Letter:** `l`, **Position:** `5`, **Words:** Nikola Tesla, Camila Cabello, Donald Trump, Natalie Portman, Meryl Streep
+- **Letter:** `l`, **Position:** `6`, **Words:** Michelangelo, Buzz Aldrin, Liv Tyler, Rachel McAdams, Jared Leto
+- **Letter:** `m`, **Position:** `1`, **Words:** Mark Hamill, Matt Damon, Malcolm X, Mariah Carey, Madonna
+- **Letter:** `m`, **Position:** `2`, **Words:** Uma Thurman, Amy Adams, Eminem, Emma Stone, Amerigo Vespucci
+- **Letter:** `m`, **Position:** `3`, **Words:** Tim Burton, Jamie Foxx, Camila Cabello, Emma Stone, James Dean
+- **Letter:** `m`, **Position:** `4`, **Words:** Adam Sandler, Ian McKellen, Liam Neeson, Eva Mendes, Adam Driver
+- **Letter:** `m`, **Position:** `5`, **Words:** Paul McCartney, Elon Musk, Karl Marx, Ezra Miller, Ewan McGregor
+- **Letter:** `m`, **Position:** `6`, **Words:** Roger Moore, Bruno Mars, Shawn Mendes, Will Smith, Eddie Murphy
+- **Letter:** `n`, **Position:** `1`, **Words:** Natalie Portman, Nikola Tesla, Neil Armstrong, Nigella Lawson, Napoleon Bonaparte
+- **Letter:** `n`, **Position:** `2`, **Words:** Snoop Dogg, Andy Warhol, Anne Frank, Angela Bassett, Andrea Bocelli
+- **Letter:** `n`, **Position:** `3`, **Words:** Henry Cavill, Janis Joplin, Kanye West, Zendaya, Donatello
+- **Letter:** `n`, **Position:** `4`, **Words:** Sean Connery, Alan Turing, Elon Musk, Eminem, Ryan Gosling
+- **Letter:** `n`, **Position:** `5`, **Words:** Beyonce, Shawn Mendes, Rihanna, Johnny Depp, Usain Bolt
+- **Letter:** `n`, **Position:** `6`, **Words:** Isaac Newton, Madonna, Yoko Ono, Rihanna, Eva Mendes
+- **Letter:** `o`, **Position:** `1`, **Words:** Oprah Winfrey, Oscar Wilde, Orson Welles, Oscar Isaac, Octavia Spencer
+- **Letter:** `o`, **Position:** `2`, **Words:** Yoko Ono, Tony Blair, Bob Dylan, Johnny Depp, Homer Simpson
+- **Letter:** `o`, **Position:** `3`, **Words:** Snoop Dogg, Akon, George Lucas, Elon Musk, Leonardo DiCaprio
+- **Letter:** `o`, **Position:** `4`, **Words:** Cleopatra, Beyonce, Snoop Dogg, Yoko Ono, Madonna
+- **Letter:** `o`, **Position:** `5`, **Words:** Victor Hugo, Ringo Starr, Taylor Swift, Yoko Ono, Diego Rivera
+- **Letter:** `o`, **Position:** `6`, **Words:** Kurt Cobain, Sean Connery, Ryan Gosling, Aristotle, John Boyega
+- **Letter:** `p`, **Position:** `1`, **Words:** Prince Harry, Paul McCartney, Plato, Princess Diana, Post Malone
+- **Letter:** `p`, **Position:** `2`, **Words:** Oprah Winfrey, Ophelie Winter, Aparna Nancherla
+- **Letter:** `p`, **Position:** `3`, **Words:** Rupert Grint, Al Pacino, Sophia Loren, Raphael, Sophie Turner
+- **Letter:** `p`, **Position:** `4`, **Words:** Caspar David Friedrich, Harper Lee, Stephen Hawking, Max Planck, Humphrey Bogart
+- **Letter:** `p`, **Position:** `5`, **Words:** Katy Perry, Snoop Dogg, Brad Pitt, Rosa Parks, Cleopatra
+- **Letter:** `p`, **Position:** `6`, **Words:** Dua Lipa, Elvis Presley, Pablo Picasso, Giuseppe Verdi, Chris Pratt
+- **Letter:** `q`, **Position:** `1`, **Words:** Quentin Tarantino, Queen Victoria, Queen Elizabeth II
+- **Letter:** `q`, **Position:** `2`, **Words:** Iqbal Masih, Iqra Aziz, Iqbal Allama
+- **Letter:** `q`, **Position:** `3`, **Words:** Saquon Barkley, Miquel Barcelo
+- **Letter:** `q`, **Position:** `4`, **Words:** Jacqueline Kennedy, Jacques Cousteau, Joaquin Phoenix
+- **Letter:** `q`, **Position:** `5`, **Words:** Enrique Iglesias, Monique van de Ven, Mary, Queen of Scots
 - **Letter:** `q`, **Position:** `6`, **Words:** Ashfaq Ahmed, Ishfaq Ahmad
-- **Letter:** `r`, **Position:** `1`, **Words:** Ridley Scott, Rupert Grint, Ryan Gosling, Rihanna, Rosa Parks
-- **Letter:** `r`, **Position:** `2`, **Words:** Drake, Aristotle, Bruno Mars, Frida Kahlo, Prince Harry
-- **Letter:** `r`, **Position:** `3`, **Words:** Mark Hamill, Karl Marx, Oprah Winfrey, Harry Styles, Mariah Carey
-- **Letter:** `r`, **Position:** `4`, **Words:** George Lucas, Henry Cavill, Alfred Nobel, Harry Styles, Charles Dickens
-- **Letter:** `r`, **Position:** `5`, **Words:** Robert De Niro, Homer Simpson, Rupert Grint, Tom Cruise, Oscar Wilde
-- **Letter:** `r`, **Position:** `6`, **Words:** Leonardo DiCaprio, Jim Carrey, Keanu Reeves, Diego Rivera, Neil Armstrong
-- **Letter:** `s`, **Position:** `1`, **Words:** Steve Jobs, Sean Connery, Selena Gomez, Snoop Dogg, Shania Twain
-- **Letter:** `s`, **Position:** `2`, **Words:** Usher, Isaac Newton, Oscar Wilde, Usain Bolt, Ashfaq Ahmed
-- **Letter:** `s`, **Position:** `3`, **Words:** Ed Sheeran, Rosa Parks, Akshay Kumar, Gustav Klimt, Jessica Chastain
-- **Letter:** `s`, **Position:** `4`, **Words:** Aristotle, Ben Stiller, Nelson Mandela, Maisie Williams, Winston Duke
-- **Letter:** `s`, **Position:** `5`, **Words:** James Dean, Adam Sandler, Chris Evans, Emma Stone, Will Smith
-- **Letter:** `s`, **Position:** `6`, **Words:** Harry Styles, Homer Simpson, Meryl Streep, Ringo Starr, Vanessa Hudgens
-- **Letter:** `t`, **Position:** `1`, **Words:** The Weeknd, Tina Turner, Taylor Swift, Tom Cruise, Tim Burton
-- **Letter:** `t`, **Position:** `2`, **Words:** Steve Jobs, Steve Carell, Stanley Kubrick, Attila the Hun, Stevie Wonder
-- **Letter:** `t`, **Position:** `3`, **Words:** Kate Winslet, Elton John, Matt Damon, Natalie Portman, Katy Perry
-- **Letter:** `t`, **Position:** `4`, **Words:** Walt Disney, Victor Hugo, Liv Tyler, Heath Ledger, Matt Damon
-- **Letter:** `t`, **Position:** `5`, **Words:** Ben Stiller, Aristotle, Tina Turner, Alan Turing, Donatello
-- **Letter:** `t`, **Position:** `6`, **Words:** Robert De Niro, Emma Stone, Rupert Grint, Socrates, Robert Hooke
+- **Letter:** `r`, **Position:** `1`, **Words:** Roger Moore, Rupert Grint, Rosa Parks, Ringo Starr, Rachel McAdams
+- **Letter:** `r`, **Position:** `2`, **Words:** Grace Kelly, Aristotle, Prince Harry, Brad Pitt, Drake
+- **Letter:** `r`, **Position:** `3`, **Words:** Barack Obama, Jared Leto, J.K. Rowling, Mark Hamill, Oprah Winfrey
+- **Letter:** `r`, **Position:** `4`, **Words:** George Lucas, Harry Styles, Alfred Nobel, Henry Cavill, Akira Kurosawa
+- **Letter:** `r`, **Position:** `5`, **Words:** Oscar Wilde, Usher, Rupert Grint, Robert De Niro, Roger Moore
+- **Letter:** `r`, **Position:** `6`, **Words:** Victor Hugo, Neil Armstrong, Taylor Swift, Anne Frank, Leonardo DiCaprio
+- **Letter:** `s`, **Position:** `1`, **Words:** Shawn Mendes, Sean Connery, Steve Jobs, Shania Twain, Snoop Dogg
+- **Letter:** `s`, **Position:** `2`, **Words:** Usain Bolt, Oscar Wilde, Isaac Newton, Usher, Ashfaq Ahmed
+- **Letter:** `s`, **Position:** `3`, **Words:** Ed Sheeran, Rosa Parks, Vasco da Gama, Justin Bieber, Jason Bateman
+- **Letter:** `s`, **Position:** `4`, **Words:** Ben Stiller, Aristotle, Kristen Wiig, Nelson Mandela, Reese Witherspoon
+- **Letter:** `s`, **Position:** `5`, **Words:** James Dean, Adam Sandler, Janis Joplin, Will Smith, Emma Stone
+- **Letter:** `s`, **Position:** `6`, **Words:** Meryl Streep, Homer Simpson, Harry Styles, Ringo Starr, Julius Caesar
+- **Letter:** `t`, **Position:** `1`, **Words:** Tom Cruise, Tony Blair, Taylor Swift, The Weeknd, Tina Turner
+- **Letter:** `t`, **Position:** `2`, **Words:** Steve Jobs, Attila the Hun, Steven Spielberg, Steve Carell, Stephen Hawking
+- **Letter:** `t`, **Position:** `3`, **Words:** Matt Damon, Elton John, Katy Perry, Kate Winslet, Natalie Portman
+- **Letter:** `t`, **Position:** `4`, **Words:** Victor Hugo, Matt Damon, Liv Tyler, Kurt Cobain, Walt Disney
+- **Letter:** `t`, **Position:** `5`, **Words:** Aristotle, Alan Turing, Tina Turner, Ben Stiller, Donatello
+- **Letter:** `t`, **Position:** `6`, **Words:** Rupert Grint, Emma Stone, Robert De Niro, Socrates, Greta Thunberg
 - **Letter:** `u`, **Position:** `1`, **Words:** Usher, Uma Thurman, Usain Bolt
-- **Letter:** `u`, **Position:** `2`, **Words:** Rupert Grint, Dua Lipa, Kurt Cobain, Hugh Jackman, Buzz Aldrin
-- **Letter:** `u`, **Position:** `3`, **Words:** Paul McCartney, Bruno Mars, Paul Rudd, Shuri Gurira, Giuseppe Verdi
-- **Letter:** `u`, **Position:** `4`, **Words:** Samuel L. Jackson, Claude Monet, Claude Debussy, Miquel Barcelo, Abdul Kalam
-- **Letter:** `u`, **Position:** `5`, **Words:** Confucius, Tim Burton, Keanu Reeves, Joaquin Phoenix, Julius Caesar
-- **Letter:** `u`, **Position:** `6`, **Words:** Tina Turner, Tom Cruise, Alan Turing, Uma Thurman, Elon Musk
-- **Letter:** `v`, **Position:** `1`, **Words:** Victor Hugo, Vin Diesel, Vince Vaughn, Vincent van Gogh, Viola Davis
+- **Letter:** `u`, **Position:** `2`, **Words:** Hugh Jackman, Kurt Cobain, Dua Lipa, Buzz Aldrin, Rupert Grint
+- **Letter:** `u`, **Position:** `3`, **Words:** Paul McCartney, Bruno Mars, Giuseppe Verdi, Maurice Ravel, Paul Rudd
+- **Letter:** `u`, **Position:** `4`, **Words:** Samuel L. Jackson, Claude Monet, Abdul Kalam, Claude Debussy, Saquon Barkley
+- **Letter:** `u`, **Position:** `5`, **Words:** Tim Burton, Confucius, Keanu Reeves, Arthur Conan Doyle, Joaquin Phoenix
+- **Letter:** `u`, **Position:** `6`, **Words:** Elon Musk, Tom Cruise, Alan Turing, Uma Thurman, Tina Turner
+- **Letter:** `v`, **Position:** `1`, **Words:** Victor Hugo, Vin Diesel, Vince Vaughn, Virginia Woolf, Viola Davis
 - **Letter:** `v`, **Position:** `2`, **Words:** Eva Mendes, Ivan the Terrible
-- **Letter:** `v`, **Position:** `3`, **Words:** Liv Tyler, Kevin Hart, Dave Grohl, David Bowie, Elvis Presley
-- **Letter:** `v`, **Position:** `4`, **Words:** Steve Jobs, Stevie Wonder, Chevy Chase, Steven Spielberg, Steve Carell
-- **Letter:** `v`, **Position:** `5`, **Words:** Octavia Spencer, Caravaggio
-- **Letter:** `v`, **Position:** `6`, **Words:** Diego Velazquez, Queen Victoria, Gustav Klimt, Vince Vaughn, Ada Lovelace
-- **Letter:** `w`, **Position:** `1`, **Words:** Will Smith, Walt Disney, Winston Duke, Will Ferrell, Whitney Houston
-- **Letter:** `w`, **Position:** `2`, **Words:** Owen Wilson, Ewan McGregor, Dwayne "The Rock" Johnson
-- **Letter:** `w`, **Position:** `3`, **Words:** Howard Stern, Lewis Hamilton, Axwell, H.G. Wells
-- **Letter:** `w`, **Position:** `4`, **Words:** Shawn Mendes, The Weeknd, Drew Barrymore, Ludwig van Beethoven
-- **Letter:** `w`, **Position:** `5`, **Words:** J.K. Rowling, Andy Warhol, Kate Winslet, John Wayne, Emma Watson
-- **Letter:** `w`, **Position:** `6`, **Words:** Kanye West, Oprah Winfrey, Oscar Wilde, Mark Twain, Orson Welles
+- **Letter:** `v`, **Position:** `3`, **Words:** David Bowie, Dave Grohl, Liv Tyler, Kevin Hart, Elvis Presley
+- **Letter:** `v`, **Position:** `4`, **Words:** Steve Jobs, Chevy Chase, Salvador Dali, Steve Carell, Steven Spielberg
+- **Letter:** `v`, **Position:** `5`, **Words:** Caravaggio, Octavia Spencer
+- **Letter:** `v`, **Position:** `6`, **Words:** Ada Lovelace, Vince Vaughn, Gustav Klimt, Queen Victoria, Diego Velazquez
+- **Letter:** `w`, **Position:** `1`, **Words:** Will Smith, Walt Disney, Winston Duke, Whitney Houston, Wright Brothers
+- **Letter:** `w`, **Position:** `2`, **Words:** Owen Wilson, Dwayne "The Rock" Johnson, Ewan McGregor
+- **Letter:** `w`, **Position:** `3`, **Words:** H.G. Wells, Lewis Hamilton, Axwell, Howard Stern
+- **Letter:** `w`, **Position:** `4`, **Words:** The Weeknd, Shawn Mendes, Ludwig van Beethoven, Drew Barrymore
+- **Letter:** `w`, **Position:** `5`, **Words:** Kate Winslet, Andy Warhol, J.K. Rowling, John Wayne, Emma Watson
+- **Letter:** `w`, **Position:** `6`, **Words:** Kanye West, Oprah Winfrey, Oscar Wilde, Grant Wood, Reese Witherspoon
 - **Letter:** `x`, **Position:** `1`, **Words:** Xi Jinping, Xzibit
 - **Letter:** `x`, **Position:** `2`, **Words:** Axelle Red, Axwell
-- **Letter:** `x`, **Position:** `3`, **Words:** Dax Shepard, Max Planck, Rex Tillerson
-- **Letter:** `x`, **Position:** `4`, **Words:** Alexander Fleming, Alexander Hamilton, Alexander the Great
-- **Letter:** `x`, **Position:** `5`, **Words:** Felix Mendelssohn, Felix Hernandez, Felix Baumgartner
-- **Letter:** `x`, **Position:** `6`, **Words:** Lennox Annie, Lennox Lewis, Maddox Jolie-Pitt
-- **Letter:** `y`, **Position:** `1`, **Words:** Yoko Ono, Yul Brynner, Yuri Gagarin
-- **Letter:** `y`, **Position:** `2`, **Words:** Ryan Gosling, Fyodor Dostoevsky, Ryan Reynolds, Ryan Seacrest, Pyotr Tchaikovsky
-- **Letter:** `y`, **Position:** `3`, **Words:** Amy Adams, Beyonce, Jay-Z, Taylor Swift, Amy Poehler
-- **Letter:** `y`, **Position:** `4`, **Words:** Lady Gaga, Andy Warhol, Meryl Streep, Katy Perry, Kanye West
-- **Letter:** `y`, **Position:** `5`, **Words:** Henry Cavill, Billy Joel, Liv Tyler, Bob Dylan, Harry Styles
+- **Letter:** `x`, **Position:** `3`, **Words:** Max Planck, Dax Shepard, Rex Tillerson
+- **Letter:** `x`, **Position:** `4`, **Words:** Alexander the Great, Alexander Hamilton, Alexander Fleming
+- **Letter:** `x`, **Position:** `5`, **Words:** Felix Baumgartner, Felix Hernandez, Felix Mendelssohn
+- **Letter:** `x`, **Position:** `6`, **Words:** Lennox Annie, Maddox Jolie-Pitt, Lennox Lewis
+- **Letter:** `y`, **Position:** `1`, **Words:** Yoko Ono, Yuri Gagarin, Yul Brynner
+- **Letter:** `y`, **Position:** `2`, **Words:** Ryan Gosling, Pyotr Tchaikovsky, Fyodor Dostoevsky, Ryan Reynolds, Tycho Brahe
+- **Letter:** `y`, **Position:** `3`, **Words:** Amy Adams, Beyonce, Taylor Swift, Jay-Z, Amy Poehler
+- **Letter:** `y`, **Position:** `4`, **Words:** Meryl Streep, Lady Gaga, Kanye West, Andy Warhol, Tony Blair
+- **Letter:** `y`, **Position:** `5`, **Words:** Liv Tyler, Harry Styles, Billy Joel, Henry Cavill, Bob Dylan
 - **Letter:** `y`, **Position:** `6`, **Words:** Ridley Scott, Johnny Depp, Zendaya, Audrey Hepburn, Johnny Cash
 - **Letter:** `z`, **Position:** `1`, **Words:** Zendaya, Zoe Saldana, Zora Neale Hurston, Zac Efron
-- **Letter:** `z`, **Position:** `2`, **Words:** Ozzy Osbourne, Xzibit, Ezra Miller
-- **Letter:** `z`, **Position:** `3`, **Words:** Buzz Aldrin, Bazzi, Ozzy Osbourne
-- **Letter:** `z`, **Position:** `4`, **Words:** Buzz Aldrin, Jay-Z, Elizabeth II, Elizabeth Taylor, Bazzi
+- **Letter:** `z`, **Position:** `2`, **Words:** Xzibit, Ozzy Osbourne, Ezra Miller
+- **Letter:** `z`, **Position:** `3`, **Words:** Buzz Aldrin, Ozzy Osbourne, Bazzi
+- **Letter:** `z`, **Position:** `4`, **Words:** Elizabeth II, Jay-Z, Buzz Aldrin, Bazzi, Elizabeth Taylor
 - **Letter:** `z`, **Position:** `5`, **Words:** Mark Zuckerberg, Franz Schubert
-- **Letter:** `z`, **Position:** `6`, **Words:** Suarez Tatiana, Efron Zac, Iqra Aziz
+- **Letter:** `z`, **Position:** `6`, **Words:** Efron Zac, Suarez Tatiana, Iqra Aziz
 
 </details>
 
@@ -8237,156 +8232,156 @@ Total missing words: `0`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** albatross, alligator, alpaca, axolotl, antelope
-- **Letter:** `a`, **Position:** `2`, **Words:** narwhal, salamander, parrot, canary, marmot
-- **Letter:** `a`, **Position:** `3`, **Words:** chamois, dragon, snail, seahorse, starfish
-- **Letter:** `a`, **Position:** `4`, **Words:** iguana, piranha, giraffe, salamander, canary
-- **Letter:** `a`, **Position:** `5`, **Words:** koala, caiman, leopard, cougar, zebra
-- **Letter:** `a`, **Position:** `6`, **Words:** alpaca, pelican, cheetah, elephant, impala
-- **Letter:** `b`, **Position:** `1`, **Words:** butterfly, badger, beetle, baboon, barracuda
-- **Letter:** `b`, **Position:** `2`, **Words:** ibex, ibis, abalone
-- **Letter:** `b`, **Position:** `3`, **Words:** albatross, zebu, bobcat, cobra, lobster
-- **Letter:** `b`, **Position:** `4`, **Words:** wombat, gerbil, rabbit, bumblebee, warbler
-- **Letter:** `b`, **Position:** `5`, **Words:** ladybug, caribou, gemsbok, lovebird, capybara
-- **Letter:** `b`, **Position:** `6`, **Words:** wallaby, blackbird, paddybird, waterbuck, kookaburra
-- **Letter:** `c`, **Position:** `1`, **Words:** caterpillar, crocodile, camel, centipede, canary
-- **Letter:** `c`, **Position:** `2`, **Words:** octopus, scorpion, scaup, screamer, echidna
-- **Letter:** `c`, **Position:** `3`, **Words:** raccoon, macaque, mockingbird, mackerel, ascaris
-- **Letter:** `c`, **Position:** `4`, **Words:** blackbird, bobcat, cricket, falcon, chicken
-- **Letter:** `c`, **Position:** `5`, **Words:** pelican, chinchilla, alpaca, oxpecker, ajonc
-- **Letter:** `c`, **Position:** `6`, **Words:** barracuda, ostrich, peacock, fennec, bandicoot
-- **Letter:** `d`, **Position:** `1`, **Words:** dragon, dolphin, dinosaur, donkey, dogfish
-- **Letter:** `d`, **Position:** `2`, **Words:** adder, addax, addra gazelle
-- **Letter:** `d`, **Position:** `3`, **Words:** badger, ladybug, hedgehog, widgeon, tadpole
-- **Letter:** `d`, **Position:** `4`, **Words:** woodpecker, spider, sardine, goldfish, condor
-- **Letter:** `d`, **Position:** `5`, **Words:** reindeer, bulldog, squid, hound, fjord horse
-- **Letter:** `d`, **Position:** `6`, **Words:** crocodile, lizard, kiskadee, mastodon, island fox
-- **Letter:** `e`, **Position:** `1`, **Words:** earthworm, eagle, elephant, egg-eating snake, egret
-- **Letter:** `e`, **Position:** `2`, **Words:** beetle, beaver, beagle, jellyfish, reindeer
-- **Letter:** `e`, **Position:** `3`, **Words:** elephant, beetle, cheetah, hyena, sheep
-- **Letter:** `e`, **Position:** `4`, **Words:** caterpillar, sheep, firefly, antelope, cheetah
-- **Letter:** `e`, **Position:** `5`, **Words:** monkey, beaver, donkey, hedgehog, butterfly
-- **Letter:** `e`, **Position:** `6`, **Words:** beetle, turtle, reindeer, woodpecker, coyote
-- **Letter:** `f`, **Position:** `1`, **Words:** flamingo, falcon, fox, firefly, fennec
-- **Letter:** `f`, **Position:** `2`, **Words:** afghan hound, effraie, affenpinscher, african elephant
+- **Letter:** `a`, **Position:** `1`, **Words:** anaconda, alpaca, alligator, axolotl, albatross
+- **Letter:** `a`, **Position:** `2`, **Words:** camel, badger, hamster, sardine, marmot
+- **Letter:** `a`, **Position:** `3`, **Words:** seahorse, blackbird, dragonfly, snake, snail
+- **Letter:** `a`, **Position:** `4`, **Words:** albatross, impala, macaque, iguana, salamander
+- **Letter:** `a`, **Position:** `5`, **Words:** wombat, leopard, jaguar, llama, zebra
+- **Letter:** `a`, **Position:** `6`, **Words:** pelican, alligator, salamander, elephant, alpaca
+- **Letter:** `b`, **Position:** `1`, **Words:** blowfish, beaver, barracuda, blackbird, bison
+- **Letter:** `b`, **Position:** `2`, **Words:** ibis, ibex, abalone
+- **Letter:** `b`, **Position:** `3`, **Words:** baboon, rabbit, bobcat, zebu, cobra
+- **Letter:** `b`, **Position:** `4`, **Words:** gerbil, wombat, rabbit, gibbon, numbat
+- **Letter:** `b`, **Position:** `5`, **Words:** caribou, ladybug, gemsbok, ovenbird, squab
+- **Letter:** `b`, **Position:** `6`, **Words:** wallaby, blackbird, spoonbill, wildebeest, waterbuck
+- **Letter:** `c`, **Position:** `1`, **Words:** caterpillar, catfish, cardinal, chinchilla, cheetah
+- **Letter:** `c`, **Position:** `2`, **Words:** octopus, scorpion, echidna, ocelot, screamer
+- **Letter:** `c`, **Position:** `3`, **Words:** mockingbird, macaque, raccoon, jacana, urchin
+- **Letter:** `c`, **Position:** `4`, **Words:** toucan, anaconda, blackbird, unicorn, bobcat
+- **Letter:** `c`, **Position:** `5`, **Words:** pelican, alpaca, chinchilla, pikachu, ajonc
+- **Letter:** `c`, **Position:** `6`, **Words:** ostrich, barracuda, peacock, fennec, wryneck
+- **Letter:** `d`, **Position:** `1`, **Words:** dolphin, dinosaur, dogfish, dragonfly, donkey
+- **Letter:** `d`, **Position:** `2`, **Words:** addra gazelle, addax, adder
+- **Letter:** `d`, **Position:** `3`, **Words:** ladybug, badger, hedgehog, redpoll, redstart
+- **Letter:** `d`, **Position:** `4`, **Words:** goldfish, woodpecker, spider, sardine, cardinal
+- **Letter:** `d`, **Position:** `5`, **Words:** bulldog, squid, reindeer, armadillo, jackdaw
+- **Letter:** `d`, **Position:** `6`, **Words:** crocodile, lizard, mastodon, kiskadee, island fox
+- **Letter:** `e`, **Position:** `1`, **Words:** elephant, eagle, earthworm, ephemera, echidna
+- **Letter:** `e`, **Position:** `2`, **Words:** jellyfish, penguin, zebu, beetle, hedgehog
+- **Letter:** `e`, **Position:** `3`, **Words:** beetle, hyena, sheep, cheetah, elephant
+- **Letter:** `e`, **Position:** `4`, **Words:** cheetah, camel, pigeon, viper, sheep
+- **Letter:** `e`, **Position:** `5`, **Words:** hedgehog, horse, badger, beaver, mouse
+- **Letter:** `e`, **Position:** `6`, **Words:** woodpecker, chicken, cricket, coyote, hamster
+- **Letter:** `f`, **Position:** `1`, **Words:** fox, falcon, firefly, flamingo, fennec
+- **Letter:** `f`, **Position:** `2`, **Words:** afghan hound, african elephant, effraie, affenpinscher
 - **Letter:** `f`, **Position:** `3`, **Words:** buffalo, affenpinscher, effraie, puffin
-- **Letter:** `f`, **Position:** `4`, **Words:** dogfish, buffalo, catfish, griffon, mouflon
-- **Letter:** `f`, **Position:** `5`, **Words:** goldfish, giraffe, firefly, griffon, bullfrog
-- **Letter:** `f`, **Position:** `6`, **Words:** giraffe, jellyfish, swordfish, angelfish
-- **Letter:** `g`, **Position:** `1`, **Words:** giraffe, gorilla, gerbil, goldfish, gazelle
-- **Letter:** `g`, **Position:** `2`, **Words:** iguana, agouti, egg-eating snake, egret
-- **Letter:** `g`, **Position:** `3`, **Words:** eagle, jaguar, dogfish, tiger, pigeon
-- **Letter:** `g`, **Position:** `4`, **Words:** beagle, pangolin, cougar, dragonfly, hedgehog
-- **Letter:** `g`, **Position:** `5`, **Words:** alligator, orangutan, vinegaroon, tanager, stingray
-- **Letter:** `g`, **Position:** `6`, **Words:** bandog, springbok, addra gazelle, springer, ivory gull
-- **Letter:** `h`, **Position:** `1`, **Words:** hyena, horse, hamster, hedgehog, hornet
-- **Letter:** `h`, **Position:** `2`, **Words:** rhino, sheep, chipmunk, whale, chamois
-- **Letter:** `h`, **Position:** `3`, **Words:** aphid, ephemera, aphis, echidna
-- **Letter:** `h`, **Position:** `4`, **Words:** seahorse, bushtit, nightingale, gopher, anchovy
-- **Letter:** `h`, **Position:** `5`, **Words:** elephant, narwhal, panther, dolphin, earthworm
-- **Letter:** `h`, **Position:** `6`, **Words:** chinchilla, piranha, hedgehog, grasshopper, thrasher
-- **Letter:** `i`, **Position:** `1`, **Words:** impala, iguana, ibis, ibex, indri
-- **Letter:** `i`, **Position:** `2`, **Words:** firefly, lizard, pigeon, giraffe, hippopotamus
-- **Letter:** `i`, **Position:** `3`, **Words:** reindeer, caiman, griffon, cricket, chicken
-- **Letter:** `i`, **Position:** `4`, **Words:** pelican, caribou, shrimp, squid, snail
-- **Letter:** `i`, **Position:** `5`, **Words:** sardine, rabbit, dogfish, gerbil, ostrich
-- **Letter:** `i`, **Position:** `6`, **Words:** chamois, dolphin, starfish, scorpion, penguin
-- **Letter:** `j`, **Position:** `1`, **Words:** jellyfish, jaguar, jacana, jackal, jaeger
-- **Letter:** `j`, **Position:** `2`, **Words:** djungarian hamster, ajaja, fjord horse, ajolote, ajonc
-- **Letter:** `j`, **Position:** `3`, **Words:** kajika frog, mojarra, pajama cardinalfish, pajero
-- **Letter:** `j`, **Position:** `4`, **Words:** fanjingshania, banjo catfish, baiji, ajaja
-- **Letter:** `j`, **Position:** `5`, **Words:** muntjak, bluejay, muntjac
+- **Letter:** `f`, **Position:** `4`, **Words:** dogfish, griffon, buffalo, catfish, swift
+- **Letter:** `f`, **Position:** `5`, **Words:** blowfish, giraffe, starfish, bullfrog, firefly
+- **Letter:** `f`, **Position:** `6`, **Words:** giraffe, jellyfish, angelfish, swordfish
+- **Letter:** `g`, **Position:** `1`, **Words:** griffon, gorilla, goldfish, giraffe, goose
+- **Letter:** `g`, **Position:** `2`, **Words:** iguana, egg-eating snake, agouti, egret
+- **Letter:** `g`, **Position:** `3`, **Words:** jaguar, tiger, pigeon, eagle, dogfish
+- **Letter:** `g`, **Position:** `4`, **Words:** beagle, cougar, kangaroo, dragonfly, hedgehog
+- **Letter:** `g`, **Position:** `5`, **Words:** orangutan, alligator, djungarian hamster, vinegaroon, quagga
+- **Letter:** `g`, **Position:** `6`, **Words:** addra gazelle, bandog, springbok, dugong, ivory gull
+- **Letter:** `h`, **Position:** `1`, **Words:** hamster, horse, hyena, hedgehog, hornet
+- **Letter:** `h`, **Position:** `2`, **Words:** chipmunk, rhino, chimp, chameleon, shark
+- **Letter:** `h`, **Position:** `3`, **Words:** echidna, ephemera, aphis, aphid
+- **Letter:** `h`, **Position:** `4`, **Words:** seahorse, nightjar, bushtit, afghan hound, urchin
+- **Letter:** `h`, **Position:** `5`, **Words:** panther, narwhal, elephant, earthworm, dolphin
+- **Letter:** `h`, **Position:** `6`, **Words:** piranha, hedgehog, chinchilla, pikachu, thrasher
+- **Letter:** `i`, **Position:** `1`, **Words:** impala, iguana, ibex, ibis, island fox
+- **Letter:** `i`, **Position:** `2`, **Words:** firefly, dinosaur, pigeon, viper, tiger
+- **Letter:** `i`, **Position:** `3`, **Words:** unicorn, caiman, griffon, cricket, chicken
+- **Letter:** `i`, **Position:** `4`, **Words:** alligator, caribou, squid, gorilla, snail
+- **Letter:** `i`, **Position:** `5`, **Words:** ostrich, flamingo, termite, centipede, catfish
+- **Letter:** `i`, **Position:** `6`, **Words:** goldfish, starfish, mosquito, penguin, blowfish
+- **Letter:** `j`, **Position:** `1`, **Words:** jellyfish, jaguar, jerboa, jackal, javelin
+- **Letter:** `j`, **Position:** `2`, **Words:** ajonc, djungarian hamster, ajaja, ajolote, fjord horse
+- **Letter:** `j`, **Position:** `3`, **Words:** mojarra, pajama cardinalfish, pajero, kajika frog
+- **Letter:** `j`, **Position:** `4`, **Words:** ajaja, fanjingshania, banjo catfish, baiji
+- **Letter:** `j`, **Position:** `5`, **Words:** muntjak, muntjac, bluejay
 - **Letter:** `j`, **Position:** `6`, **Words:** kinkajou, nightjar
-- **Letter:** `k`, **Position:** `1`, **Words:** kangaroo, koala, kowari, kookaburra, kittiwake
-- **Letter:** `k`, **Position:** `2`, **Words:** skink, skunk, okapi, akita
-- **Letter:** `k`, **Position:** `3`, **Words:** dikdik, yak, pikachu, pike, kakapo
-- **Letter:** `k`, **Position:** `4`, **Words:** donkey, snake, mockingbird, turkey, monkey
-- **Letter:** `k`, **Position:** `5`, **Words:** chicken, shark, blackbird, cricket, shrike
-- **Letter:** `k`, **Position:** `6`, **Words:** rhebok, kasarka, azawakh, rebuck, oxpecker
-- **Letter:** `l`, **Position:** `1`, **Words:** leopard, lizard, lobster, lemur, lynx
-- **Letter:** `l`, **Position:** `2`, **Words:** flamingo, alligator, alpaca, llama, albatross
-- **Letter:** `l`, **Position:** `3`, **Words:** bulldog, wallaby, dolphin, owl, pelican
-- **Letter:** `l`, **Position:** `4`, **Words:** wallaby, jellyfish, axolotl, bullfrog, whale
-- **Letter:** `l`, **Position:** `5`, **Words:** turtle, gazelle, impala, gorilla, antelope
-- **Letter:** `l`, **Position:** `6`, **Words:** gorilla, pangolin, gerbil, firefly, gazelle
-- **Letter:** `m`, **Position:** `1`, **Words:** mammoth, monkey, marmot, mockingbird, mouse
-- **Letter:** `m`, **Position:** `2`, **Words:** impala, umbrellabird, smelt, umbrella
+- **Letter:** `k`, **Position:** `1`, **Words:** koala, kangaroo, kingfisher, kestrel, kakapo
+- **Letter:** `k`, **Position:** `2`, **Words:** skunk, okapi, skink, akita
+- **Letter:** `k`, **Position:** `3`, **Words:** uakari, kakapo, yak, pike, dikdik
+- **Letter:** `k`, **Position:** `4`, **Words:** mockingbird, donkey, monkey, snake, turkey
+- **Letter:** `k`, **Position:** `5`, **Words:** cricket, blackbird, shark, chicken, yapok
+- **Letter:** `k`, **Position:** `6`, **Words:** rhebok, dikdik, azawakh, oxpecker, kasarka
+- **Letter:** `l`, **Position:** `1`, **Words:** ladybug, lemur, lynx, lobster, llama
+- **Letter:** `l`, **Position:** `2`, **Words:** flamingo, blowfish, blackbird, llama, alligator
+- **Letter:** `l`, **Position:** `3`, **Words:** goldfish, wallaby, owl, falcon, salamander
+- **Letter:** `l`, **Position:** `4`, **Words:** bulldog, koala, whale, jellyfish, axolotl
+- **Letter:** `l`, **Position:** `5`, **Words:** beagle, turtle, impala, snail, antelope
+- **Letter:** `l`, **Position:** `6`, **Words:** firefly, gerbil, gorilla, buffalo, pangolin
+- **Letter:** `m`, **Position:** `1`, **Words:** mouse, monkey, mockingbird, marmot, mosquito
+- **Letter:** `m`, **Position:** `2`, **Words:** impala, umbrella, umbrellabird, smelt
 - **Letter:** `m`, **Position:** `3`, **Words:** lemur, hamster, wombat, mammoth, camel
-- **Letter:** `m`, **Position:** `4`, **Words:** caiman, chameleon, salmon, mammoth, flamingo
-- **Letter:** `m`, **Position:** `5`, **Words:** chipmunk, shrimp, salamander, pajama cardinalfish, pademelon
-- **Letter:** `m`, **Position:** `6`, **Words:** screamer, gallimimus, coatimundi, possum
-- **Letter:** `n`, **Position:** `1`, **Words:** narwhal, numbat, nilgai, nightingale, nightjar
-- **Letter:** `n`, **Position:** `2`, **Words:** anaconda, snail, snake, unicorn, antelope
-- **Letter:** `n`, **Position:** `3`, **Words:** dinosaur, fennec, panda, panther, penguin
-- **Letter:** `n`, **Position:** `4`, **Words:** reindeer, hornet, orangutan, chinchilla, hyena
-- **Letter:** `n`, **Position:** `5`, **Words:** bison, tarantula, piranha, iguana, heron
-- **Letter:** `n`, **Position:** `6`, **Words:** salmon, sardine, anaconda, flamingo, caiman
-- **Letter:** `o`, **Position:** `1`, **Words:** otter, ostrich, orangutan, oyster, octopus
-- **Letter:** `o`, **Position:** `2`, **Words:** toucan, monkey, goose, donkey, dogfish
-- **Letter:** `o`, **Position:** `3`, **Words:** woodpecker, scorpion, leopard, axolotl, opossum
-- **Letter:** `o`, **Position:** `4`, **Words:** octopus, bison, dinosaur, coyote, baboon
-- **Letter:** `o`, **Position:** `5`, **Words:** chamois, dragonfly, hippopotamus, rhino, pangolin
-- **Letter:** `o`, **Position:** `6`, **Words:** griffon, caribou, raccoon, bulldog, antelope
-- **Letter:** `p`, **Position:** `1`, **Words:** panda, pangolin, parrot, pigeon, panther
-- **Letter:** `p`, **Position:** `2`, **Words:** opossum, spider, aphis, springer, spoonbill
-- **Letter:** `p`, **Position:** `3`, **Words:** viper, hippopotamus, alpaca, impala, gopher
-- **Letter:** `p`, **Position:** `4`, **Words:** leopard, chipmunk, dolphin, hippopotamus, elephant
-- **Letter:** `p`, **Position:** `5`, **Words:** octopus, sheep, woodpecker, scorpion, chimp
-- **Letter:** `p`, **Position:** `6`, **Words:** shrimp, caterpillar, hippopotamus, centipede, porcupine
-- **Letter:** `q`, **Position:** `1`, **Words:** quagga, quetzal, quoll, quail, quokka
+- **Letter:** `m`, **Position:** `4`, **Words:** salmon, mammoth, chameleon, llama, chimp
+- **Letter:** `m`, **Position:** `5`, **Words:** chipmunk, shrimp, salamander, ephemera, pajama cardinalfish
+- **Letter:** `m`, **Position:** `6`, **Words:** gallimimus, screamer, coatimundi, possum
+- **Letter:** `n`, **Position:** `1`, **Words:** narwhal, nightingale, numbat, nutria, nilgai
+- **Letter:** `n`, **Position:** `2`, **Words:** snail, unicorn, antelope, snake, anaconda
+- **Letter:** `n`, **Position:** `3`, **Words:** kangaroo, fennec, panda, monkey, pangolin
+- **Letter:** `n`, **Position:** `4`, **Words:** orangutan, chinchilla, rhino, hornet, reindeer
+- **Letter:** `n`, **Position:** `5`, **Words:** iguana, tarantula, bison, piranha, solenodon
+- **Letter:** `n`, **Position:** `6`, **Words:** anaconda, mockingbird, falcon, flamingo, baboon
+- **Letter:** `o`, **Position:** `1`, **Words:** opossum, octopus, orangutan, owl, otter
+- **Letter:** `o`, **Position:** `2`, **Words:** dogfish, mosquito, gorilla, cobra, mouse
+- **Letter:** `o`, **Position:** `3`, **Words:** opossum, leopard, blowfish, scorpion, axolotl
+- **Letter:** `o`, **Position:** `4`, **Words:** coyote, octopus, dinosaur, bison, baboon
+- **Letter:** `o`, **Position:** `5`, **Words:** baboon, axolotl, falcon, parrot, pangolin
+- **Letter:** `o`, **Position:** `6`, **Words:** antelope, caribou, griffon, bulldog, raccoon
+- **Letter:** `p`, **Position:** `1`, **Words:** piranha, parrot, peacock, panther, penguin
+- **Letter:** `p`, **Position:** `2`, **Words:** spider, opossum, springbok, spoonbill, ephemera
+- **Letter:** `p`, **Position:** `3`, **Words:** alpaca, hippopotamus, impala, viper, oxpecker
+- **Letter:** `p`, **Position:** `4`, **Words:** chipmunk, hippopotamus, leopard, elephant, dolphin
+- **Letter:** `p`, **Position:** `5`, **Words:** woodpecker, chimp, sheep, octopus, scorpion
+- **Letter:** `p`, **Position:** `6`, **Words:** hippopotamus, centipede, caterpillar, shrimp, affenpinscher
+- **Letter:** `q`, **Position:** `1`, **Words:** quoll, quail, quagga, quokka, quetzal
 - **Letter:** `q`, **Position:** `2`, **Words:** squid, squirrel, squab
-- **Letter:** `q`, **Position:** `3`, **Words:** coquina, coqui, coquette
-- **Letter:** `q`, **Position:** `4`, **Words:** mosquito, torquigener, mosquitofish
+- **Letter:** `q`, **Position:** `3`, **Words:** coquina, coquette, coqui
+- **Letter:** `q`, **Position:** `4`, **Words:** mosquito, mosquitofish, torquigener
 - **Letter:** `q`, **Position:** `5`, **Words:** macaque, cacique
 - **Letter:** `q`, **Position:** `6`, **Words:** harlequin, pauraque
-- **Letter:** `r`, **Position:** `1`, **Words:** raccoon, rabbit, reindeer, rhino, redpoll
-- **Letter:** `r`, **Position:** `2`, **Words:** griffon, crocodile, orangutan, dragonfly, dragon
-- **Letter:** `r`, **Position:** `3`, **Words:** shrimp, caribou, firefly, gerbil, earthworm
-- **Letter:** `r`, **Position:** `4`, **Words:** cobra, shark, barracuda, scorpion, parrot
-- **Letter:** `r`, **Position:** `5`, **Words:** otter, viper, lemur, canary, squirrel
-- **Letter:** `r`, **Position:** `6`, **Words:** squirrel, beaver, condor, spider, badger
-- **Letter:** `s`, **Position:** `1`, **Words:** sheep, starfish, spider, shark, squirrel
+- **Letter:** `r`, **Position:** `1`, **Words:** rhino, raccoon, reindeer, rabbit, rooster
+- **Letter:** `r`, **Position:** `2`, **Words:** dragon, crocodile, orangutan, dragonfly, griffon
+- **Letter:** `r`, **Position:** `3`, **Words:** sardine, giraffe, hornet, tarantula, narwhal
+- **Letter:** `r`, **Position:** `4`, **Words:** starfish, ostrich, scorpion, parrot, cobra
+- **Letter:** `r`, **Position:** `5`, **Words:** caterpillar, squirrel, viper, canary, tiger
+- **Letter:** `r`, **Position:** `6`, **Words:** leopard, jaguar, badger, seahorse, unicorn
+- **Letter:** `s`, **Position:** `1`, **Words:** seahorse, spider, shark, sheep, snail
 - **Letter:** `s`, **Position:** `2`, **Words:** ostrich, ascaris, osprey, island fox
-- **Letter:** `s`, **Position:** `3`, **Words:** mosquito, oyster, bison, bushtit, dassie
-- **Letter:** `s`, **Position:** `4`, **Words:** mouse, goose, horse, hamster, opossum
-- **Letter:** `s`, **Position:** `5`, **Words:** opossum, dinosaur, pheasant, xerus, treeshrew
-- **Letter:** `s`, **Position:** `6`, **Words:** catfish, dogfish, ovibos, walrus, cuscus
-- **Letter:** `t`, **Position:** `1`, **Words:** tiger, turtle, termite, toucan, turkey
-- **Letter:** `t`, **Position:** `2`, **Words:** otter, starfish, stork, starling, stilt
-- **Letter:** `t`, **Position:** `3`, **Words:** octopus, butterfly, catfish, antelope, otter
-- **Letter:** `t`, **Position:** `4`, **Words:** centipede, panther, turtle, oyster, earthworm
-- **Letter:** `t`, **Position:** `5`, **Words:** lobster, hamster, albatross, coyote, cheetah
-- **Letter:** `t`, **Position:** `6`, **Words:** hornet, mammoth, rabbit, termite, wombat
-- **Letter:** `u`, **Position:** `1`, **Words:** unicorn, umbrellabird, urial, umbrella, uakari
-- **Letter:** `u`, **Position:** `2`, **Words:** turkey, buffalo, bullfrog, turtle, butterfly
-- **Letter:** `u`, **Position:** `3`, **Words:** iguana, cougar, squid, mouse, toucan
-- **Letter:** `u`, **Position:** `4`, **Words:** lemur, jaguar, zebu, rebuck, coquette
-- **Letter:** `u`, **Position:** `5`, **Words:** mosquito, penguin, tatou, langur, possum
-- **Letter:** `u`, **Position:** `6`, **Words:** orangutan, ladybug, macaque, chipmunk, octopus
-- **Letter:** `v`, **Position:** `1`, **Words:** viper, vixen, vireo, vicuna, viscacha
-- **Letter:** `v`, **Position:** `2`, **Words:** ovenbird, ivory gull, ovibos, avocet
-- **Letter:** `v`, **Position:** `3`, **Words:** civet, raven, lovebird, javelin
-- **Letter:** `v`, **Position:** `4`, **Words:** beaver, weaver, weevil, wolverine
+- **Letter:** `s`, **Position:** `3`, **Words:** oyster, mosquito, bison, possum, muscovy
+- **Letter:** `s`, **Position:** `4`, **Words:** hamster, mouse, opossum, goose, horse
+- **Letter:** `s`, **Position:** `5`, **Words:** opossum, dinosaur, grasshopper, xerus, grouse
+- **Letter:** `s`, **Position:** `6`, **Words:** catfish, dogfish, xenops, ragfish, ovibos
+- **Letter:** `t`, **Position:** `1`, **Words:** tiger, toucan, turkey, turtle, tarantula
+- **Letter:** `t`, **Position:** `2`, **Words:** otter, starfish, starling, stilt, stingray
+- **Letter:** `t`, **Position:** `3`, **Words:** otter, octopus, catfish, caterpillar, antelope
+- **Letter:** `t`, **Position:** `4`, **Words:** earthworm, butterfly, oyster, turtle, panther
+- **Letter:** `t`, **Position:** `5`, **Words:** albatross, cheetah, lobster, hamster, coyote
+- **Letter:** `t`, **Position:** `6`, **Words:** rabbit, parrot, hornet, tarantula, termite
+- **Letter:** `u`, **Position:** `1`, **Words:** unicorn, umbrellabird, uakari, urchin, umbrella
+- **Letter:** `u`, **Position:** `2`, **Words:** bulldog, turtle, turkey, butterfly, buffalo
+- **Letter:** `u`, **Position:** `3`, **Words:** squid, squirrel, mouse, iguana, toucan
+- **Letter:** `u`, **Position:** `4`, **Words:** lemur, jaguar, zebu, coquette, vicuna
+- **Letter:** `u`, **Position:** `5`, **Words:** penguin, mosquito, vulture, torquigener, walrus
+- **Letter:** `u`, **Position:** `6`, **Words:** ladybug, octopus, orangutan, macaque, chipmunk
+- **Letter:** `v`, **Position:** `1`, **Words:** viper, vulture, vireo, vixen, vinegaroon
+- **Letter:** `v`, **Position:** `2`, **Words:** ovibos, avocet, ovenbird, ivory gull
+- **Letter:** `v`, **Position:** `3`, **Words:** javelin, raven, lovebird, civet
+- **Letter:** `v`, **Position:** `4`, **Words:** beaver, weevil, weaver, wolverine
 - **Letter:** `v`, **Position:** `6`, **Words:** anchovy, muscovy
-- **Letter:** `w`, **Position:** `1`, **Words:** woodpecker, whale, wombat, wallaby, wryneck
-- **Letter:** `w`, **Position:** `2`, **Words:** owl, swordfish, swift, swallow
-- **Letter:** `w`, **Position:** `3`, **Words:** kowari, cowbird
-- **Letter:** `w`, **Position:** `4`, **Words:** blowfish, narwhal, azawakh, waxwing, prawn
-- **Letter:** `w`, **Position:** `5`, **Words:** aardwolf, macaw, serow, shrew
-- **Letter:** `w`, **Position:** `6`, **Words:** earthworm, kittiwake, shearwater, cassowary, minnow
+- **Letter:** `w`, **Position:** `1`, **Words:** wallaby, whale, wombat, woodpecker, warbler
+- **Letter:** `w`, **Position:** `2`, **Words:** owl, swift, swordfish, swallow
+- **Letter:** `w`, **Position:** `3`, **Words:** cowbird, kowari
+- **Letter:** `w`, **Position:** `4`, **Words:** blowfish, narwhal, azawakh, lapwing, waxwing
+- **Letter:** `w`, **Position:** `5`, **Words:** shrew, macaw, aardwolf, serow
+- **Letter:** `w`, **Position:** `6`, **Words:** earthworm, yellowhammer, kittiwake, peafowl, shearwater
 - **Letter:** `x`, **Position:** `1`, **Words:** xenops, xerus, x-ray tetra
-- **Letter:** `x`, **Position:** `2`, **Words:** axolotl, exocoetidae, oxpecker, ox
-- **Letter:** `x`, **Position:** `3`, **Words:** fox, waxwing, vixen, waxbill, box crab
-- **Letter:** `x`, **Position:** `4`, **Words:** lynx, onyx, ibex, oryx
+- **Letter:** `x`, **Position:** `2`, **Words:** axolotl, ox, exocoetidae, oxpecker
+- **Letter:** `x`, **Position:** `3`, **Words:** fox, box crab, waxwing, waxbill, vixen
+- **Letter:** `x`, **Position:** `4`, **Words:** lynx, ibex, onyx, oryx
 - **Letter:** `x`, **Position:** `5`, **Words:** addax, hyrax
-- **Letter:** `y`, **Position:** `1`, **Words:** yabby, yapok, yak, yellowhammer
+- **Letter:** `y`, **Position:** `1`, **Words:** yellowhammer, yak, yabby, yapok
 - **Letter:** `y`, **Position:** `2`, **Words:** hyena, oyster, lynx, hyrax
-- **Letter:** `y`, **Position:** `3`, **Words:** coyote, wryneck, onyx, oryx
-- **Letter:** `y`, **Position:** `4`, **Words:** ladybug, capybara, crayfish, x-ray tetra
-- **Letter:** `y`, **Position:** `5`, **Words:** jellyfish, ivory gull, dusky, guppy, booby
-- **Letter:** `y`, **Position:** `6`, **Words:** canary, monkey, donkey, turkey, pizzly bear
+- **Letter:** `y`, **Position:** `3`, **Words:** coyote, onyx, oryx, wryneck
+- **Letter:** `y`, **Position:** `4`, **Words:** ladybug, crayfish, capybara, x-ray tetra
+- **Letter:** `y`, **Position:** `5`, **Words:** jellyfish, platypus, dusky, yabby, paddybird
+- **Letter:** `y`, **Position:** `6`, **Words:** donkey, monkey, turkey, canary, osprey
 - **Letter:** `z`, **Position:** `1`, **Words:** zebu, zebra, zorilla
-- **Letter:** `z`, **Position:** `2`, **Words:** azurin, ozark cavefish, ozelot, azawakh
+- **Letter:** `z`, **Position:** `2`, **Words:** ozark cavefish, azurin, ozelot, azawakh
 - **Letter:** `z`, **Position:** `3`, **Words:** lizard, gazelle, buzzard, pizzly bear
 - **Letter:** `z`, **Position:** `4`, **Words:** buzzard, pizzly bear
 - **Letter:** `z`, **Position:** `5`, **Words:** quetzal, hoatzin
@@ -8413,149 +8408,149 @@ Total missing words: `3`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** alarm, axe, adaptor, aftershave, album
-- **Letter:** `a`, **Position:** `2`, **Words:** makeup, napkin, camera, wagon, bag
-- **Letter:** `a`, **Position:** `3`, **Words:** jeans, scarf, diary, chain, adaptor
-- **Letter:** `a`, **Position:** `4`, **Words:** speaker, sofa, straw, medal, ornament
-- **Letter:** `a`, **Position:** `5`, **Words:** cupcake, guitar, compass, curtain, scarab
-- **Letter:** `a`, **Position:** `6`, **Words:** necklace, keyboard, fajitas, camera, journal
-- **Letter:** `b`, **Position:** `1`, **Words:** basket, blanket, balloon, broom, badge
-- **Letter:** `b`, **Position:** `2`, **Words:** xbox, ebike, abacus
-- **Letter:** `b`, **Position:** `3`, **Words:** cable, album, robot, umbrella, tablet
-- **Letter:** `b`, **Position:** `4`, **Words:** globe, keyboard, comb, barbeque
-- **Letter:** `b`, **Position:** `5`, **Words:** mailbox, notebook, minibus
-- **Letter:** `b`, **Position:** `6`, **Words:** beachball, houseboat, scarab
-- **Letter:** `c`, **Position:** `1`, **Words:** card, compass, cable, cap, curtain
-- **Letter:** `c`, **Position:** `2`, **Words:** screw, scanner, screen, scale, scarf
-- **Letter:** `c`, **Position:** `3`, **Words:** bucket, picture, deck, dictionary, yacht
-- **Letter:** `c`, **Position:** `4`, **Words:** sticker, clock, bracelet, pencil, couch
-- **Letter:** `c`, **Position:** `5`, **Words:** vehicle, switch, office, injector, arrack
-- **Letter:** `c`, **Position:** `6`, **Words:** gyroscope, briefcase, telescope, disjecta, ziplock bag
-- **Letter:** `d`, **Position:** `1`, **Words:** drill, drum, dress, desk, dictionary
+- **Letter:** `a`, **Position:** `1`, **Words:** adaptor, axe, alarm, arrow, album
+- **Letter:** `a`, **Position:** `2`, **Words:** hat, mask, tablet, candle, match
+- **Letter:** `a`, **Position:** `3`, **Words:** tray, gear, flask, piano, diamond
+- **Letter:** `a`, **Position:** `4`, **Words:** ornament, speaker, sofa, medal, straw
+- **Letter:** `a`, **Position:** `5`, **Words:** guitar, cupcake, compass, curtain, afghan
+- **Letter:** `a`, **Position:** `6`, **Words:** camera, fajitas, keyboard, necklace, journal
+- **Letter:** `b`, **Position:** `1`, **Words:** bracelet, basket, briefcase, balloon, beachball
+- **Letter:** `b`, **Position:** `2`, **Words:** xbox, abacus, ebike
+- **Letter:** `b`, **Position:** `3`, **Words:** tablet, umbrella, robot, cable, album
+- **Letter:** `b`, **Position:** `4`, **Words:** keyboard, globe, barbeque, comb
+- **Letter:** `b`, **Position:** `5`, **Words:** mailbox, minibus, notebook
+- **Letter:** `b`, **Position:** `6`, **Words:** beachball, scarab, houseboat
+- **Letter:** `c`, **Position:** `1`, **Words:** cupcake, cage, charger, card, candle
+- **Letter:** `c`, **Position:** `2`, **Words:** scanner, scarf, screen, scale, screw
+- **Letter:** `c`, **Position:** `3`, **Words:** deck, necklace, bucket, picture, dictionary
+- **Letter:** `c`, **Position:** `4`, **Words:** cupcake, pencil, couch, torch, watch
+- **Letter:** `c`, **Position:** `5`, **Words:** switch, vehicle, antick, injector, overcoat
+- **Letter:** `c`, **Position:** `6`, **Words:** gyroscope, briefcase, telescope, edifice, disjecta
+- **Letter:** `d`, **Position:** `1`, **Words:** drill, desk, door, diamond, dress
 - **Letter:** `d`, **Position:** `2`, **Words:** adaptor, edifice, oddity
-- **Letter:** `d`, **Position:** `3`, **Words:** medal, radio, badge, paddle, pod
-- **Letter:** `d`, **Position:** `4`, **Words:** paddle, needle, candle, card, window
-- **Letter:** `d`, **Position:** `5`, **Words:** sword, grinder, stand, board
-- **Letter:** `d`, **Position:** `6`, **Words:** shield, record, accordion, thread, tripod
-- **Letter:** `e`, **Position:** `1`, **Words:** envelope, eraser, eggnog, eggplant, earmuff
-- **Letter:** `e`, **Position:** `2`, **Words:** meter, pencil, vehicle, jewel, belt
-- **Letter:** `e`, **Position:** `3`, **Words:** needle, oven, dress, axe, wheel
-- **Letter:** `e`, **Position:** `4`, **Words:** paper, safe, rope, telescope, briefcase
-- **Letter:** `e`, **Position:** `5`, **Words:** purse, zipper, glove, eraser, screen
-- **Letter:** `e`, **Position:** `6`, **Words:** paddle, bottle, stapler, needle, puzzle
-- **Letter:** `f`, **Position:** `1`, **Words:** filter, fajitas, flask, film, flag
-- **Letter:** `f`, **Position:** `2`, **Words:** aftershave, office, afghan
-- **Letter:** `f`, **Position:** `3`, **Words:** safe, sofa, toffee, influx, office
-- **Letter:** `f`, **Position:** `4`, **Words:** knife, uniform, toffee, edifice
-- **Letter:** `f`, **Position:** `5`, **Words:** scarf, briefcase, shelf, cutoffs
+- **Letter:** `d`, **Position:** `3`, **Words:** badge, radio, paddle, medal, rod
+- **Letter:** `d`, **Position:** `4`, **Words:** candle, paddle, needle, window, card
+- **Letter:** `d`, **Position:** `5`, **Words:** sword, board, stand, grinder
+- **Letter:** `d`, **Position:** `6`, **Words:** record, shield, thread, avocado, tripod
+- **Letter:** `e`, **Position:** `1`, **Words:** envelope, eraser, edifice, engine, earmuff
+- **Letter:** `e`, **Position:** `2`, **Words:** beachball, helmet, necklace, belt, jewel
+- **Letter:** `e`, **Position:** `3`, **Words:** dress, shelf, oven, axe, needle
+- **Letter:** `e`, **Position:** `4`, **Words:** cover, shoe, shield, rope, towel
+- **Letter:** `e`, **Position:** `5`, **Words:** dishes, bucket, knife, purse, bracelet
+- **Letter:** `e`, **Position:** `6`, **Words:** charger, puzzle, ornament, needle, paddle
+- **Letter:** `f`, **Position:** `1`, **Words:** fan, flask, filter, fork, flag
+- **Letter:** `f`, **Position:** `2`, **Words:** aftershave, afghan, office
+- **Letter:** `f`, **Position:** `3`, **Words:** safe, sofa, office, toffee, influx
+- **Letter:** `f`, **Position:** `4`, **Words:** uniform, knife, edifice, toffee
+- **Letter:** `f`, **Position:** `5`, **Words:** shelf, briefcase, scarf, cutoffs
 - **Letter:** `f`, **Position:** `6`, **Words:** magnifier, earmuff, cutoffs
-- **Letter:** `g`, **Position:** `1`, **Words:** game, globe, gyroscope, guitar, glove
-- **Letter:** `g`, **Position:** `2`, **Words:** igloo, eggplant, eggnog
-- **Letter:** `g`, **Position:** `3`, **Words:** cage, mug, bag, sign, wig
-- **Letter:** `g`, **Position:** `4`, **Words:** badge, flag, plug, hinge, stage
-- **Letter:** `g`, **Position:** `5`, **Words:** charger, sponge, trough, bridge
-- **Letter:** `g`, **Position:** `6`, **Words:** string, spring, bandage, triangle, squeegee
-- **Letter:** `h`, **Position:** `1`, **Words:** helmet, hat, hammer, hanger, hook
-- **Letter:** `h`, **Position:** `2`, **Words:** chair, ship, phone, charger, chain
-- **Letter:** `h`, **Position:** `3`, **Words:** vehicle, ashtray, mohair, bohrium
-- **Letter:** `h`, **Position:** `4`, **Words:** bath, dishes, yacht, archive, machine
-- **Letter:** `h`, **Position:** `5`, **Words:** beachball, torch, trophy, brush, match
-- **Letter:** `h`, **Position:** `6`, **Words:** xylophone, switch, trough, wrench, squash
-- **Letter:** `i`, **Position:** `1`, **Words:** iron, injector, ixora, influx, igloo
-- **Letter:** `i`, **Position:** `2`, **Words:** mixer, window, dictionary, zipper, diamond
-- **Letter:** `i`, **Position:** `3`, **Words:** knife, shirt, ski, guitar, uniform
-- **Letter:** `i`, **Position:** `4`, **Words:** chain, vehicle, radio, fajitas, chair
-- **Letter:** `i`, **Position:** `5`, **Words:** napkin, pencil, dictionary, edifice, bohrium
-- **Letter:** `i`, **Position:** `6`, **Words:** curtain, majolica, container, tzatziki
-- **Letter:** `j`, **Position:** `1`, **Words:** journal, jewel, jeans, jar, jug
+- **Letter:** `g`, **Position:** `1`, **Words:** gyroscope, globe, glove, gear, guitar
+- **Letter:** `g`, **Position:** `2`, **Words:** eggplant, eggnog, igloo
+- **Letter:** `g`, **Position:** `3`, **Words:** wig, sign, bag, magnet, mug
+- **Letter:** `g`, **Position:** `4`, **Words:** plug, flag, badge, tongs, ring
+- **Letter:** `g`, **Position:** `5`, **Words:** sponge, charger, bridge, trough
+- **Letter:** `g`, **Position:** `6`, **Words:** string, squeegee, bandage, spring, triangle
+- **Letter:** `h`, **Position:** `1`, **Words:** hat, helmet, hammer, heater, harness
+- **Letter:** `h`, **Position:** `2`, **Words:** ship, chain, chair, charger, wheel
+- **Letter:** `h`, **Position:** `3`, **Words:** vehicle, mohair, bohrium, ashtray
+- **Letter:** `h`, **Position:** `4`, **Words:** yacht, dishes, bath, anchor, machine
+- **Letter:** `h`, **Position:** `5`, **Words:** brush, watch, torch, couch, match
+- **Letter:** `h`, **Position:** `6`, **Words:** xylophone, switch, squash, trough, wrench
+- **Letter:** `i`, **Position:** `1`, **Words:** iron, inbox, inkwell, injector, influx
+- **Letter:** `i`, **Position:** `2`, **Words:** sink, mirror, piano, film, diary
+- **Letter:** `i`, **Position:** `3`, **Words:** knife, printer, ship, drill, shirt
+- **Letter:** `i`, **Position:** `4`, **Words:** string, vehicle, radio, chain, fajitas
+- **Letter:** `i`, **Position:** `5`, **Words:** napkin, pencil, dictionary, bohrium, edifice
+- **Letter:** `i`, **Position:** `6`, **Words:** curtain, tzatziki, container, majolica
+- **Letter:** `j`, **Position:** `1`, **Words:** journal, jeans, jewel, jar, jug
 - **Letter:** `j`, **Position:** `2`, **Words:** ajuga, ajax, ajwain
 - **Letter:** `j`, **Position:** `3`, **Words:** fajitas, injector, majolica, tajine
 - **Letter:** `j`, **Position:** `4`, **Words:** projector, disjecta
-- **Letter:** `j`, **Position:** `5`, **Words:** doorjamb, pumpjack, bootjack
-- **Letter:** `j`, **Position:** `6`, **Words:** applejack, unionjack, amberjack
-- **Letter:** `k`, **Position:** `1`, **Words:** knife, keyboard, key, kettle
-- **Letter:** `k`, **Position:** `2`, **Words:** ski, skate, okapi
+- **Letter:** `j`, **Position:** `5`, **Words:** pumpjack, bootjack, doorjamb
+- **Letter:** `j`, **Position:** `6`, **Words:** applejack, amberjack, unionjack
+- **Letter:** `k`, **Position:** `1`, **Words:** keyboard, knife, kettle, key
+- **Letter:** `k`, **Position:** `2`, **Words:** skate, ski, okapi
 - **Letter:** `k`, **Position:** `3`, **Words:** makeup, inkwell, token
-- **Letter:** `k`, **Position:** `4`, **Words:** bucket, basket, sink, deck, book
-- **Letter:** `k`, **Position:** `5`, **Words:** speaker, blanket, flask, sticker, clock
+- **Letter:** `k`, **Position:** `4`, **Words:** fork, mask, sink, basket, book
+- **Letter:** `k`, **Position:** `5`, **Words:** speaker, flask, sticker, clock, blanket
 - **Letter:** `k`, **Position:** `6`, **Words:** cupcake, antick, arrack
-- **Letter:** `l`, **Position:** `1`, **Words:** locker, latex, lamp, lantern, light
-- **Letter:** `l`, **Position:** `2`, **Words:** blanket, glove, alarm, globe, album
-- **Letter:** `l`, **Position:** `3`, **Words:** pillow, helmet, ruler, bell, film
-- **Letter:** `l`, **Position:** `4`, **Words:** quill, mailbox, shelf, tablet, bowl
-- **Letter:** `l`, **Position:** `5`, **Words:** shield, quill, puzzle, drill, bottle
-- **Letter:** `l`, **Position:** `6`, **Words:** whistle, pencil, bracelet, umbrella, vehicle
-- **Letter:** `m`, **Position:** `1`, **Words:** meter, map, mailbox, mirror, medal
-- **Letter:** `m`, **Position:** `2`, **Words:** umbrella, amberjack, amphora
-- **Letter:** `m`, **Position:** `3`, **Words:** compass, lamp, hammer, pump, camera
-- **Letter:** `m`, **Position:** `4`, **Words:** hammer, stamp, film, drum, helmet
-- **Letter:** `m`, **Position:** `5`, **Words:** broom, ornament, alarm, album
-- **Letter:** `m`, **Position:** `6`, **Words:** stream, balsam, magnum
-- **Letter:** `n`, **Position:** `1`, **Words:** necklace, napkin, needle, nail, notebook
-- **Letter:** `n`, **Position:** `2`, **Words:** envelope, uniform, knife, anvil, injector
-- **Letter:** `n`, **Position:** `3`, **Words:** candle, fan, window, monitor, pan
-- **Letter:** `n`, **Position:** `4`, **Words:** oven, printer, jeans, magnet, piano
-- **Letter:** `n`, **Position:** `5`, **Words:** scanner, chain, spoon, wagon, string
-- **Letter:** `n`, **Position:** `6`, **Words:** button, diamond, napkin, screen, ajwain
-- **Letter:** `o`, **Position:** `1`, **Words:** ornament, oven, onyx, ozone, oscilloscope
-- **Letter:** `o`, **Position:** `2`, **Words:** compass, towel, rope, box, bowl
-- **Letter:** `o`, **Position:** `3`, **Words:** crown, phone, shoe, door, clock
-- **Letter:** `o`, **Position:** `4`, **Words:** arrow, wagon, robot, broom, yoyo
-- **Letter:** `o`, **Position:** `5`, **Words:** window, piano, mirror, pillow, radio
-- **Letter:** `o`, **Position:** `6`, **Words:** envelope, monitor, balloon, adaptor, mailbox
-- **Letter:** `p`, **Position:** `1`, **Words:** phone, printer, pencil, puzzle, pan
-- **Letter:** `p`, **Position:** `2`, **Words:** speaker, sponge, spoon, apron, applejack
-- **Letter:** `p`, **Position:** `3`, **Words:** paper, zipper, napkin, cupcake, map
-- **Letter:** `p`, **Position:** `4`, **Words:** pump, adaptor, lamp, trophy, stapler
-- **Letter:** `p`, **Position:** `5`, **Words:** stamp, xylophone, syrop, strap, slipper
-- **Letter:** `p`, **Position:** `6`, **Words:** makeup, markup, backup
+- **Letter:** `l`, **Position:** `1`, **Words:** locker, lamp, latex, loom, liquor
+- **Letter:** `l`, **Position:** `2`, **Words:** clock, blanket, flag, album, plate
+- **Letter:** `l`, **Position:** `3`, **Words:** ruler, bell, belt, pillow, xylophone
+- **Letter:** `l`, **Position:** `4`, **Words:** tablet, bell, drill, mailbox, shelf
+- **Letter:** `l`, **Position:** `5`, **Words:** towel, shield, candle, paddle, medal
+- **Letter:** `l`, **Position:** `6`, **Words:** umbrella, bracelet, whistle, pencil, vehicle
+- **Letter:** `m`, **Position:** `1`, **Words:** mask, meter, medal, match, mixer
+- **Letter:** `m`, **Position:** `2`, **Words:** umbrella, amphora, amberjack
+- **Letter:** `m`, **Position:** `3`, **Words:** camera, hammer, compass, game, pump
+- **Letter:** `m`, **Position:** `4`, **Words:** drum, film, helmet, diamond, hammer
+- **Letter:** `m`, **Position:** `5`, **Words:** ornament, album, broom, alarm
+- **Letter:** `m`, **Position:** `6`, **Words:** balsam, stream, magnum
+- **Letter:** `n`, **Position:** `1`, **Words:** needle, napkin, necklace, notebook, nail
+- **Letter:** `n`, **Position:** `2`, **Words:** uniform, knife, envelope, anvil, inkwell
+- **Letter:** `n`, **Position:** `3`, **Words:** ornament, monitor, window, pan, sink
+- **Letter:** `n`, **Position:** `4`, **Words:** blanket, sign, piano, printer, jeans
+- **Letter:** `n`, **Position:** `5`, **Words:** string, chain, scanner, spoon, journal
+- **Letter:** `n`, **Position:** `6`, **Words:** button, screen, diamond, napkin, afghan
+- **Letter:** `o`, **Position:** `1`, **Words:** oven, ornament, office, oscilloscope, oxbow
+- **Letter:** `o`, **Position:** `2`, **Words:** toy, couch, bowl, boat, robot
+- **Letter:** `o`, **Position:** `3`, **Words:** crown, iron, glove, door, shoe
+- **Letter:** `o`, **Position:** `4`, **Words:** wagon, gyroscope, razor, arrow, broom
+- **Letter:** `o`, **Position:** `5`, **Words:** balloon, radio, diamond, pillow, keyboard
+- **Letter:** `o`, **Position:** `6`, **Words:** dictionary, envelope, mailbox, balloon, monitor
+- **Letter:** `p`, **Position:** `1`, **Words:** purse, phone, pin, piano, paddle
+- **Letter:** `p`, **Position:** `2`, **Words:** spoon, sponge, speaker, applejack, spring
+- **Letter:** `p`, **Position:** `3`, **Words:** tape, cap, zipper, rope, map
+- **Letter:** `p`, **Position:** `4`, **Words:** adaptor, compass, ship, lamp, stapler
+- **Letter:** `p`, **Position:** `5`, **Words:** stamp, syrop, xylophone, strap, slipper
+- **Letter:** `p`, **Position:** `6`, **Words:** makeup, backup, markup
 - **Letter:** `q`, **Position:** `1`, **Words:** quill, quilt
 - **Letter:** `q`, **Position:** `2`, **Words:** squash, squeegee
-- **Letter:** `r`, **Position:** `1`, **Words:** robot, rope, record, ruler, radio
-- **Letter:** `r`, **Position:** `2`, **Words:** eraser, brush, trophy, printer, ornament
-- **Letter:** `r`, **Position:** `3`, **Words:** tire, carpet, syrop, screen, torch
-- **Letter:** `r`, **Position:** `4`, **Words:** scarf, umbrella, sword, diary, charger
-- **Letter:** `r`, **Position:** `5`, **Words:** camera, razor, record, ruler, cover
-- **Letter:** `r`, **Position:** `6`, **Words:** filter, locker, hammer, picture, mirror
-- **Letter:** `s`, **Position:** `1`, **Words:** safe, screen, spoon, statue, sponge
-- **Letter:** `s`, **Position:** `2`, **Words:** astrolabe, ashtray, oscilloscope
-- **Letter:** `s`, **Position:** `3`, **Words:** dishes, vest, desk, basket, mask
-- **Letter:** `s`, **Position:** `4`, **Words:** purse, brush, whistle, dress, flask
-- **Letter:** `s`, **Position:** `5`, **Words:** jeans, telescope, dress, gyroscope, squash
-- **Letter:** `s`, **Position:** `6`, **Words:** compass, aftershave, dishes, pliers, canvas
-- **Letter:** `t`, **Position:** `1`, **Words:** tablet, tray, tire, tape, towel
-- **Letter:** `t`, **Position:** `2`, **Words:** string, sticker, straw, stamp, statue
-- **Letter:** `t`, **Position:** `3`, **Words:** meter, aftershave, button, latex, hat
-- **Letter:** `t`, **Position:** `4`, **Words:** plate, seat, filter, coat, picture
-- **Letter:** `t`, **Position:** `5`, **Words:** monitor, robot, shirt, adaptor, printer
-- **Letter:** `t`, **Position:** `6`, **Words:** carpet, magnet, tablet, socket, basket
-- **Letter:** `u`, **Position:** `1`, **Words:** umbrella, uniform, unionjack
-- **Letter:** `u`, **Position:** `2`, **Words:** purse, cupcake, button, puzzle, pump
-- **Letter:** `u`, **Position:** `3`, **Words:** brush, drum, journal, plug, couch
-- **Letter:** `u`, **Position:** `4`, **Words:** album, liquor, linux, trough
-- **Letter:** `u`, **Position:** `5`, **Words:** picture, statue, makeup, marquee, earmuff
-- **Letter:** `u`, **Position:** `6`, **Words:** minibus, antiquark, bohrium
-- **Letter:** `v`, **Position:** `1`, **Words:** vehicle, vest, vase, vault, visor
+- **Letter:** `r`, **Position:** `1`, **Words:** record, ruler, rope, razor, radio
+- **Letter:** `r`, **Position:** `2`, **Words:** broom, brush, iron, printer, briefcase
+- **Letter:** `r`, **Position:** `3`, **Words:** wire, fork, card, straw, carpet
+- **Letter:** `r`, **Position:** `4`, **Words:** scarf, gear, charger, diary, umbrella
+- **Letter:** `r`, **Position:** `5`, **Words:** aftershave, ruler, razor, camera, meter
+- **Letter:** `r`, **Position:** `6`, **Words:** hammer, zipper, eraser, locker, filter
+- **Letter:** `s`, **Position:** `1`, **Words:** string, switch, spoon, sink, shield
+- **Letter:** `s`, **Position:** `2`, **Words:** oscilloscope, astrolabe, ashtray
+- **Letter:** `s`, **Position:** `3`, **Words:** mask, vase, dishes, desk, vest
+- **Letter:** `s`, **Position:** `4`, **Words:** eraser, flask, purse, whistle, dress
+- **Letter:** `s`, **Position:** `5`, **Words:** dress, telescope, jeans, gyroscope, tongs
+- **Letter:** `s`, **Position:** `6`, **Words:** aftershave, dishes, compass, pliers, canvas
+- **Letter:** `t`, **Position:** `1`, **Words:** toy, tire, tablet, towel, telescope
+- **Letter:** `t`, **Position:** `2`, **Words:** statue, string, sticker, straw, stamp
+- **Letter:** `t`, **Position:** `3`, **Words:** latex, meter, button, watch, bottle
+- **Letter:** `t`, **Position:** `4`, **Words:** dictionary, boat, curtain, coat, belt
+- **Letter:** `t`, **Position:** `5`, **Words:** printer, fajitas, whistle, yacht, adaptor
+- **Letter:** `t`, **Position:** `6`, **Words:** socket, helmet, bucket, magnet, carpet
+- **Letter:** `u`, **Position:** `1`, **Words:** uniform, umbrella, unionjack
+- **Letter:** `u`, **Position:** `2`, **Words:** ruler, bucket, mug, guitar, puzzle
+- **Letter:** `u`, **Position:** `3`, **Words:** drum, couch, plug, brush, journal
+- **Letter:** `u`, **Position:** `4`, **Words:** album, trough, linux, liquor
+- **Letter:** `u`, **Position:** `5`, **Words:** statue, picture, makeup, influx, magnum
+- **Letter:** `u`, **Position:** `6`, **Words:** minibus, bohrium, antiquark
+- **Letter:** `v`, **Position:** `1`, **Words:** vest, vehicle, vase, vial, vault
 - **Letter:** `v`, **Position:** `2`, **Words:** oven, avocado, overcoat
-- **Letter:** `v`, **Position:** `3`, **Words:** cover, envelope, anvil, revolver
+- **Letter:** `v`, **Position:** `3`, **Words:** envelope, cover, anvil, revolver
 - **Letter:** `v`, **Position:** `4`, **Words:** glove, canvas, stove
-- **Letter:** `v`, **Position:** `5`, **Words:** groove, sleeve, motive
+- **Letter:** `v`, **Position:** `5`, **Words:** motive, groove, sleeve
 - **Letter:** `v`, **Position:** `6`, **Words:** archive, revolver
-- **Letter:** `w`, **Position:** `1`, **Words:** window, wagon, wallet, whistle, wire
-- **Letter:** `w`, **Position:** `2`, **Words:** sword, switch
+- **Letter:** `w`, **Position:** `1`, **Words:** wheel, wig, wagon, watch, window
+- **Letter:** `w`, **Position:** `2`, **Words:** switch, sword
 - **Letter:** `w`, **Position:** `3`, **Words:** towel, bowl, jewel, gown, ajwain
-- **Letter:** `w`, **Position:** `4`, **Words:** crown, inkwell, drawer
-- **Letter:** `w`, **Position:** `5`, **Words:** screw, straw, arrow, oxbow
+- **Letter:** `w`, **Position:** `4`, **Words:** crown, drawer, inkwell
+- **Letter:** `w`, **Position:** `5`, **Words:** arrow, straw, screw, oxbow
 - **Letter:** `w`, **Position:** `6`, **Words:** window, pillow, harrow
 - **Letter:** `x`, **Position:** `1`, **Words:** xbox, xylophone, x-ray
 - **Letter:** `x`, **Position:** `2`, **Words:** axe, ixora, oxbow
 - **Letter:** `x`, **Position:** `3`, **Words:** box, mixer
-- **Letter:** `x`, **Position:** `4`, **Words:** xbox, onyx, ajax
-- **Letter:** `x`, **Position:** `5`, **Words:** latex, inbox, linux
-- **Letter:** `x`, **Position:** `6`, **Words:** heliox, influx, cortex
+- **Letter:** `x`, **Position:** `4`, **Words:** xbox, ajax, onyx
+- **Letter:** `x`, **Position:** `5`, **Words:** latex, linux, inbox
+- **Letter:** `x`, **Position:** `6`, **Words:** influx, heliox, cortex
 - **Letter:** `y`, **Position:** `1`, **Words:** yoyo, yacht
-- **Letter:** `y`, **Position:** `2`, **Words:** syrop, xylophone, gyroscope
-- **Letter:** `y`, **Position:** `3`, **Words:** keyboard, yoyo, toy, onyx, dryer
+- **Letter:** `y`, **Position:** `2`, **Words:** xylophone, gyroscope, syrop
+- **Letter:** `y`, **Position:** `3`, **Words:** toy, keyboard, yoyo, dryer, key
 - **Letter:** `y`, **Position:** `4`, **Words:** tray, x-ray, prey
 - **Letter:** `y`, **Position:** `5`, **Words:** diary, fairy, dummy
 - **Letter:** `y`, **Position:** `6`, **Words:** trophy, oddity, pulley
@@ -8589,156 +8584,156 @@ Total missing words: `6`
 <details>
 <summary>✅ Fulfilled positions</summary>
 
-- **Letter:** `a`, **Position:** `1`, **Words:** Auckland, Austria, Afghanistan, Alexandria, Albania
-- **Letter:** `a`, **Position:** `2`, **Words:** Malta, Paris, Taiwan, Haiti, Paraguay
-- **Letter:** `a`, **Position:** `3`, **Words:** Shanghai, Myanmar, Brazil, Italy, Seattle
-- **Letter:** `a`, **Position:** `4`, **Words:** Jakarta, Atlanta, Israel, Casablanca, Panama
-- **Letter:** `a`, **Position:** `5`, **Words:** Malta, Iceland, Finland, Ireland, Chicago
-- **Letter:** `a`, **Position:** `6`, **Words:** Azerbaijan, Geneva, Abidjan, Russia, Bogota
-- **Letter:** `b`, **Position:** `1`, **Words:** Brisbane, Bogota, Beirut, Bulgaria, Bologna
-- **Letter:** `b`, **Position:** `2`, **Words:** Abidjan, Aberdeen, Tbilisi, Ibadan
-- **Letter:** `b`, **Position:** `3`, **Words:** Dubai, Libya, Uzbekistan, Cuba, Lebanon
-- **Letter:** `b`, **Position:** `4`, **Words:** Melbourne, Gambia, Zimbabwe, Barbados, Lisbon
-- **Letter:** `b`, **Position:** `5`, **Words:** Edinburgh, Casablanca, Azerbaijan, Namibia, Brisbane
-- **Letter:** `b`, **Position:** `6`, **Words:** Zagreb, Pittsburgh, Nairobi, Colombia, Istanbul
-- **Letter:** `c`, **Position:** `1`, **Words:** Cuba, Copenhagen, Cleveland, Cyprus, Congo
+- **Letter:** `a`, **Position:** `1`, **Words:** Armenia, Alicante, Angola, Austria, Australia
+- **Letter:** `a`, **Position:** `2`, **Words:** Gambia, Canada, Haiti, Paraguay, Nairobi
+- **Letter:** `a`, **Position:** `3`, **Words:** Guatemala, Charlotte, Thailand, Osaka, Spain
+- **Letter:** `a`, **Position:** `4`, **Words:** Poland, Malaysia, Lebanon, Equator, Israel
+- **Letter:** `a`, **Position:** `5`, **Words:** Finland, Bucharest, Singapore, Hungary, Adelaide
+- **Letter:** `a`, **Position:** `6`, **Words:** Australia, Gambia, Portland, Canada, Serbia
+- **Letter:** `b`, **Position:** `1`, **Words:** Bologna, Bali, Birmingham, Budapest, Belize
+- **Letter:** `b`, **Position:** `2`, **Words:** Abidjan, Ibadan, Tbilisi, Aberdeen
+- **Letter:** `b`, **Position:** `3`, **Words:** Lebanon, Uzbekistan, Albania, Libya, Dubai
+- **Letter:** `b`, **Position:** `4`, **Words:** Gambia, Lisbon, Serbia, Bilbao, Cambridge
+- **Letter:** `b`, **Position:** `5`, **Words:** Namibia, Edinburgh, Casablanca, Brisbane, Azerbaijan
+- **Letter:** `b`, **Position:** `6`, **Words:** Zimbabwe, Istanbul, Pittsburgh, Zagreb, Nairobi
+- **Letter:** `c`, **Position:** `1`, **Words:** China, Croatia, Cambridge, Copenhagen, Cuba
 - **Letter:** `c`, **Position:** `2`, **Words:** Ecuador, Iceland, Accra
-- **Letter:** `c`, **Position:** `3`, **Words:** Macedonia, Auckland, Bucharest, Nicaragua, Sacramento
-- **Letter:** `c`, **Position:** `4`, **Words:** Chicago, Winchester, Alicante, Barcelona, Vancouver
-- **Letter:** `c`, **Position:** `5`, **Words:** Zurich, Greece, France, Mexico, Morocco
-- **Letter:** `c`, **Position:** `6`, **Words:** Morocco, Jamaica, Valencia, Changchun, Lerwick
-- **Letter:** `d`, **Position:** `1`, **Words:** Denver, Dubai, Denmark, Detroit, Darwin
-- **Letter:** `d`, **Position:** `2`, **Words:** Adelaide, Edinburgh, Odessa, Edmonton
-- **Letter:** `d`, **Position:** `3`, **Words:** Madagascar, Budapest, Indonesia, Sydney, India
-- **Letter:** `d`, **Position:** `4`, **Words:** Sweden, Honduras, Abidjan, Cardiff, Maldives
-- **Letter:** `d`, **Position:** `5`, **Words:** Baghdad, Ecuador, Macedonia, Canada, Dresden
-- **Letter:** `d`, **Position:** `6`, **Words:** Yaounde, Barbados, Madrid, Orlando, Poland
-- **Letter:** `e`, **Position:** `1`, **Words:** Egypt, Ethiopia, Ecuador, Edinburgh, Equator
-- **Letter:** `e`, **Position:** `2`, **Words:** Peru, Beirut, Germany, Melbourne, Serbia
-- **Letter:** `e`, **Position:** `3`, **Words:** Adelaide, Sweden, Ireland, Iceland, Cleveland
-- **Letter:** `e`, **Position:** `4`, **Words:** Phoenix, Yemen, Liverpool, Greece, Argentina
-- **Letter:** `e`, **Position:** `5`, **Words:** Amsterdam, Denver, Guatemala, Slovenia, Israel
-- **Letter:** `e`, **Position:** `6`, **Words:** Venice, Montreal, Switzerland, Winchester, France
-- **Letter:** `f`, **Position:** `1`, **Words:** Frankfurt, Fiji, France, Florence, Finland
+- **Letter:** `c`, **Position:** `3`, **Words:** Bucharest, Macedonia, Auckland, Sacramento, Nicaragua
+- **Letter:** `c`, **Position:** `4`, **Words:** Vancouver, Chicago, Manchester, Stockholm, Moscow
+- **Letter:** `c`, **Position:** `5`, **Words:** Mexico, Munich, Morocco, Venice, Greece
+- **Letter:** `c`, **Position:** `6`, **Words:** Morocco, Jamaica, Valencia, Malacca, Lerwick
+- **Letter:** `d`, **Position:** `1`, **Words:** Dubai, Denver, Detroit, Denmark, Doha
+- **Letter:** `d`, **Position:** `2`, **Words:** Adelaide, Edinburgh, Edmonton, Odessa
+- **Letter:** `d`, **Position:** `3`, **Words:** Madagascar, Madrid, India, Budapest, Indonesia
+- **Letter:** `d`, **Position:** `4`, **Words:** Cardiff, Maldives, Sweden, Abidjan, London
+- **Letter:** `d`, **Position:** `5`, **Words:** Ecuador, Canada, Macedonia, Baghdad, Rwanda
+- **Letter:** `d`, **Position:** `6`, **Words:** Orlando, Yaounde, Salvador, Barbados, Poland
+- **Letter:** `e`, **Position:** `1`, **Words:** Equator, Egypt, Edinburgh, Ecuador, Ethiopia
+- **Letter:** `e`, **Position:** `2`, **Words:** Denmark, Seoul, Memphis, Newcastle, Lebanon
+- **Letter:** `e`, **Position:** `3`, **Words:** Adelaide, Alexandria, Iceland, Azerbaijan, Sweden
+- **Letter:** `e`, **Position:** `4`, **Words:** Argentina, Phoenix, Athens, Uzbekistan, Liverpool
+- **Letter:** `e`, **Position:** `5`, **Words:** Barcelona, Minneapolis, Amsterdam, Slovenia, Netherlands
+- **Letter:** `e`, **Position:** `6`, **Words:** Greece, Indonesia, Montreal, Switzerland, Winchester
+- **Letter:** `f`, **Position:** `1`, **Words:** Finland, Florence, Fiji, Frankfurt, France
 - **Letter:** `f`, **Position:** `2`, **Words:** Afghanistan, Ufa
 - **Letter:** `f`, **Position:** `3`, **Words:** Oxford, Isfahan, Sofia, Hefei
-- **Letter:** `f`, **Position:** `4`, **Words:** Kaifeng, Belfast, Sheffield, Haifa
-- **Letter:** `f`, **Position:** `5`, **Words:** Recife, Bradford, Halifax, Sheffield
+- **Letter:** `f`, **Position:** `4`, **Words:** Belfast, Sheffield, Kaifeng, Haifa
+- **Letter:** `f`, **Position:** `5`, **Words:** Recife, Bradford, Sheffield, Halifax
 - **Letter:** `f`, **Position:** `6`, **Words:** Frankfurt, Cardiff
-- **Letter:** `g`, **Position:** `1`, **Words:** Guatemala, Glasgow, Gambia, Greece, Geneva
-- **Letter:** `g`, **Position:** `2`, **Words:** Egypt, Uganda, Agra
-- **Letter:** `g`, **Position:** `3`, **Words:** Afghanistan, Baghdad, Nigeria, Lagos, Nagoya
-- **Letter:** `g`, **Position:** `4`, **Words:** Bangladesh, Congo, Belgium, Bulgaria, Prague
-- **Letter:** `g`, **Position:** `5`, **Words:** Bologna, Pyongyang, Paraguay, Shanghai, Georgia
-- **Letter:** `g`, **Position:** `6`, **Words:** Chicago, Stuttgart, Portugal, Cartagena, Volgograd
-- **Letter:** `h`, **Position:** `1`, **Words:** Honduras, Hungary, Honolulu, Helsinki, Haiti
-- **Letter:** `h`, **Position:** `2`, **Words:** Thailand, Philippines, Chile, Phoenix, Shanghai
-- **Letter:** `h`, **Position:** `3`, **Words:** Ethiopia, Bahamas, Athens, Bahrain, Johannesburg
-- **Letter:** `h`, **Position:** `4`, **Words:** Netherlands, Nashville, Washington, Baghdad, Afghanistan
-- **Letter:** `h`, **Position:** `5`, **Words:** Winchester, Manchester, Perth, Southampton, Memphis
-- **Letter:** `h`, **Position:** `6`, **Words:** Munich, Kazakhstan, Zurich, Shanghai, Stockholm
-- **Letter:** `i`, **Position:** `1`, **Words:** Istanbul, Indonesia, Iceland, India, Israel
-- **Letter:** `i`, **Position:** `2`, **Words:** Libya, Cincinnati, Vienna, Lithuania, Milan
-- **Letter:** `i`, **Position:** `3`, **Words:** Haiti, Cairo, Brighton, Chicago, Nairobi
-- **Letter:** `i`, **Position:** `4`, **Words:** Spain, Munich, India, Venice, Belize
-- **Letter:** `i`, **Position:** `5`, **Words:** Russia, Gambia, Maldives, Miami, Dubai
-- **Letter:** `i`, **Position:** `6`, **Words:** Uzbekistan, Austria, Georgia, Estonia, Detroit
-- **Letter:** `j`, **Position:** `1`, **Words:** Jakarta, Japan, Johannesburg, Jamaica, Jerusalem
-- **Letter:** `j`, **Position:** `2`, **Words:** Djibouti, Ljubljana
-- **Letter:** `j`, **Position:** `3`, **Words:** Fiji, Tajikistan, Tijuana, Gujarat
+- **Letter:** `g`, **Position:** `1`, **Words:** Georgia, Gambia, Glasgow, Geneva, Greece
+- **Letter:** `g`, **Position:** `2`, **Words:** Egypt, Agra, Uganda
+- **Letter:** `g`, **Position:** `3`, **Words:** Afghanistan, Nigeria, Argentina, Zagreb, Bogota
+- **Letter:** `g`, **Position:** `4`, **Words:** Hungary, Singapore, Mongolia, Brighton, Bulgaria
+- **Letter:** `g`, **Position:** `5`, **Words:** Shanghai, Paraguay, Pyongyang, Glasgow, Madagascar
+- **Letter:** `g`, **Position:** `6`, **Words:** Chicago, Portugal, Stuttgart, Cartagena, Volgograd
+- **Letter:** `h`, **Position:** `1`, **Words:** Honolulu, Honduras, Haiti, Houston, Hungary
+- **Letter:** `h`, **Position:** `2`, **Words:** Thailand, Chicago, Charlotte, Phoenix, Chile
+- **Letter:** `h`, **Position:** `3`, **Words:** Bahrain, Johannesburg, Bahamas, Athens, Ethiopia
+- **Letter:** `h`, **Position:** `4`, **Words:** Netherlands, Bucharest, Baghdad, Lithuania, Washington
+- **Letter:** `h`, **Position:** `5`, **Words:** Southampton, Memphis, Perth, Manchester, Winchester
+- **Letter:** `h`, **Position:** `6`, **Words:** Stockholm, Munich, Kazakhstan, Zurich, Shanghai
+- **Letter:** `i`, **Position:** `1`, **Words:** India, Indonesia, Ireland, Italy, Israel
+- **Letter:** `i`, **Position:** `2`, **Words:** Minneapolis, Lisbon, Finland, Lithuania, Milan
+- **Letter:** `i`, **Position:** `3`, **Words:** Switzerland, Beijing, Cairo, Haiti, Taiwan
+- **Letter:** `i`, **Position:** `4`, **Words:** Belize, Mexico, Namibia, Spain, Bolivia
+- **Letter:** `i`, **Position:** `5`, **Words:** Dubai, Russia, Jamaica, Madrid, Baltimore
+- **Letter:** `i`, **Position:** `6`, **Words:** Estonia, Nigeria, Detroit, Romania, Tunisia
+- **Letter:** `j`, **Position:** `1`, **Words:** Japan, Jamaica, Jakarta, Johannesburg, Jerusalem
+- **Letter:** `j`, **Position:** `2`, **Words:** Ljubljana, Djibouti
+- **Letter:** `j`, **Position:** `3`, **Words:** Fiji, Tijuana, Gujarat, Tajikistan
 - **Letter:** `j`, **Position:** `4`, **Words:** Beijing, Nanjing, Daejeon, Shijiazhuang
-- **Letter:** `j`, **Position:** `5`, **Words:** Abidjan, Tianjin, Sharjah, Reykjavik
+- **Letter:** `j`, **Position:** `5`, **Words:** Abidjan, Sharjah, Reykjavik, Tianjin
 - **Letter:** `j`, **Position:** `6`, **Words:** Gwangju, Ljubljana
-- **Letter:** `k`, **Position:** `1`, **Words:** Kazakhstan, Kyoto, Kenya, Krakow, Karachi
+- **Letter:** `k`, **Position:** `1`, **Words:** Kyoto, Krakow, Kenya, Kazakhstan, Kuwait
 - **Letter:** `k`, **Position:** `2`, **Words:** Ekaterinburg, Ukraine
-- **Letter:** `k`, **Position:** `3`, **Words:** Pakistan, Tokyo, Jakarta, Dakar, Baku
-- **Letter:** `k`, **Position:** `4`, **Words:** Turkey, Auckland, Osaka, Krakow, York
-- **Letter:** `k`, **Position:** `5`, **Words:** Stockholm, Uzbekistan, Frankfurt, Minsk, Kazakhstan
-- **Letter:** `k`, **Position:** `6`, **Words:** Slovakia, Fukuoka, Marrakesh
-- **Letter:** `l`, **Position:** `1`, **Words:** Lisbon, Lebanon, Lithuania, London, Lagos
-- **Letter:** `l`, **Position:** `2`, **Words:** Plymouth, Alexandria, Cleveland, Albania, Florence
-- **Letter:** `l`, **Position:** `3`, **Words:** Belgium, Bali, Melbourne, Atlanta, Bilbao
-- **Letter:** `l`, **Position:** `4`, **Words:** Iceland, Finland, Philippines, Italy, Ireland
-- **Letter:** `l`, **Position:** `5`, **Words:** Bangladesh, Auckland, Angola, Charlotte, Honolulu
-- **Letter:** `l`, **Position:** `6`, **Words:** Seattle, Cleveland, Israel, Casablanca, Barcelona
-- **Letter:** `m`, **Position:** `1`, **Words:** Milan, Mongolia, Montreal, Manchester, Munich
-- **Letter:** `m`, **Position:** `2`, **Words:** Amsterdam, Amritsar, Omsk, Amman, Oman
-- **Letter:** `m`, **Position:** `3`, **Words:** Zimbabwe, Namibia, Mumbai, Romania, Memphis
-- **Letter:** `m`, **Position:** `4`, **Words:** Plymouth, Miami, Germany, Denmark, Birmingham
-- **Letter:** `m`, **Position:** `5`, **Words:** Bahamas, Colombia, Panama, Myanmar, Kathmandu
-- **Letter:** `m`, **Position:** `6`, **Words:** Sacramento, Baltimore, Guatemala, Portsmouth, Durham
-- **Letter:** `n`, **Position:** `1`, **Words:** Netherlands, Nashville, Namibia, Nicaragua, Norway
-- **Letter:** `n`, **Position:** `2`, **Words:** India, Angola, Indonesia, Indore, Antwerp
-- **Letter:** `n`, **Position:** `3`, **Words:** Minneapolis, Finland, Geneva, Honolulu, Hungary
-- **Letter:** `n`, **Position:** `4`, **Words:** Shanghai, Myanmar, Edinburgh, France, Vienna
-- **Letter:** `n`, **Position:** `5`, **Words:** Indonesia, Japan, Turin, Athens, Istanbul
-- **Letter:** `n`, **Position:** `6`, **Words:** Alicante, Florence, Afghanistan, Slovenia, Johannesburg
-- **Letter:** `o`, **Position:** `1`, **Words:** Oxford, Orlando, Oslo, Osaka, Odessa
-- **Letter:** `o`, **Position:** `2`, **Words:** London, York, Colombia, Honduras, Tokyo
-- **Letter:** `o`, **Position:** `3`, **Words:** Phoenix, Slovenia, Stockholm, Florence, Yaounde
-- **Letter:** `o`, **Position:** `4`, **Words:** Bologna, Angola, Indonesia, Lagos, Estonia
-- **Letter:** `o`, **Position:** `5`, **Words:** Boston, Congo, Melbourne, Krakow, London
-- **Letter:** `o`, **Position:** `6`, **Words:** Lebanon, Cameroon, Mexico, Bilbao, Ecuador
-- **Letter:** `p`, **Position:** `1`, **Words:** Portugal, Poland, Peru, Philippines, Portland
-- **Letter:** `p`, **Position:** `2`, **Words:** Spain, Ipoh, Uppsala, Apia
-- **Letter:** `p`, **Position:** `3`, **Words:** Japan, Nepal, Naples, Copenhagen, Cyprus
-- **Letter:** `p`, **Position:** `4`, **Words:** Egypt, Memphis, Newport, Kanpur, Kampala
-- **Letter:** `p`, **Position:** `5`, **Words:** Budapest, Aleppo, Zapopan, Jodhpur
-- **Letter:** `p`, **Position:** `6`, **Words:** Liverpool, Singapore, Philippines, Ethiopia, Winnipeg
-- **Letter:** `q`, **Position:** `1`, **Words:** Qatar, Quanzhou, Quetta, Qiqihar, Qingdao
+- **Letter:** `k`, **Position:** `3`, **Words:** Tokyo, Jakarta, Pakistan, Irkutsk, Ankara
+- **Letter:** `k`, **Position:** `4`, **Words:** Osaka, Turkey, York, Auckland, Krakow
+- **Letter:** `k`, **Position:** `5`, **Words:** Frankfurt, Uzbekistan, Stockholm, Kazakhstan, Minsk
+- **Letter:** `k`, **Position:** `6`, **Words:** Fukuoka, Slovakia, Marrakesh
+- **Letter:** `l`, **Position:** `1`, **Words:** Lithuania, Lagos, Lebanon, Lisbon, London
+- **Letter:** `l`, **Position:** `2`, **Words:** Slovenia, Florence, Cleveland, Albania, Alexandria
+- **Letter:** `l`, **Position:** `3`, **Words:** Salvador, Atlanta, Bolivia, Maldives, Milan
+- **Letter:** `l`, **Position:** `4`, **Words:** Finland, Ireland, Adelaide, Philippines, Iceland
+- **Letter:** `l`, **Position:** `5`, **Words:** Nepal, Angola, Auckland, Honolulu, Charlotte
+- **Letter:** `l`, **Position:** `6`, **Words:** Barcelona, Israel, Cleveland, Seattle, Casablanca
+- **Letter:** `m`, **Position:** `1`, **Words:** Maldives, Minsk, Moscow, Milan, Macedonia
+- **Letter:** `m`, **Position:** `2`, **Words:** Amsterdam, Amritsar, Omsk, Oman, Amman
+- **Letter:** `m`, **Position:** `3`, **Words:** Zimbabwe, Jamaica, Yemen, Namibia, Rome
+- **Letter:** `m`, **Position:** `4`, **Words:** Plymouth, Miami, Denmark, Germany, Birmingham
+- **Letter:** `m`, **Position:** `5`, **Words:** Panama, Bahamas, Colombia, Myanmar, Luxembourg
+- **Letter:** `m`, **Position:** `6`, **Words:** Guatemala, Sacramento, Baltimore, Portsmouth, Durham
+- **Letter:** `n`, **Position:** `1`, **Words:** Nagoya, Nepal, Nairobi, Netherlands, Norway
+- **Letter:** `n`, **Position:** `2`, **Words:** Angola, Indonesia, India, Indore, Antwerp
+- **Letter:** `n`, **Position:** `3`, **Words:** Vancouver, Congo, Mongolia, Denmark, Panama
+- **Letter:** `n`, **Position:** `4`, **Words:** Vienna, Frankfurt, Minneapolis, Edinburgh, Shanghai
+- **Letter:** `n`, **Position:** `5`, **Words:** Spain, Yemen, Athens, Estonia, Poland
+- **Letter:** `n`, **Position:** `6`, **Words:** Washington, Florence, Finland, Birmingham, Berlin
+- **Letter:** `o`, **Position:** `1`, **Words:** Orlando, Osaka, Oxford, Oslo, Oman
+- **Letter:** `o`, **Position:** `2`, **Words:** Rotterdam, Honolulu, London, Bologna, Portugal
+- **Letter:** `o`, **Position:** `3`, **Words:** Phoenix, Croatia, Slovenia, Kyoto, Georgia
+- **Letter:** `o`, **Position:** `4`, **Words:** Bogota, Oslo, Oxford, Angola, Morocco
+- **Letter:** `o`, **Position:** `5`, **Words:** London, Moscow, Detroit, Mongolia, Congo
+- **Letter:** `o`, **Position:** `6`, **Words:** Macedonia, Bilbao, Lebanon, Mexico, Cameroon
+- **Letter:** `p`, **Position:** `1`, **Words:** Perth, Portland, Plymouth, Prague, Phoenix
+- **Letter:** `p`, **Position:** `2`, **Words:** Spain, Uppsala, Ipoh, Apia
+- **Letter:** `p`, **Position:** `3`, **Words:** Japan, Naples, Nepal, Cyprus, Copenhagen
+- **Letter:** `p`, **Position:** `4`, **Words:** Egypt, Memphis, Tripoli, Leipzig, Kanpur
+- **Letter:** `p`, **Position:** `5`, **Words:** Budapest, Aleppo, Jodhpur, Zapopan
+- **Letter:** `p`, **Position:** `6`, **Words:** Liverpool, Ethiopia, Singapore, Philippines, Rawalpindi
+- **Letter:** `q`, **Position:** `1`, **Words:** Qatar, Quanzhou, Quito, Qiqihar, Quetta
 - **Letter:** `q`, **Position:** `2`, **Words:** Equator, Aqaba, Iquitos
 - **Letter:** `q`, **Position:** `4`, **Words:** Chiquimula, Iraq, Mosquera
-- **Letter:** `r`, **Position:** `1`, **Words:** Rotterdam, Rome, Romania, Russia, Rwanda
-- **Letter:** `r`, **Position:** `2`, **Words:** Brazil, Brisbane, Croatia, Argentina, Brussels
-- **Letter:** `r`, **Position:** `3`, **Words:** Portland, Peru, Norway, Paraguay, Perth
-- **Letter:** `r`, **Position:** `4`, **Words:** Cyprus, Charlotte, Sacramento, Zagreb, Georgia
-- **Letter:** `r`, **Position:** `5`, **Words:** Cameroon, Nigeria, Australia, Austria, Oxford
-- **Letter:** `r`, **Position:** `6`, **Words:** Rotterdam, Denmark, Bucharest, Amsterdam, Honduras
-- **Letter:** `s`, **Position:** `1`, **Words:** Seattle, Shanghai, Singapore, Salvador, Sweden
-- **Letter:** `s`, **Position:** `2`, **Words:** Oslo, Osaka, Estonia, Istanbul, Israel
-- **Letter:** `s`, **Position:** `3`, **Words:** Austria, Casablanca, Lisbon, Australia, Nashville
-- **Letter:** `s`, **Position:** `4`, **Words:** Glasgow, Helsinki, Minsk, Russia, Brussels
-- **Letter:** `s`, **Position:** `5`, **Words:** Paris, Brussels, Pittsburgh, Tunisia, Lagos
-- **Letter:** `s`, **Position:** `6`, **Words:** Naples, Newcastle, Malaysia, Cyprus, Athens
-- **Letter:** `t`, **Position:** `1`, **Words:** Toronto, Tokyo, Taiwan, Tunisia, Thailand
-- **Letter:** `t`, **Position:** `2`, **Words:** Italy, Athens, Stuttgart, Ethiopia, Stockholm
-- **Letter:** `t`, **Position:** `3`, **Words:** Detroit, Pittsburgh, Lithuania, Qatar, Istanbul
-- **Letter:** `t`, **Position:** `4`, **Words:** Austria, Portugal, Rotterdam, Portland, Baltimore
-- **Letter:** `t`, **Position:** `5`, **Words:** Equator, Croatia, Stuttgart, Egypt, Houston
-- **Letter:** `t`, **Position:** `6`, **Words:** Brighton, Toronto, Argentina, Jakarta, Atlanta
-- **Letter:** `u`, **Position:** `1`, **Words:** Uruguay, Uzbekistan, Ukraine, Ulsan, Uppsala
-- **Letter:** `u`, **Position:** `2`, **Words:** Australia, Turkey, Munich, Budapest, Turin
-- **Letter:** `u`, **Position:** `3`, **Words:** Southampton, Ecuador, Equator, Houston, Stuttgart
-- **Letter:** `u`, **Position:** `4`, **Words:** Yaounde, Seoul, Peru, Vanuatu, Burundi
-- **Letter:** `u`, **Position:** `5`, **Words:** Prague, Beirut, Uruguay, Portugal, Cyprus
-- **Letter:** `u`, **Position:** `6`, **Words:** Melbourne, Vancouver, Belgium, Honolulu, Paraguay
-- **Letter:** `v`, **Position:** `1`, **Words:** Vancouver, Vienna, Venezuela, Valencia, Venice
-- **Letter:** `v`, **Position:** `3`, **Words:** Liverpool, Havana, Novosibirsk, Inverness, Tuvalu
-- **Letter:** `v`, **Position:** `4`, **Words:** Salvador, Cleveland, Denver, Slovenia, Slovakia
+- **Letter:** `r`, **Position:** `1`, **Words:** Rotterdam, Russia, Rome, Romania, Rawalpindi
+- **Letter:** `r`, **Position:** `2`, **Words:** Greece, France, Argentina, Brussels, Frankfurt
+- **Letter:** `r`, **Position:** `3`, **Words:** Germany, Perth, Morocco, Peru, Berlin
+- **Letter:** `r`, **Position:** `4`, **Words:** Madrid, Cyprus, Zagreb, Beirut, Nairobi
+- **Letter:** `r`, **Position:** `5`, **Words:** Qatar, Nicaragua, Oxford, Montreal, Austria
+- **Letter:** `r`, **Position:** `6`, **Words:** Denmark, Bucharest, Hungary, Bulgaria, Honduras
+- **Letter:** `s`, **Position:** `1`, **Words:** Stuttgart, Spain, Seoul, Slovenia, Serbia
+- **Letter:** `s`, **Position:** `2`, **Words:** Estonia, Israel, Osaka, Istanbul, Oslo
+- **Letter:** `s`, **Position:** `3`, **Words:** Moscow, Casablanca, Australia, Boston, Austria
+- **Letter:** `s`, **Position:** `4`, **Words:** Minsk, Glasgow, Russia, Helsinki, Houston
+- **Letter:** `s`, **Position:** `5`, **Words:** Pittsburgh, Pakistan, Lagos, Tunisia, Portsmouth
+- **Letter:** `s`, **Position:** `6`, **Words:** Newcastle, Malaysia, Cyprus, Naples, Athens
+- **Letter:** `t`, **Position:** `1`, **Words:** Tokyo, Turin, Taiwan, Thailand, Tunisia
+- **Letter:** `t`, **Position:** `2`, **Words:** Stockholm, Italy, Ethiopia, Stuttgart, Athens
+- **Letter:** `t`, **Position:** `3`, **Words:** Pittsburgh, Netherlands, Estonia, Istanbul, Rotterdam
+- **Letter:** `t`, **Position:** `4`, **Words:** Seattle, Amsterdam, Portugal, Austria, Haiti
+- **Letter:** `t`, **Position:** `5`, **Words:** Houston, Egypt, Seattle, Croatia, Stuttgart
+- **Letter:** `t`, **Position:** `6`, **Words:** Toronto, Brighton, Atlanta, Beirut, Argentina
+- **Letter:** `u`, **Position:** `1`, **Words:** Uzbekistan, Uruguay, Urumqi, Ufa, Uppsala
+- **Letter:** `u`, **Position:** `2`, **Words:** Zurich, Austria, Munich, Auckland, Turkey
+- **Letter:** `u`, **Position:** `3`, **Words:** Southampton, Ecuador, Uruguay, Brussels, Equator
+- **Letter:** `u`, **Position:** `4`, **Words:** Yaounde, Seoul, Peru, Fukuoka, Kabul
+- **Letter:** `u`, **Position:** `5`, **Words:** Portugal, Honduras, Beirut, Uruguay, Cyprus
+- **Letter:** `u`, **Position:** `6`, **Words:** Vancouver, Melbourne, Belgium, Paraguay, Honolulu
+- **Letter:** `v`, **Position:** `1`, **Words:** Vienna, Venice, Venezuela, Valencia, Vancouver
+- **Letter:** `v`, **Position:** `3`, **Words:** Havana, Liverpool, Tuvalu, Dover, Davao
+- **Letter:** `v`, **Position:** `4`, **Words:** Denver, Cleveland, Slovenia, Salvador, Lviv
 - **Letter:** `v`, **Position:** `5`, **Words:** Bolivia, Nashville, Geneva, Yerevan, Izhevsk
-- **Letter:** `v`, **Position:** `6`, **Words:** Maldives, Monrovia, Vladivostok, Moldova
-- **Letter:** `w`, **Position:** `1`, **Words:** Washington, Winchester, Warsaw, Windsor, Wuhan
-- **Letter:** `w`, **Position:** `2`, **Words:** Switzerland, Sweden, Gwangju, Rwanda, Swansea
-- **Letter:** `w`, **Position:** `3`, **Words:** Newcastle, Newport, Kawasaki, Rawalpindi, Kuwait
-- **Letter:** `w`, **Position:** `4`, **Words:** Taiwan, Norway, Antwerp, Lerwick, Darwin
+- **Letter:** `v`, **Position:** `6`, **Words:** Maldives, Vladivostok, Monrovia, Moldova
+- **Letter:** `w`, **Position:** `1`, **Words:** Washington, Winchester, Wuhan, Winnipeg, Wroclaw
+- **Letter:** `w`, **Position:** `2`, **Words:** Switzerland, Sweden, Gwangju, Swaziland, Swansea
+- **Letter:** `w`, **Position:** `3`, **Words:** Newcastle, Rawalpindi, Kuwait, Kawasaki, Newport
+- **Letter:** `w`, **Position:** `4`, **Words:** Taiwan, Norway, Lerwick, Darwin, Norwich
 - **Letter:** `w`, **Position:** `5`, **Words:** Botswana, Kirkwall, Malawi
-- **Letter:** `w`, **Position:** `6`, **Words:** Moscow, Krakow, Peshawar, Greenwich, Warsaw
-- **Letter:** `x`, **Position:** `1`, **Words:** Xiangxian, Xian, Xiamen, Xiangtan
+- **Letter:** `w`, **Position:** `6`, **Words:** Krakow, Moscow, Peshawar, Greenwich, Warsaw
+- **Letter:** `x`, **Position:** `1`, **Words:** Xiangxian, Xiangtan, Xian, Xiamen
 - **Letter:** `x`, **Position:** `2`, **Words:** Oxford, Exeter
-- **Letter:** `x`, **Position:** `3`, **Words:** Mexico, Mexicali, Luxembourg
-- **Letter:** `x`, **Position:** `6`, **Words:** Guangxi, Xiangxian, Zhangxian
-- **Letter:** `y`, **Position:** `1`, **Words:** Yaounde, Yemen, York, Yerevan, Yekaterinburg
-- **Letter:** `y`, **Position:** `2`, **Words:** Kyoto, Cyprus, Sydney, Myanmar, Pyongyang
-- **Letter:** `y`, **Position:** `3`, **Words:** Plymouth, Egypt, Seychelles, Guyana, Reykjavik
-- **Letter:** `y`, **Position:** `4`, **Words:** Tokyo, Kenya, Libya, Konya, Guiyang
-- **Letter:** `y`, **Position:** `5`, **Words:** Malaysia, Nagoya, Italy, Chelyabinsk, Shenyang
-- **Letter:** `y`, **Position:** `6`, **Words:** Norway, Sydney, Pyongyang, Turkey, Kitakyushu
-- **Letter:** `z`, **Position:** `1`, **Words:** Zurich, Zimbabwe, Zagreb, Zaragoza, Zambia
-- **Letter:** `z`, **Position:** `2`, **Words:** Azerbaijan, Uzbekistan, Izhevsk
-- **Letter:** `z`, **Position:** `3`, **Words:** Kazakhstan, Suzhou, Fuzhou, Nizhny, Mozambique
-- **Letter:** `z`, **Position:** `4`, **Words:** Brazil, Liuzhou, Zhuzhou, Salzburg, Tanzania
-- **Letter:** `z`, **Position:** `5`, **Words:** Switzerland, Belize, Venezuela, Hangzhou, Trabzon
-- **Letter:** `z`, **Position:** `6`, **Words:** Zhengzhou, Guangzhou, Shiraz, Kyrgyzstan
+- **Letter:** `x`, **Position:** `3`, **Words:** Mexico, Luxembourg, Mexicali
+- **Letter:** `x`, **Position:** `6`, **Words:** Xiangxian, Guangxi, Zhangxian
+- **Letter:** `y`, **Position:** `1`, **Words:** Yaounde, York, Yemen, Yokohama, Yantai
+- **Letter:** `y`, **Position:** `2`, **Words:** Pyongyang, Myanmar, Sydney, Cyprus, Kyoto
+- **Letter:** `y`, **Position:** `3`, **Words:** Plymouth, Egypt, Guyana, Seychelles, Reykjavik
+- **Letter:** `y`, **Position:** `4`, **Words:** Tokyo, Libya, Kenya, Konya, Guiyang
+- **Letter:** `y`, **Position:** `5`, **Words:** Malaysia, Italy, Nagoya, Chelyabinsk, Shenyang
+- **Letter:** `y`, **Position:** `6`, **Words:** Pyongyang, Norway, Turkey, Sydney, Antalya
+- **Letter:** `z`, **Position:** `1`, **Words:** Zagreb, Zurich, Zimbabwe, Zhuzhou, Zambia
+- **Letter:** `z`, **Position:** `2`, **Words:** Uzbekistan, Azerbaijan, Izhevsk
+- **Letter:** `z`, **Position:** `3`, **Words:** Kazakhstan, Mozambique, Fuzhou, Nizhny, Suzhou
+- **Letter:** `z`, **Position:** `4`, **Words:** Brazil, Lodz, Liuzhou, Swaziland, Tanzania
+- **Letter:** `z`, **Position:** `5`, **Words:** Belize, Venezuela, Switzerland, Hangzhou, Leipzig
+- **Letter:** `z`, **Position:** `6`, **Words:** Zhengzhou, Kyrgyzstan, Shiraz, Guangzhou
 
 </details>
 
