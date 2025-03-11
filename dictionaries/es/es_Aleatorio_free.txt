@@ -23,6 +23,7 @@ abrigo
 abril
 abroche
 absoluta
+absolver
 absorción
 abucheo
 abuela
@@ -159,6 +160,7 @@ amaña
 amanecer
 amargo
 amarillo
+amativo
 amber
 ambrosio
 amidos
@@ -222,6 +224,7 @@ aquí
 aquifero
 árabe
 árbol
+archivado
 arepa
 ariana
 ariel
@@ -619,6 +622,7 @@ epico
 equivocación
 escapada
 escarza
+esclava
 escoba
 escopeta
 escorpion
@@ -658,6 +662,7 @@ exposición
 extasis
 externo
 extrañado
+extrovertido
 ezequiel
 ezio
 ezra
@@ -675,6 +680,7 @@ fermin
 fermín
 fernando
 ferrobús
+festival
 ficción
 figura
 filemon
@@ -708,6 +714,7 @@ fuente
 fular
 funda
 funk
+furtivo
 fusil
 futuro
 gabriel
@@ -808,6 +815,7 @@ iñigo
 innovación
 interruptor
 intoxicación
+introvertido
 inundación
 iqbal
 iquias
@@ -1027,6 +1035,7 @@ nutria
 obed
 objeto
 obra
+observación
 ocervo
 ochenta
 octavio
@@ -1257,6 +1266,7 @@ stela
 stock
 streak
 subrayado
+supervivencia
 swamp
 sweater
 sweet
