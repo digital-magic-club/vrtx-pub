@@ -99,8 +99,8 @@ Dash
 David Jones!
 De Beers!
 Dell
-Delta Air Lines!
 Delonghi
+Delta Air Lines!
 Deuter!
 Diesel
 DigiQuest!
@@ -149,16 +149,16 @@ Gant
 Gateway!
 Gatorade!
 General Motors!
-Gerber!
 Geox
+Gerber!
 Gibson!
 Gillette
 Glade!
 Glenfiddich
 Godiva!
 Google
-Gordon's Gin!
 GoPro!
+Gordon's Gin!
 Grimbergen
 Gucci
 Guess
@@ -189,8 +189,8 @@ Instagram!
 Intel
 iQIYI!
 IQOS!
-IWC!
 Ivy Park!
+IWC!
 J.Crew!
 Jack Daniel's!
 Jagermeister
@@ -218,6 +218,7 @@ Knorr
 Kodak
 Kodiak!
 Kohl's!
+L'oreal!
 Lacoste!
 Lamborghini
 Lavazza
@@ -235,7 +236,6 @@ LinkedIn!
 Lipton
 Listerine!
 Longines!
-L'oreal!
 Lotus
 Lowa!
 MAC!
@@ -257,8 +257,8 @@ Mercedes
 Merrell!
 Mexx!
 Michael Kors!
-Miele
 Microsoft!
+Miele
 Milka
 Milky Way!
 Mitsubishi
@@ -336,8 +336,8 @@ Prada
 Prince!
 Puma
 PXG!
-Quaker!
 Qatar Airways!
+Quaker!
 Quiksilver
 QVC!
 Ralph Lauren!
@@ -427,8 +427,8 @@ Umbro
 Uncle Ben's!
 Under!
 Unilever
-United Airlines!
 Uniqlo
+United Airlines!
 UPS!
 Vacheron!
 Vaio
