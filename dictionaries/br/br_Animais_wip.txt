@@ -2,8 +2,13 @@ abelha
 abelhão
 abutre
 ácaro
+achatina
+adax
+afídeo
 aguaviva
 águia
+ajolote
+akita
 albatroz
 alce
 anaconda
@@ -12,11 +17,17 @@ andorinha
 anta
 antelope
 antilope
+apteryx
+aquira
 aranha
 arara
 asno
 atum
 avestruz
+awassi
+axolote
+azinha
+azulão
 babuíno
 bacalhau
 bacuri
@@ -25,6 +36,7 @@ bagre
 baiacu
 baleia
 barata
+barbel
 barbo
 barracuda
 beagle
@@ -40,6 +52,7 @@ borboleta
 bordercollie
 boto
 boxer
+bubblefish 
 búfalo
 bulldogue
 bullterrier
@@ -71,6 +84,7 @@ chihuahua
 chimpanzé
 chinchila
 chita
+chitão
 cigarra
 cisne
 coala
@@ -81,6 +95,8 @@ coiote
 cordeiro
 coruja
 corvo
+corydoras
+coyote
 crocodilo
 cuco
 cupim
@@ -92,11 +108,16 @@ doninha
 dourado
 dragão
 dromedário
+edredão
+efémera
 égua
+ejeta
 elefante
 ema
 enguia
 enguilha
+eponge
+equidna
 escarabajo
 escaravelho
 escorpião
@@ -106,6 +127,7 @@ esquilo
 estorninho
 estreladomar
 esturjão
+exocoetus
 faisão
 falcão
 flamingo
@@ -149,6 +171,7 @@ husky
 iguana
 inseto
 itapema
+iwama
 jabuti
 jaçana
 jacaré
@@ -184,6 +207,7 @@ loboguará
 lombriga
 lontra
 lula
+lycaon
 macaco
 mamute
 marimbondo
@@ -206,10 +230,12 @@ muar
 muçurana
 mula
 naja
+okapi
 onça
 orangotango
 orca
 ornitorrinco
+ortyx
 ostra
 ostras
 ouriço
@@ -223,6 +249,7 @@ pássaro
 pastor alemão
 pato
 pavão
+payara
 peixe
 peixe boi
 peixe dourado
@@ -250,6 +277,7 @@ prea
 preguiça
 pulga
 puma
+pygargus
 quati
 quero quero
 rã
@@ -313,7 +341,11 @@ vison
 vitéla
 viuva negra
 weimaraner
+xaréu
+xexéu
 yorkshire
 zangão
 zebra
 zebu
+zorzal
+zyzzyva 
