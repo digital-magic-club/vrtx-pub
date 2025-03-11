@@ -11,6 +11,7 @@ adaptador
 adesivo
 adesivos
 aerógrafo
+afiador
 agulha
 airarei
 airfryer
@@ -18,6 +19,10 @@ airpod
 airpods
 airtag
 airtags
+ajax!
+ajuda!
+ajuntador
+akubra 
 alarme
 alavanca
 alça
@@ -35,8 +40,11 @@ alvo
 amassador
 amplificador
 ancora
+andowall!
 anel
 antena
+antick!
+antraq!
 aparador
 aparelho
 apito
@@ -67,6 +75,9 @@ atlas
 automóvel
 avental
 avião
+aynarte!
+ayurveda
+azimute!
 azulejo
 babyliss
 bacia
@@ -87,8 +98,10 @@ bandeirinha
 bandeja
 bandolim
 banjo
+banker!
 baralho
 barbeador
+barbeque
 Barbie
 barco
 barômetro
@@ -136,10 +149,12 @@ boneca
 borracha
 bota
 botão
+Bowl
 bracelete
 brinco
 brincos
 broche
+bronze!
 bucha
 bule
 bumerangue
@@ -288,14 +303,18 @@ cortina
 cortinas
 cotonete
 cotonetes
+crawnion!
 creme
 cristal
 croissant
+crowbar
+Crowbar!
 crucifixo
 cruz
 cubo
 cueca
 cuecas
+cupcake
 cupom
 dado
 dardo
@@ -320,6 +339,7 @@ dinheiro
 disco
 disquete
 distintivo
+djplay!
 dobradiça
 doces
 documento
@@ -328,6 +348,7 @@ drone
 durex
 dvd
 edredom
+Égide!
 elástico
 elefante
 embreagem
@@ -367,6 +388,8 @@ estilete
 estilingue
 estojo
 etiqueta
+exaustor 
+extensor
 extintor
 faca
 facão
@@ -380,6 +403,7 @@ fichas
 filmadora
 filtro
 fio
+Firewall
 fita
 flanela
 flauta
@@ -409,6 +433,7 @@ furadeira
 furador
 gaiola
 gaita
+galaxy
 galo
 gameboy
 gancho
@@ -463,6 +488,8 @@ jogo
 joias
 jornal
 joystick
+Kart
+Kayak!
 kindle
 lâmina
 lâmpada
@@ -474,6 +501,7 @@ lapiseira
 laptop
 lasanha
 lata
+lattex!
 lavadora
 leite
 lenço
@@ -505,6 +533,7 @@ maçaneta
 machadinha
 machado
 madeira
+makita
 mala
 malas
 maleta
@@ -531,6 +560,7 @@ mexedor
 microchip
 microfone
 microondas
+miktor!
 misturador
 mocassim
 mochila
@@ -557,6 +587,8 @@ nintendo
 nota
 ob
 óculos
+office!
+Oka!
 órgão
 ouro
 ovo
@@ -645,6 +677,7 @@ projetor
 pulseira
 purificador
 quadro
+quartz!
 queijo
 radiador
 radio
@@ -692,6 +725,8 @@ seda
 selim
 seringa
 serpentina
+show
+Showcase!
 sino
 skate
 smartphone
@@ -710,7 +745,10 @@ suspensiorio
 suspensorios
 sutiã
 sutien
+Swicth
+Swiffer!
 tablet
+tableware!
 tábua
 tabuleiro
 tachinha
@@ -752,6 +790,7 @@ tocha
 tomada
 torneira
 torno
+Torpez!
 torradeira
 touca
 trampolim
@@ -778,6 +817,7 @@ vara
 varinha
 vaso
 vassoura
+vehicle!
 vela
 velinha
 ventilador
@@ -792,10 +832,16 @@ violino
 violoncelo
 vitamina
 vitaminas
+walkman
+walktalk
+webcam
 xadrez
 xampu
 xbox
+xerox
 xuxinha
 xuxinhas
+yama! 
+yoyo
 ziper
 zippo
