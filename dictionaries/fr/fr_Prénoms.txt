@@ -13,6 +13,7 @@ Ajmal!
 Akhenaton!
 Akhim!
 Alain
+Alain-Jean!
 Alana!
 Alba
 Albin!
@@ -132,6 +133,7 @@ Eden
 Effie!
 Efrem!
 Eglantine!
+Elhadj!
 Elio!
 Eliott
 Elisa
@@ -380,6 +382,7 @@ Olivier!
 Ophélie
 Oqbah!
 Oscar
+Oxane!
 Paquita!
 Pascal
 Patrice
@@ -417,6 +420,7 @@ Sandra
 Sandrine
 Santiago!
 Sarah
+Sarah-Jane!
 Sébastien
 Serge
 Severine
