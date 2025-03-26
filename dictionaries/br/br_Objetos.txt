@@ -22,7 +22,7 @@ airtags
 ajax!
 ajuda!
 ajuntador
-akubra 
+akubra
 alarme
 alavanca
 alça
@@ -102,7 +102,7 @@ banker!
 baralho
 barbeador
 barbeque
-Barbie
+barbie
 barco
 barômetro
 barra
@@ -149,7 +149,7 @@ boneca
 borracha
 bota
 botão
-Bowl
+bowl
 bracelete
 brinco
 brincos
@@ -308,7 +308,7 @@ creme
 cristal
 croissant
 crowbar
-Crowbar!
+crowbar!
 crucifixo
 cruz
 cubo
@@ -348,7 +348,7 @@ drone
 durex
 dvd
 edredom
-Égide!
+égide!
 elástico
 elefante
 embreagem
@@ -388,7 +388,7 @@ estilete
 estilingue
 estojo
 etiqueta
-exaustor 
+exaustor
 extensor
 extintor
 faca
@@ -403,7 +403,7 @@ fichas
 filmadora
 filtro
 fio
-Firewall
+firewall
 fita
 flanela
 flauta
@@ -488,8 +488,8 @@ jogo
 joias
 jornal
 joystick
-Kart
-Kayak!
+kart
+kayak!
 kindle
 lâmina
 lâmpada
@@ -588,7 +588,7 @@ nota
 ob
 óculos
 office!
-Oka!
+oka!
 órgão
 ouro
 ovo
@@ -726,7 +726,7 @@ selim
 seringa
 serpentina
 show
-Showcase!
+showcase!
 sino
 skate
 smartphone
@@ -745,8 +745,7 @@ suspensiorio
 suspensorios
 sutiã
 sutien
-Swicth
-Swiffer!
+swiffer!
 tablet
 tableware!
 tábua
@@ -790,7 +789,7 @@ tocha
 tomada
 torneira
 torno
-Torpez!
+torpez!
 torradeira
 touca
 trampolim
@@ -841,7 +840,7 @@ xbox
 xerox
 xuxinha
 xuxinhas
-yama! 
+yama!
 yoyo
 ziper
 zippo
