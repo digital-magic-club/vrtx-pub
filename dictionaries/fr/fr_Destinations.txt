@@ -76,7 +76,7 @@ Darwin!
 Dijon
 Djibouti
 Dominique!
-Dreux
+Dreux!
 Ecquevilly!
 Édimbourg
 Egypte
@@ -90,8 +90,8 @@ Eswatini!
 Etats-Unis
 Ethiopie
 Evian
-Evreux
-Evry
+Evreux!
+Evry!
 Fidji
 Finlande
 France
@@ -145,8 +145,8 @@ Libye
 Liechtenstein!
 Lituanie
 Liverpool
-Livry
-Ljubljana!
+Livry!
+Ljubljana
 Luxembourg
 Madagascar
 Malaisie
@@ -157,13 +157,13 @@ Malte
 Maroc
 Maurice
 Mauritanie
-Meaux
+Meaux!
 Mexique
 Moldavie
 Monaco
 Mongolie
 Montenegro
-Montfort
+Montfort!
 Moscou
 Moscow!
 Mozambique
@@ -183,7 +183,7 @@ Okavango!
 Oman
 Ouganda
 Ouzbekistan
-Oxford
+Oxford!
 Pakistan
 Palaos
 Palestine!
