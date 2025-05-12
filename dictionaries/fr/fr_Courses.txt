@@ -193,6 +193,7 @@ guimauves
 guirlande!
 harengs
 haricots
+herbe
 horloge
 huile
 huitres
@@ -326,6 +327,7 @@ short
 skate!
 snowboard!
 soda
+sorbet
 soupe
 souris
 spaghettis
