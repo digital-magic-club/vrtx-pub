@@ -626,13 +626,15 @@ spatule
 station
 studio
 suivre
-surajouter
+surajouter!
 switch
 tableau
 tablette
 tabouret
 taille
-tement
+table
+tapis
+tarte
 temoin
 temple
 tendance
