@@ -362,7 +362,7 @@ valise!
 vanille
 vaporisateur!
 vase
-vaseline
+vaseline!
 veau
 ventilateur
 vernis
