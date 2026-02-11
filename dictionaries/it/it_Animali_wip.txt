@@ -1,451 +1,401 @@
-Oritteropo!
-Protele!
-Orecchia di mare!
-Addax!
-Vipera!
-Gazzella dama!
-Affenpinscher!
-Levriero afgano!
-Elefante africano!
-Aguti!
-Spatola rosata!
-Lucertola talpa!
-Ginestrone!
-Akita!
-Albatros!
-Alligatore!
-Alpaca!
-Anaconda!
-Acciuga!
-Pesce angelo!
-Rana pescatrice!
-Formichiere!
-Antilope!
-Afide!
-Afide!
-Armadillo!
-Ascaride!
-Avocetta!
-Assolotto!
-Azawakh!
-Azzurrino!
-Babirussa!
-Babbuino!
-Tasso!
-Lipote!
-Bandicoot!
-Bandog!
-Pesce gatto banjo!
-Banteng!
-Cirripede!
-Barracuda!
-Beagle!
-Castoro!
-Coleottero!
-Bilby!
-Binturong!
-Bisonte!
-Merlo!
-Pesce palla!
-Ghiandaia azzurra!
-Lince rossa!
-Bongo!
-Palamita!
-Sula!
-Granchio scatola!
-Parrocchetto ondulato!
-Bufalo!
-Bulldog!
-Rana toro!
-Bombo!
-Codibugnolo!
-Otarda!
-Farfalla!
-Poiana!
-Cacico!
-Caimano!
-Cammello!
-Canarino!
-Capibara!
-Cardinale!
-Caribù!
-Casuario!
-Bruco!
-Pesce gatto!
-Bestiame!
-Centopiedi!
-Camaleonte!
-Camoscio!
-Ghepardo!
-Pollo!
-Scimpanzé!
-Cincillà!
-Tamia!
-Gracchio!
-Civetta!
-Coati!
-Coatimundi!
-Cobra!
-Calopsite!
-Cacatua!
-Collie!
-Colobo!
-Condor!
-Colibrì!
-Coquí!
-Coquina!
-Corallo!
-Corgi!
-Puma!
-Molotro!
-Coyote!
-Gru!
-Gambero d'acqua dolce!
-Grillo!
-Coccodrillo!
-Cuculo!
-Cuscus!
-Tuffetto!
-Uccello serpente!
-Procavia delle rocce!
-Cuon!
-Dibbler!
-Dik-dik!
-Dingo!
-Dinosauro!
-Criceto russo!
-Pesce cane!
-Delfino!
-Asino!
-Ghiro!
-Piviere!
-Drago!
-Libellula!
-Dugongo!
-Piovanello!
-Squalo bruno!
-Aquila!
-Lombrico!
-Echidna!
-Barbagianni!
-Serpente mangiatore di uova!
-Garzetta!
-Elefante!
-Efimera!
-Ermellino!
-Pesce volante!
-Falco!
-Fanjingshania!
-Fennec!
-Furetto!
-Fringuello!
-Lucciola!
-Cavallo del fiordo!
-Fenicottero!
-Fossa!
-Volpe!
-Galagone!
-Gallimimus!
-Sula bassana!
-Gazzella!
-Geco!
-Orice gazzella!
-Gerbillo!
-Gibbone!
-Giraffa!
-Pesce rosso!
-Oca!
-Gopher!
-Gorilla!
-Cavalletta!
-Svasso!
-Grifone!
-Grison!
-Tetraone!
-Guanaco!
-Guppy!
-Criceto!
-Anatra arlecchino!
-Albanella!
-Riccio!
-Airone!
-Aringa!
-Ippopotamo!
-Hoatzin!
-Bucero!
-Calabrone!
-Cavallo!
-Segugio!
-Hutia!
-Iena!
-Procavia!
-Stambecco!
-Ibis!
-Iguana!
-Impala!
-Indri!
-Volpe delle Channel Islands!
-Gabbiano d'avorio!
-Giacana!Sciacallo!
-Taccola!
-Labbo!
-Giaguaro!
-Pesce giavellotto!
-Medusa!
-Gerboa!
-Rana kajika!
-Kakapo!
-Canguro!
-Casarca!
-Gheppio!
-Martin pescatore!
-Cercoletto!
-Tiranno kiskadee!
-Gabbiano tridattilo!
-Salta-rupi!
-Koala!
-Kookaburra!
-Kowari!
-Coccinella!
-Lampreda!
-Langur!
-Pavoncella!
-Lemming!
-Lemure!
-Leopardo!
-Lucertola!
-Lama!
-Aragosta!
-Locusta!
-Lori!
-Pidocchio!
-Inseparabile!
-Lince!
-Macaco!
-Ara!
-Sgombro!
-Gazza!
-Germano reale!
-Mammut!
-Lamantino!
-Mandrillo!
-Mantide!
-Margay!
-Marlin!
-Uistitì!
-Marmotta!
-Martora!
-Balestruccio!
-Mastodonte!
-Suricato!
-Sanguinerola!
-Mimo!
-Mojarra!
-Molly!
-Mangusta!
-Lemure mongoz!
-Scimmia!
-Rana pescatrice!
-Gallinella d'acqua!
-Alce!
-Zanzara!
-Gambusia!
-Muflone!
-Topo!
-Muntjac!
-Muntjac!
-Urietta!
-Anatra muta!
-Bue muschiato!
-Narvalo!
-Usignolo!
-Succiacapre!
-Nilgau!
-Numbat!
-Nutria!
-Ocelot!
-Polpo!
-Okapi!
-Olingo!
-Orice!
-Opossum!
-Orango!
-Oriolo!
-Orice!
-Falco pescatore!
-Struzzo!
-Lontra!
-Fornaio!
-Bue muschiato!
-Gufo!
-Bue!
-Bufaga!
-Ostrica!
-Pesce delle caverne!
-Ocelot!
-Paca!
+Acciuga
+Addax
+Affenpinscher
+Afide
+Aguti
+Airone
 Airone guardabuoi!
-Pademelon!
-Pesce cardinale!
-Gatto delle pampas!
-Panda!Pangolino!
-Pantera!
-Parrocchetto!
-Pappagallo!
-Pesce pappagallo!
-Pernice!Pauraque!
-Pavone!Pavone!
-Pellicano!
-Pinguino!
-Pesce persico!
-Petrello!
-Falaropo!
-Fagiano!
-Tiranno phoebe!
-Piccione!
-Pika!
-Luccio!
-Codone!
-Pispola!
-Piranha!
-Pizzly!
-Ornitorinco!
-Puzzola!
-Istice!
-Focena!
-Possum!
-Potoroo!
-Gamberone!
-Prinia!
-Pulcinella di mare!
-Quagga!
-Quaglia!
-Quetzal!
-Quokka!
-Quoll!
-Coniglio!
-Procione!
-Pesce cencio!
-Tasso del miele!
-Corvo imperiale!
-Capriolo!
-Organetto!
-Codirosso!
-Renna!
-Rhebok!
-Rinoceronte!
-Bassarisco!
-Geococige!
-Pettirosso!
-Gallo!
-Zibellino!
-Pesce vela!
-Salamandra!
-Salmone!
-Piovanello tridattilo!
-Piro-piro!
-Sardina!
-Moretta grigia!
-Scorpione!
-Palamedea!
+Akita
+Albanella
+Albatros
+Alce
+Alligatore
+Alpaca
+Anaconda
+Anatra arlecchino!
+Anatra muta
+Antilope
+Aquila
+Ara
+Aragosta
+Aringa
+Armadillo
+Ascaride
+Asino
+Assolotto
+Astrilde
+Averla
+Avocetta
+Avvoltoio
+Azawakh
+Azzurrino
+Babbuino
+Babirussa
+Balena
+Balestruccio
+Ballerina
+Bandicoot
+Bandog
+Banteng
+Barbagianni
+Barracuda
+Bassarisco
+Beagle
+Beccaccia
+Beccaccino
+Beccofrusolo
+Berta
+Bestiame
+Bilby
+Binturong
+Bisonte
+Bombo
+Bongo
+Bradipo
+Bruco
+Bucero
+Bue muschiato
+Bufaga
+Bufalo
+Bulldog
+Cacatua
+Cacico
+Caimano
+Calabrone
+Calamaro
+Calopsite
+Camaleonte
+Cammello
+Camoscio
+Canarino
+Canguro
+Capibara
+Capriolo
+Cardinale
+Caribù
+Casarca
+Castoro
+Casuario
+Cavalletta
+Cavallo
 Cavalluccio marino!
-Sero!
-Squalo!
-Berta!
-Pecora!
-Toporagno!
-Averla!
-Gamberetto!
-Siamango!
-Lucherino!
-Scinco!
-Puzzola americana!
-Bradipo!
-Sperlano!
-Chiocciola!
-Serpente!
-Beccaccino!
-Solenodonte!
-Passero!
-Ragno!
-Spatola!
-Springbok!
-Springer!
-Piccione novello!
-Calamaro!
-Scoiattolo!
-Stella marina!
-Storno!
-Cavaliere d'italia!
-Trigone!
-Cicogna!
-Nettarinia!
-Pesce luna!
-Rondine!
-Rondone!
-Pesce spada!
-Girino!
-Tamarino!
-Tanagra!
-Tapiro!
-Tarantola!
-Tarsio!
-Armadillo!
-Termite!
-Mimo!
-Tordo!
-Tigre!
-Pesce palla costruttore!
+Centopiedi
+Cercoletto
+Chiocciola
+Chiurlo piccolo
+Cicogna
+Cincillà
+Cirripede
+Civetta
+Coati
+Coatimundi
+Cobo
+Cobra
+Coccinella
+Coccodrillo
+Codibugnolo
+Codirosso
+Codone
+Coleottero
+Colibrì
+Collie
+Colobo
+Condor
+Coniglio
+Coquí
+Coquina
+Corallo
+Corgi
+Corvo imperiale
+Coyote
+Criceto
+Cuculo
+Cuon
+Cuscus
+Delfino
+Dibbler
+Dik-dik
+Dingo
+Dinosauro
+Donnola
+Drago
+Dugongo
+Echidna
+Efimera
+Elefante
+Ermellino
+Facocero
+Fagiano
+Falaropo
+Falco
+Fanjingshania
+Farfalla
+Fenicottero
+Fennec
+Fischione
+Focena
+Formichiere
+Fornaio
+Fossa
+Fringuello
+Furetto
+Gabbiano d'avorio!
+Gabbiano tridattilo!
+Galagone
+Gallimimus
+Gallinella d'acqua!
+Gallo
+Gamberetto
+Gamberone
+Gambusia
+Garzetta
+Gatto delle pampas!
+Gazza
+Gazzella
+Geco
+Geococige
+Gerbillo
+Gerboa
+Germano reale
+Ghepardo
+Gheppio
+Ghiandaia azzurra!
+Ghiottone
+Ghiro
+Giacana
+Giaguaro
+Gibbone
+Ginestrone
+Giraffa
+Girino
+Gnu
+Gopher
+Gorilla
+Gracchio
+Grifone
+Grillo
+Grison
+Gru
+Guanaco
+Gufo
+Guppy
+Hoatzin
+Hutia
+Ibis
+Iena
+Iguana
+Impala
+Indri
+Inseparabile
+Ippopotamo
+Istice
+Kakapo
+Koala
+Kookaburra
+Kowari
+Labbo
+Labride
+Lama
+Lamantino
+Lampreda
+Langur
+Lemming
+Lemure
+Leopardo
+Levriero afgano
+Libellula
+Lince
+Lince rossa
+Lipote
+Locusta
+Lombrico
+Lontra
+Lori
+Luccio
+Lucciola
+Lucertola
+Lucherino
+Macaco
+Mammut
+Mandrillo
+Mangusta
+Mantide
+Margay
+Marlin
+Marmotta
+Martin pescatore!
+Martora
+Mastodonte
+Medusa
+Merlo
+Mimo
+Mojarra
+Molly
+Molotro
+Moretta grigia
+Muflone
+Muntjac
+Narvalo
+Nettarinia
+Nilgau
+Numbat
+Nutria
+Oca
+Ocelot
+Okapi
+Olingo
+Opossum
+Orango
+Orecchia di mare!
+Organetto
+Orice
+Orice gazzella
+Oriolo
+Oritteropo
+Ornitorinco
+Ostrica
+Otarda
+Paca
+Pademelon
+Palamedea
+Palamita
+PandaPangolino
+Pantera
+Pappagallo
+Parrocchetto
+Passero
+Pauraque
+Pavoncella
+Pavone
+Pecora
+Pellicano
+Pernice
+Pesce
+Petrello
+Pettirosso
+Picchio
+Piccione
+Pidocchio
+Pika
+Pinguino
+Piovanello
+Piranha
+Piro-piro
+Pispola
+Piviere
+Pizzly
+Poiana
+Pollo
+Polpo
+Possum
+Potoroo
+Prinia
+Procavia
+Procione
+Protele
+Pulcinella di mare!
+Puma
+Punteruolo
+Puzzola
+Quagga
+Quaglia
+Quetzal
+Quokka
+Quoll
+Ragno
+Rana kajika
+Rana pescatrice!
+Rana toro!
+Renna
+Rhebok
+Riccio
+Rinoceronte
+Rondine
+Rondone
+Salamandra
+Salmone
+Salta-rupi
+Sanguinerola
+Sardina
+Sciacallo
+Scimmia
+Scimpanzé
+Scinco
+Scoiattolo
+Scorpione
+Segugio
+Sero
+Serpente
+Sgombro
+Siamango
+Silvide
+Solenodonte
+Spatola
+Sperlano
+Springbok
+Springer
+Squalo
+Stambecco
+Stella marina
+Stiaccino
+Storno
+Struzzo
+Succiacapre
+Sula
+Sula bassana
+Suricato
+Svasso
+Tacchino
+Taccola
+Tamarino
+Tamia
+Tanagra
+Tapiro
+Tarantola
+Tarsio
 Tartaruga
-!Tucano!
-Tupaja!
-Trota!
-Trombettiere!
-Turaco!
-Tacchino!
-Tartaruga!
-Uacari!
-Uccello ombrella!
-Uccello ombrella!
-Unicorno!
-Riccio di mare!
-Urial!
-Vigogna!
-Uropigio!
-Vipera!
-Vireo!
-Viscaccia!
-Volpe!
-Avvoltoio!
-Ballerina!
-Wallaby!
-Tricheco!
-Silvide!
-Facocero!
-Cobo!
-Astrilde!
-Beccofrusolo!
-Donnola!
-Tessitore!
-Punteruolo!
-Balena!
-Chiurlo piccolo!
-Stiaccino!
-Fischione!
-Gnu!
-Ghiottone!
-Vombato!
-Beccaccia!
-Picchio!
-Labride!
-Torcicollo!
-Tetra raggi x!
-Xenops!
-Scoiattolo di terra!
-Yabby!
-Yak!
-Yapok!
-Zigolo giallo!
-Zebra!
-Zebù!
-Zorilla!
+Tasso
+Tasso del miele!
+Termite
+Tessitore
+Tetra raggi x
+Tetraone
+Tigre
+Tiranno
+Topo
+Toporagno
+Torcicollo
+Tordo
+Tricheco
+Trigone
+Trombettiere
+Trota
+Tucano
+Tuffetto
+Tupaja
+Turaco
+Uacari
+Uccello
+Uistitì
+Unicorno
+Urial
+Urietta
+Uropigio
+Usignolo
+Vigogna
+Vipera
+Vireo
+Viscaccia
+Volpe
+Vombato
+Wallaby
+Xenops
+Yabby
+Yak
+Yapok
+Zanzara
+Zebra
+Zebù
+Zibellino
+Zigolo giallo
+Zorilla
