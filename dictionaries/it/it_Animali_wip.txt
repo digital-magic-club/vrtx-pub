@@ -1,10 +1,12 @@
 Acciuga
+Adax
 Addax
 Affenpinscher
 Afide
 Aguti
 Airone
 Airone guardabuoi!
+Ajolote
 Akita
 Albanella
 Albatros
@@ -15,6 +17,8 @@ Anaconda
 Anatra arlecchino!
 Anatra muta
 Antilope
+Antrax
+Ape
 Aquila
 Ara
 Aragosta
@@ -27,6 +31,7 @@ Astrilde
 Averla
 Avocetta
 Avvoltoio
+Awas
 Azawakh
 Azzurrino
 Babbuino
@@ -40,6 +45,7 @@ Banteng
 Barbagianni
 Barracuda
 Bassarisco
+Bax
 Beagle
 Beccaccia
 Beccaccino
@@ -68,6 +74,7 @@ Camaleonte
 Cammello
 Camoscio
 Canarino
+Cane
 Canguro
 Capibara
 Capriolo
@@ -124,6 +131,7 @@ Echidna
 Efimera
 Elefante
 Ermellino
+Exocoetidae
 Facocero
 Fagiano
 Falaropo
@@ -133,6 +141,7 @@ Farfalla
 Fenicottero
 Fennec
 Fischione
+Fix
 Focena
 Formichiere
 Fornaio
@@ -143,12 +152,14 @@ Gabbiano d'avorio!
 Gabbiano tridattilo!
 Galagone
 Gallimimus
+Gallina
 Gallinella d'acqua!
 Gallo
 Gamberetto
 Gamberone
 Gambusia
 Garzetta
+Gatto
 Gatto delle pampas!
 Gazza
 Gazzella
@@ -172,11 +183,13 @@ Gnu
 Gopher
 Gorilla
 Gracchio
+Greyhound
 Grifone
 Grillo
 Grison
 Gru
 Guanaco
+Guanajo
 Gufo
 Guppy
 Hoatzin
@@ -189,6 +202,9 @@ Indri
 Inseparabile
 Ippopotamo
 Istice
+Ixode
+Jacana
+Junco
 Kakapo
 Koala
 Kookaburra
@@ -215,6 +231,7 @@ Luccio
 Lucciola
 Lucertola
 Lucherino
+Lynx
 Macaco
 Mammut
 Mandrillo
@@ -240,8 +257,11 @@ Nettarinia
 Nilgau
 Numbat
 Nutria
+Nyala
 Oca
 Ocelot
+Odonato
+Ojang
 Okapi
 Olingo
 Opossum
@@ -252,9 +272,11 @@ Orice
 Orice gazzella
 Oriolo
 Oritteropo
+Orix
 Ornitorinco
 Ostrica
 Otarda
+Owari
 Paca
 Pademelon
 Palamedea
@@ -263,6 +285,7 @@ PandaPangolino
 Pantera
 Pappagallo
 Parrocchetto
+Pasqua
 Passero
 Pauraque
 Pavoncella
@@ -279,6 +302,7 @@ Pidocchio
 Pika
 Pinguino
 Piovanello
+Piove
 Piranha
 Piro-piro
 Pispola
@@ -287,6 +311,7 @@ Pizzly
 Poiana
 Pollo
 Polpo
+Polyp
 Possum
 Potoroo
 Prinia
@@ -294,6 +319,7 @@ Procavia
 Procione
 Protele
 Pulcinella di mare!
+Pulcino
 Puma
 Punteruolo
 Puzzola
@@ -317,12 +343,14 @@ Salmone
 Salta-rupi
 Sanguinerola
 Sardina
+Sberla
 Sciacallo
 Scimmia
 Scimpanzé
 Scinco
 Scoiattolo
 Scorpione
+Scrofa
 Segugio
 Sero
 Serpente
@@ -393,9 +421,10 @@ Xenops
 Yabby
 Yak
 Yapok
+Yellowstone
 Zanzara
 Zebra
 Zebù
 Zibellino
-Zigolo giallo
+Zigolo giallo!
 Zorilla
