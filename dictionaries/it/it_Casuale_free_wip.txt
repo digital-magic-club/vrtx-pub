@@ -17,6 +17,7 @@ agenda
 agenzia
 aggiornamento
 aggiungere
+ajaccio
 albero
 alfa
 alfabeto
@@ -26,6 +27,7 @@ allegro
 allerta
 alliev
 allocare
+alpenjager
 altezza
 altro
 alunno
@@ -46,6 +48,7 @@ annullare
 ansia
 antenna
 antico
+antiqua
 anzitutto
 apparire
 appello
@@ -129,12 +132,15 @@ bilancio
 binario
 biologia
 biscotto
+bisex
 bistecca
 blocco
 bocca
 bonus
 bottiglia
 bottone
+boutique
+box
 bozza
 braccio
 breve
@@ -142,6 +148,7 @@ brevetto
 brillare
 brindisi
 bronzo
+bruxismo 
 bue
 buffer
 buio
@@ -201,9 +208,10 @@ ciclo
 cieco
 cielo
 ciliegia
-cinquanta
+cinque
 cinta
 cioè
+ciquanta
 circa
 circuito
 citazione
@@ -212,6 +220,7 @@ civico
 civile
 cliccare
 clima
+climax
 codice
 colla
 collare
@@ -284,6 +293,7 @@ costa
 costruire
 costume
 cotone
+cowboy
 creare
 credere
 credito
@@ -309,6 +319,7 @@ decisivo
 declino
 decorare
 dedicare
+deejay
 definire
 delicato
 denso
@@ -317,6 +328,7 @@ dente
 dentro
 deposito
 deputato
+derby
 deriva
 derivare
 descrivere
@@ -613,7 +625,12 @@ istruzioni
 itinerario
 jeans
 junior
-l'un l'altro
+kaikano
+kaki
+karaoke
+kayak
+koala
+lady
 lama
 lampo
 lancio
@@ -651,6 +668,7 @@ luna
 lunare
 lunghezza
 lupo
+lycra
 macchina
 madre
 maestro
@@ -711,6 +729,7 @@ moderno
 modifica
 modificare
 modulo
+mojito
 mollare
 mondo
 moneta
@@ -733,6 +752,7 @@ nascosto
 natale
 nativo
 natura
+navajo 
 nazione
 nebbia
 negozio
@@ -1093,6 +1113,7 @@ sfortunatamente
 sforzo
 sguardo
 shock
+show
 sicuro
 siepe
 significare
@@ -1103,11 +1124,13 @@ simile
 singolo
 sistema
 situazione
+skiff
 smaltire
 soccorso
 sociale
 soddisfare
 soffitto
+softwarista
 sogno
 solare
 soldi
@@ -1174,6 +1197,8 @@ super
 superiore
 sveglio
 sviluppare
+switch
+takeaway 
 tappeto
 tasca
 tavola
@@ -1291,7 +1316,9 @@ volpe
 volta
 volume
 vuoto
+wc
 xeno
+yen
 zaino
 zio
 zona
