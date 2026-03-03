@@ -9,6 +9,7 @@ acqua
 acquatico
 addestrare
 adeguare
+adequati
 affare
 affari
 affilato
@@ -49,6 +50,7 @@ ansia
 antenna
 antico
 antiqua
+antiquariato
 anzitutto
 apparire
 appello
@@ -110,6 +112,7 @@ balcone
 bambino
 bambù
 banchetto
+banjo
 banner
 barattolo
 barca
@@ -128,19 +131,23 @@ bianco
 biblioteca
 bicicletta
 biglietto
+bijou
 bilancio
 binario
 biologia
 biscotto
 bisex
 bistecca
+blackjack
 blocco
 bocca
 bonus
 bottiglia
 bottone
 boutique
+bowling
 box
+boxe
 bozza
 braccio
 breve
@@ -203,6 +210,7 @@ chiave
 chiesa
 chitarra
 chiudere
+chiunque
 ciao
 ciclo
 cieco
@@ -218,9 +226,11 @@ citazione
 cittadino
 civico
 civile
+claxon
 cliccare
 clima
 climax
+clown
 codice
 colla
 collare
@@ -310,6 +320,7 @@ cuore
 curva
 cuscino
 custodia
+cyclette
 danza
 debole
 decennio
@@ -334,6 +345,7 @@ derivare
 descrivere
 deserto
 desiderio
+desktop
 destino
 dettaglio
 diario
@@ -367,6 +379,7 @@ divertente
 dividere
 divino
 dizionario
+dj
 dolce
 dollaro
 domanda
@@ -430,6 +443,7 @@ etichetta
 evento
 evitare
 ex
+extra
 fabbrica
 faccia
 facilità
@@ -558,6 +572,8 @@ guidare
 guizzare
 guscio
 gusto
+hollywoodiano
+horror
 hotel
 ictus
 ideale
@@ -629,6 +645,7 @@ kaikano
 kaki
 karaoke
 kayak
+kilowattora
 koala
 lady
 lama
@@ -683,6 +700,7 @@ mantello
 manuale
 manzo
 marcia
+marijuana
 marito
 marmellata
 marrone
@@ -788,6 +806,7 @@ obiettivo
 oggetto
 oggi
 ogni
+okay
 oliva
 oltre
 ombra
@@ -883,6 +902,7 @@ piscina
 pistola
 piuma
 pizza
+play
 poesia
 polare
 politica
@@ -990,6 +1010,7 @@ regola
 regolare
 reimpostare
 reinserire
+relax
 remoto
 rendere
 resistere
@@ -1122,9 +1143,11 @@ silenzioso
 simbolo
 simile
 singolo
+sirtaki
 sistema
 situazione
 skiff
+skylab
 smaltire
 soccorso
 sociale
@@ -1198,7 +1221,8 @@ superiore
 sveglio
 sviluppare
 switch
-takeaway 
+takeaway
+tampax
 tappeto
 tasca
 tavola
@@ -1248,6 +1272,7 @@ tronco
 tuono
 turno
 tutto
+twist
 uccello
 ufficio
 uguale
@@ -1316,8 +1341,11 @@ volpe
 volta
 volume
 vuoto
+waterloo
 wc
 xeno
+xenofobi
+yacht
 yen
 zaino
 zio
