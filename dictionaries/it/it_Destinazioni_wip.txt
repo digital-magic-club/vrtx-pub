@@ -1,3 +1,4 @@
+Abax
 Aberdeen
 Abidjan
 Accra
@@ -7,7 +8,10 @@ Agadir
 Agra
 Ahmedabad
 Aix-en-Provence
+Ajaccio
+Akron
 Albania
+Alburquerque
 Aleppo
 Alessandria
 Algeri
@@ -54,6 +58,7 @@ Bandung
 Bangalore
 Bangkok
 Bangladesh
+Banjul
 Barbados
 Barcellona
 Bari
@@ -93,6 +98,7 @@ Brighton
 Brisbane
 Bristol
 Brno
+Broux
 Bruges
 Brunei
 Bruxelles
@@ -189,7 +195,6 @@ Edimburgo
 Edmonton
 Egitto
 Eindhoven
-Ekaterinburg
 Ekaterinburg
 Equatore
 Erbil
@@ -293,6 +298,7 @@ Islanda
 Israele
 Istanbul
 Italia
+Ittoqqortoormiit
 Ixtapa
 Izhevsk
 Jaipur
@@ -466,6 +472,7 @@ Norwich
 Nottingham
 Novosibirsk
 Odessa
+Ojai
 Oman
 Omsk
 Orlando
@@ -500,6 +507,7 @@ Plymouth
 Polonia
 Portland
 Porto
+Portofino
 Portogallo
 Portsmouth
 Potsdam
@@ -534,6 +542,7 @@ Riga
 Riyadh
 Roma
 Romania
+Roquebrune
 Rosario
 Rotterdam
 Ruanda
@@ -681,7 +690,6 @@ Xining
 Xochimilco
 Yamoussoukro
 Yantai
-Yaoundé
 Yaoundé
 Yazd
 Yemen
