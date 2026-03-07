@@ -255,6 +255,7 @@ Guyana
 Gwangju
 Haifa
 Haiti
+Hajdúj!
 Halifax
 Halmstad
 Hamamatsu
@@ -709,3 +710,4 @@ Zhuzhou
 Zimbabwe
 Zion
 Zurigo
+
