@@ -6,7 +6,8 @@ Afide
 Agrazza
 Aguti
 Airone
-Airone guardabuoi
+Airone
+Ajaja
 Ajolote
 Akita
 Albanella
@@ -16,8 +17,7 @@ Alligatore
 Alpaca
 Amoeba
 Anaconda
-Anatra arlecchino
-Anatra muta
+Anatra
 Antilope
 Antrax
 Ape
@@ -66,7 +66,7 @@ Bradipo
 Bruco
 Bruvax
 Bucero
-Bue muschiato
+Bue
 Bufaga
 Bufalo
 Bulldog
@@ -92,11 +92,11 @@ Castoro
 Casuario
 Cavalletta
 Cavallo
-Cavalluccio marino
+Cavalluccio
 Centopiedi
 Cercoletto
 Chiocciola
-Chiurlo piccolo
+Chiurlo
 Cicogna
 Cincillà
 Cirripede
@@ -120,7 +120,7 @@ Coquí
 Coquina
 Corallo
 Corgi
-Corvo imperiale
+Corvo
 Coyote
 Criceto
 Cuculo
@@ -157,29 +157,27 @@ Fornaio
 Fossa
 Fringuello
 Furetto
-Gabbiano d'avorio
-Gabbiano tridattilo
+Gabbiano
 Galagone
 Gallimimus
 Gallina
-Gallinella d'acqua
+Gallinella
 Gallo
 Gamberetto
 Gamberone
 Gambusia
 Garzetta
 Gatto
-Gatto delle pampas
 Gazza
 Gazzella
 Geco
 Geococige
 Gerbillo
 Gerboa
-Germano reale
+Germano
 Ghepardo
 Gheppio
-Ghiandaia azzurra
+Ghiandaia
 Ghiottone
 Ghiro
 Giacana
@@ -209,6 +207,7 @@ Iena
 Iguana
 Impala
 Indri
+Iniqu
 Inseparabile
 Ippopotamo
 Istice
@@ -231,10 +230,9 @@ Langur
 Lemming
 Lemure
 Leopardo
-Levriero afgano
+Levriero
 Libellula
 Lince
-Lince rossa
 Lipote
 Locusta
 Lombrico
@@ -254,7 +252,7 @@ Mantide
 Margay
 Marlin
 Marmotta
-Martin pescatore
+Martin
 Martora
 Mastodonte
 Medusa
@@ -263,7 +261,7 @@ Mimo
 Mojarra
 Molly
 Molotro
-Moretta grigia
+Moretta
 Muflone
 Muntjac
 Narvalo
@@ -282,10 +280,9 @@ Olingo
 Opossum
 Orango
 Ordix
-Orecchia di mare
+Orecchia
 Organetto
 Orice
-Orice gazzella
 Oriolo
 Oritteropo
 Orix
@@ -336,7 +333,7 @@ Prinia
 Procavia
 Procione
 Protele
-Pulcinella di mare
+Pulcinella
 Pulcino
 Puma
 Punteruolo
@@ -347,9 +344,7 @@ Quetzal
 Quokka
 Quoll
 Ragno
-Rana kajika
-Rana pescatrice
-Rana toro
+Rana
 Raya
 Renna
 Rhebok
@@ -359,7 +354,7 @@ Rondine
 Rondone
 Salamandra
 Salmone
-Salta-rupi
+Saltarupi
 Sanguinerola
 Sardina
 Sberla
@@ -376,6 +371,7 @@ Sero
 Serpente
 Sgombro
 Siamango
+Siacquotto
 Silvide
 Solenodonte
 Spatola
@@ -384,7 +380,7 @@ Springbok
 Springer
 Squalo
 Stambecco
-Stella marina
+Stellamarina
 Stiaccino
 Storno
 Struzzo
@@ -403,10 +399,9 @@ Tarantola
 Tarsio
 Tartaruga
 Tasso
-Tasso del miele
 Termite
 Tessitore
-Tetra raggi x
+Tetra
 Tetraone
 Tigre
 Tiranno
