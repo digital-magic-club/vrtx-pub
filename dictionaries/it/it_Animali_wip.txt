@@ -3,9 +3,10 @@ Adax
 Addax
 Affenpinscher
 Afide
+Agrazza
 Aguti
 Airone
-Airone guardabuoi!
+Airone guardabuoi
 Ajolote
 Akita
 Albanella
@@ -13,8 +14,9 @@ Albatros
 Alce
 Alligatore
 Alpaca
+Amoeba
 Anaconda
-Anatra arlecchino!
+Anatra arlecchino
 Anatra muta
 Antilope
 Antrax
@@ -36,6 +38,7 @@ Azawakh
 Azzurrino
 Babbuino
 Babirussa
+Baja
 Balena
 Balestruccio
 Ballerina
@@ -55,10 +58,13 @@ Bestiame
 Bilby
 Binturong
 Bisonte
+Blauw
+Blowfly
 Bombo
 Bongo
 Bradipo
 Bruco
+Bruvax
 Bucero
 Bue muschiato
 Bufaga
@@ -80,12 +86,13 @@ Capibara
 Capriolo
 Cardinale
 Caribù
+Carnivoro
 Casarca
 Castoro
 Casuario
 Cavalletta
 Cavallo
-Cavalluccio marino!
+Cavalluccio marino
 Centopiedi
 Cercoletto
 Chiocciola
@@ -118,6 +125,7 @@ Coyote
 Criceto
 Cuculo
 Cuon
+Curlew
 Cuscus
 Delfino
 Dibbler
@@ -127,6 +135,7 @@ Dinosauro
 Donnola
 Drago
 Dugongo
+Dugov
 Echidna
 Efimera
 Elefante
@@ -148,19 +157,19 @@ Fornaio
 Fossa
 Fringuello
 Furetto
-Gabbiano d'avorio!
-Gabbiano tridattilo!
+Gabbiano d'avorio
+Gabbiano tridattilo
 Galagone
 Gallimimus
 Gallina
-Gallinella d'acqua!
+Gallinella d'acqua
 Gallo
 Gamberetto
 Gamberone
 Gambusia
 Garzetta
 Gatto
-Gatto delle pampas!
+Gatto delle pampas
 Gazza
 Gazzella
 Geco
@@ -170,7 +179,7 @@ Gerboa
 Germano reale
 Ghepardo
 Gheppio
-Ghiandaia azzurra!
+Ghiandaia azzurra
 Ghiottone
 Ghiro
 Giacana
@@ -195,6 +204,7 @@ Guppy
 Hoatzin
 Hutia
 Ibis
+Ichneumone
 Iena
 Iguana
 Impala
@@ -205,7 +215,10 @@ Istice
 Ixode
 Jacana
 Junco
+Kajman
 Kakapo
+Kinkajou
+Kiwi
 Koala
 Kookaburra
 Kowari
@@ -233,6 +246,7 @@ Lucertola
 Lucherino
 Lynx
 Macaco
+Macaque
 Mammut
 Mandrillo
 Mangusta
@@ -240,7 +254,7 @@ Mantide
 Margay
 Marlin
 Marmotta
-Martin pescatore!
+Martin pescatore
 Martora
 Mastodonte
 Medusa
@@ -261,12 +275,14 @@ Nyala
 Oca
 Ocelot
 Odonato
+Oivav
 Ojang
 Okapi
 Olingo
 Opossum
 Orango
-Orecchia di mare!
+Ordix
+Orecchia di mare
 Organetto
 Orice
 Orice gazzella
@@ -281,7 +297,8 @@ Paca
 Pademelon
 Palamedea
 Palamita
-PandaPangolino
+Panda
+Pangolino
 Pantera
 Pappagallo
 Parrocchetto
@@ -300,6 +317,7 @@ Picchio
 Piccione
 Pidocchio
 Pika
+Pikaiq
 Pinguino
 Piovanello
 Piove
@@ -318,7 +336,7 @@ Prinia
 Procavia
 Procione
 Protele
-Pulcinella di mare!
+Pulcinella di mare
 Pulcino
 Puma
 Punteruolo
@@ -330,8 +348,9 @@ Quokka
 Quoll
 Ragno
 Rana kajika
-Rana pescatrice!
-Rana toro!
+Rana pescatrice
+Rana toro
+Raya
 Renna
 Rhebok
 Riccio
@@ -350,6 +369,7 @@ Scimpanzé
 Scinco
 Scoiattolo
 Scorpione
+Screw
 Scrofa
 Segugio
 Sero
@@ -383,7 +403,7 @@ Tarantola
 Tarsio
 Tartaruga
 Tasso
-Tasso del miele!
+Tasso del miele
 Termite
 Tessitore
 Tetra raggi x
@@ -417,6 +437,8 @@ Viscaccia
 Volpe
 Vombato
 Wallaby
+Wapiti
+Xema
 Xenops
 Yabby
 Yak
@@ -426,5 +448,5 @@ Zanzara
 Zebra
 Zebù
 Zibellino
-Zigolo giallo!
+Zigolo giallo
 Zorilla
