@@ -1,9 +1,8 @@
-
 abaco
 acceleratore
 accendino
 acquario
-acquavite di mele
+acquavite
 adattatore
 adesivo
 aereo
@@ -24,6 +23,7 @@ anticaglia
 antiquark
 appartamento
 appendiabiti
+aquario
 archivio
 arco
 armadietto
@@ -47,7 +47,7 @@ balcone
 balsamo
 bandana
 bandiera
-bandiera britannica
+banjo
 banner
 barattolo
 barbecue
@@ -68,6 +68,7 @@ borsa
 borsetta
 bottiglia
 bottone
+boutique
 braccialetto
 bracciolo
 brocca
@@ -99,10 +100,9 @@ cavo
 cemento
 cera
 cerniera
-cerniera lampo
 cesto
 chiave
-chiave inglese
+chilowatt
 chiodo
 chiosco
 chitarra
@@ -111,6 +111,7 @@ cintura
 ciondolo
 ciotola
 clessidra
+clown
 cocktail
 collana
 colonna
@@ -153,9 +154,11 @@ erpice
 estintore
 estrattore
 etichetta
+extracellulare 
 fabbro
 fajitas
 fata
+fax
 fermo
 ferro
 fiala
@@ -201,6 +204,7 @@ griglia
 grill
 gruccia
 guanto
+hardware
 heliox
 igloo
 imballaggio
@@ -213,9 +217,15 @@ iniettore
 insulatore
 interruttore
 ixora
+jambo
 jeans
 joystick
+jockey
+jolly 
 jukebox
+kake
+kayak
+kiwi
 lampada
 lampadario
 lancia
@@ -225,7 +235,6 @@ lattice
 lavandino
 lavatrice
 lente
-lente d'ingrandimento
 letto
 leva
 libreria
@@ -233,6 +242,7 @@ libro
 linux
 liquore
 luce
+lycra
 macchina
 magnete
 magnum
@@ -282,7 +292,7 @@ ozono
 padella
 pagaia
 palco
-palla da spiaggia
+palla
 palloncino
 palo
 panca
@@ -291,6 +301,7 @@ pantaloncini
 pantofola
 paracadute
 paraorecchie
+parquet
 parrucca
 partizione
 passerella
@@ -309,6 +320,7 @@ pinzatrice
 pinze
 piovra
 piscina
+playstation 
 pneumatico
 pompa
 pompa a cavalletto
@@ -339,6 +351,8 @@ rasoio
 rastrelli
 rastrelliera
 recinzione
+reliquia 
+relojo
 rete
 revolver
 ricciola
@@ -398,6 +412,7 @@ sughero
 tablet
 tajine
 tamburo
+tampax
 tampone
 tappetino
 tappeto
@@ -423,6 +438,7 @@ toffee
 torcia
 torrente
 tovagliolo
+tower
 traduttore
 trapano
 trapunta
@@ -438,6 +454,7 @@ tunnel
 tzatziki
 ufficio
 ugello
+uva
 uniforme
 utensile
 vagone
@@ -457,6 +474,7 @@ viala
 viale
 visiera
 vite
+windsurf
 x-ray
 xbox
 xeno
@@ -474,3 +492,4 @@ zipper
 zircone
 zona
 zucca
+
