@@ -13,6 +13,7 @@ ajuga
 ajwain
 albero
 album
+aliquote
 allarme
 altoparlante
 amphora
@@ -24,6 +25,7 @@ antiquark
 appartamento
 appendiabiti
 aquario
+aquila
 archivio
 arco
 armadietto
@@ -59,6 +61,8 @@ beola
 berretto
 bicicletta
 binario
+blackjack
+blackout
 blazer
 blocco
 bobina
@@ -82,14 +86,15 @@ campana
 candela
 cannone
 cannuccia
+caposquadra
 capsula
-caramella mou
+caramella
 caricabatterie
 carrello
 carta
 cartello
 cartongesso
-casa galleggiante
+casa
 cassa
 cassetta postale
 cassetto
@@ -137,6 +142,7 @@ cupcake
 cuscino
 custodia
 decespugliatore
+deejay
 diamante
 diapositiva
 diario
@@ -190,6 +196,7 @@ gesso
 gettone
 ghiacciaia
 gians
+gigabyte
 gilet
 gioco
 giogo
@@ -204,8 +211,11 @@ griglia
 grill
 gruccia
 guanto
+halloween
 hardware
 heliox
+halloween
+hobby
 igloo
 imballaggio
 imbracatura
@@ -258,6 +268,7 @@ maschera
 matita
 mattone
 medaglia
+megawatt
 melanzana
 mensola
 metro
@@ -275,6 +286,7 @@ motore
 mouse
 muro
 nastro
+navajo
 nave
 necklace
 nylon
@@ -298,6 +310,7 @@ palo
 panca
 pannello
 pantaloncini
+pantajazz
 pantofola
 paracadute
 paraorecchie
@@ -323,14 +336,12 @@ piscina
 playstation 
 pneumatico
 pompa
-pompa a cavalletto
 ponte
 porta
 portafoglio
 portaombrelli
 posacenere
 posta
-posta in arrivo
 preda
 presa
 proiettore
@@ -362,11 +373,10 @@ router
 rullo
 ruota
 ruscello
-sacchetto ziploc
+sacchetto
 salotto
 scaffale
 scala
-scala mobile
 scalpello
 scanalatura
 scanner
@@ -381,9 +391,7 @@ scopa
 scrivania
 scudo
 sedia
-sedia a sdraio
 sedile
-sedile a secchiello
 serbatoio
 sgabello
 skate
@@ -409,6 +417,7 @@ strumento
 stufa
 subwoofer
 sughero
+switch
 tablet
 tajine
 tamburo
@@ -451,6 +460,7 @@ trucco
 truogolo
 tubo
 tunnel
+twist
 tzatziki
 ufficio
 ugello
@@ -474,6 +484,7 @@ viala
 viale
 visiera
 vite
+web
 windsurf
 x-ray
 xbox
@@ -492,4 +503,3 @@ zipper
 zircone
 zona
 zucca
-
