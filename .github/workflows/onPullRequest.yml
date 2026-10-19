@@ -30,7 +30,7 @@ jobs:
           ref: main
           path: main
           fetch-depth: 0
-          persist-credentials: false # The fix is pushed with VRTX_CI_TOKEN instead
+          persist-credentials: false # The fix is pushed with VRTX_AUTOFIX_TOKEN instead
 
       - name: Fetch PR branch
         working-directory: main
@@ -55,7 +55,7 @@ jobs:
         id: push
         working-directory: pr_tree
         env:
-          TOKEN: ${{ secrets.VRTX_CI_TOKEN }}
+          TOKEN: ${{ secrets.VRTX_AUTOFIX_TOKEN }}
           HEAD_REPO: ${{ github.event.pull_request.head.repo.full_name }}
           HEAD_REF: ${{ github.event.pull_request.head.ref }}
         run: |
@@ -64,6 +64,7 @@ jobs:
           elif git push "https://x-access-token:${TOKEN}@github.com/${HEAD_REPO}.git" "HEAD:refs/heads/${HEAD_REF}"; then
             echo "pushed=true" >> $GITHUB_OUTPUT
           else
+            # The other checks will then fail and show what to fix
             echo "::warning::Couldn't push the fixes to ${HEAD_REPO}:${HEAD_REF}. Is \"Allow edits by maintainers\" enabled on the PR?"
             echo "pushed=false" >> $GITHUB_OUTPUT
           fi
@@ -100,6 +101,46 @@ jobs:
             exit 1
           fi
           echo "✅ The validated dictionaries list is edited by an admin (${AUTHOR})."
+
+  check-wip-requirements:
+    name: Check dictionaries without _wip respect the requirements
+    needs: autofix
+    # Skipped when fixes were pushed, as the new run validates the fixed branch
+    if: ${{ !cancelled() && needs.autofix.outputs.pushed != 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Backend repository
+        uses: actions/checkout@v3
+        with:
+          repository: digital-magic-club/vrtx-backend
+          token: ${{ secrets.VRTX_CI_TOKEN }}
+          ref: main
+          path: backend
+
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+          path: main
+          fetch-depth: 0
+
+      - name: Fetch PR branch
+        working-directory: main
+        run: git fetch origin "+refs/pull/${{ github.event.pull_request.number }}/head:pr"
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r "$GITHUB_WORKSPACE/backend/functions/dictionaries/requirements.txt"
+
+      - name: Run validation script
+        working-directory: main
+        run: .github/scripts/check_wip_requirements.sh "$GITHUB_WORKSPACE/backend/functions/dictionaries"
 
   check-incomplete-positions:
     name: Check for incomplete positions delta
