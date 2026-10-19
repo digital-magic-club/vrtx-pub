@@ -13,10 +13,14 @@ set -euo pipefail
 
 scripts_dir="$1"
 pr_tree="$2"
-validated_list="$PWD/.github/validated_dictionaries.txt"
 staged_dir="$RUNNER_TEMP/autofix_staged"
+validated_list="$RUNNER_TEMP/validated_dictionaries.txt"
 
 git worktree add --detach "$pr_tree" pr
+
+# The PR's list, so an admin can validate a dictionary in the same PR
+# (only admins may edit it, see check-validated-dictionaries)
+git show pr:.github/validated_dictionaries.txt > "$validated_list" 2>/dev/null || : > "$validated_list"
 
 .github/scripts/stage_pr_dictionaries.sh pr "$staged_dir"
 python "$scripts_dir/fix_dictionaries.py" "$staged_dir"
