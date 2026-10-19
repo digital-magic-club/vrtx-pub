@@ -3,10 +3,10 @@ name: Pull request validations
 on:
   pull_request_target:
     types: [opened, synchronize, reopened]
-    branches: [ master ]
+    branches: [ main ]
 
 # Every check only looks at the dictionaries changed by the PR, so an issue
-# already on master (or in another PR) doesn't make unrelated PRs fail.
+# already on main (or in another PR) doesn't make unrelated PRs fail.
 # The PR is fetched as data only: its files are read through git, never executed.
 
 jobs:
@@ -24,16 +24,16 @@ jobs:
           ref: main
           path: backend
 
-      - name: Checkout master branch
+      - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          ref: master
-          path: master
+          ref: main
+          path: main
           fetch-depth: 0
           persist-credentials: false # The fix is pushed with VRTX_CI_TOKEN instead
 
       - name: Fetch PR branch
-        working-directory: master
+        working-directory: main
         run: git fetch origin "+refs/pull/${{ github.event.pull_request.number }}/head:pr"
 
       - name: Set up Python
@@ -47,7 +47,7 @@ jobs:
           pip install -r "$GITHUB_WORKSPACE/backend/functions/dictionaries/requirements.txt"
 
       - name: Fix dictionaries changed by the PR
-        working-directory: master
+        working-directory: main
         run: .github/scripts/autofix_pr_dictionaries.sh "$GITHUB_WORKSPACE/backend/functions/dictionaries" "$GITHUB_WORKSPACE/pr_tree"
 
       # The push triggers a new run of these validations on the fixed branch
@@ -72,19 +72,19 @@ jobs:
     name: Check validated dictionaries list is edited by an admin
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout master branch
+      - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          ref: master
-          path: master
+          ref: main
+          path: main
           fetch-depth: 0
 
       - name: Fetch PR branch
-        working-directory: master
+        working-directory: main
         run: git fetch origin "+refs/pull/${{ github.event.pull_request.number }}/head:pr"
 
       - name: Check PR author permission
-        working-directory: master
+        working-directory: main
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           AUTHOR: ${{ github.event.pull_request.user.login }}
@@ -116,20 +116,20 @@ jobs:
           ref: main
           path: backend
 
-      - name: Checkout master branch
+      - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          ref: master
-          path: master
+          ref: main
+          path: main
           fetch-depth: 0
 
       - name: Fetch PR branch
-        working-directory: master
+        working-directory: main
         run: git fetch origin "+refs/pull/${{ github.event.pull_request.number }}/head:pr"
 
       # New dictionaries are skipped: compared against nothing, they would always fail
       - name: Stage dictionaries modified by the PR
-        working-directory: master
+        working-directory: main
         run: |
           .github/scripts/stage_pr_dictionaries.sh base "$GITHUB_WORKSPACE/base_changed" --modified-only
           .github/scripts/stage_pr_dictionaries.sh pr "$GITHUB_WORKSPACE/pr_changed" --modified-only
@@ -196,19 +196,19 @@ jobs:
           ref: main
           path: backend
 
-      - name: Checkout master branch
+      - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          ref: master
-          path: master
+          ref: main
+          path: main
           fetch-depth: 0
 
       - name: Fetch PR branch
-        working-directory: master
+        working-directory: main
         run: git fetch origin "+refs/pull/${{ github.event.pull_request.number }}/head:pr"
 
       - name: Stage dictionaries changed by the PR
-        working-directory: master
+        working-directory: main
         run: .github/scripts/stage_pr_dictionaries.sh pr "$GITHUB_WORKSPACE/pr_changed"
 
       - name: Set up Python
@@ -244,19 +244,19 @@ jobs:
           ref: main
           path: backend
 
-      - name: Checkout master branch
+      - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          ref: master
-          path: master
+          ref: main
+          path: main
           fetch-depth: 0
 
       - name: Fetch PR branch
-        working-directory: master
+        working-directory: main
         run: git fetch origin "+refs/pull/${{ github.event.pull_request.number }}/head:pr"
 
       - name: Stage dictionaries changed by the PR
-        working-directory: master
+        working-directory: main
         run: .github/scripts/stage_pr_dictionaries.sh pr "$GITHUB_WORKSPACE/pr_changed"
 
       - name: Set up Python

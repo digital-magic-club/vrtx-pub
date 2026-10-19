@@ -7,7 +7,7 @@
 #
 # Usage: autofix_pr_dictionaries.sh <backend dictionaries scripts directory> <PR working tree>
 #
-# Expects to run inside a master checkout where the PR head was fetched as `pr`.
+# Expects to run inside a main checkout where the PR head was fetched as `pr`.
 # PR files are only edited as data, never executed.
 set -euo pipefail
 

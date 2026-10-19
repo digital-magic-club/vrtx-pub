@@ -3,7 +3,7 @@ name: Push fast-follow
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   upload-dictionaries:
@@ -19,11 +19,11 @@ jobs:
           ref: main
           path: backend
 
-      - name: Checkout master branch
+      - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          ref: master
-          path: master
+          ref: main
+          path: main
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -37,11 +37,11 @@ jobs:
 
       - name: Run upload dictionaries script
         run: |
-          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/latotale.py" "$GITHUB_WORKSPACE/master/dictionaries" "$GITHUB_WORKSPACE/master/dictionaries/Dictionaries.md"
+          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/latotale.py" "$GITHUB_WORKSPACE/main/dictionaries" "$GITHUB_WORKSPACE/main/dictionaries/Dictionaries.md"
 
       - name: Check for changes
         run: |
-          cd "$GITHUB_WORKSPACE/master"
+          cd "$GITHUB_WORKSPACE/main"
           git status
           if [[ -n "$(git status --porcelain)" ]]; then
             echo "CHANGES_DETECTED=true" >> $GITHUB_ENV
@@ -52,12 +52,12 @@ jobs:
       - name: Commit and push Changes
         if: env.CHANGES_DETECTED == 'true'
         run: |
-          cd "$GITHUB_WORKSPACE/master"
+          cd "$GITHUB_WORKSPACE/main"
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add dictionaries/Dictionaries.md
           git commit -m "Upload dictionaries"
-          git push origin master
+          git push origin main
 
       - name: No changes to commit
         if: env.CHANGES_DETECTED == 'false'
