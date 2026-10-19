@@ -14,9 +14,9 @@ staged_dir="$RUNNER_TEMP/wip_staged"
 validated_list="$RUNNER_TEMP/validated_dictionaries.txt"
 failures=0
 
-# The PR's list, so an admin can validate a dictionary in the same PR
-# (only admins may edit it, see check-validated-dictionaries)
-git show pr:.github/validated_dictionaries.txt > "$validated_list" 2>/dev/null || : > "$validated_list"
+# Main's list only: the PR's own copy isn't trusted, admins validate from the
+# PR comment (see onValidateComment.yml) or on main
+cp .github/validated_dictionaries.txt "$validated_list"
 
 .github/scripts/stage_pr_dictionaries.sh pr "$staged_dir"
 

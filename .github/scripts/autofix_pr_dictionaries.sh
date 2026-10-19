@@ -4,6 +4,7 @@
 #   - removes duplicated lines and sorts alphabetically (fix_dictionaries.py)
 #   - adds the _wip suffix to dictionaries missing letter/position words,
 #     unless they are listed in .github/validated_dictionaries.txt
+#   - removes the _wip suffix from dictionaries listed there
 #
 # Usage: autofix_pr_dictionaries.sh <backend dictionaries scripts directory> <PR working tree>
 #
@@ -18,9 +19,9 @@ validated_list="$RUNNER_TEMP/validated_dictionaries.txt"
 
 git worktree add --detach "$pr_tree" pr
 
-# The PR's list, so an admin can validate a dictionary in the same PR
-# (only admins may edit it, see check-validated-dictionaries)
-git show pr:.github/validated_dictionaries.txt > "$validated_list" 2>/dev/null || : > "$validated_list"
+# Main's list only: the PR's own copy isn't trusted, admins validate from the
+# PR comment (see onValidateComment.yml) or on main
+cp .github/validated_dictionaries.txt "$validated_list"
 
 .github/scripts/stage_pr_dictionaries.sh pr "$staged_dir"
 python "$scripts_dir/fix_dictionaries.py" "$staged_dir"
@@ -30,7 +31,15 @@ find "$staged_dir" -name '*.txt' -print0 |
     file="${staged_file#"$staged_dir/"}"
     cp "$staged_file" "$pr_tree/$file"
 
-    if [[ "$file" == *_wip.txt ]] || grep -qxF "$file" "$validated_list"; then
+    if [[ "$file" == *_wip.txt ]]; then
+      production_file="${file%_wip.txt}.txt"
+      if grep -qxF "$production_file" "$validated_list" && [[ ! -e "$pr_tree/$production_file" ]]; then
+        echo "🚀 $production_file is validated: removing the _wip suffix"
+        git -C "$pr_tree" mv "$file" "$production_file"
+      fi
+      continue
+    fi
+    if grep -qxF "$file" "$validated_list"; then
       continue
     fi
 
@@ -54,5 +63,5 @@ if git -C "$pr_tree" diff --cached --quiet; then
 fi
 
 git -C "$pr_tree" -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" \
-  commit -q -m "Fix dictionaries automatically" -m "Sort alphabetically, remove duplicated lines and add the _wip suffix to incomplete dictionaries."
+  commit -q -m "Fix dictionaries automatically" -m "Sort alphabetically, remove duplicated lines and update the _wip suffix of dictionaries."
 git -C "$pr_tree" show --stat --format='🛠️ %s' HEAD
