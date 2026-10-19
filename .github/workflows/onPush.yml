@@ -16,7 +16,7 @@ jobs:
         with:
           repository: digital-magic-club/vrtx-backend
           token: ${{ secrets.VRTX_CI_TOKEN }}
-          ref: master
+          ref: main
           path: backend
 
       - name: Checkout master branch
