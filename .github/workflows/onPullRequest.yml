@@ -5,6 +5,10 @@ on:
     types: [opened, synchronize, reopened]
     branches: [ master ]
 
+# Every check only looks at the dictionaries changed by the PR, so an issue
+# already on master (or in another PR) doesn't make unrelated PRs fail.
+# The PR is fetched as data only: its files are read through git, never executed.
+
 jobs:
   check-incomplete-positions:
     name: Check for incomplete positions delta
@@ -23,14 +27,17 @@ jobs:
         with:
           ref: master
           path: master
+          fetch-depth: 0
 
-      - name: Checkout PR branch
-        uses: actions/checkout@v3
-        with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.ref }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          path: pr_repo
+      - name: Fetch PR branch
+        working-directory: master
+        run: git fetch origin "+refs/pull/${{ github.event.pull_request.number }}/head:pr"
+
+      - name: Stage dictionaries changed by the PR
+        working-directory: master
+        run: |
+          .github/scripts/stage_pr_dictionaries.sh base "$GITHUB_WORKSPACE/base_changed"
+          .github/scripts/stage_pr_dictionaries.sh pr "$GITHUB_WORKSPACE/pr_changed"
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -42,30 +49,32 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r "$GITHUB_WORKSPACE/backend/functions/dictionaries/requirements.txt"
 
-      - name: Run validation script on Master branch
+      - name: Run validation script on base of changed dictionaries
         run: |
-          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/check_incomplete_positions.py" "$GITHUB_WORKSPACE/master/dictionaries" > master_output.txt
-          grep "Final total sum of incomplete positions" master_output.txt | awk '{print $NF}' > master_count.txt
-          echo "MASTER_COUNT=$(cat master_count.txt)" >> $GITHUB_ENV
+          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/check_incomplete_positions.py" "$GITHUB_WORKSPACE/base_changed" > base_output.txt
+          cat base_output.txt
+          grep "Final total sum of incomplete positions" base_output.txt | awk '{print $NF}' > base_count.txt
+          echo "BASE_COUNT=$(cat base_count.txt)" >> $GITHUB_ENV
 
-      - name: Run validation script on PR branch
+      - name: Run validation script on PR changed dictionaries
         run: |
-          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/check_incomplete_positions.py" "$GITHUB_WORKSPACE/pr_repo/dictionaries" > pr_output.txt
+          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/check_incomplete_positions.py" "$GITHUB_WORKSPACE/pr_changed" > pr_output.txt
+          cat pr_output.txt
           grep "Final total sum of incomplete positions" pr_output.txt | awk '{print $NF}' > pr_count.txt
           echo "PR_COUNT=$(cat pr_count.txt)" >> $GITHUB_ENV
 
       - name: Compare Incomplete Positions
         run: |
-          MASTER_COUNT=${MASTER_COUNT:-0}
+          BASE_COUNT=${BASE_COUNT:-0}
           PR_COUNT=${PR_COUNT:-0}
 
-          echo "Master branch incomplete positions: $MASTER_COUNT"
-          echo "PR branch incomplete positions: $PR_COUNT"
+          echo "Base incomplete positions in changed dictionaries: $BASE_COUNT"
+          echo "PR incomplete positions in changed dictionaries: $PR_COUNT"
 
-          if [[ "$PR_COUNT" -gt "$MASTER_COUNT" ]]; then
-            INCREASED_BY=$((PR_COUNT - MASTER_COUNT))
+          if [[ "$PR_COUNT" -gt "$BASE_COUNT" ]]; then
+            INCREASED_BY=$((PR_COUNT - BASE_COUNT))
             echo "❌ ERROR: The number of incomplete positions has increased by +$INCREASED_BY!"
-            echo "  - Master: $MASTER_COUNT"
+            echo "  - Base: $BASE_COUNT"
             echo "  - PR: $PR_COUNT"
             echo "This pull request is supposed to **reduce** incomplete positions, but it has increased them instead."
             exit 1
@@ -89,13 +98,20 @@ jobs:
           ref: master
           path: backend
 
-      - name: Checkout PR branch
+      - name: Checkout master branch
         uses: actions/checkout@v3
         with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.ref }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          path: pr_repo
+          ref: master
+          path: master
+          fetch-depth: 0
+
+      - name: Fetch PR branch
+        working-directory: master
+        run: git fetch origin "+refs/pull/${{ github.event.pull_request.number }}/head:pr"
+
+      - name: Stage dictionaries changed by the PR
+        working-directory: master
+        run: .github/scripts/stage_pr_dictionaries.sh pr "$GITHUB_WORKSPACE/pr_changed"
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -109,7 +125,7 @@ jobs:
 
       - name: Run validation script
         run: |
-          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/check_alphabetic_sorting.py" "$GITHUB_WORKSPACE/pr_repo/dictionaries"
+          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/check_alphabetic_sorting.py" "$GITHUB_WORKSPACE/pr_changed"
 
       - name: Fail PR if script fails
         if: failure()
@@ -127,13 +143,20 @@ jobs:
           ref: master
           path: backend
 
-      - name: Checkout PR branch
+      - name: Checkout master branch
         uses: actions/checkout@v3
         with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.ref }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          path: pr_repo
+          ref: master
+          path: master
+          fetch-depth: 0
+
+      - name: Fetch PR branch
+        working-directory: master
+        run: git fetch origin "+refs/pull/${{ github.event.pull_request.number }}/head:pr"
+
+      - name: Stage dictionaries changed by the PR
+        working-directory: master
+        run: .github/scripts/stage_pr_dictionaries.sh pr "$GITHUB_WORKSPACE/pr_changed"
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -147,7 +170,7 @@ jobs:
 
       - name: Run validation script
         run: |
-          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/check_duplicates.py" "$GITHUB_WORKSPACE/pr_repo/dictionaries"
+          python "$GITHUB_WORKSPACE/backend/functions/dictionaries/check_duplicates.py" "$GITHUB_WORKSPACE/pr_changed"
 
       - name: Fail PR if script fails
         if: failure()
