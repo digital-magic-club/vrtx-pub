@@ -26,6 +26,7 @@ dictionaries/kr/kr_랜덤_free.txt
 dictionaries/kr/kr_연예인_free.txt
 dictionaries/nl/nl_Beroemdheden.txt
 dictionaries/nl/nl_Willekeurig_free.txt
+dictionaries/ru/ru_Random.txt
 dictionaries/us/us_Animals.txt
 dictionaries/us/us_Brands.txt
 dictionaries/us/us_Celebrities.txt
