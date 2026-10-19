@@ -317,3 +317,66 @@ jobs:
       - name: Fail PR if script fails
         if: failure()
         run: exit 1
+
+  report:
+    name: Comment the PR status
+    needs: [autofix, check-validated-dictionaries, check-wip-requirements, check-incomplete-positions, check-alphabetic-sorting, check-duplications]
+    # Skipped when fixes were pushed, as the new run comments on the fixed branch
+    if: ${{ !cancelled() && needs.autofix.outputs.pushed != 'true' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+      pull-requests: write
+    steps:
+      - name: Checkout Backend repository
+        uses: actions/checkout@v3
+        with:
+          repository: digital-magic-club/vrtx-backend
+          token: ${{ secrets.VRTX_CI_TOKEN }}
+          ref: main
+          path: backend
+
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+          path: main
+          fetch-depth: 0
+
+      - name: Fetch PR branch
+        working-directory: main
+        run: git fetch origin "+refs/pull/${{ github.event.pull_request.number }}/head:pr"
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r "$GITHUB_WORKSPACE/backend/functions/dictionaries/requirements.txt"
+
+      - name: Build report
+        working-directory: main
+        env:
+          NEEDS: ${{ toJSON(needs) }}
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+        run: python .github/scripts/pr_report.py "$GITHUB_WORKSPACE/backend/functions/dictionaries" > "$RUNNER_TEMP/report.md"
+
+      # A single comment, updated on every run
+      - name: Post or update the PR comment
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          COMMENT_ID=$(gh api --paginate "repos/$REPO/issues/$PR_NUMBER/comments" \
+            --jq '.[] | select(.body | startswith("<!-- vrtx-pr-report -->")) | .id' | head -n 1)
+          if [[ -n "$COMMENT_ID" ]]; then
+            gh api --method PATCH "repos/$REPO/issues/comments/$COMMENT_ID" -F body=@"$RUNNER_TEMP/report.md" > /dev/null
+          else
+            gh api --method POST "repos/$REPO/issues/$PR_NUMBER/comments" -F body=@"$RUNNER_TEMP/report.md" > /dev/null
+          fi
+          cat "$RUNNER_TEMP/report.md" >> $GITHUB_STEP_SUMMARY
