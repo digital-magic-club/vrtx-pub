@@ -10,8 +10,102 @@ on:
 # The PR is fetched as data only: its files are read through git, never executed.
 
 jobs:
+  autofix:
+    name: Fix simple dictionary issues
+    runs-on: macos-latest # Same locales as the sorting check
+    outputs:
+      pushed: ${{ steps.push.outputs.pushed }}
+    steps:
+      - name: Checkout Backend repository
+        uses: actions/checkout@v3
+        with:
+          repository: digital-magic-club/vrtx-backend
+          token: ${{ secrets.VRTX_CI_TOKEN }}
+          ref: master
+          path: backend
+
+      - name: Checkout master branch
+        uses: actions/checkout@v3
+        with:
+          ref: master
+          path: master
+          fetch-depth: 0
+          persist-credentials: false # The fix is pushed with VRTX_CI_TOKEN instead
+
+      - name: Fetch PR branch
+        working-directory: master
+        run: git fetch origin "+refs/pull/${{ github.event.pull_request.number }}/head:pr"
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r "$GITHUB_WORKSPACE/backend/functions/dictionaries/requirements.txt"
+
+      - name: Fix dictionaries changed by the PR
+        working-directory: master
+        run: .github/scripts/autofix_pr_dictionaries.sh "$GITHUB_WORKSPACE/backend/functions/dictionaries" "$GITHUB_WORKSPACE/pr_tree"
+
+      # The push triggers a new run of these validations on the fixed branch
+      - name: Push fixes to the PR branch
+        id: push
+        working-directory: pr_tree
+        env:
+          TOKEN: ${{ secrets.VRTX_CI_TOKEN }}
+          HEAD_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+          HEAD_REF: ${{ github.event.pull_request.head.ref }}
+        run: |
+          if [[ "$(git rev-parse HEAD)" == "$(git rev-parse pr)" ]]; then
+            echo "pushed=false" >> $GITHUB_OUTPUT
+          elif git push "https://x-access-token:${TOKEN}@github.com/${HEAD_REPO}.git" "HEAD:refs/heads/${HEAD_REF}"; then
+            echo "pushed=true" >> $GITHUB_OUTPUT
+          else
+            echo "::warning::Couldn't push the fixes to ${HEAD_REPO}:${HEAD_REF}. Is \"Allow edits by maintainers\" enabled on the PR?"
+            echo "pushed=false" >> $GITHUB_OUTPUT
+          fi
+
+  check-validated-dictionaries:
+    name: Check validated dictionaries list is edited by an admin
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master branch
+        uses: actions/checkout@v3
+        with:
+          ref: master
+          path: master
+          fetch-depth: 0
+
+      - name: Fetch PR branch
+        working-directory: master
+        run: git fetch origin "+refs/pull/${{ github.event.pull_request.number }}/head:pr"
+
+      - name: Check PR author permission
+        working-directory: master
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AUTHOR: ${{ github.event.pull_request.user.login }}
+        run: |
+          if git diff --quiet "$(git merge-base HEAD pr)" pr -- .github/validated_dictionaries.txt; then
+            echo "✅ The validated dictionaries list isn't edited."
+            exit 0
+          fi
+
+          PERMISSION=$(gh api "repos/${{ github.repository }}/collaborators/${AUTHOR}/permission" --jq .permission || echo none)
+          if [[ "$PERMISSION" != "admin" ]]; then
+            echo "❌ ERROR: .github/validated_dictionaries.txt can only be edited by a repo admin (${AUTHOR} is: ${PERMISSION})."
+            exit 1
+          fi
+          echo "✅ The validated dictionaries list is edited by an admin (${AUTHOR})."
+
   check-incomplete-positions:
     name: Check for incomplete positions delta
+    needs: autofix
+    # Skipped when fixes were pushed, as the new run validates the fixed branch
+    if: ${{ !cancelled() && needs.autofix.outputs.pushed != 'true' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Backend repository
@@ -33,11 +127,12 @@ jobs:
         working-directory: master
         run: git fetch origin "+refs/pull/${{ github.event.pull_request.number }}/head:pr"
 
-      - name: Stage dictionaries changed by the PR
+      # New dictionaries are skipped: compared against nothing, they would always fail
+      - name: Stage dictionaries modified by the PR
         working-directory: master
         run: |
-          .github/scripts/stage_pr_dictionaries.sh base "$GITHUB_WORKSPACE/base_changed"
-          .github/scripts/stage_pr_dictionaries.sh pr "$GITHUB_WORKSPACE/pr_changed"
+          .github/scripts/stage_pr_dictionaries.sh base "$GITHUB_WORKSPACE/base_changed" --modified-only
+          .github/scripts/stage_pr_dictionaries.sh pr "$GITHUB_WORKSPACE/pr_changed" --modified-only
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -88,6 +183,9 @@ jobs:
 
   check-alphabetic-sorting:
     name: Check for correct alphabetic sorting
+    needs: autofix
+    # Skipped when fixes were pushed, as the new run validates the fixed branch
+    if: ${{ !cancelled() && needs.autofix.outputs.pushed != 'true' }}
     runs-on: macos-latest # So locales are space-sensitive
     steps:
       - name: Checkout Backend repository
@@ -133,6 +231,9 @@ jobs:
 
   check-duplications:
     name: Check for duplicated lines
+    needs: autofix
+    # Skipped when fixes were pushed, as the new run validates the fixed branch
+    if: ${{ !cancelled() && needs.autofix.outputs.pushed != 'true' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Backend repository

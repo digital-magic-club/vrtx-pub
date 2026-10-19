@@ -1,0 +1,36 @@
+# Production dictionaries validated manually by a repo admin.
+# They are never renamed to _wip automatically. Only repo admins may edit this file.
+dictionaries/br/br_Aleatória_free.txt
+dictionaries/br/br_Celebridades.txt
+dictionaries/br/br_Destinos.txt
+dictionaries/br/br_Marcas.txt
+dictionaries/br/br_Nomes.txt
+dictionaries/br/br_Objetos.txt
+dictionaries/de/de_Orte.txt
+dictionaries/de/de_Zufällig_free.txt
+dictionaries/es/es_Aleatorio_free.txt
+dictionaries/fr/fr_Aléatoire_free.txt
+dictionaries/fr/fr_Animaux.txt
+dictionaries/fr/fr_Courses.txt
+dictionaries/fr/fr_Célébrités.txt
+dictionaries/fr/fr_Destinations.txt
+dictionaries/fr/fr_Marques.txt
+dictionaries/fr/fr_Objets.txt
+dictionaries/fr/fr_Prénoms.txt
+dictionaries/it/it_Animali.txt
+dictionaries/it/it_Casuale_free.txt
+dictionaries/it/it_Destinazioni.txt
+dictionaries/it/it_Marchi.txt
+dictionaries/it/it_Oggetti.txt
+dictionaries/kr/kr_랜덤_free.txt
+dictionaries/kr/kr_연예인_free.txt
+dictionaries/nl/nl_Beroemdheden.txt
+dictionaries/nl/nl_Willekeurig_free.txt
+dictionaries/us/us_Animals.txt
+dictionaries/us/us_Brands.txt
+dictionaries/us/us_Celebrities.txt
+dictionaries/us/us_Destinations.txt
+dictionaries/us/us_Groceries.txt
+dictionaries/us/us_Names.txt
+dictionaries/us/us_Objects.txt
+dictionaries/us/us_Random_free.txt
