@@ -1,0 +1,95 @@
+name: Validate dictionaries from the PR comment
+
+# An admin ticking "Validate" in the automatic PR comment adds the dictionary to
+# .github/validated_dictionaries.txt on main, then re-runs the PR validations.
+on:
+  issue_comment:
+    types: [edited]
+
+jobs:
+  validate:
+    name: Validate ticked dictionaries
+    runs-on: ubuntu-latest
+    if: >-
+      github.event.issue.pull_request &&
+      github.event.comment.user.login == 'github-actions[bot]' &&
+      startsWith(github.event.comment.body, '<!-- vrtx-pr-report -->')
+    permissions:
+      actions: write
+      contents: write
+      pull-requests: read
+    steps:
+      - name: Check the admin permission
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SENDER: ${{ github.event.sender.login }}
+        run: |
+          PERMISSION=$(gh api "repos/${{ github.repository }}/collaborators/${SENDER}/permission" --jq .permission || echo none)
+          if [[ "$PERMISSION" != "admin" ]]; then
+            echo "❌ Only repo admins can validate dictionaries (${SENDER} is: ${PERMISSION})."
+            exit 1
+          fi
+
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Add ticked dictionaries to the validated list
+        id: validate
+        env:
+          COMMENT_BODY: ${{ github.event.comment.body }}
+          PREVIOUS_BODY: ${{ github.event.changes.body.from }}
+          SENDER: ${{ github.event.sender.login }}
+        run: |
+          LIST=.github/validated_dictionaries.txt
+          ADDED=()
+          ticked() {
+            printf '%s\n' "$1" | sed -nE 's/^- \[[xX]\] .*<!-- validate:(.+) -->$/\1/p' | LC_ALL=C sort -u
+          }
+          # Only the boxes this edit ticked, so a box already ticked when the
+          # admin edited the comment is never validated along the way
+          while IFS= read -r path; do
+            # Only plain dictionary paths, the same ones the comment offers
+            if [[ ! "$path" =~ ^dictionaries/[^/[:space:]\<\>\`]+/[^/[:space:]\<\>\`]+\.txt$ || "$path" == *_wip.txt ]]; then
+              echo "⚠️ Ignoring unexpected path: $path"
+              continue
+            fi
+            if ! grep -qxF "$path" "$LIST"; then
+              echo "$path" >> "$LIST"
+              ADDED+=("$path")
+            fi
+          done < <(LC_ALL=C comm -13 <(ticked "$PREVIOUS_BODY") <(ticked "$COMMENT_BODY"))
+
+          if [[ ${#ADDED[@]} -eq 0 ]]; then
+            echo "Nothing new to validate."
+            echo "added=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          # Keep the header comments, then the dictionaries sorted
+          { grep '^#' "$LIST"; grep -v '^#' "$LIST" | LC_ALL=C sort -u; } > "$RUNNER_TEMP/list" && mv "$RUNNER_TEMP/list" "$LIST"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$LIST"
+          git commit -m "Validate ${ADDED[*]}" -m "Validated by @${SENDER} from #${{ github.event.issue.number }}."
+          git push origin main
+          echo "added=true" >> $GITHUB_OUTPUT
+
+      - name: Re-run the PR validations
+        if: steps.validate.outputs.added == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          HEAD_REPO=$(gh api "repos/$REPO/pulls/$PR_NUMBER" --jq .head.repo.full_name)
+          HEAD_REF=$(gh api "repos/$REPO/pulls/$PR_NUMBER" --jq .head.ref)
+          RUN_ID=$(gh api "repos/$REPO/actions/workflows/onPullRequest.yml/runs?event=pull_request_target&branch=$HEAD_REF&per_page=20" \
+            --jq "[.workflow_runs[] | select(.head_repository.full_name == \"$HEAD_REPO\")][0].id")
+          if [[ -z "$RUN_ID" || "$RUN_ID" == "null" ]]; then
+            echo "::warning::Couldn't find the PR validations run: re-run it manually."
+          elif ! gh api --method POST "repos/$REPO/actions/runs/$RUN_ID/rerun" > /dev/null; then
+            echo "::warning::Couldn't re-run the PR validations (still running?): re-run them manually."
+          fi

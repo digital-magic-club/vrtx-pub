@@ -16,6 +16,8 @@ import sys
 import tempfile
 
 MARKER = "<!-- vrtx-pr-report -->"
+VALIDATE_MARKER = "<!-- validate:{path} -->"
+SAFE_PATH = re.compile(r"dictionaries/[^/\s<>`]+/[^/\s<>`]+\.txt")
 
 CHECKS = {
     "autofix": "Fix simple dictionary issues",
@@ -112,10 +114,9 @@ def celebration(going_live):
 
 def main(scripts_dir):
     needs = json.loads(os.environ.get("NEEDS", "{}"))
-    validated_list = file_at("pr", ".github/validated_dictionaries.txt") or b""
-    validated = set(validated_list.decode().splitlines())
+    # Main's list only: the PR's own copy isn't trusted
     main_list = file_at("HEAD", ".github/validated_dictionaries.txt") or b""
-    validated_on_main = set(main_list.decode().splitlines())
+    validated = validated_on_main = set(main_list.decode().splitlines())
 
     lines = [
         MARKER,
@@ -147,6 +148,7 @@ def main(scripts_dir):
     to_production = []
     staying_wip = []
     going_live = []
+    to_validate = []
     for old_path, new_path in changes:
         after_couples, after_words = scan(scripts_dir, os.path.basename(new_path), file_at("pr", new_path))
         before_couples, before_words = (None, None)
@@ -167,6 +169,11 @@ def main(scripts_dir):
             if old_path is None or old_path.endswith("_wip.txt"):
                 going_live.append((new_path, old_path is None))
 
+        production_path = new_path.removesuffix("_wip.txt") + ".txt" if new_path.endswith("_wip.txt") else new_path
+        # File names come from the PR: no checkbox for ones that could fake another line or marker
+        if production_path not in validated and SAFE_PATH.fullmatch(production_path):
+            to_validate.append(production_path)
+
         status = f"{dictionary_status(old_path, validated_on_main)} → **{dictionary_status(new_path, validated)}**"
         lines.append(f"| {name} | {status} | "
                      f"{evolution(before_couples, len(after_couples))} | {evolution(before_words, after_words)} |")
@@ -184,6 +191,14 @@ def main(scripts_dir):
 
     if details:
         lines += ["", "<details>", "<summary>Still missing once merged</summary>", "", *details, "", "</details>"]
+
+    if to_validate:
+        lines += ["", "### 🛡️ Admin validation", "",
+                  "Repo admins can tick a dictionary to add it to `.github/validated_dictionaries.txt`: "
+                  "it then goes to production once merged, whatever its missing couples.", ""]
+        for path in to_validate:
+            # The marker tells the validation workflow which dictionary the box is about
+            lines.append(f"- [ ] Validate `{path.removeprefix('dictionaries/')}` {VALIDATE_MARKER.format(path=path)}")
 
     if going_live:
         # Right after the automatic message line, so it's the first thing people see
